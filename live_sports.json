@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:29:40 PM 28-03-2026"
+        "last_update_time": "07:46:11 PM 28-03-2026"
     },
     "live_matches": [
         {
@@ -63,6 +63,32 @@
             }
         },
         {
+            "match_id": 1386472,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "harrogate-town-vs-notts-county-1386472",
+            "title": "Harrogate Town vs Notts County",
+            "status": "LIVE",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Harrogate Town",
+                "away_name": "Notts County",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774701000,
+                "start_time_local": "28 Mar 2026, 06:30 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=5038fffb4fbeaab31d5f51fff195d5a0c775dd4a&x-sign=e2f00318709ab8b101f7e7048551951b&x-time=1774705500",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
             "match_id": 1629487383,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -115,31 +141,8 @@
             }
         }
     ],
-    "total_upcoming_matches": 41,
+    "total_upcoming_matches": 40,
     "upcoming_matches": [
-        {
-            "match_id": 1629487382,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "UAE WARRIORS 69",
-            "slug": "uae-warriors-69-1629487382",
-            "status": "NS",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774706400,
-                "start_time_local": "28 Mar 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1386473,
             "sport_name": "Football",
@@ -344,6 +347,29 @@
             "timing": {
                 "start_time_timestamp": 1774719000,
                 "start_time_local": "28 Mar 2026, 11:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487394,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Saracens vs Northampton Saints",
+            "slug": "saracens-vs-northampton-saints-1629487394",
+            "status": "NS",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saracens",
+                "away_name": "Northampton Saints",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/logos/1629487394.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774720800,
+                "start_time_local": "29 Mar 2026, 12:00 AM",
                 "countdown_seconds": null
             }
         }
