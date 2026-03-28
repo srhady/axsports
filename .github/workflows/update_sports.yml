@@ -3,7 +3,7 @@ name: 🚀 Live Sports Auto Updater
 on:
   schedule:
     # প্রতি ১৫ মিনিট পরপর রান করবে
-    - cron: '*/15 * * * *'
+    
   workflow_dispatch: # ম্যানুয়ালি রান করার বাটন
 
 jobs:
