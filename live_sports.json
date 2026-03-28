@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:45:37 AM 29-03-2026"
+        "last_update_time": "05:00:36 AM 29-03-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629487396,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "wow-fc-28-1629487396",
-            "title": "WOW FC 28",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774728000,
-                "start_time_local": "29 Mar 2026, 02:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=8053b05f9a0b76b0116df8811b64b7488b199c6e&x-sign=ddb748a342f42bf974df0f82c3097469&x-time=1774737900",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629487398,
             "sport_name": "MMA",
@@ -54,7 +28,7 @@
                 "start_time_local": "29 Mar 2026, 03:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=8053b05f9a0b76b0116df8811b64b7488b199c6e&x-sign=ddb748a342f42bf974df0f82c3097469&x-time=1774737900",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=d75c24ce9d23b3352d373abff62bfcc9d827f74e&x-sign=aaa855cf821b5fbf3bb8419b3c592bd1&x-time=1774738800",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,12 +54,12 @@
                 "start_time_local": "29 Mar 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=8053b05f9a0b76b0116df8811b64b7488b199c6e&x-sign=c6a91e92ddae32a4b284433f27656263&x-time=1774737900",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=d75c24ce9d23b3352d373abff62bfcc9d827f74e&x-sign=7d579a39bd1f58edf709fca6568510d1&x-time=1774738800",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 34,
+    "total_upcoming_matches": 35,
     "upcoming_matches": [
         {
             "match_id": 1629487400,
@@ -203,44 +177,21 @@
             }
         },
         {
-            "match_id": 1629487409,
+            "match_id": 1629487410,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Melbourne City vs Nasaf",
-            "slug": "melbourne-city-vs-nasaf-1629487409",
+            "title": "Melbourne vs Carlton",
+            "slug": "melbourne-vs-carlton-1629487410",
             "status": "NS",
             "league": {
-                "league_name": "AFC Women's Champions League",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
-                "away_name": "Nasaf",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774756800,
-                "start_time_local": "29 Mar 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487402,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Orix Buffaloes vs Tohoku Rakuten Golden Eagles",
-            "slug": "orix-buffaloes-vs-tohoku-rakuten-golden-eagles-1629487402",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774756800,
@@ -272,20 +223,43 @@
             }
         },
         {
-            "match_id": 1629487410,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Melbourne vs Carlton",
-            "slug": "melbourne-vs-carlton-1629487410",
+            "match_id": 1629487402,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Tohoku Rakuten Golden Eagles",
+            "slug": "orix-buffaloes-vs-tohoku-rakuten-golden-eagles-1629487402",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774756800,
+                "start_time_local": "29 Mar 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487409,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Melbourne City vs Nasaf",
+            "slug": "melbourne-city-vs-nasaf-1629487409",
+            "status": "NS",
+            "league": {
+                "league_name": "AFC Women's Champions League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
-                "away_name": "Unknown",
+                "away_name": "Nasaf",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -318,21 +292,21 @@
             }
         },
         {
-            "match_id": 1629487411,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Saitama Seibu Lions",
-            "slug": "chiba-lotte-marines-vs-saitama-seibu-lions-1629487411",
+            "match_id": 1484576,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Central Coast Mariners W vs Canberra United W",
+            "slug": "central-coast-mariners-w-vs-canberra-united-w-1484576",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "A-League Women",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Central Coast Mariners W",
+                "away_name": "Canberra United W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20Mariners%20W%20VS%20Canberra%20United%20W%20%20A-League%20Women.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
@@ -387,21 +361,21 @@
             }
         },
         {
-            "match_id": 1484576,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Central Coast Mariners W vs Canberra United W",
-            "slug": "central-coast-mariners-w-vs-canberra-united-w-1484576",
+            "match_id": 1629487411,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Saitama Seibu Lions",
+            "slug": "chiba-lotte-marines-vs-saitama-seibu-lions-1629487411",
             "status": "NS",
             "league": {
-                "league_name": "A-League Women",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Central Coast Mariners W",
-                "away_name": "Canberra United W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20Mariners%20W%20VS%20Canberra%20United%20W%20%20A-League%20Women.jpg"
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
@@ -640,29 +614,6 @@
             }
         },
         {
-            "match_id": 1417309,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Leicester City WFC vs Brighton W",
-            "slug": "leicester-city-wfc-vs-brighton-w-1417309",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Leicester City WFC",
-                "away_name": "Brighton W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20City%20WFC%20VS%20Brighton%20W%20%20FA%20WSL.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774792800,
-                "start_time_local": "29 Mar 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487421,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -678,6 +629,29 @@
                 "home_name": "Sale Sharks",
                 "away_name": "Bath Rugby",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sale%20Sharks%20VS%20Bath%20Rugby%20%20PREM%20Rugby.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774792800,
+                "start_time_local": "29 Mar 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417309,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Leicester City WFC vs Brighton W",
+            "slug": "leicester-city-wfc-vs-brighton-w-1417309",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Leicester City WFC",
+                "away_name": "Brighton W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20City%20WFC%20VS%20Brighton%20W%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774792800,
@@ -732,6 +706,29 @@
             }
         },
         {
+            "match_id": 1537368,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lesotho vs Seychelles",
+            "slug": "lesotho-vs-seychelles-1537368",
+            "status": "NS",
+            "league": {
+                "league_name": "Africa Cup of Nations - Qualification",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lesotho",
+                "away_name": "Seychelles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lesotho%20VS%20Seychelles%20%20Africa%20Cup%20of%20Nations%20-%20Qualification.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774796400,
+                "start_time_local": "29 Mar 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629487425,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -770,29 +767,6 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774796400,
-                "start_time_local": "29 Mar 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1537368,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lesotho vs Seychelles",
-            "slug": "lesotho-vs-seychelles-1537368",
-            "status": "NS",
-            "league": {
-                "league_name": "Africa Cup of Nations - Qualification",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lesotho",
-                "away_name": "Seychelles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lesotho%20VS%20Seychelles%20%20Africa%20Cup%20of%20Nations%20-%20Qualification.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774796400,
@@ -866,6 +840,29 @@
             "timing": {
                 "start_time_timestamp": 1774801800,
                 "start_time_local": "29 Mar 2026, 10:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1514465,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Colombia vs France",
+            "slug": "colombia-vs-france-1514465",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Colombia",
+                "away_name": "France",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774810800,
+                "start_time_local": "30 Mar 2026, 01:00 AM",
                 "countdown_seconds": null
             }
         }
