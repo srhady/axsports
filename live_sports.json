@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:04:09 PM 28-03-2026"
+        "last_update_time": "07:00:38 PM 28-03-2026"
     },
     "live_matches": [
         {
@@ -31,49 +31,17 @@
             "stream": {
                 "quality": "HD",
                 "is_vip": false,
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=02aba02c58dcfb8a64d99482390acced5fb94b9f&x-sign=bf89de6d585d11da8a4b1011311e0819&x-time=1774699440",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=5b29d109fcb65a3f31c578b823a62cddbfffd656&x-sign=fa5bf1d8ea2dd6e8d731df0d7d28c71d&x-time=1774702800",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
-        {
-            "match_id": 1417308,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Everton W vs Liverpool W",
-            "slug": "everton-w-vs-liverpool-w-1417308",
-            "status": "LIVE",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Everton W",
-                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1855.png",
-                "away_name": "Liverpool W",
-                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1847.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774699200,
-                "start_time_local": "28 Mar 2026, 06:00 PM"
-            },
-            "stream": {
-                "quality": "HD",
-                "is_vip": false,
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=02aba02c58dcfb8a64d99482390acced5fb94b9f&x-sign=bbe102246636dbfdbc60b80abcfc1d5a&x-time=1774699440",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
         {
             "match_id": 1386472,
             "sport_name": "Football",
             "sport_id": 1,
             "title": "Harrogate Town vs Notts County",
             "slug": "harrogate-town-vs-notts-county-1386472",
-            "status": "NS",
+            "status": "LIVE",
             "league": {
                 "league_name": "League Two",
                 "league_logo": ""
@@ -87,10 +55,18 @@
             },
             "timing": {
                 "start_time_timestamp": 1774701000,
-                "start_time_local": "28 Mar 2026, 06:30 PM",
-                "countdown_seconds": null
+                "start_time_local": "28 Mar 2026, 06:30 PM"
+            },
+            "stream": {
+                "quality": "HD",
+                "is_vip": false,
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=5b29d109fcb65a3f31c578b823a62cddbfffd656&x-sign=239f6cb995dc3902341ae464ccc3d0a3&x-time=1774702800",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1629487383,
             "sport_name": "Rugby",
@@ -132,30 +108,6 @@
                 "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1860.png",
                 "away_name": "Nürnberg",
                 "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/20487.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774702800,
-                "start_time_local": "28 Mar 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487382,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "UAE WARRIORS 69",
-            "slug": "uae-warriors-69-1629487382",
-            "status": "NS",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "home_logo": "",
-                "away_name": "Unknown",
-                "away_logo": ""
             },
             "timing": {
                 "start_time_timestamp": 1774702800,
@@ -212,6 +164,30 @@
             }
         },
         {
+            "match_id": 1629487382,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "UAE WARRIORS 69",
+            "slug": "uae-warriors-69-1629487382",
+            "status": "NS",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "home_logo": "",
+                "away_name": "Unknown",
+                "away_logo": ""
+            },
+            "timing": {
+                "start_time_timestamp": 1774706400,
+                "start_time_local": "28 Mar 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1386473,
             "sport_name": "Football",
             "sport_id": 1,
@@ -236,30 +212,6 @@
             }
         },
         {
-            "match_id": 1387580,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Stockport County vs AFC Wimbledon",
-            "slug": "stockport-county-vs-afc-wimbledon-1387580",
-            "status": "NS",
-            "league": {
-                "league_name": "League One",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Stockport County",
-                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/4686.png",
-                "away_name": "AFC Wimbledon",
-                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1333.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774710000,
-                "start_time_local": "28 Mar 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1386464,
             "sport_name": "Football",
             "sport_id": 1,
@@ -276,6 +228,30 @@
                 "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1369.png",
                 "away_name": "Cambridge United",
                 "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1370.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774710000,
+                "start_time_local": "28 Mar 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387580,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Stockport County vs AFC Wimbledon",
+            "slug": "stockport-county-vs-afc-wimbledon-1387580",
+            "status": "NS",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Stockport County",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/4686.png",
+                "away_name": "AFC Wimbledon",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1333.png"
             },
             "timing": {
                 "start_time_timestamp": 1774710000,
@@ -332,30 +308,6 @@
             }
         },
         {
-            "match_id": 1514071,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Hungary vs Slovenia",
-            "slug": "hungary-vs-slovenia-1514071",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hungary",
-                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/769.png",
-                "away_name": "Slovenia",
-                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1091.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774717200,
-                "start_time_local": "28 Mar 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1511777,
             "sport_name": "Football",
             "sport_id": 1,
@@ -380,26 +332,26 @@
             }
         },
         {
-            "match_id": 1417306,
+            "match_id": 1514071,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Arsenal W vs Tottenham Hotspur W",
-            "slug": "arsenal-w-vs-tottenham-hotspur-w-1417306",
+            "title": "Hungary vs Slovenia",
+            "slug": "hungary-vs-slovenia-1514071",
             "status": "NS",
             "league": {
-                "league_name": "FA WSL",
+                "league_name": "Friendlies",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Arsenal W",
-                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1850.png",
-                "away_name": "Tottenham Hotspur W",
-                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/4899.png"
+                "home_name": "Hungary",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/769.png",
+                "away_name": "Slovenia",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1091.png"
             },
             "timing": {
-                "start_time_timestamp": 1774719000,
-                "start_time_local": "28 Mar 2026, 11:30 PM",
+                "start_time_timestamp": 1774717200,
+                "start_time_local": "28 Mar 2026, 11:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -420,6 +372,30 @@
                 "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/535.png",
                 "away_name": "Leganes",
                 "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/537.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774719000,
+                "start_time_local": "28 Mar 2026, 11:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417306,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arsenal W vs Tottenham Hotspur W",
+            "slug": "arsenal-w-vs-tottenham-hotspur-w-1417306",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arsenal W",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1850.png",
+                "away_name": "Tottenham Hotspur W",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/4899.png"
             },
             "timing": {
                 "start_time_timestamp": 1774719000,
