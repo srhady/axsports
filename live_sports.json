@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:29 AM 29-03-2026"
+        "last_update_time": "02:45:30 AM 29-03-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "29 Mar 2026, 02:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=ff510867dbbe9eee60a430496c6a869507f45f5b&x-sign=d7c4c025722d6c76d6e2e1427004c12e&x-time=1774729800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=229e258a97791f5239132f409556cee53de87df2&x-sign=b7fa9ead86921574f7a9c02ab763ccdb&x-time=1774730700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "29 Mar 2026, 02:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=ff510867dbbe9eee60a430496c6a869507f45f5b&x-sign=03202a2877666fc673e2d0e3bf9e92c6&x-time=1774729800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=229e258a97791f5239132f409556cee53de87df2&x-sign=67ce6a502b38c8a0f9a82a64ab251c06&x-time=1774730700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487398,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "PRELIMS",
             "slug": "prelims-1629487398",
-            "status": "NS",
+            "title": "PRELIMS",
+            "status": "LIVE",
             "league": {
                 "league_name": "UFC FIGHT NIGHT",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1774731600,
-                "start_time_local": "29 Mar 2026, 03:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "29 Mar 2026, 03:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=229e258a97791f5239132f409556cee53de87df2&x-sign=67ce6a502b38c8a0f9a82a64ab251c06&x-time=1774730700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629487397,
             "sport_name": "Tennis",
