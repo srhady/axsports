@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:17:15 PM 28-03-2026"
+        "last_update_time": "07:29:40 PM 28-03-2026"
     },
     "live_matches": [
         {
@@ -37,32 +37,54 @@
             }
         },
         {
-            "match_id": 1386472,
+            "match_id": 1417308,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Harrogate Town vs Notts County",
-            "slug": "harrogate-town-vs-notts-county-1386472",
+            "slug": "everton-w-vs-liverpool-w-1417308",
+            "title": "Everton W vs Liverpool W",
             "status": "LIVE",
             "league": {
-                "league_name": "League Two",
+                "league_name": "FA WSL",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Harrogate Town",
-                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1842.png",
-                "away_name": "Notts County",
-                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1376.png",
+                "home_name": "Everton W",
+                "away_name": "Liverpool W",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1774701000,
-                "start_time_local": "28 Mar 2026, 06:30 PM"
+                "start_time_timestamp": 1774699200,
+                "start_time_local": "28 Mar 2026, 06:00 PM"
             },
             "stream": {
-                "quality": "HD",
-                "is_vip": false,
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=5b29d109fcb65a3f31c578b823a62cddbfffd656&x-sign=239f6cb995dc3902341ae464ccc3d0a3&x-time=1774702800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=5cb3fc279ad578e98c83a0ec8128f57422a51968&x-sign=fc8ae95e5689230dcd154c08c209d914&x-time=1774704540",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629487383,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "slug": "gloucester-rugby-vs-leicester-tigers-1629487383",
+            "title": "Gloucester Rugby vs Leicester Tigers",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gloucester Rugby",
+                "away_name": "Leicester Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/logos/1629487383.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774702800,
+                "start_time_local": "28 Mar 2026, 07:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=5cb3fc279ad578e98c83a0ec8128f57422a51968&x-sign=fe0b86bdbe4cf4781836269258577412&x-time=1774704540",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -88,59 +110,13 @@
                 "start_time_local": "28 Mar 2026, 07:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=46e8db0b45f41c66ee30207343c2fc00195cae5b&x-sign=3349c13e029ec9b441ba08dd3219b0e4&x-time=1774703820",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=5cb3fc279ad578e98c83a0ec8128f57422a51968&x-sign=2e37fcfffb8649cbd4ece01ee524f057&x-time=1774704540",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 43,
+    "total_upcoming_matches": 41,
     "upcoming_matches": [
-        {
-            "match_id": 1629487384,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Stade Toulousain vs Montpellier",
-            "slug": "stade-toulousain-vs-montpellier-1629487384",
-            "status": "NS",
-            "league": {
-                "league_name": "Top 14",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774704600,
-                "start_time_local": "28 Mar 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1417305,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Manchester United W vs Manchester City W",
-            "slug": "manchester-united-w-vs-manchester-city-w-1417305",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Manchester United W",
-                "away_name": "Manchester City W",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1774704600,
-                "start_time_local": "28 Mar 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629487382,
             "sport_name": "MMA",
@@ -322,6 +298,52 @@
             "timing": {
                 "start_time_timestamp": 1774717200,
                 "start_time_local": "28 Mar 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1392108,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Malaga vs Leganes",
+            "slug": "malaga-vs-leganes-1392108",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Malaga",
+                "away_name": "Leganes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774719000,
+                "start_time_local": "28 Mar 2026, 11:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417306,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arsenal W vs Tottenham Hotspur W",
+            "slug": "arsenal-w-vs-tottenham-hotspur-w-1417306",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arsenal W",
+                "away_name": "Tottenham Hotspur W",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774719000,
+                "start_time_local": "28 Mar 2026, 11:30 PM",
                 "countdown_seconds": null
             }
         }
