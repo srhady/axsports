@@ -3,25 +3,35 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:47:42 PM 28-03-2026"
+        "last_update_time": "05:01:37 PM 28-03-2026"
     },
     "live_matches": [
         {
             "match_id": 1629487898,
-            "sport_name": "Unknown Sport (30)",
+            "sport_name": "Billiards",
             "sport_id": 30,
-            "slug": "billiards-1629487898",
             "title": "Billiards",
+            "slug": "billiards-1629487898",
             "status": "LIVE",
-            "league_name": "Billiards",
+            "league": {
+                "league_name": "Billiards",
+                "league_logo": ""
+            },
+            "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
                 "home_logo": "",
                 "away_name": "Unknown",
                 "away_logo": ""
             },
+            "timing": {
+                "start_time_timestamp": 1774692008,
+                "start_time_local": "28 Mar 2026, 04:00 PM"
+            },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=56322baf219b522b482b0ed692aca0e8f8bb6106&x-sign=65d604d611c372ae060eff8e602a9742&x-time=1774694820",
+                "quality": "HD",
+                "is_vip": false,
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=5bddaee1b8cf434fa0d9abfbc704d0cd76246761&x-sign=b016a36563183b8d911b639a3a07c552&x-time=1774695660",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
@@ -32,10 +42,13 @@
             "match_id": 1629487899,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "namibia-vs-comoros-1629487899",
             "title": "namibia vs comoros",
+            "slug": "namibia-vs-comoros-1629487899",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Namibia",
@@ -45,6 +58,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774699200,
+                "start_time_local": "28 Mar 2026, 06:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -52,10 +66,13 @@
             "match_id": 1417308,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "everton-w-vs-liverpool-w-1417308",
             "title": "Everton W vs Liverpool W",
+            "slug": "everton-w-vs-liverpool-w-1417308",
             "status": "NS",
-            "league_name": "FA WSL",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Everton W",
@@ -65,6 +82,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774699200,
+                "start_time_local": "28 Mar 2026, 06:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -72,10 +90,13 @@
             "match_id": 1386472,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "harrogate-town-vs-notts-county-1386472",
             "title": "Harrogate Town vs Notts County",
+            "slug": "harrogate-town-vs-notts-county-1386472",
             "status": "NS",
-            "league_name": "League Two",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Harrogate Town",
@@ -85,17 +106,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774701000,
+                "start_time_local": "28 Mar 2026, 06:30 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487382,
-            "sport_name": "Unknown Sport (17)",
+            "sport_name": "MMA",
             "sport_id": 17,
-            "slug": "uae-warriors-69-1629487382",
             "title": "UAE WARRIORS 69",
+            "slug": "uae-warriors-69-1629487382",
             "status": "NS",
-            "league_name": "MMA",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -105,6 +130,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774702800,
+                "start_time_local": "28 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -112,10 +138,13 @@
             "match_id": 1401356,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "bayern-munich-w-vs-nurnberg-1401356",
             "title": "Bayern Munich W vs Nürnberg",
+            "slug": "bayern-munich-w-vs-nurnberg-1401356",
             "status": "NS",
-            "league_name": "Frauen Bundesliga",
+            "league": {
+                "league_name": "Frauen Bundesliga",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Bayern Munich W",
@@ -125,17 +154,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774702800,
+                "start_time_local": "28 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487383,
-            "sport_name": "Unknown Sport (18)",
+            "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "gloucester-rugby-vs-leicester-tigers-1629487383",
             "title": "Gloucester Rugby vs Leicester Tigers",
+            "slug": "gloucester-rugby-vs-leicester-tigers-1629487383",
             "status": "NS",
-            "league_name": "PREM Rugby",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Gloucester Rugby",
@@ -145,17 +178,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774702800,
+                "start_time_local": "28 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487384,
-            "sport_name": "Unknown Sport (18)",
+            "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "stade-toulousain-vs-montpellier-1629487384",
             "title": "Stade Toulousain vs Montpellier",
+            "slug": "stade-toulousain-vs-montpellier-1629487384",
             "status": "NS",
-            "league_name": "Top 14",
+            "league": {
+                "league_name": "Top 14",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -165,6 +202,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774704600,
+                "start_time_local": "28 Mar 2026, 07:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -172,10 +210,13 @@
             "match_id": 1417305,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "manchester-united-w-vs-manchester-city-w-1417305",
             "title": "Manchester United W vs Manchester City W",
+            "slug": "manchester-united-w-vs-manchester-city-w-1417305",
             "status": "NS",
-            "league_name": "FA WSL",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Manchester United W",
@@ -185,6 +226,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774704600,
+                "start_time_local": "28 Mar 2026, 07:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -192,10 +234,13 @@
             "match_id": 1386473,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "salford-city-vs-milton-keynes-dons-1386473",
             "title": "Salford City vs Milton Keynes Dons",
+            "slug": "salford-city-vs-milton-keynes-dons-1386473",
             "status": "NS",
-            "league_name": "League Two",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Salford City",
@@ -205,6 +250,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774710000,
+                "start_time_local": "28 Mar 2026, 09:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -212,10 +258,13 @@
             "match_id": 1387580,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "stockport-county-vs-afc-wimbledon-1387580",
             "title": "Stockport County vs AFC Wimbledon",
+            "slug": "stockport-county-vs-afc-wimbledon-1387580",
             "status": "NS",
-            "league_name": "League One",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Stockport County",
@@ -225,6 +274,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774710000,
+                "start_time_local": "28 Mar 2026, 09:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -232,10 +282,13 @@
             "match_id": 1386464,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "barnet-vs-cambridge-united-1386464",
             "title": "Barnet vs Cambridge United",
+            "slug": "barnet-vs-cambridge-united-1386464",
             "status": "NS",
-            "league_name": "League Two",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Barnet",
@@ -245,17 +298,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774710000,
+                "start_time_local": "28 Mar 2026, 09:00 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487385,
-            "sport_name": "Unknown Sport (18)",
+            "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "section-paloise-vs-racing-92-1629487385",
             "title": "Section Paloise vs Racing 92",
+            "slug": "section-paloise-vs-racing-92-1629487385",
             "status": "NS",
-            "league_name": "Top 14",
+            "league": {
+                "league_name": "Top 14",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Section Paloise",
@@ -265,17 +322,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774711800,
+                "start_time_local": "28 Mar 2026, 09:30 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487389,
-            "sport_name": "Unknown Sport (18)",
+            "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "bristol-bears-vs-harlequins-1629487389",
             "title": "Bristol Bears vs Harlequins",
+            "slug": "bristol-bears-vs-harlequins-1629487389",
             "status": "NS",
-            "league_name": "PREM Rugby",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Bristol Bears",
@@ -285,6 +346,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774711800,
+                "start_time_local": "28 Mar 2026, 09:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -292,10 +354,13 @@
             "match_id": 1514071,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "hungary-vs-slovenia-1514071",
             "title": "Hungary vs Slovenia",
+            "slug": "hungary-vs-slovenia-1514071",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Hungary",
@@ -305,6 +370,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774717200,
+                "start_time_local": "28 Mar 2026, 11:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -312,10 +378,13 @@
             "match_id": 1511777,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "scotland-vs-japan-1511777",
             "title": "Scotland vs Japan",
+            "slug": "scotland-vs-japan-1511777",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Scotland",
@@ -325,6 +394,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774717200,
+                "start_time_local": "28 Mar 2026, 11:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -332,10 +402,13 @@
             "match_id": 1417306,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "arsenal-w-vs-tottenham-hotspur-w-1417306",
             "title": "Arsenal W vs Tottenham Hotspur W",
+            "slug": "arsenal-w-vs-tottenham-hotspur-w-1417306",
             "status": "NS",
-            "league_name": "FA WSL",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Arsenal W",
@@ -345,6 +418,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774719000,
+                "start_time_local": "28 Mar 2026, 11:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -352,10 +426,13 @@
             "match_id": 1392108,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "malaga-vs-leganes-1392108",
             "title": "Malaga vs Leganes",
+            "slug": "malaga-vs-leganes-1392108",
             "status": "NS",
-            "league_name": "Segunda División",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Malaga",
@@ -365,17 +442,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774719000,
+                "start_time_local": "28 Mar 2026, 11:30 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487394,
-            "sport_name": "Unknown Sport (18)",
+            "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "saracens-vs-northampton-saints-1629487394",
             "title": "Saracens vs Northampton Saints",
+            "slug": "saracens-vs-northampton-saints-1629487394",
             "status": "NS",
-            "league_name": "PREM Rugby",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Saracens",
@@ -385,17 +466,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774720800,
+                "start_time_local": "29 Mar 2026, 12:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487393,
-            "sport_name": "Unknown Sport (17)",
+            "sport_name": "MMA",
             "sport_id": 17,
-            "slug": "wow-fc-28-prelims-1629487393",
             "title": "WOW FC 28: PRELIMS",
+            "slug": "wow-fc-28-prelims-1629487393",
             "status": "NS",
-            "league_name": "MMA",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -405,6 +490,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774720800,
+                "start_time_local": "29 Mar 2026, 12:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -412,10 +498,13 @@
             "match_id": 1503003,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "usa-vs-belgium-1503003",
             "title": "USA vs Belgium",
+            "slug": "usa-vs-belgium-1503003",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "USA",
@@ -425,6 +514,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774726200,
+                "start_time_local": "29 Mar 2026, 01:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -432,10 +522,13 @@
             "match_id": 1392115,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "sporting-gijon-vs-deportivo-la-coruna-1392115",
             "title": "Sporting Gijon vs Deportivo La Coruna",
+            "slug": "sporting-gijon-vs-deportivo-la-coruna-1392115",
             "status": "NS",
-            "league_name": "Segunda División",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Sporting Gijon",
@@ -445,17 +538,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774728000,
+                "start_time_local": "29 Mar 2026, 02:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487396,
-            "sport_name": "Unknown Sport (17)",
+            "sport_name": "MMA",
             "sport_id": 17,
-            "slug": "wow-fc-28-1629487396",
             "title": "WOW FC 28",
+            "slug": "wow-fc-28-1629487396",
             "status": "NS",
-            "league_name": "MMA",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -465,17 +562,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774728000,
+                "start_time_local": "29 Mar 2026, 02:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487397,
-            "sport_name": "Basketball",
+            "sport_name": "Tennis",
             "sport_id": 2,
-            "slug": "morelia-open-day-6-1629487397",
             "title": "Morelia Open: Day 6",
+            "slug": "morelia-open-day-6-1629487397",
             "status": "NS",
-            "league_name": "Unknown League",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -485,17 +586,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774729800,
+                "start_time_local": "29 Mar 2026, 02:30 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487398,
-            "sport_name": "Unknown Sport (17)",
+            "sport_name": "MMA",
             "sport_id": 17,
-            "slug": "prelims-1629487398",
             "title": "PRELIMS",
+            "slug": "prelims-1629487398",
             "status": "NS",
-            "league_name": "UFC FIGHT NIGHT",
+            "league": {
+                "league_name": "UFC FIGHT NIGHT",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -505,17 +610,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774731600,
+                "start_time_local": "29 Mar 2026, 03:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487400,
-            "sport_name": "Unknown Sport (17)",
+            "sport_name": "MMA",
             "sport_id": 17,
-            "slug": "adesanya-vs-pyfer-1629487400",
             "title": "ADESANYA vs PYFER",
+            "slug": "adesanya-vs-pyfer-1629487400",
             "status": "NS",
-            "league_name": "UFC FIGHT NIGHT",
+            "league": {
+                "league_name": "UFC FIGHT NIGHT",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -525,6 +634,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774742400,
+                "start_time_local": "29 Mar 2026, 06:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -532,10 +642,13 @@
             "match_id": 1514464,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "mexico-vs-portugal-1514464",
             "title": "Mexico vs Portugal",
+            "slug": "mexico-vs-portugal-1514464",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Mexico",
@@ -545,17 +658,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774746000,
+                "start_time_local": "29 Mar 2026, 07:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487823,
-            "sport_name": "Basketball",
+            "sport_name": "Tennis",
             "sport_id": 2,
-            "slug": "day-7-1629487823",
             "title": "Day 7",
+            "slug": "day-7-1629487823",
             "status": "NS",
-            "league_name": "Naples Open",
+            "league": {
+                "league_name": "Naples Open",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -565,6 +682,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774749600,
+                "start_time_local": "29 Mar 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -572,10 +690,13 @@
             "match_id": 1484575,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "wellington-phoenix-w-vs-western-sydney-wanderers-w-1484575",
             "title": "Wellington Phoenix W vs Western Sydney Wanderers W",
+            "slug": "wellington-phoenix-w-vs-western-sydney-wanderers-w-1484575",
             "status": "NS",
-            "league_name": "A-League Women",
+            "league": {
+                "league_name": "A-League Women",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Wellington Phoenix W",
@@ -585,17 +706,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774753200,
+                "start_time_local": "29 Mar 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487482,
-            "sport_name": "Motorsport",
+            "sport_name": "Auto Racing",
             "sport_id": 15,
-            "slug": "japanese-grand-prix-2026-1629487482",
             "title": "JAPANESE GRAND PRIX 2026",
+            "slug": "japanese-grand-prix-2026-1629487482",
             "status": "NS",
-            "league_name": "Formula 1",
+            "league": {
+                "league_name": "Formula 1",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -605,17 +730,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774755000,
+                "start_time_local": "29 Mar 2026, 09:30 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487402,
-            "sport_name": "Unknown Sport (12)",
+            "sport_name": "Baseball",
             "sport_id": 12,
-            "slug": "orix-buffaloes-vs-tohoku-rakuten-golden-eagles-1629487402",
             "title": "Orix Buffaloes vs Tohoku Rakuten Golden Eagles",
+            "slug": "orix-buffaloes-vs-tohoku-rakuten-golden-eagles-1629487402",
             "status": "NS",
-            "league_name": "NPB",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "ORIX Buffaloes",
@@ -625,6 +754,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774756800,
+                "start_time_local": "29 Mar 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -632,10 +762,13 @@
             "match_id": 1629487409,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "melbourne-city-vs-nasaf-1629487409",
             "title": "Melbourne City vs Nasaf",
+            "slug": "melbourne-city-vs-nasaf-1629487409",
             "status": "NS",
-            "league_name": "AFC Women's Champions League",
+            "league": {
+                "league_name": "AFC Women's Champions League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -645,17 +778,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774756800,
+                "start_time_local": "29 Mar 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487403,
-            "sport_name": "Unknown Sport (12)",
+            "sport_name": "Baseball",
             "sport_id": 12,
-            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629487403",
             "title": "Fukuoka SoftBank Hawks vs Hokkaido Nippon-Ham Fighters",
+            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629487403",
             "status": "NS",
-            "league_name": "NPB",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Fukuoka SoftBank Hawks",
@@ -665,6 +802,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774756800,
+                "start_time_local": "29 Mar 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -672,10 +810,13 @@
             "match_id": 1629487410,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "melbourne-vs-carlton-1629487410",
             "title": "Melbourne vs Carlton",
+            "slug": "melbourne-vs-carlton-1629487410",
             "status": "NS",
-            "league_name": "Unknown League",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -685,17 +826,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774756800,
+                "start_time_local": "29 Mar 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487481,
-            "sport_name": "Motorsport",
+            "sport_name": "Auto Racing",
             "sport_id": 15,
-            "slug": "japanese-grand-prix-2026-1629487481",
             "title": "JAPANESE GRAND PRIX 2026",
+            "slug": "japanese-grand-prix-2026-1629487481",
             "status": "NS",
-            "league_name": "Formula 1 Main Race",
+            "league": {
+                "league_name": "Formula 1 Main Race",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -705,17 +850,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774760100,
+                "start_time_local": "29 Mar 2026, 10:55 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487411,
-            "sport_name": "Unknown Sport (12)",
+            "sport_name": "Baseball",
             "sport_id": 12,
-            "slug": "chiba-lotte-marines-vs-saitama-seibu-lions-1629487411",
             "title": "Chiba Lotte Marines vs Saitama Seibu Lions",
+            "slug": "chiba-lotte-marines-vs-saitama-seibu-lions-1629487411",
             "status": "NS",
-            "league_name": "NPB",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Chiba Lotte Marines",
@@ -725,17 +874,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
+                "start_time_local": "29 Mar 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487413,
-            "sport_name": "Unknown Sport (12)",
+            "sport_name": "Baseball",
             "sport_id": 12,
-            "slug": "yomiuri-giants-vs-hanshin-tigers-1629487413",
             "title": "Yomiuri Giants vs Hanshin Tigers",
+            "slug": "yomiuri-giants-vs-hanshin-tigers-1629487413",
             "status": "NS",
-            "league_name": "NPB",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Yomiuri Giants",
@@ -745,17 +898,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
+                "start_time_local": "29 Mar 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487412,
-            "sport_name": "Unknown Sport (12)",
+            "sport_name": "Baseball",
             "sport_id": 12,
-            "slug": "yokohama-dena-baystars-vs-tokyo-yakult-swallows-1629487412",
             "title": "Yokohama DeNA BayStars vs Tokyo Yakult Swallows",
+            "slug": "yokohama-dena-baystars-vs-tokyo-yakult-swallows-1629487412",
             "status": "NS",
-            "league_name": "NPB",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "YOKOHAMA DeNA BAYSTARS",
@@ -765,6 +922,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
+                "start_time_local": "29 Mar 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -772,10 +930,13 @@
             "match_id": 1484576,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "central-coast-mariners-w-vs-canberra-united-w-1484576",
             "title": "Central Coast Mariners W vs Canberra United W",
+            "slug": "central-coast-mariners-w-vs-canberra-united-w-1484576",
             "status": "NS",
-            "league_name": "A-League Women",
+            "league": {
+                "league_name": "A-League Women",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Central Coast Mariners W",
@@ -785,6 +946,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774760400,
+                "start_time_local": "29 Mar 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -792,10 +954,13 @@
             "match_id": 1417307,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "chelsea-w-vs-aston-villa-w-1417307",
             "title": "Chelsea W vs Aston Villa W",
+            "slug": "chelsea-w-vs-aston-villa-w-1417307",
             "status": "NS",
-            "league_name": "FA WSL",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Chelsea W",
@@ -805,6 +970,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774782000,
+                "start_time_local": "29 Mar 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -812,10 +978,13 @@
             "match_id": 1629487416,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "wuhan-jiangda-w-vs-suwon-city-fc-1629487416",
             "title": "Wuhan Jiangda W vs Suwon City FC",
+            "slug": "wuhan-jiangda-w-vs-suwon-city-fc-1629487416",
             "status": "NS",
-            "league_name": "AFC Women's Champions League",
+            "league": {
+                "league_name": "AFC Women's Champions League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Wuhan Jiangda W",
@@ -825,6 +994,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774782000,
+                "start_time_local": "29 Mar 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -832,10 +1002,13 @@
             "match_id": 1417304,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "west-ham-w-vs-london-city-lionesses-1417304",
             "title": "West Ham W vs London City Lionesses",
+            "slug": "west-ham-w-vs-london-city-lionesses-1417304",
             "status": "NS",
-            "league_name": "FA WSL",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "West Ham W",
@@ -845,17 +1018,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774782000,
+                "start_time_local": "29 Mar 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487417,
-            "sport_name": "Motorsport",
+            "sport_name": "Auto Racing",
             "sport_id": 15,
-            "slug": "race-day-part-1-switzerland-1629487417",
             "title": "Race Day Part 1: Switzerland",
+            "slug": "race-day-part-1-switzerland-1629487417",
             "status": "NS",
-            "league_name": "MXGP",
+            "league": {
+                "league_name": "MXGP",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -865,6 +1042,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774785600,
+                "start_time_local": "29 Mar 2026, 06:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -872,10 +1050,13 @@
             "match_id": 1392107,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "eibar-vs-las-palmas-1392107",
             "title": "Eibar vs Las Palmas",
+            "slug": "eibar-vs-las-palmas-1392107",
             "status": "NS",
-            "league_name": "Segunda División",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Eibar",
@@ -885,17 +1066,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1774785600,
+                "start_time_local": "29 Mar 2026, 06:00 PM",
                 "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487420,
-            "sport_name": "Basketball",
+            "sport_name": "Tennis",
             "sport_id": 2,
-            "slug": "naples-atp-singles-final-1629487420",
             "title": "Naples-ATP Singles Final",
+            "slug": "naples-atp-singles-final-1629487420",
             "status": "NS",
-            "league_name": "Unknown League",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
@@ -905,6 +1090,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774789200,
+                "start_time_local": "29 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -912,10 +1098,13 @@
             "match_id": 1629487419,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "inter-milano-w-vs-roma-w-1629487419",
             "title": "Inter Milano W vs Roma W",
+            "slug": "inter-milano-w-vs-roma-w-1629487419",
             "status": "NS",
-            "league_name": "Unknown League",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Inter Milano W",
@@ -925,6 +1114,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774789200,
+                "start_time_local": "29 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -932,10 +1122,13 @@
             "match_id": 1502472,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "lithuania-vs-georgia-1502472",
             "title": "Lithuania vs Georgia",
+            "slug": "lithuania-vs-georgia-1502472",
             "status": "NS",
-            "league_name": "Friendlies",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "Lithuania",
@@ -945,6 +1138,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774789200,
+                "start_time_local": "29 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -952,10 +1146,13 @@
             "match_id": 1537369,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "south-sudan-vs-djibouti-1537369",
             "title": "South Sudan vs Djibouti",
+            "slug": "south-sudan-vs-djibouti-1537369",
             "status": "NS",
-            "league_name": "Africa Cup of Nations - Qualification",
+            "league": {
+                "league_name": "Africa Cup of Nations - Qualification",
+                "league_logo": ""
+            },
             "venue": "TBA",
             "teams": {
                 "home_name": "South Sudan",
@@ -965,6 +1162,7 @@
             },
             "timing": {
                 "start_time_timestamp": 1774789200,
+                "start_time_local": "29 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         }
