@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # ১. পাবলিক রিপোজিটরি (যেখানে JSON ও M3U থাকবে) চেকআউট করা
+      # ১. পাবলিক রিপোজিটরি (যেখানে JSON, M3U ও Logos থাকবে) চেকআউট করা
       - name: Checkout Public Repository
         uses: actions/checkout@v3
 
-      # ২. প্রাইভেট রিপোজিটরি (srhady/Sports) চেকআউট করা (লুকানো স্ক্রিপ্টের জন্য)
+      # ২. আপনার নতুন প্রাইভেট রিপোজিটরি (srhady/axsportspvt) চেকআউট করা
       - name: Checkout Private Scripts
         uses: actions/checkout@v3
         with:
-          repository: srhady/Sports
+          repository: srhady/axsportspvt
           token: ${{ secrets.PAT_TOKEN }}
-          path: private_scripts # এই ফোল্ডারের ভেতর কোডটা আসবে
+          path: private_scripts # এই ফোল্ডারের ভেতর প্রাইভেট কোডটা আসবে
 
       # ৩. পাইথন সেটআপ করা
       - name: Set up Python
@@ -29,22 +29,26 @@ jobs:
         with:
           python-version: '3.10'
 
-      # ৪. প্রয়োজনীয় প্যাকেজ ইন্সটল করা
+      # ৪. প্রয়োজনীয় প্যাকেজ ইনস্টল করা (API কল এবং ছবি বানানোর জন্য)
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install requests Pillow
 
-      # ৫. আপনার মাস্টার স্ক্রিপ্ট রান করা
+      # ৫. প্রাইভেট রিপো থেকে মাস্টার স্ক্রিপ্ট রান করা
       - name: Execute Master Script
         run: |
           python private_scripts/axsports.py
 
-      # ৬. তৈরি হওয়া ফাইলগুলো পাবলিক রিপোতে পুশ করা
-      - name: Commit and Push Playlists
+      # ৬. তৈরি হওয়া ফাইল এবং লোগোগুলো পাবলিক রিপোতে পুশ করা
+      - name: Commit and Push Playlists & Logos
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add live_sports.json playlist.m3u
-          git commit -m "Auto Update: Live Sports Playlists [skip ci]" || echo "No changes to commit"
+          
+          # নতুন তৈরি হওয়া logos ফোল্ডার এবং প্লেলিস্ট ফাইলগুলো গিটহাবে অ্যাড করা
+          git add logos/ live_sports.json playlist.m3u
+          
+          # [skip ci] ব্যবহার করা হয়েছে যাতে Vercel অকারণে ডেপ্লয় না হয়
+          git commit -m "Auto Update: Playlists & Logos [skip ci]" || echo "No changes to commit"
           git push
