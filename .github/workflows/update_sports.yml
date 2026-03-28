@@ -1,0 +1,50 @@
+name: 🚀 Live Sports Auto Updater
+
+on:
+  schedule:
+    # প্রতি ১৫ মিনিট পরপর রান করবে
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # ম্যানুয়ালি রান করার বাটন
+
+jobs:
+  update-playlists:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ১. পাবলিক রিপোজিটরি (যেখানে JSON ও M3U থাকবে) চেকআউট করা
+      - name: Checkout Public Repository
+        uses: actions/checkout@v3
+
+      # ২. প্রাইভেট রিপোজিটরি (srhady/Sports) চেকআউট করা (লুকানো স্ক্রিপ্টের জন্য)
+      - name: Checkout Private Scripts
+        uses: actions/checkout@v3
+        with:
+          repository: srhady/Sports
+          token: ${{ secrets.PAT_TOKEN }}
+          path: private_scripts # এই ফোল্ডারের ভেতর কোডটা আসবে
+
+      # ৩. পাইথন সেটআপ করা
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # ৪. প্রয়োজনীয় প্যাকেজ ইন্সটল করা
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # ৫. আপনার মাস্টার স্ক্রিপ্ট রান করা
+      - name: Execute Master Script
+        run: |
+          python private_scripts/axsports.py
+
+      # ৬. তৈরি হওয়া ফাইলগুলো পাবলিক রিপোতে পুশ করা
+      - name: Commit and Push Playlists
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add live_sports.json playlist.m3u
+          git commit -m "Auto Update: Live Sports Playlists [skip ci]" || echo "No changes to commit"
+          git push
