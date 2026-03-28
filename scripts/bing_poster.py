@@ -13,14 +13,12 @@ except ImportError:
 # কনফিগারেশন
 # ==========================================
 BING_JSON_URL = "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.json"
-OUTPUT_DIR = "bing_posters" # এই ফোল্ডারে সব পোস্টার সেভ হবে
+OUTPUT_DIR = "bing_posters" 
 DEFAULT_CUSTOM_LOGO = "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
 MAX_IMAGE_SIZE_KB = 100
 # ==========================================
 
-# ফাইলের নাম থেকে অবৈধ ক্যারেক্টার মুছে ফেলার ফাংশন
 def sanitize_filename(name):
-    # উইন্ডোজ বা লিনাক্সে যেসব ক্যারেক্টার দিয়ে ফাইল সেভ করা যায় না, সেগুলো মুছে দেবে
     clean_name = re.sub(r'[\\/*?:"<>|]', "", name)
     return clean_name.strip()
 
@@ -39,17 +37,14 @@ def create_match_poster(match_name, home_logo_url, away_logo_url):
     if not PILLOW_INSTALLED:
         return
 
-    # ম্যাচের নাম দিয়ে ফাইলের নাম তৈরি (যেমন: "Salford City VS Milton Keynes Dons.jpg")
     safe_name = sanitize_filename(match_name)
     final_filename = f"{safe_name}.jpg"
     local_path = os.path.join(OUTPUT_DIR, final_filename)
     
-    # আগে থেকেই এই ম্যাচের পোস্টার বানানো থাকলে স্কিপ করবে
     if os.path.exists(local_path) and os.path.getsize(local_path) > 1000:
         print(f"    [=] Poster already exists for: {match_name}")
         return
 
-    # যদি কোনো একটা লোগো মিসিং থাকে, তাহলে ডিফল্ট লোগো সেভ করবে
     if not home_logo_url or not away_logo_url or ".svg" in home_logo_url.lower() or ".svg" in away_logo_url.lower():
         print(f"    [-] Missing/SVG logo for '{match_name}'. Using custom default poster.")
         download_and_save_default(local_path)
@@ -110,19 +105,24 @@ def main():
     try:
         print(f"📥 Fetching JSON from {BING_JSON_URL}...")
         res = requests.get(BING_JSON_URL, timeout=15)
-        matches = res.json()
+        data = res.json()
         
-        # যদি ডেটা লিস্ট না হয়ে ডিকশনারি হয়, তাহলে ভ্যালুগুলো নেবে
-        if isinstance(matches, dict):
-            matches = list(matches.values())
+        # 💥 দ্য ম্যাজিক ফিক্স: "channels" এর ভেতর থেকে আসল ম্যাচগুলো বের করা!
+        matches = []
+        if isinstance(data, dict):
+            if "channels" in data:
+                matches = data["channels"]
+            else:
+                matches = list(data.values())
+        elif isinstance(data, list):
+            matches = data
             
-        print(f"📊 Found {len(matches)} total matches (Live & Upcoming). Starting processing...\n")
+        print(f"📊 Found {len(matches)} total matches in 'channels'. Starting processing...\n")
         
         for index, match in enumerate(matches):
             if not isinstance(match, dict):
                 continue
                 
-            # ম্যাচের নাম তৈরি (যদি Match Title না থাকে, তাহলে Team 1 vs Team 2)
             team1 = match.get("Team 1 Name", "Unknown")
             team2 = match.get("Team 2 Name", "Unknown")
             match_title = match.get("Match Title")
@@ -133,7 +133,6 @@ def main():
             logo1 = match.get("Team 1 Logo", "")
             logo2 = match.get("Team 2 Logo", "")
             
-            # ফাংশন কল করা
             create_match_poster(match_title, logo1, logo2)
             
         print("\n🎉 All posters generated successfully!")
