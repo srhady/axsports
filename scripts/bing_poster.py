@@ -9,9 +9,6 @@ except ImportError:
     PILLOW_INSTALLED = False
     print("[!] ERROR: 'Pillow' library is not installed. Run 'pip install Pillow'")
 
-# ==========================================
-# কনফিগারেশন
-# ==========================================
 BING_JSON_URL = "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.json"
 OUTPUT_DIR = "bing_posters" 
 DEFAULT_CUSTOM_LOGO = "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
@@ -91,7 +88,7 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
         print(f"    [!] Error processing '{match_name}': {e}. Using default.")
         download_and_save_default(local_path)
 
-# 💥 দ্য অটো-ডিলিট ফাংশন (পুরোনো ছবি মুছে ফেলার জন্য)
+
 def clean_old_posters(active_filenames):
     print("\n[*] STEP 3: Cleaning up old posters...")
     if not os.path.exists(OUTPUT_DIR): return
@@ -100,7 +97,7 @@ def clean_old_posters(active_filenames):
     deleted_count = 0
     
     for file in files_in_dir:
-        # শুধু .jpg ফাইল চেক করবে এবং যেটা বর্তমান লিস্টে নেই সেটা ডিলিট করবে
+        
         if file.endswith('.jpg') and file not in active_filenames:
             try:
                 os.remove(os.path.join(OUTPUT_DIR, file))
@@ -132,7 +129,7 @@ def main():
             
         print(f"📊 Found {len(matches)} total matches in 'channels'. Starting processing...\n")
         
-        active_poster_filenames = [] # 💥 বর্তমানে যে ছবিগুলো লাগবে তার লিস্ট
+        active_poster_filenames = [] 
         
         for index, match in enumerate(matches):
             if not isinstance(match, dict):
@@ -148,7 +145,7 @@ def main():
             logo1 = match.get("Team 1 Logo", "")
             logo2 = match.get("Team 2 Logo", "")
             
-            # ফাইলের নাম তৈরি এবং লিস্টে অ্যাড করা
+           
             safe_name = sanitize_filename(match_title)
             final_filename = f"{safe_name}.jpg"
             local_path = os.path.join(OUTPUT_DIR, final_filename)
@@ -156,7 +153,7 @@ def main():
             
             create_match_poster(match_title, logo1, logo2, local_path)
             
-        # 💥 সব ম্যাচ প্রসেস হওয়ার পর পুরোনো ছবি ক্লিন করা
+        
         clean_old_posters(active_poster_filenames)
             
         print("\n🎉 All posters generated and cleaned up successfully!")
