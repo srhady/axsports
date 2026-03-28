@@ -33,14 +33,10 @@ def download_and_save_default(save_path):
         pass
     return False
 
-def create_match_poster(match_name, home_logo_url, away_logo_url):
+def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
     if not PILLOW_INSTALLED:
         return
 
-    safe_name = sanitize_filename(match_name)
-    final_filename = f"{safe_name}.jpg"
-    local_path = os.path.join(OUTPUT_DIR, final_filename)
-    
     if os.path.exists(local_path) and os.path.getsize(local_path) > 1000:
         print(f"    [=] Poster already exists for: {match_name}")
         return
@@ -95,6 +91,24 @@ def create_match_poster(match_name, home_logo_url, away_logo_url):
         print(f"    [!] Error processing '{match_name}': {e}. Using default.")
         download_and_save_default(local_path)
 
+# 💥 দ্য অটো-ডিলিট ফাংশন (পুরোনো ছবি মুছে ফেলার জন্য)
+def clean_old_posters(active_filenames):
+    print("\n[*] STEP 3: Cleaning up old posters...")
+    if not os.path.exists(OUTPUT_DIR): return
+
+    files_in_dir = os.listdir(OUTPUT_DIR)
+    deleted_count = 0
+    
+    for file in files_in_dir:
+        # শুধু .jpg ফাইল চেক করবে এবং যেটা বর্তমান লিস্টে নেই সেটা ডিলিট করবে
+        if file.endswith('.jpg') and file not in active_filenames:
+            try:
+                os.remove(os.path.join(OUTPUT_DIR, file))
+                deleted_count += 1
+            except: pass
+            
+    print(f"   [+] Deleted {deleted_count} old posters to save repo space.")
+
 def main():
     print(f"🚀 Starting Bing Poster Generator...")
     
@@ -107,7 +121,6 @@ def main():
         res = requests.get(BING_JSON_URL, timeout=15)
         data = res.json()
         
-        # 💥 দ্য ম্যাজিক ফিক্স: "channels" এর ভেতর থেকে আসল ম্যাচগুলো বের করা!
         matches = []
         if isinstance(data, dict):
             if "channels" in data:
@@ -118,6 +131,8 @@ def main():
             matches = data
             
         print(f"📊 Found {len(matches)} total matches in 'channels'. Starting processing...\n")
+        
+        active_poster_filenames = [] # 💥 বর্তমানে যে ছবিগুলো লাগবে তার লিস্ট
         
         for index, match in enumerate(matches):
             if not isinstance(match, dict):
@@ -133,9 +148,18 @@ def main():
             logo1 = match.get("Team 1 Logo", "")
             logo2 = match.get("Team 2 Logo", "")
             
-            create_match_poster(match_title, logo1, logo2)
+            # ফাইলের নাম তৈরি এবং লিস্টে অ্যাড করা
+            safe_name = sanitize_filename(match_title)
+            final_filename = f"{safe_name}.jpg"
+            local_path = os.path.join(OUTPUT_DIR, final_filename)
+            active_poster_filenames.append(final_filename)
             
-        print("\n🎉 All posters generated successfully!")
+            create_match_poster(match_title, logo1, logo2, local_path)
+            
+        # 💥 সব ম্যাচ প্রসেস হওয়ার পর পুরোনো ছবি ক্লিন করা
+        clean_old_posters(active_poster_filenames)
+            
+        print("\n🎉 All posters generated and cleaned up successfully!")
         print(f"📂 Check the '{OUTPUT_DIR}' folder.")
 
     except Exception as e:
