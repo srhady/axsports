@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:38 AM 30-03-2026"
+        "last_update_time": "03:15:27 AM 30-03-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1514465,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "colombia-vs-france-1514465",
-            "title": "Colombia vs France",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Colombia",
-                "away_name": "France",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20France%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774810800,
-                "start_time_local": "30 Mar 2026, 01:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=5eff8dc9cde7f208c0bb158c05c684ad&x-time=1774818000",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629487429,
             "sport_name": "Rugby",
@@ -54,20 +28,17 @@
                 "start_time_local": "30 Mar 2026, 01:05 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=68365d68eb8c125197cadfa25e5fadeb&x-time=1774818000",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=95490f4601933bdd822233b9db72c128ded289e7&x-sign=3277eeace6649140d1ede98fc8ebd6a0&x-time=1774818900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487430,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "SUBMISSION HUNTER PRO 102",
             "slug": "submission-hunter-pro-102-1629487430",
-            "status": "NS",
+            "title": "SUBMISSION HUNTER PRO 102",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -80,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1774819800,
-                "start_time_local": "30 Mar 2026, 03:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "30 Mar 2026, 03:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=95490f4601933bdd822233b9db72c128ded289e7&x-sign=a7e35ac029e094b2616e5d5e2c7daf3c&x-time=1774818900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 39,
+    "upcoming_matches": [
         {
             "match_id": 1503682,
             "sport_name": "Football",
