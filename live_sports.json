@@ -3,9 +3,35 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:00:34 AM 30-03-2026"
+        "last_update_time": "02:15:29 AM 30-03-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1514465,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "colombia-vs-france-1514465",
+            "title": "Colombia vs France",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Colombia",
+                "away_name": "France",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20France%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774810800,
+                "start_time_local": "30 Mar 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=909365d82d57a962e5a4ea864982ce8afc3c8002&x-sign=7d8460720f2b0bc3e3839d5dab241e26&x-time=1774815300",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
         {
             "match_id": 1629487429,
             "sport_name": "Rugby",
@@ -28,7 +54,7 @@
                 "start_time_local": "30 Mar 2026, 01:05 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=f870140f675478943e225f190de9ca48ba1625ef&x-sign=cec9d20d1a95da11950bf2508da72898&x-time=1774814400",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=909365d82d57a962e5a4ea864982ce8afc3c8002&x-sign=107946a9e1e86fb49bc526e46f59a0f1&x-time=1774815300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
