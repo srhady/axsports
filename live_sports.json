@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:31 AM 30-03-2026"
+        "last_update_time": "12:45:36 AM 30-03-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629487427,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "slug": "cheshire-phoenix-vs-bristol-flyers-1629487427",
-            "title": "Cheshire Phoenix vs Bristol Flyers",
-            "status": "LIVE",
-            "league": {
-                "league_name": "SLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cheshire Phoenix",
-                "away_name": "Bristol Flyers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cheshire%20Phoenix%20VS%20Bristol%20Flyers%20%20SLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774801800,
-                "start_time_local": "29 Mar 2026, 10:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=52cf5e9c6da12f8f7878d1af871aa8e5187ba385&x-sign=78dd3529ed14b479b9f52a1e5d30764e&x-time=1774809000",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1392110,
             "sport_name": "Football",
@@ -54,20 +28,17 @@
                 "start_time_local": "29 Mar 2026, 10:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=52cf5e9c6da12f8f7878d1af871aa8e5187ba385&x-sign=05d4adb2417cb850bff6937947af783d&x-time=1774809000",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=bf3c80873a40131dfa0e91b719f7758acd4af3de&x-sign=a0d5067c59f35a09c733848154e82e1b&x-time=1774809900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1514465,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Colombia vs France",
             "slug": "colombia-vs-france-1514465",
-            "status": "NS",
+            "title": "Colombia vs France",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies",
                 "league_logo": ""
@@ -80,17 +51,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1774810800,
-                "start_time_local": "30 Mar 2026, 01:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "30 Mar 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=bf3c80873a40131dfa0e91b719f7758acd4af3de&x-sign=fa8a3e61b7fdd930868ea0911eb3dbcd&x-time=1774809900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1629487429,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Stade Français vs Clermont",
             "slug": "stade-francais-vs-clermont-1629487429",
-            "status": "NS",
+            "title": "Stade Français vs Clermont",
+            "status": "LIVE",
             "league": {
                 "league_name": "Top 14",
                 "league_logo": ""
@@ -103,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1774810800,
-                "start_time_local": "30 Mar 2026, 01:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "30 Mar 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=bf3c80873a40131dfa0e91b719f7758acd4af3de&x-sign=dfff6ae70f08e0e2645b66eda4fefcc3&x-time=1774809900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1629487430,
             "sport_name": "MMA",
@@ -292,6 +272,29 @@
             }
         },
         {
+            "match_id": 1401358,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hamburger SV W vs Bayer Leverkusen W",
+            "slug": "hamburger-sv-w-vs-bayer-leverkusen-w-1401358",
+            "status": "NS",
+            "league": {
+                "league_name": "Frauen Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hamburger SV W",
+                "away_name": "Bayer Leverkusen W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hamburger%20SV%20W%20VS%20Bayer%20Leverkusen%20W%20%20Frauen%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774886400,
+                "start_time_local": "30 Mar 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1507580,
             "sport_name": "Football",
             "sport_id": 1,
@@ -315,25 +318,25 @@
             }
         },
         {
-            "match_id": 1401358,
+            "match_id": 1501816,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Hamburger SV W vs Bayer Leverkusen W",
-            "slug": "hamburger-sv-w-vs-bayer-leverkusen-w-1401358",
+            "title": "Germany vs Ghana",
+            "slug": "germany-vs-ghana-1501816",
             "status": "NS",
             "league": {
-                "league_name": "Frauen Bundesliga",
+                "league_name": "Friendlies",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hamburger SV W",
-                "away_name": "Bayer Leverkusen W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hamburger%20SV%20W%20VS%20Bayer%20Leverkusen%20W%20%20Frauen%20Bundesliga.jpg"
+                "home_name": "Germany",
+                "away_name": "Ghana",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Ghana%20%20Friendlies.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1774886400,
-                "start_time_local": "30 Mar 2026, 10:00 PM",
+                "start_time_timestamp": 1774896300,
+                "start_time_local": "31 Mar 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         }
