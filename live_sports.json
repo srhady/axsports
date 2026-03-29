@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:35 PM 29-03-2026"
+        "last_update_time": "05:45:39 PM 29-03-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "29 Mar 2026, 05:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=e67f0731410d36de4f04acbe72cb1781fac71bac&x-sign=50e3200d440e7f4772c404ba4849d81d&x-time=1774783800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=92f496de02c5024fbe973671b167ca11&x-time=1774784700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,7 +54,33 @@
                 "start_time_local": "29 Mar 2026, 05:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=e67f0731410d36de4f04acbe72cb1781fac71bac&x-sign=16d5ffd418bbdd19047fe7e379e67294&x-time=1774783800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=a941173f56aa06411261677f6abaeb76&x-time=1774784700",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629487417,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "race-day-part-1-switzerland-1629487417",
+            "title": "Race Day Part 1: Switzerland",
+            "status": "LIVE",
+            "league": {
+                "league_name": "MXGP",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1774782000,
+                "start_time_local": "29 Mar 2026, 05:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=6cc75b1b9abec80400de5e2a45ddaef0&x-time=1774784700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,20 +106,17 @@
                 "start_time_local": "29 Mar 2026, 05:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=e67f0731410d36de4f04acbe72cb1781fac71bac&x-sign=37aadefc97addf41fdabb7922ccc3bc0&x-time=1774783800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=4849dc0db4e92e1808b94cbcc404917e&x-time=1774784700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1392107,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Eibar vs Las Palmas",
             "slug": "eibar-vs-las-palmas-1392107",
-            "status": "NS",
+            "title": "Eibar vs Las Palmas",
+            "status": "LIVE",
             "league": {
                 "league_name": "Segunda División",
                 "league_logo": ""
@@ -106,19 +129,25 @@
             },
             "timing": {
                 "start_time_timestamp": 1774785600,
-                "start_time_local": "29 Mar 2026, 06:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "29 Mar 2026, 06:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=9a52f4edd5563e289623ec3c136f1e42&x-time=1774784700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
-            "match_id": 1629487417,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Race Day Part 1: Switzerland",
-            "slug": "race-day-part-1-switzerland-1629487417",
+            "match_id": 1629487420,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Naples-ATP Singles Final",
+            "slug": "naples-atp-singles-final-1629487420",
             "status": "NS",
             "league": {
-                "league_name": "MXGP",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -128,8 +157,8 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1774785600,
-                "start_time_local": "29 Mar 2026, 06:00 PM",
+                "start_time_timestamp": 1774789200,
+                "start_time_local": "29 Mar 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -172,29 +201,6 @@
                 "home_name": "South Sudan",
                 "away_name": "Djibouti",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Sudan%20VS%20Djibouti%20%20Africa%20Cup%20of%20Nations%20-%20Qualification.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774789200,
-                "start_time_local": "29 Mar 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487420,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Naples-ATP Singles Final",
-            "slug": "naples-atp-singles-final-1629487420",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1774789200,
@@ -249,21 +255,21 @@
             }
         },
         {
-            "match_id": 1514832,
+            "match_id": 1401362,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Armenia vs Belarus",
-            "slug": "armenia-vs-belarus-1514832",
+            "title": "VfL Wolfsburg W vs Union Berlin W",
+            "slug": "vfl-wolfsburg-w-vs-union-berlin-w-1401362",
             "status": "NS",
             "league": {
-                "league_name": "Friendlies",
+                "league_name": "Frauen Bundesliga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Armenia",
-                "away_name": "Belarus",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Armenia%20VS%20Belarus%20%20Friendlies.jpg"
+                "home_name": "VfL Wolfsburg W",
+                "away_name": "Union Berlin W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20W%20VS%20Union%20Berlin%20W%20%20Frauen%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774792800,
@@ -295,29 +301,6 @@
             }
         },
         {
-            "match_id": 1401362,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "VfL Wolfsburg W vs Union Berlin W",
-            "slug": "vfl-wolfsburg-w-vs-union-berlin-w-1401362",
-            "status": "NS",
-            "league": {
-                "league_name": "Frauen Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "VfL Wolfsburg W",
-                "away_name": "Union Berlin W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20W%20VS%20Union%20Berlin%20W%20%20Frauen%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774792800,
-                "start_time_local": "29 Mar 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1417309,
             "sport_name": "Football",
             "sport_id": 1,
@@ -333,6 +316,29 @@
                 "home_name": "Leicester City WFC",
                 "away_name": "Brighton W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20City%20WFC%20VS%20Brighton%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1774792800,
+                "start_time_local": "29 Mar 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1514832,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Armenia vs Belarus",
+            "slug": "armenia-vs-belarus-1514832",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Armenia",
+                "away_name": "Belarus",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Armenia%20VS%20Belarus%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1774792800,
