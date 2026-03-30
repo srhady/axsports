@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:34 PM 30-03-2026"
+        "last_update_time": "09:45:44 PM 30-03-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "30 Mar 2026, 06:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=8f6337431d4e46c9c3e89a008456e59584422ccc&x-sign=6eac5720e9f2b6d86691b97ad2f241c1&x-time=1774884600",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=1af4217d31e27931dd0b7c5afcf2931b4f488bf2&x-sign=70f5f079ee3397bb584a9e5340f2a29c&x-time=1774885500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "30 Mar 2026, 08:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=8f6337431d4e46c9c3e89a008456e59584422ccc&x-sign=1449bbc56991888e4bc366307d049c1e&x-time=1774884600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=1af4217d31e27931dd0b7c5afcf2931b4f488bf2&x-sign=e4ad931cdcb9177bfc515379da384087&x-time=1774885500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1507580,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Cyprus vs Moldova",
             "slug": "cyprus-vs-moldova-1507580",
-            "status": "NS",
+            "title": "Cyprus vs Moldova",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies",
                 "league_logo": ""
@@ -80,17 +77,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1774886400,
-                "start_time_local": "30 Mar 2026, 10:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "30 Mar 2026, 10:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=1af4217d31e27931dd0b7c5afcf2931b4f488bf2&x-sign=ffbfde1940a537e479d4f7a310539b6b&x-time=1774885500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1401358,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Hamburger SV W vs Bayer Leverkusen W",
             "slug": "hamburger-sv-w-vs-bayer-leverkusen-w-1401358",
-            "status": "NS",
+            "title": "Hamburger SV W vs Bayer Leverkusen W",
+            "status": "LIVE",
             "league": {
                 "league_name": "Frauen Bundesliga",
                 "league_logo": ""
@@ -103,10 +103,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1774886400,
-                "start_time_local": "30 Mar 2026, 10:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "30 Mar 2026, 10:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=1af4217d31e27931dd0b7c5afcf2931b4f488bf2&x-sign=54adaae3dee953b83fe63857e45eb1a0&x-time=1774885500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1501816,
             "sport_name": "Football",
