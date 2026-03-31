@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:45 AM 01-04-2026"
+        "last_update_time": "05:15:44 AM 01-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "01 Apr 2026, 02:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=cee1d7bab3149350c1184b5f6be3fad680c18528&x-sign=1b0e61a801d503d778c56bc892334c9b&x-time=1774998000",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=b802ef7741ea86a0bacef2d82b7ba97ea4ae6cad&x-sign=2ae77e30228449bcde4a92384a7946f5&x-time=1774998900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,7 +54,7 @@
                 "start_time_local": "01 Apr 2026, 03:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=cee1d7bab3149350c1184b5f6be3fad680c18528&x-sign=75afea3d8125cbf591a402636debe1b0&x-time=1774998000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=b802ef7741ea86a0bacef2d82b7ba97ea4ae6cad&x-sign=7a31ae94da1b49f9b8c1e5ee28d4e915&x-time=1774998900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,20 +80,17 @@
                 "start_time_local": "01 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=cee1d7bab3149350c1184b5f6be3fad680c18528&x-sign=240088c40a2e51870fac2b49f24f79d0&x-time=1774998000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=b802ef7741ea86a0bacef2d82b7ba97ea4ae6cad&x-sign=f1f912e3c02a9f5ffd0d015a58d16b9d&x-time=1774998900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 21,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1536923,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Argentina vs Zambia",
             "slug": "argentina-vs-zambia-1536923",
-            "status": "NS",
+            "title": "Argentina vs Zambia",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies",
                 "league_logo": ""
@@ -106,17 +103,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1774999800,
-                "start_time_local": "01 Apr 2026, 05:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "01 Apr 2026, 05:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=b802ef7741ea86a0bacef2d82b7ba97ea4ae6cad&x-sign=ffe9725318bac003478cca49855fb36e&x-time=1774998900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1512765,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Canada vs Tunisia",
             "slug": "canada-vs-tunisia-1512765",
-            "status": "NS",
+            "title": "Canada vs Tunisia",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies",
                 "league_logo": ""
@@ -129,10 +129,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1774999800,
-                "start_time_local": "01 Apr 2026, 05:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "01 Apr 2026, 05:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=b802ef7741ea86a0bacef2d82b7ba97ea4ae6cad&x-sign=ae9972271361e64b728f1bdad547ca12&x-time=1774998900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 19,
+    "upcoming_matches": [
         {
             "match_id": 1501817,
             "sport_name": "Football",
@@ -180,29 +186,6 @@
             }
         },
         {
-            "match_id": 1629487507,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Fukuoka SoftBank Hawks",
-            "slug": "tokyo-yakult-swallows-vs-fukuoka-softbank-hawks-1629487507",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775014200,
-                "start_time_local": "01 Apr 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487508,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -226,6 +209,29 @@
             }
         },
         {
+            "match_id": 1629487507,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Fukuoka SoftBank Hawks",
+            "slug": "tokyo-yakult-swallows-vs-fukuoka-softbank-hawks-1629487507",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775014200,
+                "start_time_local": "01 Apr 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629487509,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -240,29 +246,6 @@
             "teams": {
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775016000,
-                "start_time_local": "01 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487510,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters",
-            "slug": "saitama-seibu-lions-vs-hokkaido-nippon-ham-fighters-1629487510",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -295,25 +278,25 @@
             }
         },
         {
-            "match_id": 1629487515,
+            "match_id": 1629487510,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
-            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487515",
+            "title": "Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters",
+            "slug": "saitama-seibu-lions-vs-hokkaido-nippon-ham-fighters-1629487510",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1775034000,
-                "start_time_local": "01 Apr 2026, 03:00 PM",
+                "start_time_timestamp": 1775016000,
+                "start_time_local": "01 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -332,6 +315,29 @@
             "teams": {
                 "home_name": "Tokyo Yakult Swallows",
                 "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775034000,
+                "start_time_local": "01 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487515,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
+            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487515",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
