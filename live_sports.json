@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:37 AM 01-04-2026"
+        "last_update_time": "07:15:28 AM 01-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1503004,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "usa-vs-portugal-1503004",
-            "title": "USA vs Portugal",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "USA",
-                "away_name": "Portugal",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20VS%20Portugal%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1774998000,
-                "start_time_local": "01 Apr 2026, 05:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=b4640dc19952391992982b17de712f5a5b8ed359&x-sign=774424e1a163eb7c83e67e9f58c3dda8&x-time=1775005200",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1536923,
             "sport_name": "Football",
@@ -54,7 +28,33 @@
                 "start_time_local": "01 Apr 2026, 05:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=b4640dc19952391992982b17de712f5a5b8ed359&x-sign=4605ce411d8c72f01a988ba71b092cca&x-time=1775005200",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=651cd3777718114970518afbde3b3946946acb36&x-sign=fb8d39cc9b64a83fa3f1448d0ff4ee12&x-time=1775006100",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1501817,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "brazil-vs-croatia-1501817",
+            "title": "Brazil vs Croatia",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brazil",
+                "away_name": "Croatia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil%20VS%20Croatia%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775001600,
+                "start_time_local": "01 Apr 2026, 06:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=651cd3777718114970518afbde3b3946946acb36&x-sign=c587b2988f2b166e7733c727bc061749&x-time=1775006100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
@@ -85,29 +85,6 @@
             }
         },
         {
-            "match_id": 1629487508,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Hanshin Tigers",
-            "slug": "chunichi-dragons-vs-hanshin-tigers-1629487508",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775014200,
-                "start_time_local": "01 Apr 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487507,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -123,6 +100,29 @@
                 "home_name": "Tokyo Yakult Swallows",
                 "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775014200,
+                "start_time_local": "01 Apr 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487508,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Hanshin Tigers",
+            "slug": "chunichi-dragons-vs-hanshin-tigers-1629487508",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775014200,
@@ -154,29 +154,6 @@
             }
         },
         {
-            "match_id": 1629487513,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Oisix Niigata vs Kufu Hayate",
-            "slug": "oisix-niigata-vs-kufu-hayate-1629487513",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775016000,
-                "start_time_local": "01 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487510,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -192,6 +169,29 @@
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775016000,
+                "start_time_local": "01 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487513,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Oisix Niigata vs Kufu Hayate",
+            "slug": "oisix-niigata-vs-kufu-hayate-1629487513",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775016000,
