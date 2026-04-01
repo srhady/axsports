@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:34 PM 01-04-2026"
+        "last_update_time": "10:45:36 PM 01-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "01 Apr 2026, 07:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=8f81684b9bcbe3c544d9bf09001d50553c54b5e6&x-sign=a9da2175a872d811e83682d69fb3fe6e&x-time=1775061000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=62378c6eb518ab0b625c6a91cac7b5bf185e9881&x-sign=01ac4000d6fee9a7220ea21ba79ba026&x-time=1775061900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "01 Apr 2026, 10:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=8f81684b9bcbe3c544d9bf09001d50553c54b5e6&x-sign=887370c633e4d5b1fb87cdff9f9eb985&x-time=1775061000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=62378c6eb518ab0b625c6a91cac7b5bf185e9881&x-sign=877d24d366b419d52316c9ed82386bc4&x-time=1775061900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 37,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487521,
             "sport_name": "Basketball",
             "sport_id": 3,
-            "title": "FC Bayern Munich Basketball vs Fenerbahce Beko Istanbul",
             "slug": "fc-bayern-munich-basketball-vs-fenerbahce-beko-istanbul-1629487521",
-            "status": "NS",
+            "title": "FC Bayern Munich Basketball vs Fenerbahce Beko Istanbul",
+            "status": "LIVE",
             "league": {
                 "league_name": "Euroleague",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775062800,
-                "start_time_local": "01 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "01 Apr 2026, 11:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=62378c6eb518ab0b625c6a91cac7b5bf185e9881&x-sign=a8bb73cb81c6dffd056584453fcb3751&x-time=1775061900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 36,
+    "upcoming_matches": [
         {
             "match_id": 1629487522,
             "sport_name": "Volleyball",
@@ -518,6 +521,29 @@
             "timing": {
                 "start_time_timestamp": 1775145600,
                 "start_time_local": "02 Apr 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1525454,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Barcelona W vs Real Madrid W",
+            "slug": "barcelona-w-vs-real-madrid-w-1525454",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Champions League Women",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Barcelona W",
+                "away_name": "Real Madrid W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20W%20VS%20Real%20Madrid%20W%20%20UEFA%20Champions%20League%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775148300,
+                "start_time_local": "02 Apr 2026, 10:45 PM",
                 "countdown_seconds": null
             }
         }
