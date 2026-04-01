@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:37 AM 02-04-2026"
+        "last_update_time": "12:45:40 AM 02-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "01 Apr 2026, 10:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=fc87ab62bcaef413e40f4138ff97df5b5ed0a47b&x-sign=e2915b82df4aad2b72a0a99fadb0e091&x-time=1775068200",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=525ea91fbaad3153ff86e7fddcf8fa799793e62a&x-sign=5ee04a6de47e9013d0c9fa967735724e&x-time=1775069100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,7 +54,7 @@
                 "start_time_local": "01 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=fc87ab62bcaef413e40f4138ff97df5b5ed0a47b&x-sign=d3eac6a20c08062b6120b25538b59618&x-time=1775068200",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=525ea91fbaad3153ff86e7fddcf8fa799793e62a&x-sign=bdd0f6835dd62d23d871b3e9095cc78d&x-time=1775069100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,20 +80,17 @@
                 "start_time_local": "02 Apr 2026, 12:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=fc87ab62bcaef413e40f4138ff97df5b5ed0a47b&x-sign=e98dde0a8e963c802ed7057476e38065&x-time=1775068200",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=525ea91fbaad3153ff86e7fddcf8fa799793e62a&x-sign=1dacb0a29037bc76bfa21189edfbe5e3&x-time=1775069100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 35,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1525453,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Chelsea W vs Arsenal W",
             "slug": "chelsea-w-vs-arsenal-w-1525453",
-            "status": "NS",
+            "title": "Chelsea W vs Arsenal W",
+            "status": "LIVE",
             "league": {
                 "league_name": "UEFA Champions League Women",
                 "league_logo": ""
@@ -106,10 +103,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775070000,
-                "start_time_local": "02 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "02 Apr 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=525ea91fbaad3153ff86e7fddcf8fa799793e62a&x-sign=5ee04a6de47e9013d0c9fa967735724e&x-time=1775069100",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1392120,
             "sport_name": "Football",
@@ -341,29 +344,6 @@
             }
         },
         {
-            "match_id": 1629487536,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
-            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487536",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775120400,
-                "start_time_local": "02 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487534,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -378,6 +358,29 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775120400,
+                "start_time_local": "02 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487536,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
+            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487536",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -525,52 +528,6 @@
             }
         },
         {
-            "match_id": 1392123,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Las Palmas vs Granada CF",
-            "slug": "las-palmas-vs-granada-cf-1392123",
-            "status": "NS",
-            "league": {
-                "league_name": "Segunda División",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Las Palmas",
-                "away_name": "Granada CF",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Palmas%20VS%20Granada%20CF%20%20Segunda%20Divisi%C3%B3n.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775149200,
-                "start_time_local": "02 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487555,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "title": "Hapoel Tel Aviv Basketball vs Panathinaikos Athens Basketball",
-            "slug": "hapoel-tel-aviv-basketball-vs-panathinaikos-athens-basketball-1629487555",
-            "status": "NS",
-            "league": {
-                "league_name": "Euroleague",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hapoel Tel Aviv Basketball",
-                "away_name": "Panathinaikos Athens Basketball",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hapoel%20Tel%20Aviv%20Basketball%20VS%20Panathinaikos%20Athens%20Basketball%20%20Euroleague.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775149200,
-                "start_time_local": "02 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487556,
             "sport_name": "Darts",
             "sport_id": 31,
@@ -609,6 +566,52 @@
                 "home_name": "Zalgiris Kaunas",
                 "away_name": "FC Barcelona Basketball",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zalgiris%20Kaunas%20VS%20FC%20Barcelona%20Basketball%20%20Euroleague.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775149200,
+                "start_time_local": "02 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1392123,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Las Palmas vs Granada CF",
+            "slug": "las-palmas-vs-granada-cf-1392123",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Las Palmas",
+                "away_name": "Granada CF",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Palmas%20VS%20Granada%20CF%20%20Segunda%20Divisi%C3%B3n.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775149200,
+                "start_time_local": "02 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487555,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Hapoel Tel Aviv Basketball vs Panathinaikos Athens Basketball",
+            "slug": "hapoel-tel-aviv-basketball-vs-panathinaikos-athens-basketball-1629487555",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hapoel Tel Aviv Basketball",
+                "away_name": "Panathinaikos Athens Basketball",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hapoel%20Tel%20Aviv%20Basketball%20VS%20Panathinaikos%20Athens%20Basketball%20%20Euroleague.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775149200,
