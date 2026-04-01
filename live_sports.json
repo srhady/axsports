@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:26 PM 01-04-2026"
+        "last_update_time": "01:30:36 PM 01-04-2026"
     },
     "live_matches": [
         {
@@ -28,36 +28,39 @@
                 "start_time_local": "01 Apr 2026, 10:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=f6571aacc954573021b3594c52a7602c6f11aece&x-sign=fe08f060cbfa85bd5919a358d95c33a9&x-time=1775027700",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=872d6af1279eb9b5a1f0c0839b65fa08045d5a72&x-sign=d1df332408a7ecf88f87646f5dd655a0&x-time=1775028600",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629488066,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "formula-1-1629488066",
+            "title": "FORMULA 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "F1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775027694,
+                "start_time_local": "01 Apr 2026, 01:14 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=872d6af1279eb9b5a1f0c0839b65fa08045d5a72&x-sign=1842601da9d7384a3478f0376c9bb821&x-time=1775028600",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
     "total_upcoming_matches": 32,
     "upcoming_matches": [
-        {
-            "match_id": 1629487515,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
-            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487515",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775034000,
-                "start_time_local": "01 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629487514,
             "sport_name": "Baseball",
@@ -74,6 +77,29 @@
                 "home_name": "Tokyo Yakult Swallows",
                 "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775034000,
+                "start_time_local": "01 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487515,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
+            "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629487515",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775034000,
@@ -335,29 +361,6 @@
             }
         },
         {
-            "match_id": 1629487525,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Fukuoka SoftBank Hawks",
-            "slug": "tokyo-yakult-swallows-vs-fukuoka-softbank-hawks-1629487525",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775100600,
-                "start_time_local": "02 Apr 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487526,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -381,25 +384,25 @@
             }
         },
         {
-            "match_id": 1629487527,
+            "match_id": 1629487525,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Fukuoka SoftBank Hawks",
-            "slug": "tohoku-rakuten-golden-eagles-vs-fukuoka-softbank-hawks-1629487527",
+            "title": "Tokyo Yakult Swallows vs Fukuoka SoftBank Hawks",
+            "slug": "tokyo-yakult-swallows-vs-fukuoka-softbank-hawks-1629487525",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Tokyo Yakult Swallows",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1775102400,
-                "start_time_local": "02 Apr 2026, 10:00 AM",
+                "start_time_timestamp": 1775100600,
+                "start_time_local": "02 Apr 2026, 09:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -419,6 +422,29 @@
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775102400,
+                "start_time_local": "02 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487527,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Fukuoka SoftBank Hawks",
+            "slug": "tohoku-rakuten-golden-eagles-vs-fukuoka-softbank-hawks-1629487527",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775102400,
