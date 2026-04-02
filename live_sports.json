@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:33 AM 02-04-2026"
+        "last_update_time": "07:45:27 AM 02-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "02 Apr 2026, 05:20 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=0f8ebf4d0054e2d90227bf854070ae5e0b5d31e0&x-sign=314ac2f1ce5f742044be09d6e677ad93&x-time=1775093400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=4aad8c66be20e5c466d4420e11336f62d8952d33&x-sign=04a516fc064a70152b9afe847ac52ce6&x-time=1775094300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487524,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "INKA MMA 55",
             "slug": "inka-mma-55-1629487524",
-            "status": "NS",
+            "title": "INKA MMA 55",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775095200,
-                "start_time_local": "02 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "02 Apr 2026, 08:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=4aad8c66be20e5c466d4420e11336f62d8952d33&x-sign=b9a4b9e989234d961bacfdc4797860f9&x-time=1775094300",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1629488069,
             "sport_name": "Billiards",
