@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:31 AM 04-04-2026"
+        "last_update_time": "04:45:29 AM 04-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "03 Apr 2026, 10:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68907_hd/index.m3u8?is_vip=false&token=48f543d8b1e6d40d56826f9358545e183d658421&x-sign=6ca574f2792dee2e369ab23efd9855dd&x-time=1775255400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68907_hd/index.m3u8?is_vip=false&token=277fb1ae78abd34bcebdba53a9e31806f2cf5add&x-sign=85880baf0f05e0381a05035233b1a182&x-time=1775256300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487830,
             "sport_name": "Boxing",
             "sport_id": 16,
-            "title": "Perez vs Montoya",
             "slug": "perez-vs-montoya-1629487830",
-            "status": "NS",
+            "title": "Perez vs Montoya",
+            "status": "LIVE",
             "league": {
                 "league_name": "Red Owl Boxing",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775257200,
-                "start_time_local": "04 Apr 2026, 05:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "04 Apr 2026, 05:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=277fb1ae78abd34bcebdba53a9e31806f2cf5add&x-sign=d3e6f8926c87d460af4bcaa506ecacff&x-time=1775256300",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629487831,
             "sport_name": "MMA",
