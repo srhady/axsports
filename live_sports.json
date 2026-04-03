@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:29 AM 04-04-2026"
+        "last_update_time": "05:45:37 AM 04-04-2026"
     },
     "live_matches": [
         {
@@ -28,43 +28,17 @@
                 "start_time_local": "03 Apr 2026, 10:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68907_hd/index.m3u8?is_vip=false&token=d25216ff55e4d79493a0918d239b6f9f822d265e&x-sign=3f2827d1e7538f2a5e369e86b6b2ad10&x-time=1775259000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68907_hd/index.m3u8?is_vip=false&token=129d019b0d56cf9c0f8ffa168450095ea32ccec2&x-sign=124d084afd37ae358a38236200cd70cb&x-time=1775259900",
                 "required_referer": "https://iframe.lucifershop.info/"
-            }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
-        {
-            "match_id": 1629487830,
-            "sport_name": "Boxing",
-            "sport_id": 16,
-            "title": "Perez vs Montoya",
-            "slug": "perez-vs-montoya-1629487830",
-            "status": "NS",
-            "league": {
-                "league_name": "Red Owl Boxing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775260800,
-                "start_time_local": "04 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
             }
         },
         {
             "match_id": 1629487831,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "CFFC BJJ 17",
             "slug": "cffc-bjj-17-1629487831",
-            "status": "NS",
+            "title": "CFFC BJJ 17",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -77,10 +51,42 @@
             },
             "timing": {
                 "start_time_timestamp": 1775260800,
-                "start_time_local": "04 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "04 Apr 2026, 06:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=129d019b0d56cf9c0f8ffa168450095ea32ccec2&x-sign=2e70481e9641cf1cad68fe1b6e4d2a12&x-time=1775259900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
+        {
+            "match_id": 1629487830,
+            "sport_name": "Boxing",
+            "sport_id": 16,
+            "slug": "perez-vs-montoya-1629487830",
+            "title": "Perez vs Montoya",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Red Owl Boxing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775260800,
+                "start_time_local": "04 Apr 2026, 06:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=129d019b0d56cf9c0f8ffa168450095ea32ccec2&x-sign=bdda34c3f7329e569446f94fef60bbc8&x-time=1775259900",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629487832,
             "sport_name": "Auto Racing",
@@ -856,6 +862,29 @@
                 "home_name": "SC Freiburg",
                 "away_name": "Bayern München",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Bayern%20M%C3%BCnchen%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775309400,
+                "start_time_local": "04 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388556,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1899 Hoffenheim vs FSV Mainz 05",
+            "slug": "1899-hoffenheim-vs-fsv-mainz-05-1388556",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1899 Hoffenheim",
+                "away_name": "FSV Mainz 05",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775309400,
