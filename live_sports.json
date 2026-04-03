@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:29 PM 03-04-2026"
+        "last_update_time": "07:30:33 PM 03-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629488188,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "central-court-1629488188",
-            "title": "Central Court",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Tiriac Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775215800,
-                "start_time_local": "03 Apr 2026, 05:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=78e85c5beb941180e70887e4f2618960720f4fd5&x-sign=f1edda8e9e709208cfc054b0a44971af&x-time=1775222100",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1387026,
             "sport_name": "Football",
@@ -54,13 +28,62 @@
                 "start_time_local": "03 Apr 2026, 05:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=78e85c5beb941180e70887e4f2618960720f4fd5&x-sign=876df4f01db1426245d97e056fac539c&x-time=1775222100",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=1bd7b60eac34f979dfdb19d0b642f1ceb67b3187&x-sign=049bf2a8263b407a51bd5a47e581d42d&x-time=1775223000",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629488188,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "central-court-1629488188",
+            "title": "Central Court",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Tiriac Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775215800,
+                "start_time_local": "03 Apr 2026, 05:30 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=1bd7b60eac34f979dfdb19d0b642f1ceb67b3187&x-sign=1fdaa1cb8ae9323ab19349c9e566e677&x-time=1775223000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
     "total_upcoming_matches": 45,
     "upcoming_matches": [
+        {
+            "match_id": 1387588,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lincoln vs AFC Wimbledon",
+            "slug": "lincoln-vs-afc-wimbledon-1387588",
+            "status": "NS",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lincoln",
+                "away_name": "AFC Wimbledon",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lincoln%20VS%20AFC%20Wimbledon%20%20League%20One.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775224800,
+                "start_time_local": "03 Apr 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1387027,
             "sport_name": "Football",
@@ -85,11 +108,11 @@
             }
         },
         {
-            "match_id": 1387021,
+            "match_id": 1387023,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sheffield Utd vs Swansea",
-            "slug": "sheffield-utd-vs-swansea-1387021",
+            "title": "Oxford United vs Hull City",
+            "slug": "oxford-united-vs-hull-city-1387023",
             "status": "NS",
             "league": {
                 "league_name": "Championship",
@@ -97,32 +120,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sheffield Utd",
-                "away_name": "Swansea",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sheffield%20Utd%20VS%20Swansea%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775224800,
-                "start_time_local": "03 Apr 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1387022,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Leicester vs Preston",
-            "slug": "leicester-vs-preston-1387022",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Leicester",
-                "away_name": "Preston",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20VS%20Preston%20%20Championship.jpg"
+                "home_name": "Oxford United",
+                "away_name": "Hull City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oxford%20United%20VS%20Hull%20City%20%20Championship.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775224800,
@@ -154,34 +154,11 @@
             }
         },
         {
-            "match_id": 1387588,
+            "match_id": 1387021,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Lincoln vs AFC Wimbledon",
-            "slug": "lincoln-vs-afc-wimbledon-1387588",
-            "status": "NS",
-            "league": {
-                "league_name": "League One",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lincoln",
-                "away_name": "AFC Wimbledon",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lincoln%20VS%20AFC%20Wimbledon%20%20League%20One.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775224800,
-                "start_time_local": "03 Apr 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1387023,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Oxford United vs Hull City",
-            "slug": "oxford-united-vs-hull-city-1387023",
+            "title": "Sheffield Utd vs Swansea",
+            "slug": "sheffield-utd-vs-swansea-1387021",
             "status": "NS",
             "league": {
                 "league_name": "Championship",
@@ -189,9 +166,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Oxford United",
-                "away_name": "Hull City",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oxford%20United%20VS%20Hull%20City%20%20Championship.jpg"
+                "home_name": "Sheffield Utd",
+                "away_name": "Swansea",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sheffield%20Utd%20VS%20Swansea%20%20Championship.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775224800,
@@ -269,29 +246,6 @@
             }
         },
         {
-            "match_id": 1396488,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Guimaraes vs Tondela",
-            "slug": "guimaraes-vs-tondela-1396488",
-            "status": "NS",
-            "league": {
-                "league_name": "Primeira Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Guimaraes",
-                "away_name": "Tondela",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guimaraes%20VS%20Tondela%20%20Primeira%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775235600,
-                "start_time_local": "03 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487825,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -307,6 +261,29 @@
                 "home_name": "Turk Telekom Ankara",
                 "away_name": "Cosea JL Bourg-en-Bresse",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Turk%20Telekom%20Ankara%20VS%20Cosea%20JL%20Bourg-en-Bresse%20%20EuroCup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775235600,
+                "start_time_local": "03 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1396488,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Guimaraes vs Tondela",
+            "slug": "guimaraes-vs-tondela-1396488",
+            "status": "NS",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Guimaraes",
+                "away_name": "Tondela",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guimaraes%20VS%20Tondela%20%20Primeira%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775235600,
@@ -384,29 +361,6 @@
             }
         },
         {
-            "match_id": 1629487829,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "title": "Sheffield Sharks vs Leicester Riders",
-            "slug": "sheffield-sharks-vs-leicester-riders-1629487829",
-            "status": "NS",
-            "league": {
-                "league_name": "SLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sheffield Sharks",
-                "away_name": "Leicester Riders",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775241000,
-                "start_time_local": "04 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487828,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -453,25 +407,25 @@
             }
         },
         {
-            "match_id": 1387948,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Paris Saint Germain vs Toulouse",
-            "slug": "paris-saint-germain-vs-toulouse-1387948",
+            "match_id": 1629487829,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Sheffield Sharks vs Leicester Riders",
+            "slug": "sheffield-sharks-vs-leicester-riders-1629487829",
             "status": "NS",
             "league": {
-                "league_name": "Ligue 1",
+                "league_name": "SLB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Paris Saint Germain",
-                "away_name": "Toulouse",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Toulouse%20%20Ligue%201.jpg"
+                "home_name": "Sheffield Sharks",
+                "away_name": "Leicester Riders",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1775241900,
-                "start_time_local": "04 Apr 2026, 12:45 AM",
+                "start_time_timestamp": 1775241000,
+                "start_time_local": "04 Apr 2026, 12:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -491,6 +445,29 @@
                 "home_name": "Antwerp",
                 "away_name": "Genk",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Antwerp%20VS%20Genk%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775241900,
+                "start_time_local": "04 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387948,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Paris Saint Germain vs Toulouse",
+            "slug": "paris-saint-germain-vs-toulouse-1387948",
+            "status": "NS",
+            "league": {
+                "league_name": "Ligue 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Paris Saint Germain",
+                "away_name": "Toulouse",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Toulouse%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775241900,
@@ -1088,6 +1065,29 @@
             "teams": {
                 "home_name": "Arminia Bielefeld",
                 "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775300400,
+                "start_time_local": "04 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388863,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1. FC Magdeburg vs VfL Bochum",
+            "slug": "1-fc-magdeburg-vs-vfl-bochum-1388863",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1. FC Magdeburg",
+                "away_name": "VfL Bochum",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
