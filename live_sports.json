@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:31 AM 05-04-2026"
+        "last_update_time": "05:45:34 AM 05-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "05 Apr 2026, 03:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=fcc4168e55069f74c186074ce1544ce4d3ff6216&x-sign=c78909a86d0e2362974ed87b88e16065&x-time=1775345400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/498587_hd/index.m3u8?is_vip=false&token=e7010346350ac43d0c04b74689ebf48ae20ca63c&x-sign=add30fd8e889275322b32b23d65ae8d3&x-time=1775346300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "05 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=fcc4168e55069f74c186074ce1544ce4d3ff6216&x-sign=f3512332504eb42e1e7249a26af8fe3b&x-time=1775345400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=e7010346350ac43d0c04b74689ebf48ae20ca63c&x-sign=b8a497e2f67fdf207ba4178ecefe9d1a&x-time=1775346300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 8,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487855,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "MOICANO vs DUNCAN",
             "slug": "moicano-vs-duncan-1629487855",
-            "status": "NS",
+            "title": "MOICANO vs DUNCAN",
+            "status": "LIVE",
             "league": {
                 "league_name": "UFC FIGHT NIGHT",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775347200,
-                "start_time_local": "05 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "05 Apr 2026, 06:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=e7010346350ac43d0c04b74689ebf48ae20ca63c&x-sign=36180cee56783e6e02d697ecbf4b405d&x-time=1775346300",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 7,
+    "upcoming_matches": [
         {
             "match_id": 1629488104,
             "sport_name": "Darts",
