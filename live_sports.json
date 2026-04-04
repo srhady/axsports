@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:24 AM 05-04-2026"
+        "last_update_time": "04:45:38 AM 05-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "05 Apr 2026, 03:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=e3b19a0d1789c44a3ede480e272c7322a1f88ea1&x-sign=39b7cf9b1913dad8118695f2c3e6536f&x-time=1775341800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=7022563291389795364d881a6ea021be024b6a8d&x-sign=869762f1e7c295d6b43abd7e677fa7fb&x-time=1775342700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 6,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1517263,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Vancouver FC vs HFX Wanderers FC",
             "slug": "vancouver-fc-vs-hfx-wanderers-fc-1517263",
-            "status": "NS",
+            "title": "Vancouver FC vs HFX Wanderers FC",
+            "status": "LIVE",
             "league": {
                 "league_name": "Canadian Premier League",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775343600,
-                "start_time_local": "05 Apr 2026, 05:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "05 Apr 2026, 05:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=7022563291389795364d881a6ea021be024b6a8d&x-sign=10523c97ba1cc438e4f7c81531150ed6&x-time=1775342700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 6,
+    "upcoming_matches": [
         {
             "match_id": 1629487855,
             "sport_name": "MMA",
@@ -170,6 +173,29 @@
             "timing": {
                 "start_time_timestamp": 1775361600,
                 "start_time_local": "05 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487867,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Gold Coast Suns vs Melbourne",
+            "slug": "gold-coast-suns-vs-melbourne-1629487867",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gold Coast Suns",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775365200,
+                "start_time_local": "05 Apr 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         }
