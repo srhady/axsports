@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:31 AM 04-04-2026"
+        "last_update_time": "06:45:41 AM 04-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "04 Apr 2026, 06:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=ad6d15e95a7ada483d3e22a786c693e7d15ae0ef&x-sign=c0efcba89b9787f639339d1b48ff42fd&x-time=1775262600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=51ae7e7f43b0d95ace79cc95299cc01307b14467&x-sign=fb108ea663f250ee81ff9dce57785cdf&x-time=1775263500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "04 Apr 2026, 06:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=ad6d15e95a7ada483d3e22a786c693e7d15ae0ef&x-sign=e11c275490d091cd27c190c913dada8a&x-time=1775262600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=51ae7e7f43b0d95ace79cc95299cc01307b14467&x-sign=643fe7d5e745f369d26bd23d305d183d&x-time=1775263500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487831,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "CFFC BJJ 17",
             "slug": "cffc-bjj-17-1629487831",
-            "status": "NS",
+            "title": "CFFC BJJ 17",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -80,17 +77,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1775264400,
-                "start_time_local": "04 Apr 2026, 07:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "04 Apr 2026, 07:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=51ae7e7f43b0d95ace79cc95299cc01307b14467&x-sign=96863f59a145932b0aa31f8e2df2a7f3&x-time=1775263500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1629488103,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "2026 PDC Asian Tour 5-6 Shizuoka",
             "slug": "2026-pdc-asian-tour-5-6-shizuoka-1629488103",
-            "status": "NS",
+            "title": "2026 PDC Asian Tour 5-6 Shizuoka",
+            "status": "LIVE",
             "league": {
                 "league_name": "PDC Asian Tour",
                 "league_logo": ""
@@ -103,10 +103,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775264400,
-                "start_time_local": "04 Apr 2026, 07:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "04 Apr 2026, 07:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=51ae7e7f43b0d95ace79cc95299cc01307b14467&x-sign=17b76c3d7ece51dce38dfeffb4cb3f00&x-time=1775263500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1484580,
             "sport_name": "Football",
@@ -177,29 +183,6 @@
             }
         },
         {
-            "match_id": 1629487838,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
-            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629487838",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775278800,
-                "start_time_local": "04 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487837,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -215,6 +198,29 @@
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775278800,
+                "start_time_local": "04 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487838,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
+            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629487838",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775278800,
@@ -269,29 +275,6 @@
             }
         },
         {
-            "match_id": 1469690,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Central Coast Mariners vs Perth Glory",
-            "slug": "central-coast-mariners-vs-perth-glory-1469690",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Central Coast Mariners",
-                "away_name": "Perth Glory",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20Mariners%20VS%20Perth%20Glory%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775282400,
-                "start_time_local": "04 Apr 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504731,
             "sport_name": "Football",
             "sport_id": 1,
@@ -307,6 +290,29 @@
                 "home_name": "Nagoya Grampus",
                 "away_name": "Cerezo Osaka",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775282400,
+                "start_time_local": "04 Apr 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469690,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Central Coast Mariners vs Perth Glory",
+            "slug": "central-coast-mariners-vs-perth-glory-1469690",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Central Coast Mariners",
+                "away_name": "Perth Glory",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Coast%20Mariners%20VS%20Perth%20Glory%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775282400,
@@ -499,6 +505,29 @@
             }
         },
         {
+            "match_id": 1388857,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arminia Bielefeld vs SV Darmstadt 98",
+            "slug": "arminia-bielefeld-vs-sv-darmstadt-98-1388857",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arminia Bielefeld",
+                "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775300400,
+                "start_time_local": "04 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1388862,
             "sport_name": "Football",
             "sport_id": 1,
@@ -537,29 +566,6 @@
                 "home_name": "1. FC Magdeburg",
                 "away_name": "VfL Bochum",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775300400,
-                "start_time_local": "04 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388857,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Arminia Bielefeld vs SV Darmstadt 98",
-            "slug": "arminia-bielefeld-vs-sv-darmstadt-98-1388857",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arminia Bielefeld",
-                "away_name": "SV Darmstadt 98",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775300400,
@@ -614,29 +620,6 @@
             }
         },
         {
-            "match_id": 1389367,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Montpellier vs Estac Troyes",
-            "slug": "montpellier-vs-estac-troyes-1389367",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 2",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Montpellier",
-                "away_name": "Estac Troyes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Montpellier%20VS%20Estac%20Troyes%20%20Ligue%202.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775304000,
-                "start_time_local": "04 Apr 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1389368,
             "sport_name": "Football",
             "sport_id": 1,
@@ -683,6 +666,29 @@
             }
         },
         {
+            "match_id": 1389367,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Montpellier vs Estac Troyes",
+            "slug": "montpellier-vs-estac-troyes-1389367",
+            "status": "NS",
+            "league": {
+                "league_name": "Ligue 2",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Montpellier",
+                "away_name": "Estac Troyes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Montpellier%20VS%20Estac%20Troyes%20%20Ligue%202.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775304000,
+                "start_time_local": "04 Apr 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1380625,
             "sport_name": "Football",
             "sport_id": 1,
@@ -702,29 +708,6 @@
             "timing": {
                 "start_time_timestamp": 1775306700,
                 "start_time_local": "04 Apr 2026, 06:45 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1479755,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Inter Milano W vs Lazio W",
-            "slug": "inter-milano-w-vs-lazio-w-1479755",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A Women",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Inter Milano W",
-                "away_name": "Lazio W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20VS%20Lazio%20W%20%20Serie%20A%20Women.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775307600,
-                "start_time_local": "04 Apr 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -752,6 +735,52 @@
             }
         },
         {
+            "match_id": 1479755,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Inter Milano W vs Lazio W",
+            "slug": "inter-milano-w-vs-lazio-w-1479755",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A Women",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Inter Milano W",
+                "away_name": "Lazio W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20Milano%20W%20VS%20Lazio%20W%20%20Serie%20A%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775307600,
+                "start_time_local": "04 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388552,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Borussia Mönchengladbach vs 1. FC Heidenheim",
+            "slug": "borussia-monchengladbach-vs-1-fc-heidenheim-1388552",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Borussia Mönchengladbach",
+                "away_name": "1. FC Heidenheim",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20M%C3%B6nchengladbach%20VS%201.%20FC%20Heidenheim%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775309400,
+                "start_time_local": "04 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629487848,
             "sport_name": "Cycling",
             "sport_id": 20,
@@ -767,6 +796,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775309400,
+                "start_time_local": "04 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388551,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayer Leverkusen vs VfL Wolfsburg",
+            "slug": "bayer-leverkusen-vs-vfl-wolfsburg-1388551",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayer Leverkusen",
+                "away_name": "VfL Wolfsburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20VfL%20Wolfsburg%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775309400,
@@ -821,11 +873,11 @@
             }
         },
         {
-            "match_id": 1388552,
+            "match_id": 1388556,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Borussia Mönchengladbach vs 1. FC Heidenheim",
-            "slug": "borussia-monchengladbach-vs-1-fc-heidenheim-1388552",
+            "title": "1899 Hoffenheim vs FSV Mainz 05",
+            "slug": "1899-hoffenheim-vs-fsv-mainz-05-1388556",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -833,55 +885,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Borussia Mönchengladbach",
-                "away_name": "1. FC Heidenheim",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20M%C3%B6nchengladbach%20VS%201.%20FC%20Heidenheim%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775309400,
-                "start_time_local": "04 Apr 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388559,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Werder Bremen vs RB Leipzig",
-            "slug": "werder-bremen-vs-rb-leipzig-1388559",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Werder Bremen",
-                "away_name": "RB Leipzig",
+                "home_name": "1899 Hoffenheim",
+                "away_name": "FSV Mainz 05",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775309400,
-                "start_time_local": "04 Apr 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388551,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bayer Leverkusen vs VfL Wolfsburg",
-            "slug": "bayer-leverkusen-vs-vfl-wolfsburg-1388551",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bayer Leverkusen",
-                "away_name": "VfL Wolfsburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20VfL%20Wolfsburg%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775309400,
