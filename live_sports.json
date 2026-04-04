@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:43 AM 04-04-2026"
+        "last_update_time": "06:15:32 AM 04-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629487824,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "bogota-day-5-1629487824",
-            "title": "Bogota: Day 5",
-            "status": "LIVE",
-            "league": {
-                "league_name": "WTA 250",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775232000,
-                "start_time_local": "03 Apr 2026, 10:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68907_hd/index.m3u8?is_vip=false&token=fd756ee01394b16b1dd8eeb36077823454e57b38&x-sign=b2a7cca1d3c3cd63f567473391980b36&x-time=1775260800",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629487830,
             "sport_name": "Boxing",
@@ -54,20 +28,17 @@
                 "start_time_local": "04 Apr 2026, 06:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=fd756ee01394b16b1dd8eeb36077823454e57b38&x-sign=9259d4aed172457c9e4687b183458940&x-time=1775260800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=c09f60c00227d2d7c3cb22c81c574a947ee75219&x-sign=35846c2e273f205d6c381c5d97641b6f&x-time=1775261700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487832,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Motegi | Qualifying 1",
             "slug": "motegi-or-qualifying-1-1629487832",
-            "status": "NS",
+            "title": "Motegi | Qualifying 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Formula",
                 "league_logo": ""
@@ -80,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775262600,
-                "start_time_local": "04 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "04 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=c09f60c00227d2d7c3cb22c81c574a947ee75219&x-sign=09f4d0bcd3d7a736be603509a35d8d47&x-time=1775261700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 36,
+    "upcoming_matches": [
         {
             "match_id": 1629487831,
             "sport_name": "MMA",
@@ -200,21 +177,21 @@
             }
         },
         {
-            "match_id": 1504730,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Mito Hollyhock vs Kashima",
-            "slug": "mito-hollyhock-vs-kashima-1504730",
+            "match_id": 1629487838,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
+            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629487838",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Mito Hollyhock",
-                "away_name": "Kashima",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Kashima%20%20J1%20League.jpg"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775278800,
@@ -246,21 +223,21 @@
             }
         },
         {
-            "match_id": 1629487838,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
-            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629487838",
+            "match_id": 1504730,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mito Hollyhock vs Kashima",
+            "slug": "mito-hollyhock-vs-kashima-1504730",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
+                "home_name": "Mito Hollyhock",
+                "away_name": "Kashima",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Kashima%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775278800,
@@ -430,29 +407,6 @@
             }
         },
         {
-            "match_id": 1398217,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Farense vs Feirense",
-            "slug": "farense-vs-feirense-1398217",
-            "status": "NS",
-            "league": {
-                "league_name": "Segunda Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Farense",
-                "away_name": "Feirense",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20Feirense%20%20Segunda%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775296800,
-                "start_time_local": "04 Apr 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487846,
             "sport_name": "Darts",
             "sport_id": 31,
@@ -468,6 +422,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775296800,
+                "start_time_local": "04 Apr 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398217,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Farense vs Feirense",
+            "slug": "farense-vs-feirense-1398217",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Farense",
+                "away_name": "Feirense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20Feirense%20%20Segunda%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775296800,
@@ -545,29 +522,6 @@
             }
         },
         {
-            "match_id": 1388857,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Arminia Bielefeld vs SV Darmstadt 98",
-            "slug": "arminia-bielefeld-vs-sv-darmstadt-98-1388857",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arminia Bielefeld",
-                "away_name": "SV Darmstadt 98",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775300400,
-                "start_time_local": "04 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388863,
             "sport_name": "Football",
             "sport_id": 1,
@@ -583,6 +537,29 @@
                 "home_name": "1. FC Magdeburg",
                 "away_name": "VfL Bochum",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775300400,
+                "start_time_local": "04 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388857,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arminia Bielefeld vs SV Darmstadt 98",
+            "slug": "arminia-bielefeld-vs-sv-darmstadt-98-1388857",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arminia Bielefeld",
+                "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775300400,
@@ -637,21 +614,21 @@
             }
         },
         {
-            "match_id": 1391116,
+            "match_id": 1389367,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Real Sociedad vs Levante",
-            "slug": "real-sociedad-vs-levante-1391116",
+            "title": "Montpellier vs Estac Troyes",
+            "slug": "montpellier-vs-estac-troyes-1389367",
             "status": "NS",
             "league": {
-                "league_name": "La Liga",
+                "league_name": "Ligue 2",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Real Sociedad",
-                "away_name": "Levante",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20VS%20Levante%20%20La%20Liga.jpg"
+                "home_name": "Montpellier",
+                "away_name": "Estac Troyes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Montpellier%20VS%20Estac%20Troyes%20%20Ligue%202.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775304000,
@@ -683,21 +660,21 @@
             }
         },
         {
-            "match_id": 1389367,
+            "match_id": 1391116,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Montpellier vs Estac Troyes",
-            "slug": "montpellier-vs-estac-troyes-1389367",
+            "title": "Real Sociedad vs Levante",
+            "slug": "real-sociedad-vs-levante-1391116",
             "status": "NS",
             "league": {
-                "league_name": "Ligue 2",
+                "league_name": "La Liga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Montpellier",
-                "away_name": "Estac Troyes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Montpellier%20VS%20Estac%20Troyes%20%20Ligue%202.jpg"
+                "home_name": "Real Sociedad",
+                "away_name": "Levante",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20VS%20Levante%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775304000,
@@ -798,29 +775,6 @@
             }
         },
         {
-            "match_id": 1388554,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "SC Freiburg vs Bayern München",
-            "slug": "sc-freiburg-vs-bayern-munchen-1388554",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "SC Freiburg",
-                "away_name": "Bayern München",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Bayern%20M%C3%BCnchen%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775309400,
-                "start_time_local": "04 Apr 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388555,
             "sport_name": "Football",
             "sport_id": 1,
@@ -836,6 +790,29 @@
                 "home_name": "Hamburger SV",
                 "away_name": "FC Augsburg",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hamburger%20SV%20VS%20FC%20Augsburg%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775309400,
+                "start_time_local": "04 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388554,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "SC Freiburg vs Bayern München",
+            "slug": "sc-freiburg-vs-bayern-munchen-1388554",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "SC Freiburg",
+                "away_name": "Bayern München",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20Bayern%20M%C3%BCnchen%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775309400,
@@ -867,11 +844,11 @@
             }
         },
         {
-            "match_id": 1388556,
+            "match_id": 1388559,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "1899 Hoffenheim vs FSV Mainz 05",
-            "slug": "1899-hoffenheim-vs-fsv-mainz-05-1388556",
+            "title": "Werder Bremen vs RB Leipzig",
+            "slug": "werder-bremen-vs-rb-leipzig-1388559",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -879,9 +856,32 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "1899 Hoffenheim",
-                "away_name": "FSV Mainz 05",
+                "home_name": "Werder Bremen",
+                "away_name": "RB Leipzig",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775309400,
+                "start_time_local": "04 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388551,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayer Leverkusen vs VfL Wolfsburg",
+            "slug": "bayer-leverkusen-vs-vfl-wolfsburg-1388551",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayer Leverkusen",
+                "away_name": "VfL Wolfsburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20VfL%20Wolfsburg%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775309400,
