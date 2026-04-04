@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:32 AM 05-04-2026"
+        "last_update_time": "05:15:27 AM 05-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "05 Apr 2026, 03:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=578d59b0e431ce789fd9db318c6ab1b2f8d9515f&x-sign=eb0a907b76b5e741f93f4e8dcf86fe16&x-time=1775343600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=b258a9d89d03b72f90cb16b018226dcdeba3542a&x-sign=8e70672e7f063d9ff7f4dde65ce6ce80&x-time=1775344500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,12 +54,12 @@
                 "start_time_local": "05 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=578d59b0e431ce789fd9db318c6ab1b2f8d9515f&x-sign=9298ee39646ae6a4b998124e2e84669e&x-time=1775343600",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=b258a9d89d03b72f90cb16b018226dcdeba3542a&x-sign=04c3f1227ca0eafcedc800944c2504d1&x-time=1775344500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 6,
+    "total_upcoming_matches": 8,
     "upcoming_matches": [
         {
             "match_id": 1629487855,
@@ -177,6 +177,29 @@
             }
         },
         {
+            "match_id": 1506930,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Anyang vs FC Seoul",
+            "slug": "fc-anyang-vs-fc-seoul-1506930",
+            "status": "NS",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Anyang",
+                "away_name": "FC Seoul",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Anyang%20VS%20FC%20Seoul%20%20K%20League%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775365200,
+                "start_time_local": "05 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629487867,
             "sport_name": "Football",
             "sport_id": 1,
@@ -192,6 +215,29 @@
                 "home_name": "Gold Coast Suns",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775365200,
+                "start_time_local": "05 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469693,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Melbourne Victory vs Wellington Phoenix",
+            "slug": "melbourne-victory-vs-wellington-phoenix-1469693",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Melbourne Victory",
+                "away_name": "Wellington Phoenix",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Victory%20VS%20Wellington%20Phoenix%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775365200,
