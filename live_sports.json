@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:28 PM 06-04-2026"
+        "last_update_time": "03:45:27 PM 06-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "06 Apr 2026, 01:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=af49782e0be67fe0a8909fe61b7bd4ab20cd055a&x-sign=5be77d01af408aa9ef298f3a54ce9db7&x-time=1775467800",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=b9d2616d532a215d2ed743b8194cfe16c08362f8&x-sign=ea59ce18023b87798ffc989208b133ad&x-time=1775468700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487881,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "Day 3 - Afternoon Session",
             "slug": "day-3-afternoon-session-1629487881",
-            "status": "NS",
+            "title": "Day 3 - Afternoon Session",
+            "status": "LIVE",
             "league": {
                 "league_name": "German Darts Grand Prix",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775469600,
-                "start_time_local": "06 Apr 2026, 04:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "06 Apr 2026, 04:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=b9d2616d532a215d2ed743b8194cfe16c08362f8&x-sign=51b2e606cdd72f52ecabdbb419c6444f&x-time=1775468700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1380626,
             "sport_name": "Football",
