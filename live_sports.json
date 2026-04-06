@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:24 AM 06-04-2026"
+        "last_update_time": "08:30:29 AM 06-04-2026"
     },
     "live_matches": [
         {
@@ -28,12 +28,12 @@
                 "start_time_local": "06 Apr 2026, 07:04 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=31c7c3473257f2b3b6d151c60b15edbdb63f3565&x-sign=b1af9fbd334f775f9806ae67793338f7&x-time=1775441700",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=8ff1817e34b381c4dc90ce6586d0aa501ace9a08&x-sign=b9c3051dc7586129ebe83cafe50f53ba&x-time=1775442600",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 26,
+    "total_upcoming_matches": 28,
     "upcoming_matches": [
         {
             "match_id": 1629487880,
@@ -174,29 +174,6 @@
             }
         },
         {
-            "match_id": 1629487882,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "ES1, Tour of Mouscron",
-            "slug": "es1-tour-of-mouscron-1629487882",
-            "status": "NS",
-            "league": {
-                "league_name": "UCI Women's World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775475000,
-                "start_time_local": "06 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387040,
             "sport_name": "Football",
             "sport_id": 1,
@@ -212,6 +189,29 @@
                 "home_name": "Portsmouth",
                 "away_name": "Oxford United",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portsmouth%20VS%20Oxford%20United%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775475000,
+                "start_time_local": "06 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487882,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES1, Tour of Mouscron",
+            "slug": "es1-tour-of-mouscron-1629487882",
+            "status": "NS",
+            "league": {
+                "league_name": "UCI Women's World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775475000,
@@ -266,29 +266,6 @@
             }
         },
         {
-            "match_id": 1378168,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lecce vs Atalanta",
-            "slug": "lecce-vs-atalanta-1378168",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lecce",
-                "away_name": "Atalanta",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20VS%20Atalanta%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775480400,
-                "start_time_local": "06 Apr 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1419912,
             "sport_name": "Football",
             "sport_id": 1,
@@ -304,6 +281,29 @@
                 "home_name": "Venezia",
                 "away_name": "Juve Stabia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Venezia%20VS%20Juve%20Stabia%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775480400,
+                "start_time_local": "06 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378168,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lecce vs Atalanta",
+            "slug": "lecce-vs-atalanta-1378168",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lecce",
+                "away_name": "Atalanta",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20VS%20Atalanta%20%20Serie%20A.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775480400,
@@ -630,6 +630,52 @@
             "timing": {
                 "start_time_timestamp": 1775494800,
                 "start_time_local": "06 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1421909,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Barcelona W vs FC Levante Badalona",
+            "slug": "barcelona-w-vs-fc-levante-badalona-1421909",
+            "status": "NS",
+            "league": {
+                "league_name": "Primera División Femenina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Barcelona W",
+                "away_name": "FC Levante Badalona",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20W%20VS%20FC%20Levante%20Badalona%20%20Primera%20Divisi%C3%B3n%20Femenina.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775494800,
+                "start_time_local": "06 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419917,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Carrarese vs Spezia",
+            "slug": "carrarese-vs-spezia-1419917",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carrarese",
+                "away_name": "Spezia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carrarese%20VS%20Spezia%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775496600,
+                "start_time_local": "06 Apr 2026, 11:30 PM",
                 "countdown_seconds": null
             }
         }
