@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:26 AM 06-04-2026"
+        "last_update_time": "10:45:38 AM 06-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,43 @@
                 "start_time_local": "06 Apr 2026, 10:02 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=c7971b5c2eeca6001424dab788c383191e2bcfb4&x-sign=75c8c4b66969c994b89124716346d976&x-time=1775449800",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=faa7ccee33d66feada4d1729b2e4e3e7cb9dc046&x-sign=1c8da6317278fa3f81eb146ba1f8213e&x-time=1775450700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
+        {
+            "match_id": 1629489074,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "sport-1629489074",
+            "title": "Sport",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Liga Profesional Argentina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775448905,
+                "start_time_local": "06 Apr 2026, 10:15 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=faa7ccee33d66feada4d1729b2e4e3e7cb9dc046&x-sign=8989d9ed689980be0e766a211fa49b0f&x-time=1775450700",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
         {
             "match_id": 1629487880,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Geelong Cats vs Hawthorn",
             "slug": "geelong-cats-vs-hawthorn-hawks-1629487880",
-            "status": "NS",
+            "title": "Geelong Cats vs Hawthorn",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -54,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775451600,
-                "start_time_local": "06 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "06 Apr 2026, 11:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=faa7ccee33d66feada4d1729b2e4e3e7cb9dc046&x-sign=9fe5ec99b506471e3ed259db9fb0bed3&x-time=1775450700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629487881,
             "sport_name": "Darts",
