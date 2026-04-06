@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:28 AM 07-04-2026"
+        "last_update_time": "03:45:28 AM 07-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "07 Apr 2026, 01:45 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=a56bbab13c55c6d46a0e4365b61e492fea729a0f&x-sign=464c433835a2d7c1de0e4fa97dcd364d&x-time=1775511000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=b80f8c6bf0c82681d88704eda1c493a3e0b7483d&x-sign=667917012a78adc1420c4a630a030c60&x-time=1775511900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 25,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487886,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 1",
             "slug": "day-1-1629487886",
-            "status": "NS",
+            "title": "Day 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775512800,
-                "start_time_local": "07 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "07 Apr 2026, 04:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=b80f8c6bf0c82681d88704eda1c493a3e0b7483d&x-sign=c8797a44e6583482427e05fc9641b045&x-time=1775511900",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 24,
+    "upcoming_matches": [
         {
             "match_id": 1629487887,
             "sport_name": "Baseball",
