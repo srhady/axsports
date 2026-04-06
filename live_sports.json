@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:27 PM 06-04-2026"
+        "last_update_time": "04:00:37 PM 06-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "06 Apr 2026, 01:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=b9d2616d532a215d2ed743b8194cfe16c08362f8&x-sign=ea59ce18023b87798ffc989208b133ad&x-time=1775468700",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=6b78caf557cc300d8b5e0e8c00126ed4e643fc66&x-sign=bb6d28e19e011156376e6b4ebd2e8ded&x-time=1775469600",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "06 Apr 2026, 04:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/31/chunks.m3u8?is_vip=false&token=b9d2616d532a215d2ed743b8194cfe16c08362f8&x-sign=51b2e606cdd72f52ecabdbb419c6444f&x-time=1775468700",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=6b78caf557cc300d8b5e0e8c00126ed4e643fc66&x-sign=f18499de13740027cf36395e274ad49e&x-time=1775469600",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1380626,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Nieciecza vs Piast Gliwice",
             "slug": "nieciecza-vs-piast-gliwice-1380626",
-            "status": "NS",
+            "title": "Nieciecza vs Piast Gliwice",
+            "status": "LIVE",
             "league": {
                 "league_name": "Ekstraklasa",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775470500,
-                "start_time_local": "06 Apr 2026, 04:15 PM",
-                "countdown_seconds": null
+                "start_time_local": "06 Apr 2026, 04:15 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=6b78caf557cc300d8b5e0e8c00126ed4e643fc66&x-sign=814d1b8e5c6210845e46d55872565d47&x-time=1775469600",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1419913,
             "sport_name": "Football",
@@ -131,29 +134,6 @@
             }
         },
         {
-            "match_id": 1629487882,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "ES1, Tour of Mouscron",
-            "slug": "es1-tour-of-mouscron-1629487882",
-            "status": "NS",
-            "league": {
-                "league_name": "UCI Women's World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775475000,
-                "start_time_local": "06 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387040,
             "sport_name": "Football",
             "sport_id": 1,
@@ -192,6 +172,29 @@
                 "home_name": "Club Brugge KV",
                 "away_name": "Anderlecht",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20VS%20Anderlecht%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775475000,
+                "start_time_local": "06 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487882,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES1, Tour of Mouscron",
+            "slug": "es1-tour-of-mouscron-1629487882",
+            "status": "NS",
+            "league": {
+                "league_name": "UCI Women's World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775475000,
@@ -246,6 +249,29 @@
             }
         },
         {
+            "match_id": 1419912,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Venezia vs Juve Stabia",
+            "slug": "venezia-vs-juve-stabia-1419912",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Venezia",
+                "away_name": "Juve Stabia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Venezia%20VS%20Juve%20Stabia%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775480400,
+                "start_time_local": "06 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1378168,
             "sport_name": "Football",
             "sport_id": 1,
@@ -284,29 +310,6 @@
                 "home_name": "Bari",
                 "away_name": "Modena",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bari%20VS%20Modena%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775480400,
-                "start_time_local": "06 Apr 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419912,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Venezia vs Juve Stabia",
-            "slug": "venezia-vs-juve-stabia-1419912",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Venezia",
-                "away_name": "Juve Stabia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Venezia%20VS%20Juve%20Stabia%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775480400,
@@ -384,29 +387,6 @@
             }
         },
         {
-            "match_id": 1387032,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Ipswich vs Birmingham",
-            "slug": "ipswich-vs-birmingham-1387032",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ipswich",
-                "away_name": "Birmingham",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ipswich%20VS%20Birmingham%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775484000,
-                "start_time_local": "06 Apr 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387033,
             "sport_name": "Football",
             "sport_id": 1,
@@ -422,6 +402,29 @@
                 "home_name": "Watford",
                 "away_name": "Charlton",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Watford%20VS%20Charlton%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775484000,
+                "start_time_local": "06 Apr 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387032,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ipswich vs Birmingham",
+            "slug": "ipswich-vs-birmingham-1387032",
+            "status": "NS",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ipswich",
+                "away_name": "Birmingham",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ipswich%20VS%20Birmingham%20%20Championship.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775484000,
@@ -568,29 +571,6 @@
             }
         },
         {
-            "match_id": 1394682,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Kocaelispor vs Başakşehir",
-            "slug": "kocaelispor-vs-basaksehir-1394682",
-            "status": "NS",
-            "league": {
-                "league_name": "Süper Lig",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Kocaelispor",
-                "away_name": "Başakşehir",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kocaelispor%20VS%20Ba%C5%9Fak%C5%9Fehir%20%20S%C3%BCper%20Lig.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775494800,
-                "start_time_local": "06 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398219,
             "sport_name": "Football",
             "sport_id": 1,
@@ -606,6 +586,29 @@
                 "home_name": "Torreense",
                 "away_name": "Leixoes",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torreense%20VS%20Leixoes%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775494800,
+                "start_time_local": "06 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1394682,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kocaelispor vs Başakşehir",
+            "slug": "kocaelispor-vs-basaksehir-1394682",
+            "status": "NS",
+            "league": {
+                "league_name": "Süper Lig",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Kocaelispor",
+                "away_name": "Başakşehir",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kocaelispor%20VS%20Ba%C5%9Fak%C5%9Fehir%20%20S%C3%BCper%20Lig.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775494800,
@@ -752,29 +755,6 @@
             }
         },
         {
-            "match_id": 1391113,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Girona vs Villarreal",
-            "slug": "girona-vs-villarreal-1391113",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Girona",
-                "away_name": "Villarreal",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Girona%20VS%20Villarreal%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775502000,
-                "start_time_local": "07 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387035,
             "sport_name": "Football",
             "sport_id": 1,
@@ -790,6 +770,29 @@
                 "home_name": "Hull City",
                 "away_name": "Coventry",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20VS%20Coventry%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775502000,
+                "start_time_local": "07 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391113,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Girona vs Villarreal",
+            "slug": "girona-vs-villarreal-1391113",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Girona",
+                "away_name": "Villarreal",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Girona%20VS%20Villarreal%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775502000,
@@ -890,29 +893,6 @@
             }
         },
         {
-            "match_id": 1469654,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Melbourne City vs Central Coast Mariners",
-            "slug": "melbourne-city-vs-central-coast-mariners-1469654",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Melbourne City",
-                "away_name": "Central Coast Mariners",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775552400,
-                "start_time_local": "07 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487889,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -927,30 +907,7 @@
             "teams": {
                 "home_name": "ORIX Buffaloes",
                 "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775552400,
-                "start_time_local": "07 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487890,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
-            "slug": "hanshin-tigers-vs-tokyo-yakult-swallows-1629487890",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775552400,
@@ -1001,6 +958,75 @@
             "timing": {
                 "start_time_timestamp": 1775552400,
                 "start_time_local": "07 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469654,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Melbourne City vs Central Coast Mariners",
+            "slug": "melbourne-city-vs-central-coast-mariners-1469654",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Melbourne City",
+                "away_name": "Central Coast Mariners",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775552400,
+                "start_time_local": "07 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487890,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
+            "slug": "hanshin-tigers-vs-tokyo-yakult-swallows-1629487890",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775552400,
+                "start_time_local": "07 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487893,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Linz: Day 1",
+            "slug": "linz-day-1-1629487893",
+            "status": "NS",
+            "league": {
+                "league_name": "WTA 500",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775556000,
+                "start_time_local": "07 Apr 2026, 04:00 PM",
                 "countdown_seconds": null
             }
         }
