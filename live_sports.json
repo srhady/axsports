@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:25 AM 07-04-2026"
+        "last_update_time": "09:30:29 AM 07-04-2026"
     },
     "live_matches": [
         {
@@ -28,12 +28,12 @@
                 "start_time_local": "07 Apr 2026, 05:50 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=b59f57cfeae1aeb7550a127c659ca05724696f21&x-sign=4a922d1b7bd5c54c5f4083e3268ae2ea&x-time=1775531700",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=9f4b61202727beff962796f56081aa3517f99615&x-sign=1ff490cab099a3c3e9de07ba7c306880&x-time=1775532600",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 36,
+    "total_upcoming_matches": 37,
     "upcoming_matches": [
         {
             "match_id": 1629487887,
@@ -128,29 +128,6 @@
             }
         },
         {
-            "match_id": 1629487891,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
-            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629487891",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775552400,
-                "start_time_local": "07 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487890,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -165,6 +142,29 @@
             "teams": {
                 "home_name": "Hanshin Tigers",
                 "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775552400,
+                "start_time_local": "07 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487891,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
+            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629487891",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Chunichi Dragons",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -289,6 +289,52 @@
             }
         },
         {
+            "match_id": 1629487911,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 2",
+            "slug": "day-2-1629487911",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775581200,
+                "start_time_local": "07 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1394364,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "MSV Duisburg vs VfL Osnabrück",
+            "slug": "msv-duisburg-vs-vfl-osnabruck-1394364",
+            "status": "NS",
+            "league": {
+                "league_name": "3. Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "MSV Duisburg",
+                "away_name": "VfL Osnabrück",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MSV%20Duisburg%20VS%20VfL%20Osnabr%C3%BCck%20%203.%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775581200,
+                "start_time_local": "07 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1398220,
             "sport_name": "Football",
             "sport_id": 1,
@@ -358,52 +404,6 @@
             }
         },
         {
-            "match_id": 1394364,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "MSV Duisburg vs VfL Osnabrück",
-            "slug": "msv-duisburg-vs-vfl-osnabruck-1394364",
-            "status": "NS",
-            "league": {
-                "league_name": "3. Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "MSV Duisburg",
-                "away_name": "VfL Osnabrück",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MSV%20Duisburg%20VS%20VfL%20Osnabr%C3%BCck%20%203.%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775581200,
-                "start_time_local": "07 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487911,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 2",
-            "slug": "day-2-1629487911",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775581200,
-                "start_time_local": "07 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487912,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -446,29 +446,6 @@
             "timing": {
                 "start_time_timestamp": 1775585700,
                 "start_time_local": "08 Apr 2026, 12:15 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487918,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "title": "FC Barcelona Basketball vs Panathinaikos Athens Basketball",
-            "slug": "fc-barcelona-basketball-vs-panathinaikos-athens-basketball-1629487918",
-            "status": "NS",
-            "league": {
-                "league_name": "Euroleague",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "FC Barcelona Basketball",
-                "away_name": "Panathinaikos Athens Basketball",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775586600,
-                "start_time_local": "08 Apr 2026, 12:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -519,6 +496,29 @@
             }
         },
         {
+            "match_id": 1629487918,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "FC Barcelona Basketball vs Panathinaikos Athens Basketball",
+            "slug": "fc-barcelona-basketball-vs-panathinaikos-athens-basketball-1629487918",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Barcelona Basketball",
+                "away_name": "Panathinaikos Athens Basketball",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775586600,
+                "start_time_local": "08 Apr 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1534570,
             "sport_name": "Football",
             "sport_id": 1,
@@ -534,6 +534,29 @@
                 "home_name": "Sporting CP",
                 "away_name": "Arsenal",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20VS%20Arsenal%20%20UEFA%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775588400,
+                "start_time_local": "08 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1534909,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Madrid vs Bayern München",
+            "slug": "real-madrid-vs-bayern-munchen-1534909",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Madrid",
+                "away_name": "Bayern München",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20VS%20Bayern%20M%C3%BCnchen%20%20UEFA%20Champions%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775588400,
@@ -611,29 +634,6 @@
             }
         },
         {
-            "match_id": 1534909,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Madrid vs Bayern München",
-            "slug": "real-madrid-vs-bayern-munchen-1534909",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Champions League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Madrid",
-                "away_name": "Bayern München",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20VS%20Bayern%20M%C3%BCnchen%20%20UEFA%20Champions%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775588400,
-                "start_time_local": "08 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535140,
             "sport_name": "Football",
             "sport_id": 1,
@@ -680,29 +680,6 @@
             }
         },
         {
-            "match_id": 1535234,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Always Ready vs LDU de Quito",
-            "slug": "always-ready-vs-ldu-de-quito-1535234",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Always Ready",
-                "away_name": "LDU de Quito",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Always%20Ready%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775606400,
-                "start_time_local": "08 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535151,
             "sport_name": "Football",
             "sport_id": 1,
@@ -718,6 +695,29 @@
                 "home_name": "O'Higgins",
                 "away_name": "Millonarios",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/O%27Higgins%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775606400,
+                "start_time_local": "08 Apr 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535234,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Always Ready vs LDU de Quito",
+            "slug": "always-ready-vs-ldu-de-quito-1535234",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Always Ready",
+                "away_name": "LDU de Quito",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Always%20Ready%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775606400,
