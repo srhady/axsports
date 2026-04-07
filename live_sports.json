@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:32 AM 07-04-2026"
+        "last_update_time": "11:00:39 AM 07-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "07 Apr 2026, 05:50 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=8a9f664736a957510c4d90a30c0963808feb0670&x-sign=f64e3fecaf89d53f277202ee38387af0&x-time=1775537100",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=359e5cab4307b4d5014ec97c3370a16500e40704&x-sign=192cd5d4aef385f37e42b56bdc08b2f5&x-time=1775538000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,7 +54,7 @@
                 "start_time_local": "07 Apr 2026, 10:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=8a9f664736a957510c4d90a30c0963808feb0670&x-sign=614da4d76e900ec4cc2bb89c57fa6019&x-time=1775537100",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=359e5cab4307b4d5014ec97c3370a16500e40704&x-sign=6d594d4a72b6003bfa4db76d5d04828f&x-time=1775538000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,12 +80,12 @@
                 "start_time_local": "07 Apr 2026, 11:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=8a9f664736a957510c4d90a30c0963808feb0670&x-sign=31160b5d024af6cd973d513950bbd281&x-time=1775537100",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=359e5cab4307b4d5014ec97c3370a16500e40704&x-sign=18bbfcf4619af1d7cdcde0821c8e19ec&x-time=1775538000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 37,
+    "total_upcoming_matches": 40,
     "upcoming_matches": [
         {
             "match_id": 1629487889,
@@ -103,29 +103,6 @@
                 "home_name": "ORIX Buffaloes",
                 "away_name": "Chiba Lotte Marines",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775552400,
-                "start_time_local": "07 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487892,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Hokkaido Nippon-Ham Fighters",
-            "slug": "tohoku-rakuten-golden-eagles-vs-hokkaido-nippon-ham-fighters-1629487892",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775552400,
@@ -157,6 +134,29 @@
             }
         },
         {
+            "match_id": 1629487891,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
+            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629487891",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775552400,
+                "start_time_local": "07 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1469654,
             "sport_name": "Football",
             "sport_id": 1,
@@ -180,11 +180,11 @@
             }
         },
         {
-            "match_id": 1629487891,
+            "match_id": 1629487892,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
-            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629487891",
+            "title": "Tohoku Rakuten Golden Eagles vs Hokkaido Nippon-Ham Fighters",
+            "slug": "tohoku-rakuten-golden-eagles-vs-hokkaido-nippon-ham-fighters-1629487892",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -192,9 +192,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775552400,
@@ -272,21 +272,21 @@
             }
         },
         {
-            "match_id": 1398220,
+            "match_id": 1394364,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Vizela vs Benfica B",
-            "slug": "vizela-vs-benfica-b-1398220",
+            "title": "MSV Duisburg vs VfL Osnabrück",
+            "slug": "msv-duisburg-vs-vfl-osnabruck-1394364",
             "status": "NS",
             "league": {
-                "league_name": "Segunda Liga",
+                "league_name": "3. Liga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Vizela",
-                "away_name": "Benfica B",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vizela%20VS%20Benfica%20B%20%20Segunda%20Liga.jpg"
+                "home_name": "MSV Duisburg",
+                "away_name": "VfL Osnabrück",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MSV%20Duisburg%20VS%20VfL%20Osnabr%C3%BCck%20%203.%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775581200,
@@ -341,29 +341,6 @@
             }
         },
         {
-            "match_id": 1394364,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "MSV Duisburg vs VfL Osnabrück",
-            "slug": "msv-duisburg-vs-vfl-osnabruck-1394364",
-            "status": "NS",
-            "league": {
-                "league_name": "3. Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "MSV Duisburg",
-                "away_name": "VfL Osnabrück",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/MSV%20Duisburg%20VS%20VfL%20Osnabr%C3%BCck%20%203.%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775581200,
-                "start_time_local": "07 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1394363,
             "sport_name": "Football",
             "sport_id": 1,
@@ -379,6 +356,29 @@
                 "home_name": "Energie Cottbus",
                 "away_name": "TSV 1860 München",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Energie%20Cottbus%20VS%20TSV%201860%20M%C3%BCnchen%20%203.%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775581200,
+                "start_time_local": "07 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398220,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Vizela vs Benfica B",
+            "slug": "vizela-vs-benfica-b-1398220",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Vizela",
+                "away_name": "Benfica B",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vizela%20VS%20Benfica%20B%20%20Segunda%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775581200,
@@ -686,29 +686,6 @@
             }
         },
         {
-            "match_id": 1535151,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "O'Higgins vs Millonarios",
-            "slug": "ohiggins-vs-millonarios-1535151",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "O'Higgins",
-                "away_name": "Millonarios",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/O%27Higgins%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775606400,
-                "start_time_local": "08 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535234,
             "sport_name": "Football",
             "sport_id": 1,
@@ -724,6 +701,29 @@
                 "home_name": "Always Ready",
                 "away_name": "LDU de Quito",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Always%20Ready%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775606400,
+                "start_time_local": "08 Apr 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535151,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "O'Higgins vs Millonarios",
+            "slug": "ohiggins-vs-millonarios-1535151",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "O'Higgins",
+                "away_name": "Millonarios",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/O%27Higgins%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775606400,
