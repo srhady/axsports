@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:54 PM 08-04-2026"
+        "last_update_time": "06:45:45 PM 08-04-2026"
     },
     "live_matches": [
         {
@@ -33,7 +33,7 @@
             }
         }
     ],
-    "total_upcoming_matches": 38,
+    "total_upcoming_matches": 40,
     "upcoming_matches": [
         {
             "match_id": 1629487931,
@@ -105,21 +105,21 @@
             }
         },
         {
-            "match_id": 1629487934,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629487934",
+            "match_id": 1394672,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Göztepe vs Galatasaray",
+            "slug": "goztepe-vs-galatasaray-1394672",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Süper Lig",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Göztepe",
+                "away_name": "Galatasaray",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/G%C3%B6ztepe%20VS%20Galatasaray%20%20S%C3%BCper%20Lig.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775667600,
@@ -151,48 +151,25 @@
             }
         },
         {
-            "match_id": 1394672,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Göztepe vs Galatasaray",
-            "slug": "goztepe-vs-galatasaray-1394672",
+            "match_id": 1629487934,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3",
+            "slug": "day-3-1629487934",
             "status": "NS",
             "league": {
-                "league_name": "Süper Lig",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Göztepe",
-                "away_name": "Galatasaray",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/G%C3%B6ztepe%20VS%20Galatasaray%20%20S%C3%BCper%20Lig.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775667600,
                 "start_time_local": "08 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487936,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "title": "AS Monaco Basketball vs LDLC ASVEL Villeurbanne",
-            "slug": "as-monaco-basketball-vs-ldlc-asvel-villeurbanne-1629487936",
-            "status": "NS",
-            "league": {
-                "league_name": "Euroleague",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "AS Monaco Basketball",
-                "away_name": "LDLC ASVEL Villeurbanne",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AS%20Monaco%20Basketball%20VS%20LDLC%20ASVEL%20Villeurbanne%20%20Euroleague.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775669400,
-                "start_time_local": "08 Apr 2026, 11:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -212,6 +189,29 @@
                 "home_name": "Anadolu Efes Istanbul",
                 "away_name": "Partizan Mozzart Bet Belgrade",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Anadolu%20Efes%20Istanbul%20VS%20Partizan%20Mozzart%20Bet%20Belgrade%20%20Euroleague.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775669400,
+                "start_time_local": "08 Apr 2026, 11:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487936,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "AS Monaco Basketball vs LDLC ASVEL Villeurbanne",
+            "slug": "as-monaco-basketball-vs-ldlc-asvel-villeurbanne-1629487936",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "AS Monaco Basketball",
+                "away_name": "LDLC ASVEL Villeurbanne",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AS%20Monaco%20Basketball%20VS%20LDLC%20ASVEL%20Villeurbanne%20%20Euroleague.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775669400,
@@ -450,29 +450,6 @@
             }
         },
         {
-            "match_id": 1535150,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Atletico Torque vs Gremio",
-            "slug": "atletico-torque-vs-gremio-1535150",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Atletico Torque",
-                "away_name": "Gremio",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Torque%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775694600,
-                "start_time_local": "09 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535237,
             "sport_name": "Football",
             "sport_id": 1,
@@ -511,6 +488,29 @@
                 "home_name": "Junior",
                 "away_name": "Palmeiras",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Junior%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775694600,
+                "start_time_local": "09 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535150,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Atletico Torque vs Gremio",
+            "slug": "atletico-torque-vs-gremio-1535150",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Atletico Torque",
+                "away_name": "Gremio",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Torque%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775694600,
@@ -565,29 +565,6 @@
             }
         },
         {
-            "match_id": 1535247,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sporting Cristal vs Cerro Porteno",
-            "slug": "sporting-cristal-vs-cerro-porteno-1535247",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sporting Cristal",
-                "away_name": "Cerro Porteno",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Cerro%20Porteno%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775700000,
-                "start_time_local": "09 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535152,
             "sport_name": "Football",
             "sport_id": 1,
@@ -603,6 +580,29 @@
                 "home_name": "Puerto Cabello",
                 "away_name": "Atletico-MG",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Puerto%20Cabello%20VS%20Atletico-MG%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775700000,
+                "start_time_local": "09 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535247,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sporting Cristal vs Cerro Porteno",
+            "slug": "sporting-cristal-vs-cerro-porteno-1535247",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sporting Cristal",
+                "away_name": "Cerro Porteno",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Cerro%20Porteno%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775700000,
@@ -657,6 +657,52 @@
             }
         },
         {
+            "match_id": 1629487941,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Hokkaido Nippon-Ham Fighters",
+            "slug": "tohoku-rakuten-golden-eagles-vs-hokkaido-nippon-ham-fighters-1629487941",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775725200,
+                "start_time_local": "09 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487943,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Live Stage 1",
+            "slug": "live-stage-1-1629487943",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775725200,
+                "start_time_local": "09 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629487939,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -703,29 +749,6 @@
             }
         },
         {
-            "match_id": 1629487941,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Hokkaido Nippon-Ham Fighters",
-            "slug": "tohoku-rakuten-golden-eagles-vs-hokkaido-nippon-ham-fighters-1629487941",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775725200,
-                "start_time_local": "09 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629487940,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -740,29 +763,6 @@
             "teams": {
                 "home_name": "Fukuoka SoftBank Hawks",
                 "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775725200,
-                "start_time_local": "09 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629487943,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Live Stage 1",
-            "slug": "live-stage-1-1629487943",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
