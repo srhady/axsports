@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:47 PM 08-04-2026"
+        "last_update_time": "07:30:51 PM 08-04-2026"
     },
     "live_matches": [
         {
@@ -54,20 +54,17 @@
                 "start_time_local": "08 Apr 2026, 07:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=c6281426af05b984f020c336da2f7cba860b4600&x-sign=a0384fe45f6078feb2824f5ef45e7321&x-time=1775654100",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1419_hd/index.m3u8?is_vip=false&token=f15ccc0ee060581c02f8e10da61137a485f133d5&x-sign=3d7b42faf8bde5bad144385ae8fd02e4&x-time=1775655000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629487932,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "ES2, Scheldeprijs Men 2026",
             "slug": "es2-scheldeprijs-men-2026-1629487932",
-            "status": "NS",
+            "title": "ES2, Scheldeprijs Men 2026",
+            "status": "LIVE",
             "league": {
                 "league_name": "UCI Pro Series",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775655900,
-                "start_time_local": "08 Apr 2026, 07:45 PM",
-                "countdown_seconds": null
+                "start_time_local": "08 Apr 2026, 07:45 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=f15ccc0ee060581c02f8e10da61137a485f133d5&x-sign=7b8884e8e82a37e0ddcad871182ea560&x-time=1775655000",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1535334,
             "sport_name": "Football",
@@ -863,6 +866,29 @@
             "timing": {
                 "start_time_timestamp": 1775740500,
                 "start_time_local": "09 Apr 2026, 07:15 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629487949,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES1, Tour of Basque Country, Stage 4",
+            "slug": "es1-tour-of-basque-country-stage-4-1629487949",
+            "status": "NS",
+            "league": {
+                "league_name": "UCI World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1775741400,
+                "start_time_local": "09 Apr 2026, 07:30 PM",
                 "countdown_seconds": null
             }
         }
