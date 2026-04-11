@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:33 AM 12-04-2026"
+        "last_update_time": "03:45:33 AM 12-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "12 Apr 2026, 01:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=e415483dfdef501a59dd3894e4a967c85771abd6&x-sign=5f2259cf3ee52ba10d4ed691547626cc&x-time=1775943000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=63b2fefeb90abdfeca8b9abc190a501f3f84c848&x-sign=accc289d70cb61f92a94684da73f0319&x-time=1775943900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,11 +54,35 @@
                 "start_time_local": "12 Apr 2026, 03:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=e415483dfdef501a59dd3894e4a967c85771abd6&x-sign=cca45b82fed83ca9ff970dd57ff9d396&x-time=1775943000",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=63b2fefeb90abdfeca8b9abc190a501f3f84c848&x-sign=1d7958f08275f4b74f85a047d13ec700&x-time=1775943900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 0,
-    "upcoming_matches": []
+    "total_upcoming_matches": 1,
+    "upcoming_matches": [
+        {
+            "match_id": 1492015,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Boca Juniors vs Independiente",
+            "slug": "boca-juniors-vs-independiente-1492015",
+            "status": "NS",
+            "league": {
+                "league_name": "Liga Profesional Argentina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Boca Juniors",
+                "away_name": "Independiente",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boca%20Juniors%20VS%20Independiente%20%20Liga%20Profesional%20Argentina.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775946600,
+                "start_time_local": "12 Apr 2026, 04:30 AM",
+                "countdown_seconds": null
+            }
+        }
+    ]
 }
