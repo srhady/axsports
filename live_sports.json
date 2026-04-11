@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:32 AM 11-04-2026"
+        "last_update_time": "08:45:31 AM 11-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "11 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/17/chunks.m3u8?is_vip=false&token=c283c518127511ef31607e3f489430949948b853&x-sign=c8d0513e2b1987dd3d61e41a546144ce&x-time=1775874600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/17/chunks.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=ea6ded8890588121c555ee8fc55edc28&x-time=1775875500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,20 +54,17 @@
                 "start_time_local": "11 Apr 2026, 07:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143070_hd/index.m3u8?is_vip=false&token=c283c518127511ef31607e3f489430949948b853&x-sign=060711d85f62791147e3bb5ec2820811&x-time=1775874600",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143070_hd/index.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=f496826901028c28ac85be58a2e24c32&x-time=1775875500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 33,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629488117,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Melbourne vs Essendon",
             "slug": "melbourne-demons-vs-essendon-bombers-1629488117",
-            "status": "NS",
+            "title": "Melbourne vs Essendon",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -80,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775876400,
-                "start_time_local": "11 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "11 Apr 2026, 09:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=7108ee0030fc5a07fa51c0ae7eb6e119&x-time=1775875500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 32,
+    "upcoming_matches": [
         {
             "match_id": 1492581,
             "sport_name": "Football",
