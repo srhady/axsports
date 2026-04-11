@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:37 AM 11-04-2026"
+        "last_update_time": "06:15:30 AM 11-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "11 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/17/chunks.m3u8?is_vip=false&token=db6b88e5ef64f700d5adfb8e28cb5c2a28c7e1e8&x-sign=2bbba20a248719ee4b954159af376e93&x-time=1775865600",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/17/chunks.m3u8?is_vip=false&token=38e44716275e849823d4d417cadb37e82bb27f86&x-sign=36c499d2f312106253b396223b5a0c8c&x-time=1775866500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -154,21 +154,44 @@
             }
         },
         {
-            "match_id": 1504740,
+            "match_id": 1469695,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Avispa Fukuoka vs V-varen Nagasaki",
-            "slug": "avispa-fukuoka-vs-v-varen-nagasaki-1504740",
+            "title": "Auckland vs Melbourne Victory",
+            "slug": "auckland-vs-melbourne-victory-1469695",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "A-League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Avispa Fukuoka",
-                "away_name": "V-varen Nagasaki",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
+                "home_name": "Auckland",
+                "away_name": "Melbourne Victory",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Melbourne%20Victory%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775883600,
+                "start_time_local": "11 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1506933,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Seoul vs Jeonbuk Motors",
+            "slug": "fc-seoul-vs-jeonbuk-motors-1506933",
+            "status": "NS",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Seoul",
+                "away_name": "Jeonbuk Motors",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20VS%20Jeonbuk%20Motors%20%20K%20League%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775883600,
@@ -200,29 +223,6 @@
             }
         },
         {
-            "match_id": 1469695,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Auckland vs Melbourne Victory",
-            "slug": "auckland-vs-melbourne-victory-1469695",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Auckland",
-                "away_name": "Melbourne Victory",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Melbourne%20Victory%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775883600,
-                "start_time_local": "11 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504742,
             "sport_name": "Football",
             "sport_id": 1,
@@ -246,25 +246,48 @@
             }
         },
         {
-            "match_id": 1506933,
+            "match_id": 1504740,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC Seoul vs Jeonbuk Motors",
-            "slug": "fc-seoul-vs-jeonbuk-motors-1506933",
+            "title": "Avispa Fukuoka vs V-varen Nagasaki",
+            "slug": "avispa-fukuoka-vs-v-varen-nagasaki-1504740",
             "status": "NS",
             "league": {
-                "league_name": "K League 1",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "FC Seoul",
-                "away_name": "Jeonbuk Motors",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20VS%20Jeonbuk%20Motors%20%20K%20League%201.jpg"
+                "home_name": "Avispa Fukuoka",
+                "away_name": "V-varen Nagasaki",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775883600,
                 "start_time_local": "11 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629488127,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Gold Coast Suns vs Sydney Swans",
+            "slug": "gold-coast-suns-vs-sydney-swans-1629488127",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gold Coast Suns",
+                "away_name": "Sydney Swans",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Suns%20VS%20Sydney%20Swans%20%20AFL%20Premiership.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775887200,
+                "start_time_local": "11 Apr 2026, 12:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -307,29 +330,6 @@
                 "home_name": "Yokohama F. Marinos",
                 "away_name": "FC Tokyo",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20FC%20Tokyo%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775887200,
-                "start_time_local": "11 Apr 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629488127,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Gold Coast Suns vs Sydney Swans",
-            "slug": "gold-coast-suns-vs-sydney-swans-1629488127",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gold Coast Suns",
-                "away_name": "Sydney Swans",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Suns%20VS%20Sydney%20Swans%20%20AFL%20Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775887200,
@@ -384,29 +384,6 @@
             }
         },
         {
-            "match_id": 1469696,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Newcastle Jets vs Adelaide United",
-            "slug": "newcastle-jets-vs-adelaide-united-1469696",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Newcastle Jets",
-                "away_name": "Adelaide United",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Jets%20VS%20Adelaide%20United%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775890800,
-                "start_time_local": "11 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504746,
             "sport_name": "Football",
             "sport_id": 1,
@@ -422,6 +399,29 @@
                 "home_name": "Kyoto Sanga",
                 "away_name": "Fagiano Okayama",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kyoto%20Sanga%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775890800,
+                "start_time_local": "11 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469696,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Newcastle Jets vs Adelaide United",
+            "slug": "newcastle-jets-vs-adelaide-united-1469696",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Newcastle Jets",
+                "away_name": "Adelaide United",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Jets%20VS%20Adelaide%20United%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775890800,
@@ -476,21 +476,21 @@
             }
         },
         {
-            "match_id": 1629488133,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Queensland Reds vs Crusaders",
-            "slug": "queensland-reds-vs-crusaders-1629488133",
+            "match_id": 1629488131,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
+            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629488131",
             "status": "NS",
             "league": {
-                "league_name": "Super Rugby Pacific",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Queensland Reds",
-                "away_name": "Crusaders",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Yomiuri Giants",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775898000,
@@ -522,21 +522,21 @@
             }
         },
         {
-            "match_id": 1629488131,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
-            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629488131",
+            "match_id": 1629488133,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Queensland Reds vs Crusaders",
+            "slug": "queensland-reds-vs-crusaders-1629488133",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Super Rugby Pacific",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
+                "home_name": "Queensland Reds",
+                "away_name": "Crusaders",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1775898000,
@@ -614,6 +614,29 @@
             }
         },
         {
+            "match_id": 1388870,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hertha BSC vs 1. FC Kaiserslautern",
+            "slug": "hertha-bsc-vs-1-fc-kaiserslautern-1388870",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hertha BSC",
+                "away_name": "1. FC Kaiserslautern",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%201.%20FC%20Kaiserslautern%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775905200,
+                "start_time_local": "11 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1388872,
             "sport_name": "Football",
             "sport_id": 1,
@@ -660,29 +683,6 @@
             }
         },
         {
-            "match_id": 1388870,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Hertha BSC vs 1. FC Kaiserslautern",
-            "slug": "hertha-bsc-vs-1-fc-kaiserslautern-1388870",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hertha BSC",
-                "away_name": "1. FC Kaiserslautern",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%201.%20FC%20Kaiserslautern%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775905200,
-                "start_time_local": "11 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629488136,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -702,52 +702,6 @@
             "timing": {
                 "start_time_timestamp": 1775906100,
                 "start_time_local": "11 Apr 2026, 05:15 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1387043,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Norwich vs Ipswich",
-            "slug": "norwich-vs-ipswich-1387043",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Norwich",
-                "away_name": "Ipswich",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norwich%20VS%20Ipswich%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775907000,
-                "start_time_local": "11 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379279,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Arsenal vs Bournemouth",
-            "slug": "arsenal-vs-bournemouth-1379279",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arsenal",
-                "away_name": "Bournemouth",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20VS%20Bournemouth%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775907000,
-                "start_time_local": "11 Apr 2026, 05:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -790,6 +744,52 @@
                 "home_name": "Başakşehir",
                 "away_name": "Gençlerbirliği S.K.",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ba%C5%9Fak%C5%9Fehir%20VS%20Gen%C3%A7lerbirli%C4%9Fi%20S.K.%20%20S%C3%BCper%20Lig.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775907000,
+                "start_time_local": "11 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379279,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arsenal vs Bournemouth",
+            "slug": "arsenal-vs-bournemouth-1379279",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arsenal",
+                "away_name": "Bournemouth",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20VS%20Bournemouth%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775907000,
+                "start_time_local": "11 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387043,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Norwich vs Ipswich",
+            "slug": "norwich-vs-ipswich-1387043",
+            "status": "NS",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Norwich",
+                "away_name": "Ipswich",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norwich%20VS%20Ipswich%20%20Championship.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775907000,
