@@ -3,47 +3,81 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:28 PM 11-04-2026"
+        "last_update_time": "09:06:55 PM 11-04-2026"
     },
     "live_matches": [
         {
-            "match_id": 1388563,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "1-fc-heidenheim-vs-union-berlin-1388563",
-            "title": "1. FC Heidenheim vs Union Berlin",
+            "match_id": 1419922,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "sudtirol-vs-modena-1419922",
+            "title": "Sudtirol vs Modena",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sudtirol",
+                "away_name": "Modena",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1578.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/899.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sudtirol%20VS%20Modena%20%20Serie%20B.jpg"
+            },
+            "live_stats": {
+                "match_minute": 90,
+                "home_score": 1,
+                "away_score": 1,
+                "score_string": "1 - 1"
+            },
+            "timing": {
+                "start_time_timestamp": 1775912400,
+                "start_time_local": "11 Apr 2026, 07:00 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=7faf78b81406daf21c0f35017f45f1b1&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1388565,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "rb-leipzig-vs-borussia-monchengladbach-1388565",
+            "title": "RB Leipzig vs Borussia Mönchengladbach",
             "status": "LIVE",
             "league": {
                 "league_name": "Bundesliga",
                 "league_logo": ""
             },
-            "venue": "Voith-Arena",
+            "venue": "TBA",
             "teams": {
-                "home_name": "1. FC Heidenheim",
-                "away_name": "Union Berlin",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/180.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/182.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Heidenheim%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
+                "home_name": "RB Leipzig",
+                "away_name": "Borussia Mönchengladbach",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/173.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/163.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Borussia%20M%C3%B6nchengladbach%20%20Bundesliga.jpg"
             },
             "live_stats": {
-                "match_minute": 71,
-                "home_score": 2,
+                "match_minute": 76,
+                "home_score": 0,
                 "away_score": 0,
-                "score_string": "2 - 0"
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775914200,
                 "start_time_local": "11 Apr 2026, 07:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136436_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=57b5ba44a270a80136b0bb804c8edcd0&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136443_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=587101bedd498bf43c8f55799a4ef7bb&x-time=1775919960"
             }
         },
         {
             "match_id": 1378176,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "cagliari-vs-cremonese-1378176",
             "title": "Cagliari vs Cremonese",
             "status": "LIVE",
@@ -51,12 +85,12 @@
                 "league_name": "Serie A",
                 "league_logo": ""
             },
-            "venue": "Unipol Domus",
+            "venue": "TBA",
             "teams": {
                 "home_name": "Cagliari",
                 "away_name": "Cremonese",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/490.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/520.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/490.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/520.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cagliari%20VS%20Cremonese%20%20Serie%20A.jpg"
             },
             "live_stats": {
@@ -70,16 +104,50 @@
                 "start_time_local": "11 Apr 2026, 07:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54040_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=8fea9d95e7ed4d60ead55d9f8d0222b7&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54040_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=efc8563fd46df2765d5282ddd4d4e3cd&x-time=1775919960"
             }
         },
         {
-            "match_id": 1388565,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "rb-leipzig-vs-borussia-monchengladbach-1388565",
-            "title": "RB Leipzig vs Borussia Mönchengladbach",
+            "match_id": 1378183,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "torino-vs-hellas-verona-1378183",
+            "title": "Torino vs Hellas Verona",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Torino",
+                "away_name": "Hellas Verona",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/503.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/504.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torino%20VS%20Hellas%20Verona%20%20Serie%20A.jpg"
+            },
+            "live_stats": {
+                "match_minute": 90,
+                "home_score": 2,
+                "away_score": 1,
+                "score_string": "2 - 1"
+            },
+            "timing": {
+                "start_time_timestamp": 1775912400,
+                "start_time_local": "11 Apr 2026, 07:00 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54041_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=73173eca2d0f8ada10d643bcde94897d&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1388563,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "1-fc-heidenheim-vs-union-berlin-1388563",
+            "title": "1. FC Heidenheim vs Union Berlin",
             "status": "LIVE",
             "league": {
                 "league_name": "Bundesliga",
@@ -87,65 +155,31 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "RB Leipzig",
-                "away_name": "Borussia Mönchengladbach",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/173.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/163.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Borussia%20M%C3%B6nchengladbach%20%20Bundesliga.jpg"
+                "home_name": "1. FC Heidenheim",
+                "away_name": "Union Berlin",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/180.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/182.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Heidenheim%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
             },
             "live_stats": {
-                "match_minute": 71,
-                "home_score": 0,
-                "away_score": 0,
-                "score_string": "0 - 0"
+                "match_minute": 77,
+                "home_score": 2,
+                "away_score": 1,
+                "score_string": "2 - 1"
             },
             "timing": {
                 "start_time_timestamp": 1775914200,
                 "start_time_local": "11 Apr 2026, 07:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136443_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=c5153bb0999fdcde33b5916378ef2bde&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1388568,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "vfl-wolfsburg-vs-eintracht-frankfurt-1388568",
-            "title": "VfL Wolfsburg vs Eintracht Frankfurt",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "Volkswagen Arena",
-            "teams": {
-                "home_name": "VfL Wolfsburg",
-                "away_name": "Eintracht Frankfurt",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/161.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/169.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20VS%20Eintracht%20Frankfurt%20%20Bundesliga.jpg"
-            },
-            "live_stats": {
-                "match_minute": 71,
-                "home_score": 0,
-                "away_score": 2,
-                "score_string": "0 - 2"
-            },
-            "timing": {
-                "start_time_timestamp": 1775914200,
-                "start_time_local": "11 Apr 2026, 07:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136435_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=c6a8fef73929276075609a5f04b89ed2&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136436_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=943afdaf8409f25ba5ba47a0763c72b9&x-time=1775919960"
             }
         },
         {
             "match_id": 1380633,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "widzew-lodz-vs-nieciecza-1380633",
             "title": "Widzew Łódź vs Nieciecza",
             "status": "LIVE",
@@ -153,13 +187,13 @@
                 "league_name": "Ekstraklasa",
                 "league_logo": ""
             },
-            "venue": "Stadion Miejski Widzewa Łódź",
+            "venue": "TBA",
             "teams": {
                 "home_name": "Widzew Łódź",
                 "away_name": "Nieciecza",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/6962.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/3487.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Widzew%20%C5%81%C3%B3d%C5%BA%20VS%20Nieciecza%20%20Ekstraklasa.jpg"
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/6962.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/3487.png",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "live_stats": {
                 "match_minute": 90,
@@ -172,8 +206,110 @@
                 "start_time_local": "11 Apr 2026, 06:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=692c2b8c77b791c5d6733b655ba8b426&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=a37845ec823d990e0a1bc9f4c385b333&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1388568,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "vfl-wolfsburg-vs-eintracht-frankfurt-1388568",
+            "title": "VfL Wolfsburg vs Eintracht Frankfurt",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "VfL Wolfsburg",
+                "away_name": "Eintracht Frankfurt",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/161.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/169.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20VS%20Eintracht%20Frankfurt%20%20Bundesliga.jpg"
+            },
+            "live_stats": {
+                "match_minute": 77,
+                "home_score": 0,
+                "away_score": 2,
+                "score_string": "0 - 2"
+            },
+            "timing": {
+                "start_time_timestamp": 1775914200,
+                "start_time_local": "11 Apr 2026, 07:30 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136435_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=389ddb1139538d5e528325b8644eaeae&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1398229,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "farense-vs-sporting-cp-b-1398229",
+            "title": "Farense vs Sporting CP B",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Farense",
+                "away_name": "Sporting CP B",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/231.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/761.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20Sporting%20CP%20B%20%20Segunda%20Liga.jpg"
+            },
+            "live_stats": {
+                "match_minute": 90,
+                "home_score": 2,
+                "away_score": 1,
+                "score_string": "2 - 1"
+            },
+            "timing": {
+                "start_time_timestamp": 1775912400,
+                "start_time_local": "11 Apr 2026, 07:00 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/34464_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=8cfc74bae9c1b252d76be77b06e410f7&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1419925,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "juve-stabia-vs-cesena-1419925",
+            "title": "Juve Stabia vs Cesena",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Juve Stabia",
+                "away_name": "Cesena",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/863.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/509.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juve%20Stabia%20VS%20Cesena%20%20Serie%20B.jpg"
+            },
+            "live_stats": {
+                "match_minute": 90,
+                "home_score": 2,
+                "away_score": 0,
+                "score_string": "2 - 0"
+            },
+            "timing": {
+                "start_time_timestamp": 1775912400,
+                "start_time_local": "11 Apr 2026, 07:00 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=41798d27889e54d25914a61f8fc6f2fb&x-time=1775919960"
             }
         },
         {
@@ -206,178 +342,8 @@
                 "start_time_local": "11 Apr 2026, 03:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=225448c905a09a5edba38333a3be2180&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1398229,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "farense-vs-sporting-cp-b-1398229",
-            "title": "Farense vs Sporting CP B",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Segunda Liga",
-                "league_logo": ""
-            },
-            "venue": "Estádio de São Lúis",
-            "teams": {
-                "home_name": "Farense",
-                "away_name": "Sporting CP B",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/231.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/761.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20Sporting%20CP%20B%20%20Segunda%20Liga.jpg"
-            },
-            "live_stats": {
-                "match_minute": 90,
-                "home_score": 2,
-                "away_score": 1,
-                "score_string": "2 - 1"
-            },
-            "timing": {
-                "start_time_timestamp": 1775912400,
-                "start_time_local": "11 Apr 2026, 07:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/34464_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=ef830aee380c47197b3c445008d4520a&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1378183,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "torino-vs-hellas-verona-1378183",
-            "title": "Torino vs Hellas Verona",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Torino",
-                "away_name": "Hellas Verona",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/503.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/504.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torino%20VS%20Hellas%20Verona%20%20Serie%20A.jpg"
-            },
-            "live_stats": {
-                "match_minute": 90,
-                "home_score": 2,
-                "away_score": 1,
-                "score_string": "2 - 1"
-            },
-            "timing": {
-                "start_time_timestamp": 1775912400,
-                "start_time_local": "11 Apr 2026, 07:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54041_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=654e0396a7aafc8f1513a019ce8f9272&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1419925,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "juve-stabia-vs-cesena-1419925",
-            "title": "Juve Stabia vs Cesena",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "Stadio Comunale Romeo Menti",
-            "teams": {
-                "home_name": "Juve Stabia",
-                "away_name": "Cesena",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/863.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/509.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juve%20Stabia%20VS%20Cesena%20%20Serie%20B.jpg"
-            },
-            "live_stats": {
-                "match_minute": 90,
-                "home_score": 2,
-                "away_score": 0,
-                "score_string": "2 - 0"
-            },
-            "timing": {
-                "start_time_timestamp": 1775912400,
-                "start_time_local": "11 Apr 2026, 07:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=5ae926e898508669cec85b82c14bfdad&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1419922,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "sudtirol-vs-modena-1419922",
-            "title": "Sudtirol vs Modena",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "Stadio Marco Druso",
-            "teams": {
-                "home_name": "Sudtirol",
-                "away_name": "Modena",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/1578.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/899.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sudtirol%20VS%20Modena%20%20Serie%20B.jpg"
-            },
-            "live_stats": {
-                "match_minute": 90,
-                "home_score": 1,
-                "away_score": 1,
-                "score_string": "1 - 1"
-            },
-            "timing": {
-                "start_time_timestamp": 1775912400,
-                "start_time_local": "11 Apr 2026, 07:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=0be8640fb0c83196de6f060bd401c7ad&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
-        {
-            "match_id": 1391122,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
-            "slug": "elche-vs-valencia-1391122",
-            "title": "Elche vs Valencia",
-            "status": "LIVE",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "Estadio Manuel Martínez Valero",
-            "teams": {
-                "home_name": "Elche",
-                "away_name": "Valencia",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/797.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/532.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Elche%20VS%20Valencia%20%20La%20Liga.jpg"
-            },
-            "live_stats": {
-                "match_minute": 43,
-                "home_score": 0,
-                "away_score": 0,
-                "score_string": "0 - 0"
-            },
-            "timing": {
-                "start_time_timestamp": 1775916900,
-                "start_time_local": "11 Apr 2026, 08:15 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/271336_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=450e2108b07ea2401a9f115b903fa9d8&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=b5cab11e762d55e904cdf2ebc58c5fc7&x-time=1775919960"
             }
         },
         {
@@ -410,14 +376,48 @@
                 "start_time_local": "11 Apr 2026, 07:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=bb8811eb9f58c3a768c3a9fa1d01cd54&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=d5e58ba74f2394f2dfc948ceea89cfcc&x-time=1775919960"
+            }
+        },
+        {
+            "match_id": 1387045,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "leicester-vs-swansea-1387045",
+            "title": "Leicester vs Swansea",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Leicester",
+                "away_name": "Swansea",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/46.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/76.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20VS%20Swansea%20%20Championship.jpg"
+            },
+            "live_stats": {
+                "match_minute": 48,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
+            },
+            "timing": {
+                "start_time_timestamp": 1775916000,
+                "start_time_local": "11 Apr 2026, 08:00 PM"
+            },
+            "stream": {
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=19e30ca4f054fda3c16f062476490140&x-time=1775919960"
             }
         },
         {
             "match_id": 1396489,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "avs-vs-guimaraes-1396489",
             "title": "AVS vs Guimaraes",
             "status": "LIVE",
@@ -425,33 +425,33 @@
                 "league_name": "Primeira Liga",
                 "league_logo": ""
             },
-            "venue": "Estádio Clube Desportivo das Aves",
+            "venue": "TBA",
             "teams": {
                 "home_name": "AVS",
                 "away_name": "Guimaraes",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/21595.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/224.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/21595.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/224.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AVS%20VS%20Guimaraes%20%20Primeira%20Liga.jpg"
             },
             "live_stats": {
-                "match_minute": 27,
-                "home_score": 0,
+                "match_minute": 33,
+                "home_score": 1,
                 "away_score": 1,
-                "score_string": "0 - 1"
+                "score_string": "1 - 1"
             },
             "timing": {
                 "start_time_timestamp": 1775917800,
                 "start_time_local": "11 Apr 2026, 08:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=453db9d020298ca80c67aa7965ff4b96&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=48ec56d734230c99f877ebb18ee26481&x-time=1775919960"
             }
         },
         {
             "match_id": 1419927,
-            "sport_name": "Unknown Sport (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "avellino-vs-catanzaro-1419927",
             "title": "Avellino vs Catanzaro",
             "status": "LIVE",
@@ -459,12 +459,12 @@
                 "league_name": "Serie B",
                 "league_logo": ""
             },
-            "venue": "Stadio Benito Stirpe",
+            "venue": "TBA",
             "teams": {
                 "home_name": "Avellino",
                 "away_name": "Catanzaro",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/528.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/1687.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/528.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/1687.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avellino%20VS%20Catanzaro%20%20Serie%20B.jpg"
             },
             "live_stats": {
@@ -478,8 +478,8 @@
                 "start_time_local": "11 Apr 2026, 09:15 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=a723d3141e9c075b2f7f0ab46c1c4bd346b8c2cc&x-sign=0be8640fb0c83196de6f060bd401c7ad&x-time=1775919600",
-                "required_referer": "https://iframe.lucifershop.info/"
+                "required_referer": "https://iframe.lucifershop.info/",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=5924dc51fcc6d60d2953eb183b0511bbc82f0fa9&x-sign=7faf78b81406daf21c0f35017f45f1b1&x-time=1775919960"
             }
         }
     ],
@@ -487,8 +487,8 @@
     "upcoming_matches": [
         {
             "match_id": 1380635,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "zaglebie-lubin-vs-radomiak-radom-1380635",
             "title": "Zaglebie Lubin vs Radomiak Radom",
             "status": "NS",
@@ -500,13 +500,50 @@
             "teams": {
                 "home_name": "Zaglebie Lubin",
                 "away_name": "Radomiak Radom",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/345.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/4248.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/345.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/4248.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zaglebie%20Lubin%20VS%20Radomiak%20Radom%20%20Ekstraklasa.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775921400,
                 "start_time_local": "11 Apr 2026, 09:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378180,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "ac-milan-vs-udinese-1378180",
+            "title": "AC Milan vs Udinese",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "AC Milan",
+                "away_name": "Udinese",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/489.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/494.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AC%20Milan%20VS%20Udinese%20%20Serie%20A.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
+            },
+            "timing": {
+                "start_time_timestamp": 1775923200,
+                "start_time_local": "11 Apr 2026, 10:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -529,30 +566,11 @@
                 "away_logo": "",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
-            "timing": {
-                "start_time_timestamp": 1775923200,
-                "start_time_local": "11 Apr 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1378180,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
-            "slug": "ac-milan-vs-udinese-1378180",
-            "title": "AC Milan vs Udinese",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "Stadio Giuseppe Meazza",
-            "teams": {
-                "home_name": "AC Milan",
-                "away_name": "Udinese",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/489.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/494.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AC%20Milan%20VS%20Udinese%20%20Serie%20A.jpg"
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775923200,
@@ -561,23 +579,29 @@
             }
         },
         {
-            "match_id": 1391120,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
-            "slug": "barcelona-vs-espanyol-1391120",
-            "title": "Barcelona vs Espanyol",
+            "match_id": 1379284,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "liverpool-vs-fulham-1379284",
+            "title": "Liverpool vs Fulham",
             "status": "NS",
             "league": {
-                "league_name": "La Liga",
+                "league_name": "Premier League",
                 "league_logo": ""
             },
-            "venue": "Camp Nou",
+            "venue": "TBA",
             "teams": {
-                "home_name": "Barcelona",
-                "away_name": "Espanyol",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/529.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/540.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20VS%20Espanyol%20%20La%20Liga.jpg"
+                "home_name": "Liverpool",
+                "away_name": "Fulham",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/40.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/36.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Fulham%20%20Premier%20League.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775925000,
@@ -586,23 +610,29 @@
             }
         },
         {
-            "match_id": 1379284,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
-            "slug": "liverpool-vs-fulham-1379284",
-            "title": "Liverpool vs Fulham",
+            "match_id": 1391120,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "barcelona-vs-espanyol-1391120",
+            "title": "Barcelona vs Espanyol",
             "status": "NS",
             "league": {
-                "league_name": "Premier League",
+                "league_name": "La Liga",
                 "league_logo": ""
             },
-            "venue": "Anfield",
+            "venue": "TBA",
             "teams": {
-                "home_name": "Liverpool",
-                "away_name": "Fulham",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/40.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/36.png",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Fulham%20%20Premier%20League.jpg"
+                "home_name": "Barcelona",
+                "away_name": "Espanyol",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/529.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/540.png",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20VS%20Espanyol%20%20La%20Liga.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775925000,
@@ -612,8 +642,8 @@
         },
         {
             "match_id": 1388566,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "fc-st-pauli-vs-bayern-munchen-1388566",
             "title": "FC St. Pauli vs Bayern München",
             "status": "NS",
@@ -621,13 +651,19 @@
                 "league_name": "Bundesliga",
                 "league_logo": ""
             },
-            "venue": "Millerntor-Stadion",
+            "venue": "TBA",
             "teams": {
                 "home_name": "FC St. Pauli",
                 "away_name": "Bayern München",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/186.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/157.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/186.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/157.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20St.%20Pauli%20VS%20Bayern%20M%C3%BCnchen%20%20Bundesliga.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775925000,
@@ -637,8 +673,8 @@
         },
         {
             "match_id": 1381133,
-            "sport_name": "Unknown (None)",
-            "sport_id": null,
+            "sport_name": "Football",
+            "sport_id": 1,
             "slug": "sparta-rotterdam-vs-psv-eindhoven-1381133",
             "title": "Sparta Rotterdam vs PSV Eindhoven",
             "status": "NS",
@@ -646,13 +682,19 @@
                 "league_name": "Eredivisie",
                 "league_logo": ""
             },
-            "venue": "Sparta-Stadion Het Kasteel",
+            "venue": "TBA",
             "teams": {
                 "home_name": "Sparta Rotterdam",
                 "away_name": "PSV Eindhoven",
-                "home_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/426.png",
-                "away_logo": "https://i0.wp.com/image-ra-1.yeahscore1.com/football/teams/197.png",
+                "home_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/426.png",
+                "away_logo": "https://i0.wp.com/image-ra-1.axscore1.com/football/teams/197.png",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sparta%20Rotterdam%20VS%20PSV%20Eindhoven%20%20Eredivisie.jpg"
+            },
+            "live_stats": {
+                "match_minute": 0,
+                "home_score": 0,
+                "away_score": 0,
+                "score_string": "0 - 0"
             },
             "timing": {
                 "start_time_timestamp": 1775925900,
