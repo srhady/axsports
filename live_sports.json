@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:41 AM 12-04-2026"
+        "last_update_time": "04:15:34 AM 12-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1396494,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "estrela-vs-sporting-cp-1396494",
-            "title": "Estrela vs Sporting CP",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Primeira Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Estrela",
-                "away_name": "Sporting CP",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775935800,
-                "start_time_local": "12 Apr 2026, 01:30 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=7dbdb9900ccce9ee1114e0c9d412e2d0b67ab0cd&x-sign=7af24d513c648087e4d5e30f0d352ca2&x-time=1775944800",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629488149,
             "sport_name": "MMA",
@@ -54,20 +28,17 @@
                 "start_time_local": "12 Apr 2026, 03:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=7dbdb9900ccce9ee1114e0c9d412e2d0b67ab0cd&x-sign=e0f1ceb669548bf303c17e8b46772860&x-time=1775944800",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=ca1e307d4047156aad51218f2138127a27439123&x-sign=ca2dd37de3e4d49c07053e148526f600&x-time=1775945700",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 1,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1492015,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Boca Juniors vs Independiente",
             "slug": "boca-juniors-vs-independiente-1492015",
-            "status": "NS",
+            "title": "Boca Juniors vs Independiente",
+            "status": "LIVE",
             "league": {
                 "league_name": "Liga Profesional Argentina",
                 "league_logo": ""
@@ -80,9 +51,14 @@
             },
             "timing": {
                 "start_time_timestamp": 1775946600,
-                "start_time_local": "12 Apr 2026, 04:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "12 Apr 2026, 04:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=ca1e307d4047156aad51218f2138127a27439123&x-sign=84df9aa73666a49c306205402d5cc4b3&x-time=1775945700",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         }
-    ]
+    ],
+    "total_upcoming_matches": 0,
+    "upcoming_matches": []
 }
