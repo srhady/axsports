@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:33 AM 12-04-2026"
+        "last_update_time": "10:30:29 AM 12-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629488152,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "ufc-327-prochazka-vs-ulberg-1629488152",
-            "title": "UFC 327: PROCHAZKA vs ULBERG",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775955600,
-                "start_time_local": "12 Apr 2026, 07:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=909365d82d57a962e5a4ea864982ce8afc3c8002&x-sign=b83dfee60fea3454ccba7d8209e54968&x-time=1775967300",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629488153,
             "sport_name": "Rugby",
@@ -80,13 +54,59 @@
                 "start_time_local": "12 Apr 2026, 10:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=909365d82d57a962e5a4ea864982ce8afc3c8002&x-sign=82414f881f2c8fec675c756a9a5d04ab&x-time=1775967300",
+                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=e13f0da3e2124198c31ec0ab63520385017f3060&x-sign=109376f04de666fb993661efdc0c2f2e&x-time=1775968200",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 26,
+    "total_upcoming_matches": 30,
     "upcoming_matches": [
+        {
+            "match_id": 1504747,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Urawa vs Tokyo Verdy",
+            "slug": "urawa-vs-tokyo-verdy-1504747",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Urawa",
+                "away_name": "Tokyo Verdy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775970000,
+                "start_time_local": "12 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629488164,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Richmond Tigers vs GWS GIANTS",
+            "slug": "richmond-tigers-vs-gws-giants-1629488164",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Richmond Tigers",
+                "away_name": "GWS GIANTS",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Richmond%20Tigers%20VS%20GWS%20GIANTS%20%20AFL%20Premiership.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775970000,
+                "start_time_local": "12 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1629488165,
             "sport_name": "Baseball",
@@ -149,52 +169,6 @@
                 "home_name": "Melbourne City",
                 "away_name": "Wellington Phoenix",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Wellington%20Phoenix%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775970000,
-                "start_time_local": "12 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504747,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Urawa vs Tokyo Verdy",
-            "slug": "urawa-vs-tokyo-verdy-1504747",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Urawa",
-                "away_name": "Tokyo Verdy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775970000,
-                "start_time_local": "12 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629488164,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Richmond Tigers vs GWS GIANTS",
-            "slug": "richmond-tigers-vs-gws-giants-1629488164",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Richmond Tigers",
-                "away_name": "GWS GIANTS",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Richmond%20Tigers%20VS%20GWS%20GIANTS%20%20AFL%20Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775970000,
@@ -571,29 +545,6 @@
             }
         },
         {
-            "match_id": 1379287,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sunderland vs Tottenham",
-            "slug": "sunderland-vs-tottenham-1379287",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sunderland",
-                "away_name": "Tottenham",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunderland%20VS%20Tottenham%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1775998800,
-                "start_time_local": "12 Apr 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1378181,
             "sport_name": "Football",
             "sport_id": 1,
@@ -617,6 +568,29 @@
             }
         },
         {
+            "match_id": 1419921,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Padova vs Empoli",
+            "slug": "padova-vs-empoli-1419921",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Padova",
+                "away_name": "Empoli",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Padova%20VS%20Empoli%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775998800,
+                "start_time_local": "12 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1379286,
             "sport_name": "Football",
             "sport_id": 1,
@@ -632,6 +606,29 @@
                 "home_name": "Nottingham Forest",
                 "away_name": "Aston Villa",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Aston%20Villa%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775998800,
+                "start_time_local": "12 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379287,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sunderland vs Tottenham",
+            "slug": "sunderland-vs-tottenham-1379287",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sunderland",
+                "away_name": "Tottenham",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunderland%20VS%20Tottenham%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1775998800,
@@ -682,6 +679,75 @@
             "timing": {
                 "start_time_timestamp": 1775998800,
                 "start_time_local": "12 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388562,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1. FC Köln vs Werder Bremen",
+            "slug": "1-fc-koln-vs-werder-bremen-1388562",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1. FC Köln",
+                "away_name": "Werder Bremen",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20K%C3%B6ln%20VS%20Werder%20Bremen%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776000600,
+                "start_time_local": "12 Apr 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1536941,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Genk vs OH Leuven",
+            "slug": "genk-vs-oh-leuven-1536941",
+            "status": "NS",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Genk",
+                "away_name": "OH Leuven",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genk%20VS%20OH%20Leuven%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776002400,
+                "start_time_local": "12 Apr 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1529693,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Luton vs Stockport County",
+            "slug": "luton-vs-stockport-county-1529693",
+            "status": "NS",
+            "league": {
+                "league_name": "EFL Trophy",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Luton",
+                "away_name": "Stockport County",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luton%20VS%20Stockport%20County%20%20EFL%20Trophy.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776002400,
+                "start_time_local": "12 Apr 2026, 08:00 PM",
                 "countdown_seconds": null
             }
         }
