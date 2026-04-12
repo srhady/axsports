@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:46 AM 12-04-2026"
+        "last_update_time": "06:15:41 AM 12-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629488149,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "ufc-327-fight-pass-prelims-1629488149",
-            "title": "UFC 327: FIGHT PASS PRELIMS",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1775943000,
-                "start_time_local": "12 Apr 2026, 03:30 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=42797fb6c0a2e4e445d4cce20a1179af062fdb7c&x-sign=cefbfa9104dd4e5ad4c48e49fdc69e66&x-time=1775952000",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1492015,
             "sport_name": "Football",
@@ -54,7 +28,7 @@
                 "start_time_local": "12 Apr 2026, 04:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=42797fb6c0a2e4e445d4cce20a1179af062fdb7c&x-sign=ff868a8382153078b0b16a353a817639&x-time=1775952000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=2d59976e2714c24e10fd148077da16005bc59dbf&x-sign=279d98cf2cd4a74e7816ff96fd7ec7d2&x-time=1775952900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -80,12 +54,12 @@
                 "start_time_local": "12 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/533768_hd/index.m3u8?is_vip=false&token=42797fb6c0a2e4e445d4cce20a1179af062fdb7c&x-sign=096c19814dd8404385c667c7aa7dd3f1&x-time=1775952000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=2d59976e2714c24e10fd148077da16005bc59dbf&x-sign=4a7f1ac80ae3f2ba22ca8da1eb3986d0&x-time=1775952900",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 4,
+    "total_upcoming_matches": 6,
     "upcoming_matches": [
         {
             "match_id": 1629488152,
@@ -176,6 +150,52 @@
             "timing": {
                 "start_time_timestamp": 1775966400,
                 "start_time_local": "12 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504747,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Urawa vs Tokyo Verdy",
+            "slug": "urawa-vs-tokyo-verdy-1504747",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Urawa",
+                "away_name": "Tokyo Verdy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775970000,
+                "start_time_local": "12 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469698,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Melbourne City vs Wellington Phoenix",
+            "slug": "melbourne-city-vs-wellington-phoenix-1469698",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Melbourne City",
+                "away_name": "Wellington Phoenix",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Wellington%20Phoenix%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1775970000,
+                "start_time_local": "12 Apr 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         }
