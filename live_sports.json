@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:29 PM 12-04-2026"
+        "last_update_time": "02:45:35 PM 12-04-2026"
     },
     "live_matches": [
         {
@@ -28,20 +28,17 @@
                 "start_time_local": "12 Apr 2026, 02:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=3b2a36757aae385fef61cae41d8403d4&x-time=1775982600",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1419_hd/index.m3u8?is_vip=false&token=f1d7127bdbf60a3f512d64acb3de317e3850275a&x-sign=5b345666ae723f0ebccf2b18748d8764&x-time=1775983500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1469699,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Perth Glory vs Macarthur",
             "slug": "perth-glory-vs-macarthur-1469699",
-            "status": "NS",
+            "title": "Perth Glory vs Macarthur",
+            "status": "LIVE",
             "league": {
                 "league_name": "A-League",
                 "league_logo": ""
@@ -54,10 +51,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1775984400,
-                "start_time_local": "12 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "12 Apr 2026, 03:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/238_hd/index.m3u8?is_vip=false&token=f1d7127bdbf60a3f512d64acb3de317e3850275a&x-sign=4bababf55589d3f578ac0d0a5c8310bc&x-time=1775983500",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
             "match_id": 1629489376,
             "sport_name": "Tennis",
@@ -947,7 +950,7 @@
             "teams": {
                 "home_name": "Celta Vigo",
                 "away_name": "Oviedo",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celta%20Vigo%20VS%20Oviedo%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776011400,
