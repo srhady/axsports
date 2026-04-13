@@ -3,10 +3,63 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:23 AM 14-04-2026"
+        "last_update_time": "05:45:30 AM 14-04-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 40,
+    "live_matches": [
+        {
+            "match_id": 1629489381,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "tennis-section-1629489381",
+            "title": "Tennis Section",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Tennis",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776123020,
+                "start_time_local": "14 Apr 2026, 05:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=1a985aaa740d7d2ca52ff4bf04b660f183d439b6&x-sign=31c8adabb09424954f5cc7f767ab69e4&x-time=1776123900",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629489379,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-1629489379",
+            "title": "Auto racing",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776123020,
+                "start_time_local": "14 Apr 2026, 05:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=1a985aaa740d7d2ca52ff4bf04b660f183d439b6&x-sign=89d64a2fea863df422cd16e173c38d47&x-time=1776123900",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        }
+    ],
+    "total_upcoming_matches": 38,
     "upcoming_matches": [
         {
             "match_id": 1629488196,
@@ -28,29 +81,6 @@
             "timing": {
                 "start_time_timestamp": 1776135600,
                 "start_time_local": "14 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629488198,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Tokyo Yakult Swallows",
-            "slug": "tohoku-rakuten-golden-eagles-vs-tokyo-yakult-swallows-1629488198",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776139200,
-                "start_time_local": "14 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -101,11 +131,34 @@
             }
         },
         {
-            "match_id": 1629488203,
+            "match_id": 1629488198,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Hokkaido Nippon-Ham Fighters",
-            "slug": "chiba-lotte-marines-vs-hokkaido-nippon-ham-fighters-1629488203",
+            "title": "Tohoku Rakuten Golden Eagles vs Tokyo Yakult Swallows",
+            "slug": "tohoku-rakuten-golden-eagles-vs-tokyo-yakult-swallows-1629488198",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776139200,
+                "start_time_local": "14 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629488202,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles",
+            "slug": "fukuoka-softbank-hawks-vs-tohoku-rakuten-golden-eagles-1629488202",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -113,8 +166,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -147,6 +200,29 @@
             }
         },
         {
+            "match_id": 1629488203,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Hokkaido Nippon-Ham Fighters",
+            "slug": "chiba-lotte-marines-vs-hokkaido-nippon-ham-fighters-1629488203",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776157200,
+                "start_time_local": "14 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629488200,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -161,29 +237,6 @@
             "teams": {
                 "home_name": "Tokyo Yakult Swallows",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776157200,
-                "start_time_local": "14 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629488202,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles",
-            "slug": "fukuoka-softbank-hawks-vs-tohoku-rakuten-golden-eagles-1629488202",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
