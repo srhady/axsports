@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:00:35 AM 13-04-2026"
+        "last_update_time": "11:15:29 AM 13-04-2026"
     },
     "live_matches": [
         {
@@ -28,12 +28,38 @@
                 "start_time_local": "13 Apr 2026, 08:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=1b555c6969281389a7da36b4102453cc5ee9ecbc&x-sign=9e558078ebfc23256aba2eac6028f20b&x-time=1776056400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=9482bf7fcb9bcfa84e224689c4831803acda3ec8&x-sign=8427a90fd14e22ae15a2e4302c41a987&x-time=1776057300",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629489381,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "sky-tennis-1629489381",
+            "title": "sky tennis",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Tennis",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776056240,
+                "start_time_local": "13 Apr 2026, 10:57 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=9482bf7fcb9bcfa84e224689c4831803acda3ec8&x-sign=1c5375252aad3972c49c5537f6735706&x-time=1776057300",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 36,
+    "total_upcoming_matches": 38,
     "upcoming_matches": [
         {
             "match_id": 1629488195,
@@ -82,21 +108,21 @@
             }
         },
         {
-            "match_id": 1380632,
+            "match_id": 1398226,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Piast Gliwice vs Pogon Szczecin",
-            "slug": "piast-gliwice-vs-pogon-szczecin-1380632",
+            "title": "Lusitânia Lourosa vs FC Porto B",
+            "slug": "lusitania-lourosa-vs-fc-porto-b-1398226",
             "status": "NS",
             "league": {
-                "league_name": "Ekstraklasa",
+                "league_name": "Segunda Liga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Piast Gliwice",
-                "away_name": "Pogon Szczecin",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Pogon%20Szczecin%20%20Ekstraklasa.jpg"
+                "home_name": "Lusitânia Lourosa",
+                "away_name": "FC Porto B",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lusit%C3%A2nia%20Lourosa%20VS%20FC%20Porto%20B%20%20Segunda%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776099600,
@@ -151,21 +177,21 @@
             }
         },
         {
-            "match_id": 1398226,
+            "match_id": 1380632,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Lusitânia Lourosa vs FC Porto B",
-            "slug": "lusitania-lourosa-vs-fc-porto-b-1398226",
+            "title": "Piast Gliwice vs Pogon Szczecin",
+            "slug": "piast-gliwice-vs-pogon-szczecin-1380632",
             "status": "NS",
             "league": {
-                "league_name": "Segunda Liga",
+                "league_name": "Ekstraklasa",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Lusitânia Lourosa",
-                "away_name": "FC Porto B",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lusit%C3%A2nia%20Lourosa%20VS%20FC%20Porto%20B%20%20Segunda%20Liga.jpg"
+                "home_name": "Piast Gliwice",
+                "away_name": "Pogon Szczecin",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Pogon%20Szczecin%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776099600,
@@ -243,29 +269,6 @@
             }
         },
         {
-            "match_id": 1391123,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Levante vs Getafe",
-            "slug": "levante-vs-getafe-1391123",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Levante",
-                "away_name": "Getafe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20VS%20Getafe%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776106800,
-                "start_time_local": "14 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1379285,
             "sport_name": "Football",
             "sport_id": 1,
@@ -281,6 +284,29 @@
                 "home_name": "Manchester United",
                 "away_name": "Leeds",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20VS%20Leeds%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776106800,
+                "start_time_local": "14 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391123,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Levante vs Getafe",
+            "slug": "levante-vs-getafe-1391123",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Levante",
+                "away_name": "Getafe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20VS%20Getafe%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776106800,
