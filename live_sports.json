@@ -3,18 +3,18 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:37 PM 14-04-2026"
+        "last_update_time": "05:45:43 PM 14-04-2026"
     },
     "live_matches": [
         {
-            "match_id": 1629489379,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "auto-racing-1629489379",
-            "title": "Auto racing",
+            "match_id": 1629489393,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "center-court-1629489393",
+            "title": "Center Court",
             "status": "LIVE",
             "league": {
-                "league_name": "Auto Racing",
+                "league_name": "BMW Open",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -24,11 +24,11 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1776123020,
-                "start_time_local": "14 Apr 2026, 05:30 AM"
+                "start_time_timestamp": 1776157200,
+                "start_time_local": "14 Apr 2026, 03:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=5d88ccc875d416a70b55f8ee732dfccccec5e133&x-sign=ba9c0b78b58cecfcd8297d718c68ad54&x-time=1776166200",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=0cf74c5f9627f58578d0fd2e95cb0434851a5ddb&x-sign=cc3065928f04f46b48d035a3e164bee2&x-time=1776167100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
@@ -54,46 +54,17 @@
                 "start_time_local": "14 Apr 2026, 03:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=5d88ccc875d416a70b55f8ee732dfccccec5e133&x-sign=3141dca9dab9d15afab449e9540670be&x-time=1776166200",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=0cf74c5f9627f58578d0fd2e95cb0434851a5ddb&x-sign=53edb0bfcb812811dc95f3741050ab81&x-time=1776167100",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
-            "match_id": 1629489393,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "center-court-1629489393",
-            "title": "Center Court",
-            "status": "LIVE",
-            "league": {
-                "league_name": "BMW Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776157200,
-                "start_time_local": "14 Apr 2026, 03:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=5d88ccc875d416a70b55f8ee732dfccccec5e133&x-sign=3d3abd453f67bba5c0c2d7a15c68d1b6&x-time=1776166200",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
-        {
             "match_id": 1629488207,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "Players Championship 10",
             "slug": "players-championship-10-1629488207",
-            "status": "NS",
+            "title": "Players Championship 10",
+            "status": "LIVE",
             "league": {
                 "league_name": "Players Championship",
                 "league_logo": ""
@@ -106,10 +77,16 @@
             },
             "timing": {
                 "start_time_timestamp": 1776168000,
-                "start_time_local": "14 Apr 2026, 06:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "14 Apr 2026, 06:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=0cf74c5f9627f58578d0fd2e95cb0434851a5ddb&x-sign=10def4c787e7c34148de143ed76048e7&x-time=1776167100",
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1629488208,
             "sport_name": "Cycling",
@@ -180,29 +157,6 @@
             }
         },
         {
-            "match_id": 1524399,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Al-Ittihad FC vs Al Wahda FC",
-            "slug": "al-ittihad-fc-vs-al-wahda-fc-1524399",
-            "status": "NS",
-            "league": {
-                "league_name": "AFC Champions League Elite",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Al-Ittihad FC",
-                "away_name": "Al Wahda FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ittihad%20FC%20VS%20Al%20Wahda%20FC%20%20AFC%20Champions%20League%20Elite.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776189600,
-                "start_time_local": "15 Apr 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1436168,
             "sport_name": "Football",
             "sport_id": 1,
@@ -249,21 +203,44 @@
             }
         },
         {
-            "match_id": 1386468,
+            "match_id": 1524399,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Chesterfield vs Grimsby",
-            "slug": "chesterfield-vs-grimsby-1386468",
+            "title": "Al-Ittihad FC vs Al Wahda FC",
+            "slug": "al-ittihad-fc-vs-al-wahda-fc-1524399",
             "status": "NS",
             "league": {
-                "league_name": "League Two",
+                "league_name": "AFC Champions League Elite",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chesterfield",
-                "away_name": "Grimsby",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chesterfield%20VS%20Grimsby%20%20League%20Two.jpg"
+                "home_name": "Al-Ittihad FC",
+                "away_name": "Al Wahda FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ittihad%20FC%20VS%20Al%20Wahda%20FC%20%20AFC%20Champions%20League%20Elite.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776189600,
+                "start_time_local": "15 Apr 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387582,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Huddersfield vs Cardiff",
+            "slug": "huddersfield-vs-cardiff-1387582",
+            "status": "NS",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Huddersfield",
+                "away_name": "Cardiff",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Huddersfield%20VS%20Cardiff%20%20League%20One.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776192300,
@@ -295,21 +272,21 @@
             }
         },
         {
-            "match_id": 1387582,
+            "match_id": 1386468,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Huddersfield vs Cardiff",
-            "slug": "huddersfield-vs-cardiff-1387582",
+            "title": "Chesterfield vs Grimsby",
+            "slug": "chesterfield-vs-grimsby-1386468",
             "status": "NS",
             "league": {
-                "league_name": "League One",
+                "league_name": "League Two",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Huddersfield",
-                "away_name": "Cardiff",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Huddersfield%20VS%20Cardiff%20%20League%20One.jpg"
+                "home_name": "Chesterfield",
+                "away_name": "Grimsby",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chesterfield%20VS%20Grimsby%20%20League%20Two.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776192300,
@@ -364,29 +341,6 @@
             }
         },
         {
-            "match_id": 1534912,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Liverpool vs Paris Saint Germain",
-            "slug": "liverpool-vs-paris-saint-germain-1534912",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Champions League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Liverpool",
-                "away_name": "Paris Saint Germain",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Paris%20Saint%20Germain%20%20UEFA%20Champions%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776193200,
-                "start_time_local": "15 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1526986,
             "sport_name": "Football",
             "sport_id": 1,
@@ -410,21 +364,44 @@
             }
         },
         {
-            "match_id": 1535167,
+            "match_id": 1534912,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sao Paulo vs O'Higgins",
-            "slug": "sao-paulo-vs-ohiggins-1535167",
+            "title": "Liverpool vs Paris Saint Germain",
+            "slug": "liverpool-vs-paris-saint-germain-1534912",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Sudamericana",
+                "league_name": "UEFA Champions League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sao Paulo",
-                "away_name": "O'Higgins",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sao%20Paulo%20VS%20O%27Higgins%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Liverpool",
+                "away_name": "Paris Saint Germain",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Paris%20Saint%20Germain%20%20UEFA%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776193200,
+                "start_time_local": "15 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535262,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Club Nacional vs Deportes Tolima",
+            "slug": "club-nacional-vs-deportes-tolima-1535262",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Club Nacional",
+                "away_name": "Deportes Tolima",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Nacional%20VS%20Deportes%20Tolima%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776204000,
@@ -456,29 +433,6 @@
             }
         },
         {
-            "match_id": 1535255,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Estudiantes L.P. vs Cusco",
-            "slug": "estudiantes-lp-vs-cusco-1535255",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Estudiantes L.P.",
-                "away_name": "Cusco",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estudiantes%20L.P.%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776204000,
-                "start_time_local": "15 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535159,
             "sport_name": "Football",
             "sport_id": 1,
@@ -502,11 +456,11 @@
             }
         },
         {
-            "match_id": 1535262,
+            "match_id": 1535255,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Club Nacional vs Deportes Tolima",
-            "slug": "club-nacional-vs-deportes-tolima-1535262",
+            "title": "Estudiantes L.P. vs Cusco",
+            "slug": "estudiantes-lp-vs-cusco-1535255",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -514,9 +468,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Club Nacional",
-                "away_name": "Deportes Tolima",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Nacional%20VS%20Deportes%20Tolima%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Estudiantes L.P.",
+                "away_name": "Cusco",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estudiantes%20L.P.%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776204000,
@@ -525,25 +479,25 @@
             }
         },
         {
-            "match_id": 1535251,
+            "match_id": 1535167,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bolívar vs Deportivo La Guaira",
-            "slug": "bolivar-vs-deportivo-la-guaira-1535251",
+            "title": "Sao Paulo vs O'Higgins",
+            "slug": "sao-paulo-vs-ohiggins-1535167",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Libertadores",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Bolívar",
-                "away_name": "Deportivo La Guaira",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Sao Paulo",
+                "away_name": "O'Higgins",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sao%20Paulo%20VS%20O%27Higgins%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1776211200,
-                "start_time_local": "15 Apr 2026, 06:00 AM",
+                "start_time_timestamp": 1776204000,
+                "start_time_local": "15 Apr 2026, 04:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -563,6 +517,29 @@
                 "home_name": "Vasco DA Gama",
                 "away_name": "A. Italiano",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20A.%20Italiano%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776211200,
+                "start_time_local": "15 Apr 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535251,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bolívar vs Deportivo La Guaira",
+            "slug": "bolivar-vs-deportivo-la-guaira-1535251",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bolívar",
+                "away_name": "Deportivo La Guaira",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776211200,
@@ -815,7 +792,7 @@
             "teams": {
                 "home_name": "Hanshin Tigers",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776225600,
@@ -861,7 +838,7 @@
             "teams": {
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB%20Farm%20Leagues.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776225600,
@@ -930,7 +907,7 @@
             "teams": {
                 "home_name": "Chiba Lotte Marines",
                 "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
@@ -976,7 +953,7 @@
             "teams": {
                 "home_name": "Fukuoka SoftBank Hawks",
                 "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
