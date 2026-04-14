@@ -3,35 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:31:00 AM 15-04-2026"
+        "last_update_time": "02:45:50 AM 15-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489392,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "pista-rafa-nadal-1629489392",
-            "title": "Pista Rafa Nadal",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Barcelona Open Banc Sabadell",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776157200,
-                "start_time_local": "14 Apr 2026, 03:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=94137852b957f9a951ef1cac7f3730efb9be722f&x-sign=d3e5d3838c4d7ab86b2e5ba9299f66a9&x-time=1776183300",
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1387087,
             "sport_name": "Football",
@@ -54,13 +28,36 @@
                 "start_time_local": "15 Apr 2026, 01:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=3b1aca8cacd4611e07511406c592c3d8165946ea&x-sign=ec222286fbd73510225c846aaf7f9ebf&x-time=1776198600",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=a75de422ba615adfd66823a74730eac4302da251&x-sign=1e9ee964a310efbc15dcb093f2f8c8d4&x-time=1776199500",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 37,
+    "total_upcoming_matches": 38,
     "upcoming_matches": [
+        {
+            "match_id": 1535159,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Gremio vs Deportivo Riestra",
+            "slug": "gremio-vs-deportivo-riestra-1535159",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gremio",
+                "away_name": "Deportivo Riestra",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gremio%20VS%20Deportivo%20Riestra%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776204000,
+                "start_time_local": "15 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1535255,
             "sport_name": "Football",
@@ -100,29 +97,6 @@
                 "home_name": "Cerro Porteno",
                 "away_name": "Junior",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerro%20Porteno%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776204000,
-                "start_time_local": "15 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535159,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Gremio vs Deportivo Riestra",
-            "slug": "gremio-vs-deportivo-riestra-1535159",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gremio",
-                "away_name": "Deportivo Riestra",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gremio%20VS%20Deportivo%20Riestra%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776204000,
@@ -177,6 +151,29 @@
             }
         },
         {
+            "match_id": 1535251,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bolívar vs Deportivo La Guaira",
+            "slug": "bolivar-vs-deportivo-la-guaira-1535251",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bolívar",
+                "away_name": "Deportivo La Guaira",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776211200,
+                "start_time_local": "15 Apr 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535250,
             "sport_name": "Football",
             "sport_id": 1,
@@ -215,29 +212,6 @@
                 "home_name": "Vasco DA Gama",
                 "away_name": "A. Italiano",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20A.%20Italiano%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776211200,
-                "start_time_local": "15 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535251,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bolívar vs Deportivo La Guaira",
-            "slug": "bolivar-vs-deportivo-la-guaira-1535251",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bolívar",
-                "away_name": "Deportivo La Guaira",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bol%C3%ADvar%20VS%20Deportivo%20La%20Guaira%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776211200,
@@ -361,29 +335,6 @@
             }
         },
         {
-            "match_id": 1535260,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "LDU de Quito vs Mirassol",
-            "slug": "ldu-de-quito-vs-mirassol-1535260",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "LDU de Quito",
-                "away_name": "Mirassol",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LDU%20de%20Quito%20VS%20Mirassol%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776218400,
-                "start_time_local": "15 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1514114,
             "sport_name": "Football",
             "sport_id": 1,
@@ -399,6 +350,29 @@
                 "home_name": "USA W",
                 "away_name": "Japan W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20W%20VS%20Japan%20W%20%20Friendlies%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776218400,
+                "start_time_local": "15 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535260,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "LDU de Quito vs Mirassol",
+            "slug": "ldu-de-quito-vs-mirassol-1535260",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "LDU de Quito",
+                "away_name": "Mirassol",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LDU%20de%20Quito%20VS%20Mirassol%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776218400,
