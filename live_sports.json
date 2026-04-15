@@ -3,10 +3,37 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:39 PM 15-04-2026"
+        "last_update_time": "01:00:35 PM 15-04-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 23,
+    "live_matches": [
+        {
+            "match_id": 1629489379,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-1629489379",
+            "title": "Auto racing",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776234620,
+                "start_time_local": "15 Apr 2026, 12:30 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=340aa6a40cc915c22be85f30273dc6d693a8bbec&x-sign=3327e9da116a6def5a1cc7e78c1ca61e&x-time=1776236400",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        }
+    ],
+    "total_upcoming_matches": 27,
     "upcoming_matches": [
         {
             "match_id": 1629489520,
@@ -47,6 +74,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776243600,
+                "start_time_local": "15 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489094,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Hiroshima Toyo Carp",
+            "slug": "chunichi-dragons-vs-hiroshima-toyo-carp-1629489094",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
@@ -124,37 +174,14 @@
             }
         },
         {
-            "match_id": 1629489094,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Hiroshima Toyo Carp",
-            "slug": "chunichi-dragons-vs-hiroshima-toyo-carp-1629489094",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776243600,
-                "start_time_local": "15 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489097,
+            "match_id": 1629489522,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629489097",
+            "title": "Centre Court",
+            "slug": "centre-court-1629489522",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Porsche Tennis Grand Prix",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -170,14 +197,14 @@
             }
         },
         {
-            "match_id": 1629489522,
+            "match_id": 1629489097,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Centre Court",
-            "slug": "centre-court-1629489522",
+            "title": "Day 3",
+            "slug": "day-3-1629489097",
             "status": "NS",
             "league": {
-                "league_name": "Porsche Tennis Grand Prix",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -331,21 +358,21 @@
             }
         },
         {
-            "match_id": 1535163,
+            "match_id": 1535261,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Racing Club vs Botafogo",
-            "slug": "racing-club-vs-botafogo-1535163",
+            "title": "Libertad Asuncion vs Rosario Central",
+            "slug": "libertad-asuncion-vs-rosario-central-1535261",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Sudamericana",
+                "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Racing Club",
-                "away_name": "Botafogo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Racing%20Club%20VS%20Botafogo%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Libertad Asuncion",
+                "away_name": "Rosario Central",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Libertad%20Asuncion%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776290400,
@@ -377,21 +404,21 @@
             }
         },
         {
-            "match_id": 1535261,
+            "match_id": 1535163,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Libertad Asuncion vs Rosario Central",
-            "slug": "libertad-asuncion-vs-rosario-central-1535261",
+            "title": "Racing Club vs Botafogo",
+            "slug": "racing-club-vs-botafogo-1535163",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Libertadores",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Libertad Asuncion",
-                "away_name": "Rosario Central",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Libertad%20Asuncion%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Racing Club",
+                "away_name": "Botafogo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Racing%20Club%20VS%20Botafogo%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776290400,
@@ -446,29 +473,6 @@
             }
         },
         {
-            "match_id": 1535253,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Corinthians vs Santa Fe",
-            "slug": "corinthians-vs-santa-fe-1535253",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Corinthians",
-                "away_name": "Santa Fe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Corinthians%20VS%20Santa%20Fe%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776299400,
-                "start_time_local": "16 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535164,
             "sport_name": "Football",
             "sport_id": 1,
@@ -484,6 +488,29 @@
                 "home_name": "River Plate",
                 "away_name": "Carabobo FC",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20Carabobo%20FC%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776299400,
+                "start_time_local": "16 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535253,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Corinthians vs Santa Fe",
+            "slug": "corinthians-vs-santa-fe-1535253",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Corinthians",
+                "away_name": "Santa Fe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Corinthians%20VS%20Santa%20Fe%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776299400,
@@ -534,6 +561,98 @@
             "timing": {
                 "start_time_timestamp": 1776304800,
                 "start_time_local": "16 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535160,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Millonarios vs Boston River",
+            "slug": "millonarios-vs-boston-river-1535160",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Millonarios",
+                "away_name": "Boston River",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Millonarios%20VS%20Boston%20River%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776304800,
+                "start_time_local": "16 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489102,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Oisix Niigata",
+            "slug": "chiba-lotte-marines-vs-oisix-niigata-1629489102",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776308400,
+                "start_time_local": "16 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535333,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Seattle Sounders vs Tigres UANL",
+            "slug": "seattle-sounders-vs-tigres-uanl-1535333",
+            "status": "NS",
+            "league": {
+                "league_name": "CONCACAF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Seattle Sounders",
+                "away_name": "Tigres UANL",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20VS%20Tigres%20UANL%20%20CONCACAF%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776310200,
+                "start_time_local": "16 Apr 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489103,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Fukuoka SoftBank Hawks",
+            "slug": "hanshin-tigers-vs-fukuoka-softbank-hawks-1629489103",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776312000,
+                "start_time_local": "16 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         }
