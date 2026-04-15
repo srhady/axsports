@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:04:25 PM 15-04-2026"
+        "last_update_time": "01:15:36 PM 15-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "15 Apr 2026, 10:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=3f37d9d946f58fe8a9f1a2ad0dc5aec62e60e531&verify=1776236640-0NFvXDyDNJ75sEQPjXV%2FveNt1cFIrh3l%2FWyKHJU5ZGU%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=853115128ae910698b01903b33fa9f07d1c29dcf&verify=1776237300-W5jFzBV0R76sOzMDMI5PHhyxRFN%2B3wW8mu2QhMgvmgg%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -55,7 +55,7 @@
                 "start_time_local": "15 Apr 2026, 12:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=3f37d9d946f58fe8a9f1a2ad0dc5aec62e60e531&x-sign=6602260482399684bf126bd5735b7bae&x-time=1776236640",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=853115128ae910698b01903b33fa9f07d1c29dcf&x-sign=385cb1b66bcd8b1999e304f78c2d8d0e&x-time=1776237300",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -63,29 +63,6 @@
     ],
     "total_upcoming_matches": 32,
     "upcoming_matches": [
-        {
-            "match_id": 1629489521,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Center Court",
-            "slug": "center-court-1629489521",
-            "status": "NS",
-            "league": {
-                "league_name": "BMW Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776243600,
-                "start_time_local": "15 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629489094,
             "sport_name": "Baseball",
@@ -102,6 +79,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776243600,
+                "start_time_local": "15 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489091,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Yomiuri Giants",
+            "slug": "hanshin-tigers-vs-yomiuri-giants-1629489091",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
@@ -156,6 +156,29 @@
             }
         },
         {
+            "match_id": 1629489521,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Center Court",
+            "slug": "center-court-1629489521",
+            "status": "NS",
+            "league": {
+                "league_name": "BMW Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776243600,
+                "start_time_local": "15 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489520,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -179,37 +202,14 @@
             }
         },
         {
-            "match_id": 1629489091,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Yomiuri Giants",
-            "slug": "hanshin-tigers-vs-yomiuri-giants-1629489091",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Yomiuri Giants",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776243600,
-                "start_time_local": "15 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489522,
+            "match_id": 1629489097,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Centre Court",
-            "slug": "centre-court-1629489522",
+            "title": "Day 3",
+            "slug": "day-3-1629489097",
             "status": "NS",
             "league": {
-                "league_name": "Porsche Tennis Grand Prix",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -225,14 +225,14 @@
             }
         },
         {
-            "match_id": 1629489097,
+            "match_id": 1629489522,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629489097",
+            "title": "Centre Court",
+            "slug": "centre-court-1629489522",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Porsche Tennis Grand Prix",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -386,52 +386,6 @@
             }
         },
         {
-            "match_id": 1535261,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Libertad Asuncion vs Rosario Central",
-            "slug": "libertad-asuncion-vs-rosario-central-1535261",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Libertad Asuncion",
-                "away_name": "Rosario Central",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Libertad%20Asuncion%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776290400,
-                "start_time_local": "16 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535163,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Racing Club vs Botafogo",
-            "slug": "racing-club-vs-botafogo-1535163",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Racing Club",
-                "away_name": "Botafogo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Racing%20Club%20VS%20Botafogo%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776290400,
-                "start_time_local": "16 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535157,
             "sport_name": "Football",
             "sport_id": 1,
@@ -447,6 +401,29 @@
                 "home_name": "Caracas FC",
                 "away_name": "Independiente Petrolero",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caracas%20FC%20VS%20Independiente%20Petrolero%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776290400,
+                "start_time_local": "16 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535261,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Libertad Asuncion vs Rosario Central",
+            "slug": "libertad-asuncion-vs-rosario-central-1535261",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Libertad Asuncion",
+                "away_name": "Rosario Central",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Libertad%20Asuncion%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776290400,
@@ -478,6 +455,29 @@
             }
         },
         {
+            "match_id": 1535163,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Racing Club vs Botafogo",
+            "slug": "racing-club-vs-botafogo-1535163",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Racing Club",
+                "away_name": "Botafogo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Racing%20Club%20VS%20Botafogo%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776290400,
+                "start_time_local": "16 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535161,
             "sport_name": "Football",
             "sport_id": 1,
@@ -501,29 +501,6 @@
             }
         },
         {
-            "match_id": 1535164,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "River Plate vs Carabobo FC",
-            "slug": "river-plate-vs-carabobo-fc-1535164",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "River Plate",
-                "away_name": "Carabobo FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20Carabobo%20FC%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776299400,
-                "start_time_local": "16 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535253,
             "sport_name": "Football",
             "sport_id": 1,
@@ -539,6 +516,29 @@
                 "home_name": "Corinthians",
                 "away_name": "Santa Fe",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Corinthians%20VS%20Santa%20Fe%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776299400,
+                "start_time_local": "16 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535164,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "River Plate vs Carabobo FC",
+            "slug": "river-plate-vs-carabobo-fc-1535164",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "River Plate",
+                "away_name": "Carabobo FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20Carabobo%20FC%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776299400,
@@ -570,29 +570,6 @@
             }
         },
         {
-            "match_id": 1535258,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independiente del Valle vs UCV",
-            "slug": "independiente-del-valle-vs-ucv-1535258",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independiente del Valle",
-                "away_name": "UCV",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20del%20Valle%20VS%20UCV%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776304800,
-                "start_time_local": "16 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535160,
             "sport_name": "Football",
             "sport_id": 1,
@@ -608,6 +585,29 @@
                 "home_name": "Millonarios",
                 "away_name": "Boston River",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Millonarios%20VS%20Boston%20River%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776304800,
+                "start_time_local": "16 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535258,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Independiente del Valle vs UCV",
+            "slug": "independiente-del-valle-vs-ucv-1535258",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Independiente del Valle",
+                "away_name": "UCV",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20del%20Valle%20VS%20UCV%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776304800,
