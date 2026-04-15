@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:31:03 AM 16-04-2026"
+        "last_update_time": "12:45:46 AM 16-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "15 Apr 2026, 03:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=a72d92865d4d7021d0857b4cecc89e2a696d8e17&verify=1776277800-ZjWIF2tQlFH5sVHKm1hnlBiHYjtptIW3zW6ixU4jifY%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&verify=1776278700-LteK0Pnx5Xhdg5G19Lsyo6HV4YHKcRcPFYUNTLpY%2FYg%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -55,7 +55,7 @@
                 "start_time_local": "15 Apr 2026, 04:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=a72d92865d4d7021d0857b4cecc89e2a696d8e17&verify=1776277800-lj8uFzEoiszKvfW6JpRF5EhmO9wygz%2FZAqO%2Fv1lEpec%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&verify=1776278700-BCg4IjRZpfnxlQjl1IlHsbNSB%2FYqggNw%2FR1FCe0iKC0%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -82,21 +82,18 @@
                 "start_time_local": "16 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=a72d92865d4d7021d0857b4cecc89e2a696d8e17&x-sign=7892cb4155a38b7e15863f11703a766c&x-time=1776277860",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=0743f1ae0b97b73c2bd8a345582057e8&x-time=1776278700",
                 "is_new_format": false,
                 "required_referer": ""
             }
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1534911,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bayern München vs Real Madrid",
             "slug": "bayern-munchen-vs-real-madrid-1534911",
-            "status": "NS",
+            "title": "Bayern München vs Real Madrid",
+            "status": "LIVE",
             "league": {
                 "league_name": "UEFA Champions League",
                 "league_logo": ""
@@ -109,17 +106,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1776279600,
-                "start_time_local": "16 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "16 Apr 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&verify=1776278700-bbXFIdQFvk4w8R7MFtdXWrEghlzXtPAqIQBFgrzXeZ0%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1534571,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Arsenal vs Sporting CP",
             "slug": "arsenal-vs-sporting-cp-1534571",
-            "status": "NS",
+            "title": "Arsenal vs Sporting CP",
+            "status": "LIVE",
             "league": {
                 "league_name": "UEFA Champions League",
                 "league_logo": ""
@@ -132,10 +133,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776279600,
-                "start_time_local": "16 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "16 Apr 2026, 01:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&verify=1776278700-ZdIOsuww%2FSB%2B8TdhvRN9odNDoQ6dFcPewo8aR0UvMoA%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
             "match_id": 1535163,
             "sport_name": "Football",
@@ -777,6 +785,52 @@
             "timing": {
                 "start_time_timestamp": 1776364200,
                 "start_time_local": "17 Apr 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489119,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Real Madrid Basketball vs Crvena Zvezda Meridianbet Belgrade",
+            "slug": "real-madrid-basketball-vs-crvena-zvezda-meridianbet-belgrade-1629489119",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Madrid Basketball",
+                "away_name": "Crvena Zvezda Meridianbet Belgrade",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776365100,
+                "start_time_local": "17 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387531,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Peterborough vs Port Vale",
+            "slug": "peterborough-vs-port-vale-1387531",
+            "status": "NS",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Peterborough",
+                "away_name": "Port Vale",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peterborough%20VS%20Port%20Vale%20%20League%20One.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776365100,
+                "start_time_local": "17 Apr 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         }
