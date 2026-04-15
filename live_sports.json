@@ -3,36 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:36 PM 15-04-2026"
+        "last_update_time": "01:30:32 PM 15-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489089,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "tohoku-rakuten-golden-eagles-vs-tokyo-yakult-swallows-1629489089",
-            "title": "Tohoku Rakuten Golden Eagles vs Tokyo Yakult Swallows",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776225600,
-                "start_time_local": "15 Apr 2026, 10:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=853115128ae910698b01903b33fa9f07d1c29dcf&verify=1776237300-W5jFzBV0R76sOzMDMI5PHhyxRFN%2B3wW8mu2QhMgvmgg%3D",
-                "is_new_format": true,
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
-        },
         {
             "match_id": 1629489379,
             "sport_name": "Auto Racing",
@@ -55,7 +28,34 @@
                 "start_time_local": "15 Apr 2026, 12:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=853115128ae910698b01903b33fa9f07d1c29dcf&x-sign=385cb1b66bcd8b1999e304f78c2d8d0e&x-time=1776237300",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=3ff85bc5caaa6e7e33d41fbaad60eca5171ea890&x-sign=fc067a225df7567fc0f844a1393c80ba&x-time=1776238200",
+                "is_new_format": false,
+                "required_referer": ""
+            }
+        },
+        {
+            "match_id": 1629489381,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "tennis-section-1629489381",
+            "title": "Tennis Section",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Tennis",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776236420,
+                "start_time_local": "15 Apr 2026, 01:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=3ff85bc5caaa6e7e33d41fbaad60eca5171ea890&x-sign=d86d8ddb207f20f2e3f9ad928ba69c63&x-time=1776238200",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -63,29 +63,6 @@
     ],
     "total_upcoming_matches": 32,
     "upcoming_matches": [
-        {
-            "match_id": 1629489094,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Hiroshima Toyo Carp",
-            "slug": "chunichi-dragons-vs-hiroshima-toyo-carp-1629489094",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776243600,
-                "start_time_local": "15 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629489091,
             "sport_name": "Baseball",
@@ -101,6 +78,29 @@
             "teams": {
                 "home_name": "Hanshin Tigers",
                 "away_name": "Yomiuri Giants",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Yomiuri%20Giants%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776243600,
+                "start_time_local": "15 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489521,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Center Court",
+            "slug": "center-court-1629489521",
+            "status": "NS",
+            "league": {
+                "league_name": "BMW Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -147,7 +147,7 @@
             "teams": {
                 "home_name": "Fukuoka SoftBank Hawks",
                 "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
@@ -156,21 +156,21 @@
             }
         },
         {
-            "match_id": 1629489521,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Center Court",
-            "slug": "center-court-1629489521",
+            "match_id": 1629489094,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Hiroshima Toyo Carp",
+            "slug": "chunichi-dragons-vs-hiroshima-toyo-carp-1629489094",
             "status": "NS",
             "league": {
-                "league_name": "BMW Open",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Chunichi Dragons",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776243600,
