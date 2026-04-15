@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:41 AM 15-04-2026"
+        "last_update_time": "11:30:46 AM 15-04-2026"
     },
     "live_matches": [
         {
@@ -28,12 +28,38 @@
                 "start_time_local": "15 Apr 2026, 09:30 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=57dd8aa459444d1464bd27a85a3211bff095a846&x-sign=3bcce7d85bd93b5dfdf9f126e3939533&x-time=1776230100",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=7869cd54ce8e10757dbe9045887ae323&x-time=1776231000",
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1629489395,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "slug": "tour-of-hainan-stage-1-1629489395",
+            "title": "Tour of Hainan - Stage 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "UCI World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776226500,
+                "start_time_local": "15 Apr 2026, 10:15 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1252_hd/index.m3u8?is_vip=false&token=28bb930f04a343c4ee3a036adee6dab13ff45756&x-sign=418de4af7c8b8b4299e277855b388e39&x-time=1776231000",
                 "required_referer": "https://iframe.lucifershop.info/"
             }
         }
     ],
-    "total_upcoming_matches": 20,
+    "total_upcoming_matches": 19,
     "upcoming_matches": [
         {
             "match_id": 1629489094,
@@ -469,29 +495,6 @@
             "timing": {
                 "start_time_timestamp": 1776301200,
                 "start_time_local": "16 Apr 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535258,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independiente del Valle vs UCV",
-            "slug": "independiente-del-valle-vs-ucv-1535258",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independiente del Valle",
-                "away_name": "UCV",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20del%20Valle%20VS%20UCV%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776304800,
-                "start_time_local": "16 Apr 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         }
