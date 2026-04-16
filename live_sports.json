@@ -3,36 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:50 PM 16-04-2026"
+        "last_update_time": "10:45:45 PM 16-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489379,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "auto-racing-1629489379",
-            "title": "Auto racing",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Auto Racing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776328220,
-                "start_time_local": "16 Apr 2026, 02:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=368ac767378bbea7fc6e37942b2bf276e3a0463b&x-sign=8bd2aaf7ad38860a11f124b6c0405cc0&x-time=1776357000",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
         {
             "match_id": 1629489112,
             "sport_name": "Tennis",
@@ -55,9 +28,9 @@
                 "start_time_local": "16 Apr 2026, 04:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=368ac767378bbea7fc6e37942b2bf276e3a0463b&x-sign=97cab9416a62cdd2bd730d924ed07989&x-time=1776357000",
-                "is_new_format": false,
-                "required_referer": ""
+                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=7844ff5376c1d065f2e8067521eddb669d5318c3&verify=1776357900-rQ%2FyS%2Bad4ZGrqtRlaJ1SzvHRIdcLJ%2B3N%2FeWXoUKXBV8%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
@@ -82,7 +55,7 @@
                 "start_time_local": "16 Apr 2026, 10:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=368ac767378bbea7fc6e37942b2bf276e3a0463b&verify=1776357000-bSLeGiuVg%2BUPB6UH%2Faj4cUk52lkbW4DrzHOFYPXnSBw%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=7844ff5376c1d065f2e8067521eddb669d5318c3&verify=1776357900-Uvkenpc3cK%2FfKt4CPQvoSARfwMMVGM33XS3ifYVCoe4%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -109,7 +82,7 @@
                 "start_time_local": "16 Apr 2026, 10:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=368ac767378bbea7fc6e37942b2bf276e3a0463b&verify=1776357000-lPxEn6wG1goOmeNiLgkSAv6xNIlLhLCJhUXivFwFmVQ%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=7844ff5376c1d065f2e8067521eddb669d5318c3&verify=1776357900-MV%2BeTDy%2BV%2FEyDRQiGoy%2FT8R5W6yQE%2FxQfkZHTb2iuH0%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -136,21 +109,18 @@
                 "start_time_local": "16 Apr 2026, 10:45 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=368ac767378bbea7fc6e37942b2bf276e3a0463b&verify=1776357000-o8%2B%2BfJ%2Bm9g7jsDmjZVLMl3Md6ils3ehALWVTUFPEg6M%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=7844ff5376c1d065f2e8067521eddb669d5318c3&verify=1776357900-3OX08nG611gdxgh1O6PnI1jB6bU23rNQ7OMSMCj5PDE%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489113,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "Night 11",
             "slug": "night-11-1629489113",
-            "status": "NS",
+            "title": "Night 11",
+            "status": "LIVE",
             "league": {
                 "league_name": "Premier League",
                 "league_logo": ""
@@ -163,10 +133,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776358800,
-                "start_time_local": "16 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
+                "start_time_local": "16 Apr 2026, 11:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=7844ff5376c1d065f2e8067521eddb669d5318c3&x-sign=5c94e41862c41b007e6a5100427e5560&x-time=1776357900",
+                "is_new_format": false,
+                "required_referer": ""
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1629489115,
             "sport_name": "Basketball",
@@ -1176,6 +1153,29 @@
             "timing": {
                 "start_time_timestamp": 1776425400,
                 "start_time_local": "17 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1534934,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Benfica U19 vs Club Brugge U19",
+            "slug": "benfica-u19-vs-club-brugge-u19-1534934",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Youth League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Benfica U19",
+                "away_name": "Club Brugge U19",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776427200,
+                "start_time_local": "17 Apr 2026, 06:00 PM",
                 "countdown_seconds": null
             }
         }
