@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:30 AM 16-04-2026"
+        "last_update_time": "10:45:40 AM 16-04-2026"
     },
     "live_matches": [
         {
@@ -28,9 +28,36 @@
                 "start_time_local": "16 Apr 2026, 09:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=97518426110f160a881ae87720a8a50fd51c92e6&verify=1776313800-m8oC%2FrqBgO3GPgsB1WZ7SXz%2BFedto2OcOT3gwcvbieE%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=3a83548697fbe610441dabc1efd58ab50927130e&verify=1776314700-aFlFt0yO60b4RDFXLSWji51wMBn3Jul%2Ff2NFKX8HxYc%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1535333,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "seattle-sounders-vs-tigres-uanl-1535333",
+            "title": "Seattle Sounders vs Tigres UANL",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONCACAF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Seattle Sounders",
+                "away_name": "Tigres UANL",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Sounders%20VS%20Tigres%20UANL%20%20CONCACAF%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776310200,
+                "start_time_local": "16 Apr 2026, 09:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/451_hd/index.m3u8?is_vip=false&token=3a83548697fbe610441dabc1efd58ab50927130e&x-sign=9ecaabf0d1eec516198491cbec4b06ce&x-time=1776314700",
+                "is_new_format": false,
+                "required_referer": ""
             }
         },
         {
@@ -55,21 +82,18 @@
                 "start_time_local": "16 Apr 2026, 10:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=97518426110f160a881ae87720a8a50fd51c92e6&verify=1776313800-%2Fq7YRRraJfR4piR7zKj7S1IaB%2FpYGB3810IE0s3Ah8U%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=3a83548697fbe610441dabc1efd58ab50927130e&verify=1776314700-MFBTlxjKK%2BmSJZEAmdDH2hQFTiEKKoaCjZTiVEUHx%2Bo%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 34,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489104,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hayate Shizuoka vs Yomiuri Giants",
             "slug": "hayate-shizuoka-vs-yomiuri-giants-1629489104",
-            "status": "NS",
+            "title": "Hayate Shizuoka vs Yomiuri Giants",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -82,10 +106,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776315600,
-                "start_time_local": "16 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "16 Apr 2026, 11:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=3a83548697fbe610441dabc1efd58ab50927130e&verify=1776314700-icMcAz24iT0%2B5yOyKyHLUhM0Uur4uR8HhlzPF4PWaHc%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 33,
+    "upcoming_matches": [
         {
             "match_id": 1629489108,
             "sport_name": "Baseball",
