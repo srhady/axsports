@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:25 PM 17-04-2026"
+        "last_update_time": "01:45:31 PM 17-04-2026"
     },
     "live_matches": [
         {
@@ -28,13 +28,40 @@
                 "start_time_local": "17 Apr 2026, 12:30 PM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=90d00daff0f60e49efd9981bc6413223832e9710&verify=1776411000-O1t%2FSabUKJFNcqIpo%2BL0WqV3UPviBqsbL8pRsTriwqU%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=2a8e3c8701408ad6d2458bdfc97e903dcdcaf95f&verify=1776411900-bInCadRDVAYjJdoHPgFhtZVW3rFs0nA3G26wodbBD64%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
+        },
+        {
+            "match_id": 1629489379,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-1629489379",
+            "title": "Auto racing",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776409200,
+                "start_time_local": "17 Apr 2026, 01:00 PM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/263_hd/index.m3u8?is_vip=false&token=2a8e3c8701408ad6d2458bdfc97e903dcdcaf95f&x-sign=ba4bf0704890a446a4a225d81db4e48e&x-time=1776411900",
+                "is_new_format": false,
+                "required_referer": ""
+            }
         }
     ],
-    "total_upcoming_matches": 40,
+    "total_upcoming_matches": 39,
     "upcoming_matches": [
         {
             "match_id": 1629489133,
@@ -925,29 +952,6 @@
             "teams": {
                 "home_name": "Blackburn",
                 "away_name": "Coventry",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776452400,
-                "start_time_local": "18 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489169,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "title": "LIV Golf Mexico City",
-            "slug": "liv-golf-mexico-city-1629489169",
-            "status": "NS",
-            "league": {
-                "league_name": "LIV Golf",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
