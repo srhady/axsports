@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:37 AM 18-04-2026"
+        "last_update_time": "04:00:34 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&x-sign=c600af5d777a07e89856eb620579be29&x-time=1776462300",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=5efa050f49f1db1ca14de300525d85830dd79f9f&x-sign=dba4b846202ec5c72be3e734dd8204c7&x-time=1776463200",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,7 +55,7 @@
                 "start_time_local": "18 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&verify=1776462300-yueaGx0Zz9spVW%2FMg3zAvEfpd5uQoRvu9l4EOHcVKIw%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=5efa050f49f1db1ca14de300525d85830dd79f9f&verify=1776463200-E7e904lfQYWDUUovZNOO%2FIXe%2F8RZedoFilsVU9HDBHc%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -82,40 +82,13 @@
                 "start_time_local": "18 Apr 2026, 01:45 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&x-sign=99c8fab44ca9e98e7ef317ff4d6138a0&x-time=1776462300",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=5efa050f49f1db1ca14de300525d85830dd79f9f&x-sign=27a14c2cf2797b80ecc2c96671f3a25f&x-time=1776463200",
                 "is_new_format": false,
                 "required_referer": ""
             }
-        },
-        {
-            "match_id": 1629489172,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "slug": "canada-vs-new-zealand-1629489172",
-            "title": "Canada vs New Zealand",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Pacific Four Series",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Canada",
-                "away_name": "New Zealand",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canada%20VS%20New%20Zealand%20%20Pacific%20Four%20Series.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776463200,
-                "start_time_local": "18 Apr 2026, 04:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&verify=1776462300-BKBXOYEvvrvAdAhYa6viJecreyqWZoWnG0fJKZO3OhY%3D",
-                "is_new_format": true,
-                "required_referer": "https://iframe.lucifershop.info/"
-            }
         }
     ],
-    "total_upcoming_matches": 30,
+    "total_upcoming_matches": 31,
     "upcoming_matches": [
         {
             "match_id": 1629489173,
@@ -137,6 +110,29 @@
             "timing": {
                 "start_time_timestamp": 1776466800,
                 "start_time_local": "18 Apr 2026, 05:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489172,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Canada vs New Zealand",
+            "slug": "canada-vs-new-zealand-1629489172",
+            "status": "NS",
+            "league": {
+                "league_name": "Pacific Four Series",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Canada",
+                "away_name": "New Zealand",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canada%20VS%20New%20Zealand%20%20Pacific%20Four%20Series.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776470400,
+                "start_time_local": "18 Apr 2026, 06:00 AM",
                 "countdown_seconds": null
             }
         },
