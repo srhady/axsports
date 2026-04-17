@@ -3,18 +3,124 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:20 AM 17-04-2026"
+        "last_update_time": "07:45:39 AM 17-04-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 30,
-    "upcoming_matches": [
+    "live_matches": [
+        {
+            "match_id": 1535165,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "san-lorenzo-vs-deportivo-cuenca-1535165",
+            "title": "San Lorenzo vs Deportivo Cuenca",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "San Lorenzo",
+                "away_name": "Deportivo Cuenca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Lorenzo%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776385800,
+                "start_time_local": "17 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=06d44ef8b98b436563580dafcb0b2ca7adb0051e&x-sign=2bc1501dd2a031a8e93559095cc71f60&x-time=1776390300",
+                "is_new_format": false,
+                "required_referer": ""
+            }
+        },
+        {
+            "match_id": 1535264,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "penarol-vs-platense-1535264",
+            "title": "Penarol vs Platense",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Penarol",
+                "away_name": "Platense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Penarol%20VS%20Platense%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776385800,
+                "start_time_local": "17 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=06d44ef8b98b436563580dafcb0b2ca7adb0051e&verify=1776390300-Axc3N4W05c9m6EMXup8G7pGcYcvr%2BPWQmD1fP0JE6Oo%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
+            }
+        },
+        {
+            "match_id": 1535256,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "flamengo-vs-independiente-medellin-1535256",
+            "title": "Flamengo vs Independiente Medellin",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Flamengo",
+                "away_name": "Independiente Medellin",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flamengo%20VS%20Independiente%20Medellin%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776385800,
+                "start_time_local": "17 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=06d44ef8b98b436563580dafcb0b2ca7adb0051e&x-sign=33ad168af787d37066a1d967dd2bdd79&x-time=1776390300",
+                "is_new_format": false,
+                "required_referer": ""
+            }
+        },
+        {
+            "match_id": 1535156,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "rb-bragantino-vs-blooming-1535156",
+            "title": "RB Bragantino vs Blooming",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "RB Bragantino",
+                "away_name": "Blooming",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Bragantino%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776385800,
+                "start_time_local": "17 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=06d44ef8b98b436563580dafcb0b2ca7adb0051e&x-sign=cc6c871d0b6b4da11cd0d9a0fff0e721&x-time=1776390300",
+                "is_new_format": false,
+                "required_referer": ""
+            }
+        },
         {
             "match_id": 1535158,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Cienciano vs Puerto Cabello",
             "slug": "cienciano-vs-puerto-cabello-1535158",
-            "status": "NS",
+            "title": "Cienciano vs Puerto Cabello",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
@@ -27,10 +133,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776391200,
-                "start_time_local": "17 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "17 Apr 2026, 08:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=06d44ef8b98b436563580dafcb0b2ca7adb0051e&x-sign=33ad168af787d37066a1d967dd2bdd79&x-time=1776390300",
+                "is_new_format": false,
+                "required_referer": ""
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 29,
+    "upcoming_matches": [
         {
             "match_id": 1629489122,
             "sport_name": "Rugby",
