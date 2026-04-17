@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:31 AM 18-04-2026"
+        "last_update_time": "03:45:37 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=1c8297ed7d00ec689ef9016c8f9f3286fa099272&x-sign=e95a2e28c76a2a2cfce5de7a1a034dcb&x-time=1776461400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&x-sign=c600af5d777a07e89856eb620579be29&x-time=1776462300",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,7 +55,7 @@
                 "start_time_local": "18 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=1c8297ed7d00ec689ef9016c8f9f3286fa099272&verify=1776461400-Tn%2BnX1QXqv5Ar2En8jvJ2%2BEEucNW3MZiXldKT5U1d3Y%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&verify=1776462300-yueaGx0Zz9spVW%2FMg3zAvEfpd5uQoRvu9l4EOHcVKIw%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -82,21 +82,18 @@
                 "start_time_local": "18 Apr 2026, 01:45 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=1c8297ed7d00ec689ef9016c8f9f3286fa099272&x-sign=681d48444ef77819746811bb0a845009&x-time=1776461400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&x-sign=99c8fab44ca9e98e7ef317ff4d6138a0&x-time=1776462300",
                 "is_new_format": false,
                 "required_referer": ""
             }
-        }
-    ],
-    "total_upcoming_matches": 30,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489172,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Canada vs New Zealand",
             "slug": "canada-vs-new-zealand-1629489172",
-            "status": "NS",
+            "title": "Canada vs New Zealand",
+            "status": "LIVE",
             "league": {
                 "league_name": "Pacific Four Series",
                 "league_logo": ""
@@ -109,10 +106,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776463200,
-                "start_time_local": "18 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 04:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=84ca51942ded83ab038b1f30e0b398ade27b05e5&verify=1776462300-BKBXOYEvvrvAdAhYa6viJecreyqWZoWnG0fJKZO3OhY%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 30,
+    "upcoming_matches": [
         {
             "match_id": 1629489173,
             "sport_name": "MMA",
@@ -252,21 +256,21 @@
             }
         },
         {
-            "match_id": 1629489187,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
-            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
+            "match_id": 1504750,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashima vs Urawa",
+            "slug": "kashima-vs-urawa-1504750",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
+                "home_name": "Kashima",
+                "away_name": "Urawa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Urawa%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -298,21 +302,21 @@
             }
         },
         {
-            "match_id": 1504752,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs V-varen Nagasaki",
-            "slug": "sanfrecce-hiroshima-vs-v-varen-nagasaki-1504752",
+            "match_id": 1629489189,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Gold Coast Titans vs New Zealand Warriors",
+            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "NRL Rugby",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "V-varen Nagasaki",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
+                "home_name": "Gold Coast Titans",
+                "away_name": "New Zealand Warriors",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -344,11 +348,11 @@
             }
         },
         {
-            "match_id": 1504750,
+            "match_id": 1504752,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Kashima vs Urawa",
-            "slug": "kashima-vs-urawa-1504750",
+            "title": "Sanfrecce Hiroshima vs V-varen Nagasaki",
+            "slug": "sanfrecce-hiroshima-vs-v-varen-nagasaki-1504752",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -356,9 +360,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Kashima",
-                "away_name": "Urawa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Urawa%20%20J1%20League.jpg"
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "V-varen Nagasaki",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -367,21 +371,21 @@
             }
         },
         {
-            "match_id": 1629489189,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Gold Coast Titans vs New Zealand Warriors",
-            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
+            "match_id": 1629489187,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
+            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
             "status": "NS",
             "league": {
-                "league_name": "NRL Rugby",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Gold Coast Titans",
-                "away_name": "New Zealand Warriors",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -436,29 +440,6 @@
             }
         },
         {
-            "match_id": 1469702,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brisbane Roar vs Melbourne City",
-            "slug": "brisbane-roar-vs-melbourne-city-1469702",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brisbane Roar",
-                "away_name": "Melbourne City",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20VS%20Melbourne%20City%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776495600,
-                "start_time_local": "18 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504754,
             "sport_name": "Football",
             "sport_id": 1,
@@ -474,6 +455,29 @@
                 "home_name": "Cerezo Osaka",
                 "away_name": "Kyoto Sanga",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776495600,
+                "start_time_local": "18 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469702,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brisbane Roar vs Melbourne City",
+            "slug": "brisbane-roar-vs-melbourne-city-1469702",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brisbane Roar",
+                "away_name": "Melbourne City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20VS%20Melbourne%20City%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776495600,
@@ -773,6 +777,29 @@
                 "home_name": "Arminia Bielefeld",
                 "away_name": "1. FC Nürnberg",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388881,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1. FC Magdeburg vs Fortuna Düsseldorf",
+            "slug": "1-fc-magdeburg-vs-fortuna-dusseldorf-1388881",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1. FC Magdeburg",
+                "away_name": "Fortuna Düsseldorf",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Fortuna%20D%C3%BCsseldorf%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776510000,
