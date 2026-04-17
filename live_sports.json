@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:32 AM 18-04-2026"
+        "last_update_time": "04:45:27 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&x-sign=baf2398603c0acabf443d17e64534f0c&x-time=1776465000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=bc93517b02eb0b9f6510d887e24af03c07c191c4&x-sign=07ea1de1b83618dfbd003776d9bc98fc&x-time=1776465900",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,21 +55,18 @@
                 "start_time_local": "18 Apr 2026, 12:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=dedce38105664f03c0ae19b3bc2af32024eff80b&verify=1776465000-%2B%2BpLgANEViDlZEvXBnnFbXjc6f5jefDbVkJ2fSnwbZE%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=bc93517b02eb0b9f6510d887e24af03c07c191c4&verify=1776465900-Rp2i6sFh0SZiYEiDE8VwRszxBqsO2V306nraSnihiks%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 31,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489173,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "SHOOTO BRAZIL 136",
             "slug": "shooto-brazil-136-1629489173",
-            "status": "NS",
+            "title": "SHOOTO BRAZIL 136",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -82,10 +79,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776466800,
-                "start_time_local": "18 Apr 2026, 05:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 05:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=bc93517b02eb0b9f6510d887e24af03c07c191c4&verify=1776465900-n%2BbLCdZ8jnIiXyLBukcXmWbL8eRwFEEXWcDL6rEO2cs%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 30,
+    "upcoming_matches": [
         {
             "match_id": 1629489172,
             "sport_name": "Rugby",
