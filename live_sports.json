@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:28 AM 18-04-2026"
+        "last_update_time": "06:45:36 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=b52c720899019aef2caf3e347ef8e5d0ff69a047&x-sign=a084b0b9a68ccd087f244dd3f15d273a&x-time=1776472200",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=22d04e05077f7c191847a92e3ac67c5cde6290c0&x-sign=e154088b031b9b239fec2dd553893df9&x-time=1776473100",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,21 +55,18 @@
                 "start_time_local": "18 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=b52c720899019aef2caf3e347ef8e5d0ff69a047&x-sign=77b1f663c3a18586e830a8ce94782860&x-time=1776472200",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=22d04e05077f7c191847a92e3ac67c5cde6290c0&x-sign=e5b8f60b99400d4b8eef82df20b62005&x-time=1776473100",
                 "is_new_format": false,
                 "required_referer": ""
             }
-        }
-    ],
-    "total_upcoming_matches": 32,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489172,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Canada vs New Zealand",
             "slug": "canada-vs-new-zealand-1629489172",
-            "status": "NS",
+            "title": "Canada vs New Zealand",
+            "status": "LIVE",
             "league": {
                 "league_name": "Pacific Four Series",
                 "league_logo": ""
@@ -82,17 +79,21 @@
             },
             "timing": {
                 "start_time_timestamp": 1776474000,
-                "start_time_local": "18 Apr 2026, 07:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 07:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=22d04e05077f7c191847a92e3ac67c5cde6290c0&verify=1776473100-l%2FlXR5En0otOmlOjMhjvJutpB%2F9GUfZYEBrwRkiTSBU%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
             "match_id": 1629489176,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "CAGE FURY FC 153",
             "slug": "cage-fury-fc-153-1629489176",
-            "status": "NS",
+            "title": "CAGE FURY FC 153",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -105,10 +106,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776474000,
-                "start_time_local": "18 Apr 2026, 07:00 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 07:00 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=22d04e05077f7c191847a92e3ac67c5cde6290c0&verify=1776473100-hJUzp1Clkyep08efXmEKPMfk74vVrLwPDIKS47QxxCU%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 30,
+    "upcoming_matches": [
         {
             "match_id": 1629489177,
             "sport_name": "Rugby",
