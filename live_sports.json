@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:40 AM 18-04-2026"
+        "last_update_time": "07:15:40 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&x-sign=08659a8797c13fd67aee892d8871be35&x-time=1776474000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=1f903897e75effbf70d66303953c130847b31731&x-sign=8e98203757deb59439a750ed616f5d7c&x-time=1776474900",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,7 +55,7 @@
                 "start_time_local": "18 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&x-sign=cadeada74e784d104e62f37fe6a114f2&x-time=1776474000",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=1f903897e75effbf70d66303953c130847b31731&x-sign=0a247cc4180586144a9c844c94dc4376&x-time=1776474900",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -82,7 +82,7 @@
                 "start_time_local": "18 Apr 2026, 07:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&verify=1776474000-mtVVm2R0WORCigbaj7qy%2FHeZAUrzR1jaHmoKsV52m5o%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=1f903897e75effbf70d66303953c130847b31731&verify=1776474900-gMcH97n6aT6vZCJ9jxlShvwwtffNRCvJs8MEwIAkh9Y%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
@@ -109,21 +109,18 @@
                 "start_time_local": "18 Apr 2026, 07:10 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&verify=1776474000-jP5JJXPib%2B4Rw%2FurkX%2FcuZAqOd56%2FSbU6il1Ss6cCZU%3D",
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=1f903897e75effbf70d66303953c130847b31731&verify=1776474900-OqZvxxEywQARWMfRs7FTNciH%2ByQ2If7X4eedU7fgXrw%3D",
                 "is_new_format": true,
                 "required_referer": "https://iframe.lucifershop.info/"
             }
-        }
-    ],
-    "total_upcoming_matches": 30,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489177,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Hong Kong Day 2: Session 1",
             "slug": "hong-kong-day-2-session-1-1629489177",
-            "status": "NS",
+            "title": "Hong Kong Day 2: Session 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Rugby Sevens Series",
                 "league_logo": ""
@@ -136,10 +133,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776475800,
-                "start_time_local": "18 Apr 2026, 07:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 07:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=1f903897e75effbf70d66303953c130847b31731&verify=1776474900-p4%2FQZOlM99RxECZrdrgKa7EnhVfDnAp5RkqypuKw5NA%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 29,
+    "upcoming_matches": [
         {
             "match_id": 1629489615,
             "sport_name": "Cycling",
@@ -206,52 +210,6 @@
             "timing": {
                 "start_time_timestamp": 1776484800,
                 "start_time_local": "18 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489187,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
-            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489188,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Chiba Lotte Marines",
-            "slug": "tohoku-rakuten-golden-eagles-vs-chiba-lotte-marines-1629489188",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -325,6 +283,29 @@
             }
         },
         {
+            "match_id": 1629489187,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
+            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1504752,
             "sport_name": "Football",
             "sport_id": 1,
@@ -340,6 +321,29 @@
                 "home_name": "Sanfrecce Hiroshima",
                 "away_name": "V-varen Nagasaki",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489188,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Chiba Lotte Marines",
+            "slug": "tohoku-rakuten-golden-eagles-vs-chiba-lotte-marines-1629489188",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -716,52 +720,6 @@
             }
         },
         {
-            "match_id": 1388875,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Arminia Bielefeld vs 1. FC Nürnberg",
-            "slug": "arminia-bielefeld-vs-1-fc-nurnberg-1388875",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arminia Bielefeld",
-                "away_name": "1. FC Nürnberg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776510000,
-                "start_time_local": "18 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388883,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Dynamo Dresden vs VfL Bochum",
-            "slug": "dynamo-dresden-vs-vfl-bochum-1388883",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Dynamo Dresden",
-                "away_name": "VfL Bochum",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Dresden%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776510000,
-                "start_time_local": "18 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489202,
             "sport_name": "Darts",
             "sport_id": 31,
@@ -800,6 +758,52 @@
                 "home_name": "1. FC Magdeburg",
                 "away_name": "Fortuna Düsseldorf",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Fortuna%20D%C3%BCsseldorf%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388883,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Dynamo Dresden vs VfL Bochum",
+            "slug": "dynamo-dresden-vs-vfl-bochum-1388883",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Dynamo Dresden",
+                "away_name": "VfL Bochum",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Dresden%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388875,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arminia Bielefeld vs 1. FC Nürnberg",
+            "slug": "arminia-bielefeld-vs-1-fc-nurnberg-1388875",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arminia Bielefeld",
+                "away_name": "1. FC Nürnberg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776510000,
