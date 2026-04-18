@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:46:49 PM 18-04-2026"
+        "last_update_time": "09:53:08 PM 18-04-2026"
     },
     "live_matches": [
         {
@@ -27,11 +27,20 @@
                 "start_time_timestamp": 1776511800,
                 "start_time_local": "18 Apr 2026, 05:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1428_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=2a797d6126169343d2f8b64a508e2283&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "1428",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1428_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=3756dfca729d14d8864cd4d840c4fafb&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=0d64edad115d73e66c0a12a44e85864c&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629489205,
@@ -54,38 +63,26 @@
                 "start_time_timestamp": 1776513600,
                 "start_time_local": "18 Apr 2026, 06:00 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=dda56a9df74a0bfc86cff30165fce278&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1388574,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "1899-hoffenheim-vs-borussia-dortmund-1388574",
-            "title": "1899 Hoffenheim vs Borussia Dortmund",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "1899 Hoffenheim",
-                "away_name": "Borussia Dortmund",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1899%20Hoffenheim%20VS%20Borussia%20Dortmund%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776519000,
-                "start_time_local": "18 Apr 2026, 07:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/33610_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=0b735e6689ebd0bb04514cad89adc55b&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=da8952bd12218207fd93dd25792b568c&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "143071",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143071_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=f71b0283b22c98db6cb14bc7d97bb290&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "138846",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/138846_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=c5e165b03fd5377bb9e86d48dcb6addb&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1388569,
@@ -108,38 +105,20 @@
                 "start_time_timestamp": 1776519000,
                 "start_time_local": "18 Apr 2026, 07:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=07cbc81ae9cdbfa5940207ac0ff024a6&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1388576,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "union-berlin-vs-vfl-wolfsburg-1388576",
-            "title": "Union Berlin vs VfL Wolfsburg",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Union Berlin",
-                "away_name": "VfL Wolfsburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20VS%20VfL%20Wolfsburg%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776519000,
-                "start_time_local": "18 Apr 2026, 07:30 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136437_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=965a1eef32b0d1e25c9ac02106ed6769&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "23",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=ba04d82f43329d1662971bcaab9e6148&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "136436",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136436_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=6687a6f8af88683a7983c945ba109cd2&x-time=1776527460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1388577,
@@ -162,11 +141,92 @@
                 "start_time_timestamp": 1776519000,
                 "start_time_local": "18 Apr 2026, 07:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136438_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=6d5e3b076421a060397dffbad8f75595&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "136438",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136438_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=51de513e6726d98faa4dec405bff1316&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "20",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/20/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=a4a81d66d065f0378873effa8a096e93&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1388574,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "1899-hoffenheim-vs-borussia-dortmund-1388574",
+            "title": "1899 Hoffenheim vs Borussia Dortmund",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1899 Hoffenheim",
+                "away_name": "Borussia Dortmund",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1899%20Hoffenheim%20VS%20Borussia%20Dortmund%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776519000,
+                "start_time_local": "18 Apr 2026, 07:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "33610",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/33610_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=050942709688b05841de99cde8740d4a&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=47e70795589994f321d167626f3d5049&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1388576,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "union-berlin-vs-vfl-wolfsburg-1388576",
+            "title": "Union Berlin vs VfL Wolfsburg",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Union Berlin",
+                "away_name": "VfL Wolfsburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20VS%20VfL%20Wolfsburg%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776519000,
+                "start_time_local": "18 Apr 2026, 07:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "136437",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/136437_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=e8e44eeeee8209a521b11c4363f15c7c&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&verify=1776527520-1akXD59mNq3BVOryYkxEJalQah3BGhCdx74RaTWdQEA%3D",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.lucifershop.info/"
+                }
+            ]
         },
         {
             "match_id": 1629489695,
@@ -189,200 +249,14 @@
                 "start_time_timestamp": 1776519000,
                 "start_time_local": "18 Apr 2026, 07:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1419_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=fe9239e1e0fff916dac5a8b4a96f14d1&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1379296,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "newcastle-vs-bournemouth-1379296",
-            "title": "Newcastle vs Bournemouth",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Newcastle",
-                "away_name": "Bournemouth",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20VS%20Bournemouth%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/144254_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=8a74349c81ce5fcd33b01670b3c82238&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1523890,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "spain-w-vs-ukraine-w-1523890",
-            "title": "Spain W vs Ukraine W",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup - Women - Qualification Europe",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Spain W",
-                "away_name": "Ukraine W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain%20W%20VS%20Ukraine%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=e2c796387343efea41be149b147eafee&x-time=1776527100",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1387060,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "hull-city-vs-birmingham-1387060",
-            "title": "Hull City vs Birmingham",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hull City",
-                "away_name": "Birmingham",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20VS%20Birmingham%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=c3bb2b60b63941506108defc005654d7&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1387056,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "swansea-vs-southampton-1387056",
-            "title": "Swansea vs Southampton",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Swansea",
-                "away_name": "Southampton",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Swansea%20VS%20Southampton%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=2a80770c98db826110df55214bd720c7&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1386515,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "crewe-vs-milton-keynes-dons-1386515",
-            "title": "Crewe vs Milton Keynes Dons",
-            "status": "LIVE",
-            "league": {
-                "league_name": "League Two",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Crewe",
-                "away_name": "Milton Keynes Dons",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crewe%20VS%20Milton%20Keynes%20Dons%20%20League%20Two.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=841e8a7835838ed5357a54551354b656&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1387630,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "reading-vs-cardiff-1387630",
-            "title": "Reading vs Cardiff",
-            "status": "LIVE",
-            "league": {
-                "league_name": "League One",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Reading",
-                "away_name": "Cardiff",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reading%20VS%20Cardiff%20%20League%20One.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=2acc3458d61283846aa373287dbe25ed&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1387062,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "wrexham-vs-stoke-city-1387062",
-            "title": "Wrexham vs Stoke City",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Wrexham",
-                "away_name": "Stoke City",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wrexham%20VS%20Stoke%20City%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776520800,
-                "start_time_local": "18 Apr 2026, 08:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=92be560898e310320b9412fdb2005b90&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "1419",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1419_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=7ec36a78f4b42dd539ca146e836c901a&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1379294,
@@ -405,11 +279,248 @@
                 "start_time_timestamp": 1776520800,
                 "start_time_local": "18 Apr 2026, 08:00 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/144253_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=c2f7ec477710482215ce3b9b89e71564&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "144253",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/144253_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=1e5e465d36369ea91fb9499860ca5ffd&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "18",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=e9faa1ee1455386d0b2de572b2734f0c&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "138847",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/138847_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=237593d02288a08018bb1d75d8ee74eb&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1387060,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "hull-city-vs-birmingham-1387060",
+            "title": "Hull City vs Birmingham",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hull City",
+                "away_name": "Birmingham",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hull%20City%20VS%20Birmingham%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "15",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=e321080af3ccd81ff3781239eb835758&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1387630,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "reading-vs-cardiff-1387630",
+            "title": "Reading vs Cardiff",
+            "status": "LIVE",
+            "league": {
+                "league_name": "League One",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Reading",
+                "away_name": "Cardiff",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reading%20VS%20Cardiff%20%20League%20One.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=12324bf39fe6df906f4e3cfcdaa1f7d6&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1386515,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "crewe-vs-milton-keynes-dons-1386515",
+            "title": "Crewe vs Milton Keynes Dons",
+            "status": "LIVE",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Crewe",
+                "away_name": "Milton Keynes Dons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crewe%20VS%20Milton%20Keynes%20Dons%20%20League%20Two.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=b13f80100443f4bb83132a15507bf9f8&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1379296,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "newcastle-vs-bournemouth-1379296",
+            "title": "Newcastle vs Bournemouth",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Newcastle",
+                "away_name": "Bournemouth",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20VS%20Bournemouth%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "144254",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/144254_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=b9ff94f55e079d0cee128fad18bed00f&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "52431",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/52431_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=3c264fcf472ce9e6792e02f32a200a8b&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "9",
+                    "play_url": "https://livecdn.linewgen.xyz/stream/9/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&verify=1776527520-6S5hSnseYlj7oME7OxwdkBZTjSYttOF2s2kFEziNImU%3D",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.lucifershop.info/"
+                }
+            ]
+        },
+        {
+            "match_id": 1387062,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "wrexham-vs-stoke-city-1387062",
+            "title": "Wrexham vs Stoke City",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Wrexham",
+                "away_name": "Stoke City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wrexham%20VS%20Stoke%20City%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=723e30afa2f6c92390270a038ebad8ec&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1523890,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "spain-w-vs-ukraine-w-1523890",
+            "title": "Spain W vs Ukraine W",
+            "status": "LIVE",
+            "league": {
+                "league_name": "World Cup - Women - Qualification Europe",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Spain W",
+                "away_name": "Ukraine W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain%20W%20VS%20Ukraine%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "274860",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=39c5cd8982984ce42c139d92d8ff2cb5&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1387056,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "swansea-vs-southampton-1387056",
+            "title": "Swansea vs Southampton",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Swansea",
+                "away_name": "Southampton",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Swansea%20VS%20Southampton%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776520800,
+                "start_time_local": "18 Apr 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=7524e9df5f9d8113ad63f95992308bd4&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1396504,
@@ -432,38 +543,14 @@
                 "start_time_timestamp": 1776522600,
                 "start_time_local": "18 Apr 2026, 08:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=bbef4c03e696cf9b12cf6e4124468cf2&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1387962,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "lorient-vs-marseille-1387962",
-            "title": "Lorient vs Marseille",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lorient",
-                "away_name": "Marseille",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lorient%20VS%20Marseille%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776524400,
-                "start_time_local": "18 Apr 2026, 09:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274844_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=813c7833b8b57f22657661fb42cff679&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=796a1e34371e6f4a1b90ffa03b5953ca&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1380638,
@@ -486,38 +573,14 @@
                 "start_time_timestamp": 1776526200,
                 "start_time_local": "18 Apr 2026, 09:30 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=66a93020425f8faff359006ece7206d3&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1629489216,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "slug": "day-2-evening-session-1629489216",
-            "title": "Day 2 - Evening Session",
-            "status": "LIVE",
-            "league": {
-                "league_name": "European Darts Grand Prix",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776528000,
-                "start_time_local": "18 Apr 2026, 10:00 PM"
-            },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=2a44173bb7402b423525c9194c586906&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "274843",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=52fa1ecf025b6fa02f22da8807cdf0cd&x-time=1776527520",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1378188,
@@ -540,11 +603,56 @@
                 "start_time_timestamp": 1776528000,
                 "start_time_local": "18 Apr 2026, 10:00 PM"
             },
-            "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54042_hd/index.m3u8?is_vip=false&token=8f0d9622ffc1d80c3e437b541a731543c34cc936&x-sign=0f3e9df65bd8f685f4ce743d9d183f03&x-time=1776527160",
-                "is_new_format": false,
-                "required_referer": ""
-            }
+            "streams": [
+                {
+                    "server_name": "54042",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54042_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=6ccd88c0eb811fd28046394beafbb750&x-time=1776527580",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "17",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/17/chunks.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=6a691b3c2ecd56ea1eb8388a892381df&x-time=1776527580",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489216,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "slug": "day-2-evening-session-1629489216",
+            "title": "Day 2 - Evening Session",
+            "status": "LIVE",
+            "league": {
+                "league_name": "European Darts Grand Prix",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776528000,
+                "start_time_local": "18 Apr 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "114414",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=e0c2729bd2338d14167e5268869272c7&x-time=1776527580",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "114415",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114415_hd/index.m3u8?is_vip=false&token=7e2e19eba9fe4425ccea82bf404c5f62393c4def&x-sign=d0925a989297c0bdaac51c434402b20b&x-time=1776527580",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         }
     ],
     "total_upcoming_matches": 8,
@@ -619,29 +727,6 @@
             }
         },
         {
-            "match_id": 1394697,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Gençlerbirliği S.K. vs Galatasaray",
-            "slug": "genclerbirligi-sk-vs-galatasaray-1394697",
-            "status": "NS",
-            "league": {
-                "league_name": "Süper Lig",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gençlerbirliği S.K.",
-                "away_name": "Galatasaray",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gen%C3%A7lerbirli%C4%9Fi%20S.K.%20VS%20Galatasaray%20%20S%C3%BCper%20Lig.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776531600,
-                "start_time_local": "18 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387959,
             "sport_name": "Football",
             "sport_id": 1,
@@ -657,6 +742,29 @@
                 "home_name": "Angers",
                 "away_name": "Le Havre",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Angers%20VS%20Le%20Havre%20%20Ligue%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776531600,
+                "start_time_local": "18 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1394697,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Gençlerbirliği S.K. vs Galatasaray",
+            "slug": "genclerbirligi-sk-vs-galatasaray-1394697",
+            "status": "NS",
+            "league": {
+                "league_name": "Süper Lig",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gençlerbirliği S.K.",
+                "away_name": "Galatasaray",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gen%C3%A7lerbirli%C4%9Fi%20S.K.%20VS%20Galatasaray%20%20S%C3%BCper%20Lig.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776531600,
