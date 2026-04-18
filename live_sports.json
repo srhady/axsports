@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:38 AM 18-04-2026"
+        "last_update_time": "06:15:31 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,7 +28,7 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=c7ffa0b3796e19f0b32f71f03800d1f60969f916&x-sign=8c3a6a5c4fa3bbdde1909bd84c77ed04&x-time=1776470400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=13b408d674296f24a280eea9570df215b10a9fb0&x-sign=f52cadab05590b276803c310ba40fba0&x-time=1776471300",
                 "is_new_format": false,
                 "required_referer": ""
             }
@@ -55,21 +55,18 @@
                 "start_time_local": "18 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=c7ffa0b3796e19f0b32f71f03800d1f60969f916&x-sign=c16c4fb8220ce1bdef8620b147de33f2&x-time=1776470400",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=13b408d674296f24a280eea9570df215b10a9fb0&x-sign=1c21d55cbc35a268b2509cbd53b818f4&x-time=1776471300",
                 "is_new_format": false,
                 "required_referer": ""
             }
-        }
-    ],
-    "total_upcoming_matches": 32,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489172,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Canada vs New Zealand",
             "slug": "canada-vs-new-zealand-1629489172",
-            "status": "NS",
+            "title": "Canada vs New Zealand",
+            "status": "LIVE",
             "league": {
                 "league_name": "Pacific Four Series",
                 "league_logo": ""
@@ -82,10 +79,17 @@
             },
             "timing": {
                 "start_time_timestamp": 1776472200,
-                "start_time_local": "18 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
+                "start_time_local": "18 Apr 2026, 06:30 AM"
+            },
+            "stream": {
+                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=13b408d674296f24a280eea9570df215b10a9fb0&verify=1776471300-sZtwtLArGW6ggRnt42SC0BekkbI12vkamNB1gek6jc0%3D",
+                "is_new_format": true,
+                "required_referer": "https://iframe.lucifershop.info/"
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 31,
+    "upcoming_matches": [
         {
             "match_id": 1629489175,
             "sport_name": "Rugby",
@@ -225,75 +229,6 @@
             }
         },
         {
-            "match_id": 1504750,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Kashima vs Urawa",
-            "slug": "kashima-vs-urawa-1504750",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Kashima",
-                "away_name": "Urawa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Urawa%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489189,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Gold Coast Titans vs New Zealand Warriors",
-            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
-            "status": "NS",
-            "league": {
-                "league_name": "NRL Rugby",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gold Coast Titans",
-                "away_name": "New Zealand Warriors",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504752,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs V-varen Nagasaki",
-            "slug": "sanfrecce-hiroshima-vs-v-varen-nagasaki-1504752",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "V-varen Nagasaki",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489187,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -332,6 +267,75 @@
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Chiba Lotte Marines",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489189,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Gold Coast Titans vs New Zealand Warriors",
+            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
+            "status": "NS",
+            "league": {
+                "league_name": "NRL Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gold Coast Titans",
+                "away_name": "New Zealand Warriors",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504750,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashima vs Urawa",
+            "slug": "kashima-vs-urawa-1504750",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Kashima",
+                "away_name": "Urawa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Urawa%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504752,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sanfrecce Hiroshima vs V-varen Nagasaki",
+            "slug": "sanfrecce-hiroshima-vs-v-varen-nagasaki-1504752",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "V-varen Nagasaki",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -386,29 +390,6 @@
             }
         },
         {
-            "match_id": 1504754,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cerezo Osaka vs Kyoto Sanga",
-            "slug": "cerezo-osaka-vs-kyoto-sanga-1504754",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cerezo Osaka",
-                "away_name": "Kyoto Sanga",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776495600,
-                "start_time_local": "18 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1469702,
             "sport_name": "Football",
             "sport_id": 1,
@@ -424,6 +405,29 @@
                 "home_name": "Brisbane Roar",
                 "away_name": "Melbourne City",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20VS%20Melbourne%20City%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776495600,
+                "start_time_local": "18 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504754,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cerezo Osaka vs Kyoto Sanga",
+            "slug": "cerezo-osaka-vs-kyoto-sanga-1504754",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cerezo Osaka",
+                "away_name": "Kyoto Sanga",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776495600,
@@ -455,29 +459,6 @@
             }
         },
         {
-            "match_id": 1506940,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bucheon FC 1995 vs Incheon United",
-            "slug": "bucheon-fc-1995-vs-incheon-united-1506940",
-            "status": "NS",
-            "league": {
-                "league_name": "K League 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bucheon FC 1995",
-                "away_name": "Incheon United",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucheon%20FC%201995%20VS%20Incheon%20United%20%20K%20League%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776497400,
-                "start_time_local": "18 Apr 2026, 01:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489193,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -493,6 +474,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776497400,
+                "start_time_local": "18 Apr 2026, 01:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1506940,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bucheon FC 1995 vs Incheon United",
+            "slug": "bucheon-fc-1995-vs-incheon-united-1506940",
+            "status": "NS",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bucheon FC 1995",
+                "away_name": "Incheon United",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucheon%20FC%201995%20VS%20Incheon%20United%20%20K%20League%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776497400,
@@ -524,11 +528,11 @@
             }
         },
         {
-            "match_id": 1629489198,
+            "match_id": 1629489197,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
-            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629489198",
+            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
+            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629489197",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -536,9 +540,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Yomiuri Giants",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776502800,
@@ -570,6 +574,29 @@
             }
         },
         {
+            "match_id": 1629489198,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
+            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629489198",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776502800,
+                "start_time_local": "18 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489196,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -585,29 +612,6 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776502800,
-                "start_time_local": "18 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489197,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
-            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629489197",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776502800,
@@ -731,29 +735,6 @@
             }
         },
         {
-            "match_id": 1388875,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Arminia Bielefeld vs 1. FC Nürnberg",
-            "slug": "arminia-bielefeld-vs-1-fc-nurnberg-1388875",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arminia Bielefeld",
-                "away_name": "1. FC Nürnberg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776510000,
-                "start_time_local": "18 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388881,
             "sport_name": "Football",
             "sport_id": 1,
@@ -769,6 +750,29 @@
                 "home_name": "1. FC Magdeburg",
                 "away_name": "Fortuna Düsseldorf",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Fortuna%20D%C3%BCsseldorf%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388875,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Arminia Bielefeld vs 1. FC Nürnberg",
+            "slug": "arminia-bielefeld-vs-1-fc-nurnberg-1388875",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arminia Bielefeld",
+                "away_name": "1. FC Nürnberg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776510000,
