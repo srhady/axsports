@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:32 AM 19-04-2026"
+        "last_update_time": "05:15:21 AM 19-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489309,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "slug": "liv-golf-mexico-city-1629489309",
-            "title": "LIV Golf Mexico City",
-            "status": "LIVE",
-            "league": {
-                "league_name": "LIV Golf",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776537000,
-                "start_time_local": "19 Apr 2026, 12:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=5fef5379c7f93f11b72abe39fc8e516108888f85&x-sign=b043caea6b15c3e63ed427d7eef80747&x-time=1776553200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489311,
             "sport_name": "MMA",
@@ -60,14 +30,14 @@
             "streams": [
                 {
                     "server_name": "15",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=5fef5379c7f93f11b72abe39fc8e516108888f85&x-sign=23b929486ef99fd61876247d63516b5b&x-time=1776553200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=d3cd144ca215f136804a176d73c5f01b982156aa&x-sign=86577548612ce011b90eb8292d5c1b3a&x-time=1776554100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 3,
+    "total_upcoming_matches": 7,
     "upcoming_matches": [
         {
             "match_id": 1629489313,
@@ -116,6 +86,29 @@
             }
         },
         {
+            "match_id": 1526991,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brazil W vs Canada W",
+            "slug": "brazil-w-vs-canada-w-1526991",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies Women",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brazil W",
+                "away_name": "Canada W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil%20W%20VS%20Canada%20W%20%20Friendlies%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776562200,
+                "start_time_local": "19 Apr 2026, 07:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535108,
             "sport_name": "Football",
             "sport_id": 1,
@@ -135,6 +128,75 @@
             "timing": {
                 "start_time_timestamp": 1776562200,
                 "start_time_local": "19 Apr 2026, 07:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489314,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Hong Kong Day 3: Session 1",
+            "slug": "hong-kong-day-3-session-1-1629489314",
+            "status": "NS",
+            "league": {
+                "league_name": "World Rugby Sevens Series",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776564000,
+                "start_time_local": "19 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489315,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Canberra",
+            "slug": "canberra-1629489315",
+            "status": "NS",
+            "league": {
+                "league_name": "Australian Motocross Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776567600,
+                "start_time_local": "19 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489316,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Richmond Tigers vs North Melbourne",
+            "slug": "richmond-tigers-vs-north-melbourne-1629489316",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Richmond Tigers",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776567600,
+                "start_time_local": "19 Apr 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         }
