@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:36 AM 18-04-2026"
+        "last_update_time": "06:00:38 AM 18-04-2026"
     },
     "live_matches": [
         {
@@ -28,36 +28,9 @@
                 "start_time_local": "17 Apr 2026, 11:00 PM"
             },
             "stream": {
-                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=679b6b89cde4ad63b4505c67ea3e836c882f5ee7&x-sign=758d8aa260844301749fa5329085f623&x-time=1776469500",
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=c7ffa0b3796e19f0b32f71f03800d1f60969f916&x-sign=8c3a6a5c4fa3bbdde1909bd84c77ed04&x-time=1776470400",
                 "is_new_format": false,
                 "required_referer": ""
-            }
-        },
-        {
-            "match_id": 1629489169,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "slug": "liv-golf-mexico-city-1629489169",
-            "title": "LIV Golf Mexico City",
-            "status": "LIVE",
-            "league": {
-                "league_name": "LIV Golf",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776448800,
-                "start_time_local": "18 Apr 2026, 12:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=679b6b89cde4ad63b4505c67ea3e836c882f5ee7&verify=1776469500-rMYRX0hg3IF4ZTozf87%2F8bRmFTAAaYBFay7olNLzIiE%3D",
-                "is_new_format": true,
-                "required_referer": "https://iframe.lucifershop.info/"
             }
         },
         {
@@ -82,18 +55,21 @@
                 "start_time_local": "18 Apr 2026, 05:00 AM"
             },
             "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=679b6b89cde4ad63b4505c67ea3e836c882f5ee7&verify=1776469500-TqM893QMmqqc7YyhQRPjL3YxYOXbYA%2Fhrk9GouJF9UA%3D",
-                "is_new_format": true,
-                "required_referer": "https://iframe.lucifershop.info/"
+                "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=c7ffa0b3796e19f0b32f71f03800d1f60969f916&x-sign=c16c4fb8220ce1bdef8620b147de33f2&x-time=1776470400",
+                "is_new_format": false,
+                "required_referer": ""
             }
-        },
+        }
+    ],
+    "total_upcoming_matches": 32,
+    "upcoming_matches": [
         {
             "match_id": 1629489172,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "slug": "canada-vs-new-zealand-1629489172",
             "title": "Canada vs New Zealand",
-            "status": "LIVE",
+            "slug": "canada-vs-new-zealand-1629489172",
+            "status": "NS",
             "league": {
                 "league_name": "Pacific Four Series",
                 "league_logo": ""
@@ -105,18 +81,11 @@
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canada%20VS%20New%20Zealand%20%20Pacific%20Four%20Series.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1776470400,
-                "start_time_local": "18 Apr 2026, 06:00 AM"
-            },
-            "stream": {
-                "play_url": "https://livecdn.linewgen.xyz/stream/25/chunks.m3u8?is_vip=false&token=679b6b89cde4ad63b4505c67ea3e836c882f5ee7&verify=1776469500-563BcRX4VCBCF0WcamOnOBHG6bmAd4GynUo37MqXfrE%3D",
-                "is_new_format": true,
-                "required_referer": "https://iframe.lucifershop.info/"
+                "start_time_timestamp": 1776472200,
+                "start_time_local": "18 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
             }
-        }
-    ],
-    "total_upcoming_matches": 29,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489175,
             "sport_name": "Rugby",
@@ -233,29 +202,6 @@
             }
         },
         {
-            "match_id": 1629489188,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Chiba Lotte Marines",
-            "slug": "tohoku-rakuten-golden-eagles-vs-chiba-lotte-marines-1629489188",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776488400,
-                "start_time_local": "18 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1469701,
             "sport_name": "Football",
             "sport_id": 1,
@@ -302,21 +248,21 @@
             }
         },
         {
-            "match_id": 1629489187,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
-            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
+            "match_id": 1629489189,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Gold Coast Titans vs New Zealand Warriors",
+            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "NRL Rugby",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
+                "home_name": "Gold Coast Titans",
+                "away_name": "New Zealand Warriors",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -348,21 +294,44 @@
             }
         },
         {
-            "match_id": 1629489189,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Gold Coast Titans vs New Zealand Warriors",
-            "slug": "gold-coast-titans-vs-new-zealand-warriors-1629489189",
+            "match_id": 1629489187,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Saitama Seibu Lions",
+            "slug": "hokkaido-nippon-ham-fighters-vs-saitama-seibu-lions-1629489187",
             "status": "NS",
             "league": {
-                "league_name": "NRL Rugby",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Gold Coast Titans",
-                "away_name": "New Zealand Warriors",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Saitama%20Seibu%20Lions%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776488400,
+                "start_time_local": "18 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489188,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Chiba Lotte Marines",
+            "slug": "tohoku-rakuten-golden-eagles-vs-chiba-lotte-marines-1629489188",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776488400,
@@ -417,29 +386,6 @@
             }
         },
         {
-            "match_id": 1469702,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brisbane Roar vs Melbourne City",
-            "slug": "brisbane-roar-vs-melbourne-city-1469702",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brisbane Roar",
-                "away_name": "Melbourne City",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20VS%20Melbourne%20City%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776495600,
-                "start_time_local": "18 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504754,
             "sport_name": "Football",
             "sport_id": 1,
@@ -455,6 +401,29 @@
                 "home_name": "Cerezo Osaka",
                 "away_name": "Kyoto Sanga",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerezo%20Osaka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776495600,
+                "start_time_local": "18 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469702,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brisbane Roar vs Melbourne City",
+            "slug": "brisbane-roar-vs-melbourne-city-1469702",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brisbane Roar",
+                "away_name": "Melbourne City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20VS%20Melbourne%20City%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776495600,
@@ -486,29 +455,6 @@
             }
         },
         {
-            "match_id": 1629489193,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "43rd Andalusia Rally - Sierra Morena: Stage 2",
-            "slug": "43rd-andalusia-rally-sierra-morena-stage-2-1629489193",
-            "status": "NS",
-            "league": {
-                "league_name": "ERC",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776497400,
-                "start_time_local": "18 Apr 2026, 01:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1506940,
             "sport_name": "Football",
             "sport_id": 1,
@@ -524,6 +470,29 @@
                 "home_name": "Bucheon FC 1995",
                 "away_name": "Incheon United",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bucheon%20FC%201995%20VS%20Incheon%20United%20%20K%20League%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776497400,
+                "start_time_local": "18 Apr 2026, 01:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489193,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "43rd Andalusia Rally - Sierra Morena: Stage 2",
+            "slug": "43rd-andalusia-rally-sierra-morena-stage-2-1629489193",
+            "status": "NS",
+            "league": {
+                "league_name": "ERC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776497400,
@@ -578,29 +547,6 @@
             }
         },
         {
-            "match_id": 1629489196,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "43rd Andalusia Rally - Sierra Morena: Stage 3",
-            "slug": "43rd-andalusia-rally-sierra-morena-stage-3-1629489196",
-            "status": "NS",
-            "league": {
-                "league_name": "ERC",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776502800,
-                "start_time_local": "18 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489195,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -615,6 +561,29 @@
             "teams": {
                 "home_name": "ACT Brumbies",
                 "away_name": "Fijian Drua",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776502800,
+                "start_time_local": "18 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489196,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "43rd Andalusia Rally - Sierra Morena: Stage 3",
+            "slug": "43rd-andalusia-rally-sierra-morena-stage-3-1629489196",
+            "status": "NS",
+            "league": {
+                "league_name": "ERC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -739,21 +708,21 @@
             }
         },
         {
-            "match_id": 1388883,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Dynamo Dresden vs VfL Bochum",
-            "slug": "dynamo-dresden-vs-vfl-bochum-1388883",
+            "match_id": 1629489202,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Day 2 - Afternoon Session",
+            "slug": "day-2-afternoon-session-1629489202",
             "status": "NS",
             "league": {
-                "league_name": "2. Bundesliga",
+                "league_name": "European Darts Grand Prix",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Dynamo Dresden",
-                "away_name": "VfL Bochum",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Dresden%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776510000,
@@ -777,6 +746,52 @@
                 "home_name": "Arminia Bielefeld",
                 "away_name": "1. FC Nürnberg",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388881,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1. FC Magdeburg vs Fortuna Düsseldorf",
+            "slug": "1-fc-magdeburg-vs-fortuna-dusseldorf-1388881",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1. FC Magdeburg",
+                "away_name": "Fortuna Düsseldorf",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Fortuna%20D%C3%BCsseldorf%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776510000,
+                "start_time_local": "18 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388883,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Dynamo Dresden vs VfL Bochum",
+            "slug": "dynamo-dresden-vs-vfl-bochum-1388883",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Dynamo Dresden",
+                "away_name": "VfL Bochum",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dynamo%20Dresden%20VS%20VfL%20Bochum%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776510000,
