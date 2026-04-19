@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:15:26 AM 19-04-2026"
+        "last_update_time": "06:30:23 AM 19-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489311,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "prelims-1629489311",
-            "title": "PRELIMS",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UFC FIGHT NIGHT",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776546000,
-                "start_time_local": "19 Apr 2026, 03:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "15",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=ce596da8e2f25baa569ced215af8a0a53eb8dc71&x-sign=b943a04a35957771ae967442c46d1ca7&x-time=1776557700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/498587_hd/index.m3u8?is_vip=false&token=ce596da8e2f25baa569ced215af8a0a53eb8dc71&x-sign=0dcdf3eb67a55c243ab1b89e56f9d24d&x-time=1776557700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489313,
             "sport_name": "MMA",
@@ -65,15 +29,15 @@
             },
             "streams": [
                 {
-                    "server_name": "15",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/15/chunks.m3u8?is_vip=false&token=ce596da8e2f25baa569ced215af8a0a53eb8dc71&x-sign=b943a04a35957771ae967442c46d1ca7&x-time=1776557700",
+                    "server_name": "53767",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=dfc85a9d15a0dcd23e9867f244bb3946a57cdf35&x-sign=0fa1b17b3ac1a21a0a0a17edf9a72ac8&x-time=1776558600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 12,
+    "total_upcoming_matches": 13,
     "upcoming_matches": [
         {
             "match_id": 1492593,
@@ -168,29 +132,6 @@
             }
         },
         {
-            "match_id": 1469704,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Auckland vs Central Coast Mariners",
-            "slug": "auckland-vs-central-coast-mariners-1469704",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Auckland",
-                "away_name": "Central Coast Mariners",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776567600,
-                "start_time_local": "19 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489316,
             "sport_name": "Football",
             "sport_id": 1,
@@ -229,6 +170,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776567600,
+                "start_time_local": "19 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469704,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Auckland vs Central Coast Mariners",
+            "slug": "auckland-vs-central-coast-mariners-1469704",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Auckland",
+                "away_name": "Central Coast Mariners",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776567600,
@@ -348,6 +312,29 @@
             "timing": {
                 "start_time_timestamp": 1776574800,
                 "start_time_local": "19 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469705,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Adelaide United vs Macarthur",
+            "slug": "adelaide-united-vs-macarthur-1469705",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Adelaide United",
+                "away_name": "Macarthur",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20United%20VS%20Macarthur%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776576600,
+                "start_time_local": "19 Apr 2026, 11:30 AM",
                 "countdown_seconds": null
             }
         }
