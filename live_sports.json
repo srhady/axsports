@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:24 AM 19-04-2026"
+        "last_update_time": "07:00:31 AM 19-04-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "53767",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=b5440fd0f3255db1bc2ef6bbf13b05b92586cf41&x-sign=bdb493c708b229ba94891790f0e16311&x-time=1776559500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=feb948bd72fe5e939a6941f6a7edab7fe7bcadd8&x-sign=b979e01dbe1cc816e15d0d275ec1cbb7&x-time=1776560400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 14,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1492593,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Guadalajara Chivas vs Puebla",
             "slug": "guadalajara-chivas-vs-puebla-1492593",
-            "status": "NS",
+            "title": "Guadalajara Chivas vs Puebla",
+            "status": "LIVE",
             "league": {
                 "league_name": "Liga MX",
                 "league_logo": ""
@@ -58,7 +55,40 @@
             },
             "timing": {
                 "start_time_timestamp": 1776560820,
-                "start_time_local": "19 Apr 2026, 07:07 AM",
+                "start_time_local": "19 Apr 2026, 07:07 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=feb948bd72fe5e939a6941f6a7edab7fe7bcadd8&x-sign=ce1d4db7e8c52a1288edfc649815d66c&x-time=1776560400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 16,
+    "upcoming_matches": [
+        {
+            "match_id": 1526991,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brazil W vs Canada W",
+            "slug": "brazil-w-vs-canada-w-1526991",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies Women",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brazil W",
+                "away_name": "Canada W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil%20W%20VS%20Canada%20W%20%20Friendlies%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776562200,
+                "start_time_local": "19 Apr 2026, 07:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -78,29 +108,6 @@
                 "home_name": "Atlético Choloma",
                 "away_name": "CD Olimpia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atl%C3%A9tico%20Choloma%20VS%20CD%20Olimpia%20%20Liga%20Nacional.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776562200,
-                "start_time_local": "19 Apr 2026, 07:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1526991,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brazil W vs Canada W",
-            "slug": "brazil-w-vs-canada-w-1526991",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies Women",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brazil W",
-                "away_name": "Canada W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brazil%20W%20VS%20Canada%20W%20%20Friendlies%20Women.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776562200,
@@ -132,29 +139,6 @@
             }
         },
         {
-            "match_id": 1469704,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Auckland vs Central Coast Mariners",
-            "slug": "auckland-vs-central-coast-mariners-1469704",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Auckland",
-                "away_name": "Central Coast Mariners",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776567600,
-                "start_time_local": "19 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489316,
             "sport_name": "Football",
             "sport_id": 1,
@@ -170,6 +154,29 @@
                 "home_name": "Richmond Tigers",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776567600,
+                "start_time_local": "19 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469704,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Auckland vs Central Coast Mariners",
+            "slug": "auckland-vs-central-coast-mariners-1469704",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Auckland",
+                "away_name": "Central Coast Mariners",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776567600,
@@ -358,6 +365,75 @@
             "timing": {
                 "start_time_timestamp": 1776578400,
                 "start_time_local": "19 Apr 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504757,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Gamba Osaka vs Fagiano Okayama",
+            "slug": "gamba-osaka-vs-fagiano-okayama-1504757",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gamba Osaka",
+                "away_name": "Fagiano Okayama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776578400,
+                "start_time_local": "19 Apr 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489328,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Chiba Lotte Marines",
+            "slug": "tohoku-rakuten-golden-eagles-vs-chiba-lotte-marines-1629489328",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776582000,
+                "start_time_local": "19 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489329,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fremantle vs West Coast Eagles",
+            "slug": "fremantle-vs-west-coast-eagles-1629489329",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "West Coast Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776582000,
+                "start_time_local": "19 Apr 2026, 01:00 PM",
                 "countdown_seconds": null
             }
         }
