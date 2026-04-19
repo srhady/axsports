@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:23 AM 19-04-2026"
+        "last_update_time": "06:45:24 AM 19-04-2026"
     },
     "live_matches": [
         {
@@ -30,14 +30,14 @@
             "streams": [
                 {
                     "server_name": "53767",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=dfc85a9d15a0dcd23e9867f244bb3946a57cdf35&x-sign=0fa1b17b3ac1a21a0a0a17edf9a72ac8&x-time=1776558600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=b5440fd0f3255db1bc2ef6bbf13b05b92586cf41&x-sign=bdb493c708b229ba94891790f0e16311&x-time=1776559500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 13,
+    "total_upcoming_matches": 14,
     "upcoming_matches": [
         {
             "match_id": 1492593,
@@ -132,6 +132,29 @@
             }
         },
         {
+            "match_id": 1469704,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Auckland vs Central Coast Mariners",
+            "slug": "auckland-vs-central-coast-mariners-1469704",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Auckland",
+                "away_name": "Central Coast Mariners",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776567600,
+                "start_time_local": "19 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489316,
             "sport_name": "Football",
             "sport_id": 1,
@@ -170,29 +193,6 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776567600,
-                "start_time_local": "19 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1469704,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Auckland vs Central Coast Mariners",
-            "slug": "auckland-vs-central-coast-mariners-1469704",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Auckland",
-                "away_name": "Central Coast Mariners",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Auckland%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776567600,
@@ -335,6 +335,29 @@
             "timing": {
                 "start_time_timestamp": 1776576600,
                 "start_time_local": "19 Apr 2026, 11:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489327,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "43rd Andalusia Rally - Sierra Morena: Stage 8",
+            "slug": "43rd-andalusia-rally-sierra-morena-stage-8-1629489327",
+            "status": "NS",
+            "league": {
+                "league_name": "ERC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776578400,
+                "start_time_local": "19 Apr 2026, 12:00 PM",
                 "countdown_seconds": null
             }
         }
