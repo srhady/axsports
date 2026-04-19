@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:31 AM 19-04-2026"
+        "last_update_time": "07:15:35 AM 19-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "53767",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=feb948bd72fe5e939a6941f6a7edab7fe7bcadd8&x-sign=b979e01dbe1cc816e15d0d275ec1cbb7&x-time=1776560400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=8794d84b4d3235534812ec1d94b2c7dfd02eb22c&x-sign=047f498a951c87233d92b0d93957b1b0&x-time=1776561300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=feb948bd72fe5e939a6941f6a7edab7fe7bcadd8&x-sign=ce1d4db7e8c52a1288edfc649815d66c&x-time=1776560400",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=8794d84b4d3235534812ec1d94b2c7dfd02eb22c&x-sign=e6e9a3e5c63b1eac9cd6d8aed18579a6&x-time=1776561300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 16,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1526991,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Brazil W vs Canada W",
             "slug": "brazil-w-vs-canada-w-1526991",
-            "status": "NS",
+            "title": "Brazil W vs Canada W",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies Women",
                 "league_logo": ""
@@ -88,17 +85,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1776562200,
-                "start_time_local": "19 Apr 2026, 07:30 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "19 Apr 2026, 07:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=8794d84b4d3235534812ec1d94b2c7dfd02eb22c&x-sign=9c2019a179a67487dec0a63e4011481b&x-time=1776561300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1535108,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Atlético Choloma vs CD Olimpia",
             "slug": "atletico-choloma-vs-cd-olimpia-1535108",
-            "status": "NS",
+            "title": "Atlético Choloma vs CD Olimpia",
+            "status": "LIVE",
             "league": {
                 "league_name": "Liga Nacional",
                 "league_logo": ""
@@ -111,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776562200,
-                "start_time_local": "19 Apr 2026, 07:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "19 Apr 2026, 07:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=8794d84b4d3235534812ec1d94b2c7dfd02eb22c&x-sign=41f561e8642971d93f57b855ee6f4e39&x-time=1776561300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 14,
+    "upcoming_matches": [
         {
             "match_id": 1629489314,
             "sport_name": "Rugby",
@@ -231,29 +245,6 @@
             }
         },
         {
-            "match_id": 1504755,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Mito Hollyhock vs Kashiwa Reysol",
-            "slug": "mito-hollyhock-vs-kashiwa-reysol-1504755",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mito Hollyhock",
-                "away_name": "Kashiwa Reysol",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Kashiwa%20Reysol%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776571200,
-                "start_time_local": "19 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489320,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -292,6 +283,29 @@
                 "home_name": "Fukuoka SoftBank Hawks",
                 "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20ORIX%20Buffaloes%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776571200,
+                "start_time_local": "19 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504755,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mito Hollyhock vs Kashiwa Reysol",
+            "slug": "mito-hollyhock-vs-kashiwa-reysol-1504755",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mito Hollyhock",
+                "away_name": "Kashiwa Reysol",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Kashiwa%20Reysol%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776571200,
@@ -392,6 +406,29 @@
             }
         },
         {
+            "match_id": 1504758,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Nagoya Grampus vs Avispa Fukuoka",
+            "slug": "nagoya-grampus-vs-avispa-fukuoka-1504758",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Nagoya Grampus",
+                "away_name": "Avispa Fukuoka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776582000,
+                "start_time_local": "19 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489328,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -406,29 +443,6 @@
             "teams": {
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776582000,
-                "start_time_local": "19 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489329,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Fremantle vs West Coast Eagles",
-            "slug": "fremantle-vs-west-coast-eagles-1629489329",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "West Coast Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
