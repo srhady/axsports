@@ -3,10 +3,41 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:19 AM 20-04-2026"
+        "last_update_time": "10:30:28 AM 20-04-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 39,
+    "live_matches": [
+        {
+            "match_id": 1629489379,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-1629489379",
+            "title": "Auto racing",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776657600,
+                "start_time_local": "20 Apr 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=e0aaa4dfb6f953ecdc3d83b93c74699543c30f98&x-sign=3d16e07042c0a441b400238d498ac3f9&x-time=1776659400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
     "upcoming_matches": [
         {
             "match_id": 1629489353,
