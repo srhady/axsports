@@ -3,41 +3,10 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:26 PM 20-04-2026"
+        "last_update_time": "06:00:29 PM 20-04-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1629489379,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "auto-racing-1629489379",
-            "title": "Auto racing",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Auto Racing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776657600,
-                "start_time_local": "20 Apr 2026, 10:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=7f03c8e674bed8cebeaf8a58ee625755b07d12a8&x-sign=65081a31345820b2749db50a1ef56e30&x-time=1776675600",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 48,
+    "live_matches": [],
+    "total_upcoming_matches": 49,
     "upcoming_matches": [
         {
             "match_id": 1629489949,
@@ -247,6 +216,29 @@
             }
         },
         {
+            "match_id": 1629489363,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "First Round",
+            "slug": "first-round-1629489363",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776762000,
+                "start_time_local": "21 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489358,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -284,29 +276,6 @@
             "teams": {
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489363,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "First Round",
-            "slug": "first-round-1629489363",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
