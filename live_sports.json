@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:28 AM 21-04-2026"
+        "last_update_time": "12:15:31 AM 21-04-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,49 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=87f246f848227b7d246d798e1a91e1628a7be69b&x-sign=e5ef388c691e4fe4a1ba8deee7215d1f&x-time=1776708000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=b5e6ac0aa759a0653388a0673d865341d2112f76&x-sign=e266a553445dd0ae4656bebab09adefd&x-time=1776708900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
+        {
+            "match_id": 1380639,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "lechia-gdansk-vs-piast-gliwice-1380639",
+            "title": "Lechia Gdansk vs Piast Gliwice",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Ekstraklasa",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lechia Gdansk",
+                "away_name": "Piast Gliwice",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lechia%20Gdansk%20VS%20Piast%20Gliwice%20%20Ekstraklasa.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776704400,
+                "start_time_local": "20 Apr 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=b5e6ac0aa759a0653388a0673d865341d2112f76&x-sign=494b0723872e8f02a5a2d0b0c9909aa3&x-time=1776708900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1392155,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Deportivo La Coruna vs Mirandes",
             "slug": "deportivo-la-coruna-vs-mirandes-1392155",
-            "status": "NS",
+            "title": "Deportivo La Coruna vs Mirandes",
+            "status": "LIVE",
             "league": {
                 "league_name": "Segunda División",
                 "league_logo": ""
@@ -58,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776709800,
-                "start_time_local": "21 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "21 Apr 2026, 12:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "772",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/772_hd/index.m3u8?is_vip=false&token=b5e6ac0aa759a0653388a0673d865341d2112f76&x-sign=5cd6a65b8d3326a0e52e9916a2b9d45a&x-time=1776708900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1378187,
             "sport_name": "Football",
@@ -316,29 +353,6 @@
             }
         },
         {
-            "match_id": 1391144,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Mallorca vs Valencia",
-            "slug": "mallorca-vs-valencia-1391144",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mallorca",
-                "away_name": "Valencia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mallorca%20VS%20Valencia%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776790800,
-                "start_time_local": "21 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1391139,
             "sport_name": "Football",
             "sport_id": 1,
@@ -354,6 +368,29 @@
                 "home_name": "Athletic Club",
                 "away_name": "Osasuna",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20VS%20Osasuna%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776790800,
+                "start_time_local": "21 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391144,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mallorca vs Valencia",
+            "slug": "mallorca-vs-valencia-1391144",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mallorca",
+                "away_name": "Valencia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mallorca%20VS%20Valencia%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776790800,
