@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:47 PM 21-04-2026"
+        "last_update_time": "02:46:02 PM 21-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=cc91be4eb8436190542c4760354fe9d1d730ca25&x-sign=3694fe68879088df6faeda18065f1f7e&x-time=1776760200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=05ee5fba58a7ec71da16bccf2188f3e4&x-time=1776761100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=cc91be4eb8436190542c4760354fe9d1d730ca25&x-sign=f5b04902bc7fd68b7d6402b7f572466a&x-time=1776760200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=116772f6011211a2481e57dc18d748ea&x-time=1776761100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "411",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=cc91be4eb8436190542c4760354fe9d1d730ca25&x-sign=71a3d59ba832da6238964a1cf0a58ee3&x-time=1776760200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=ea54b57f32f265be22130cb37e0cd7bb&x-time=1776761100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,7 +120,7 @@
             "streams": [
                 {
                     "server_name": "372",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=cc91be4eb8436190542c4760354fe9d1d730ca25&x-sign=1d9ba4259ddf35b349ae6b22d9c0e844&x-time=1776760200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=8a40f3055a8005f8dd4d38f09e518a1b&x-time=1776761100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -155,17 +155,14 @@
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489358,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Orix Buffaloes",
             "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629489358",
-            "status": "NS",
+            "title": "Chiba Lotte Marines vs Orix Buffaloes",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -178,40 +175,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489359,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
-            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629489359",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
+                "start_time_local": "21 Apr 2026, 03:00 PM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=4fd5e57c9713764983a6e40625470ba4&x-time=1776761100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629489360,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Chunichi Dragons",
             "slug": "yomiuri-giants-vs-chunichi-dragons-1629489360",
-            "status": "NS",
+            "title": "Yomiuri Giants vs Chunichi Dragons",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -224,40 +205,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489361,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
-            "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489361",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
+                "start_time_local": "21 Apr 2026, 03:00 PM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=d1a419071ea57c319a177bfdd970dbdf&x-time=1776761100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629489363,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "First Round",
             "slug": "first-round-1629489363",
-            "status": "NS",
+            "title": "First Round",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -270,10 +235,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "21 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=34e02152f072d1b4657d89275d02a5c79981084f&x-sign=156f6cd38b5020bc5f0d90f345a71ef3&x-time=1776761100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1506945,
             "sport_name": "Football",
@@ -593,6 +568,29 @@
             "timing": {
                 "start_time_timestamp": 1776808800,
                 "start_time_local": "22 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489528,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Hanshin Tigers",
+            "slug": "yokohama-dena-baystars-vs-hanshin-tigers-1629489528",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Hanshin%20Tigers%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776847500,
+                "start_time_local": "22 Apr 2026, 02:45 PM",
                 "countdown_seconds": null
             }
         }
