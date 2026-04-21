@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:00:39 PM 21-04-2026"
+        "last_update_time": "02:15:38 PM 21-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489950,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "tennis-channel-1629489950",
-            "title": "Tennis channel",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Tennis League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776729600,
-                "start_time_local": "21 Apr 2026, 06:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=a0dfd55697aa72f854ffbca27c90f50b3486b637&x-sign=dba1e8387e48a1f6a7af9dd12821dbba&x-time=1776758400",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489379,
             "sport_name": "Auto Racing",
@@ -60,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=a0dfd55697aa72f854ffbca27c90f50b3486b637&x-sign=51e6a6d77361d5f54a511960b462a3a4&x-time=1776758400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=5a79de1a61a359be2cd0e0cfa0d1b37d83e1be94&x-sign=b5e88cefe814139c6aa5fdd8da649c48&x-time=1776759300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489950,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "tennis-channel-1629489950",
+            "title": "Tennis channel",
+            "status": "LIVE",
+            "league": {
+                "league_name": "World Tennis League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776729600,
+                "start_time_local": "21 Apr 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "112612",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=5a79de1a61a359be2cd0e0cfa0d1b37d83e1be94&x-sign=c5bc30f2cecc4cc9c9fbeb6988168692&x-time=1776759300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,14 +90,44 @@
             "streams": [
                 {
                     "server_name": "411",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=a0dfd55697aa72f854ffbca27c90f50b3486b637&x-sign=82d9d038299ab66fe652cbcfa734450c&x-time=1776758400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=5a79de1a61a359be2cd0e0cfa0d1b37d83e1be94&x-sign=37ab59b964c8f487f83acc84794811d6&x-time=1776759300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489953,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "football-channel-1629489953",
+            "title": "Football channel",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Football channel",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776758817,
+                "start_time_local": "21 Apr 2026, 02:06 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "372",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=5a79de1a61a359be2cd0e0cfa0d1b37d83e1be94&x-sign=13ba0c04916680f7d8366a080ad3d818&x-time=1776759300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 46,
     "upcoming_matches": [
         {
             "match_id": 1629489357,
@@ -123,52 +153,6 @@
             }
         },
         {
-            "match_id": 1629489361,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
-            "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489361",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489363,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "First Round",
-            "slug": "first-round-1629489363",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776762000,
-                "start_time_local": "21 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489358,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -183,7 +167,7 @@
             "teams": {
                 "home_name": "Chiba Lotte Marines",
                 "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776762000,
@@ -229,6 +213,52 @@
             "teams": {
                 "home_name": "Yomiuri Giants",
                 "away_name": "Chunichi Dragons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776762000,
+                "start_time_local": "21 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489361,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
+            "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489361",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776762000,
+                "start_time_local": "21 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489363,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "First Round",
+            "slug": "first-round-1629489363",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -422,29 +452,6 @@
             }
         },
         {
-            "match_id": 1379301,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brighton vs Chelsea",
-            "slug": "brighton-vs-chelsea-1379301",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brighton",
-                "away_name": "Chelsea",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brighton%20VS%20Chelsea%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776798000,
-                "start_time_local": "22 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1521548,
             "sport_name": "Football",
             "sport_id": 1,
@@ -460,6 +467,29 @@
                 "home_name": "Inter",
                 "away_name": "Como",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Inter%20VS%20Como%20%20Coppa%20Italia.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776798000,
+                "start_time_local": "22 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379301,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brighton vs Chelsea",
+            "slug": "brighton-vs-chelsea-1379301",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brighton",
+                "away_name": "Chelsea",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brighton%20VS%20Chelsea%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776798000,
@@ -491,29 +521,6 @@
             }
         },
         {
-            "match_id": 1391146,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Madrid vs Alaves",
-            "slug": "real-madrid-vs-alaves-1391146",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Madrid",
-                "away_name": "Alaves",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20VS%20Alaves%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776799800,
-                "start_time_local": "22 Apr 2026, 01:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1391142,
             "sport_name": "Football",
             "sport_id": 1,
@@ -529,6 +536,29 @@
                 "home_name": "Girona",
                 "away_name": "Real Betis",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Girona%20VS%20Real%20Betis%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776799800,
+                "start_time_local": "22 Apr 2026, 01:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391146,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Madrid vs Alaves",
+            "slug": "real-madrid-vs-alaves-1391146",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Madrid",
+                "away_name": "Alaves",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20VS%20Alaves%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776799800,
