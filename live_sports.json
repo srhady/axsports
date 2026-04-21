@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:31 AM 22-04-2026"
+        "last_update_time": "03:45:33 AM 22-04-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=f79ae5f95b4d12467a342cac009062eb33a8a492&x-sign=944f547ca68603eec7fdf59285c604d7&x-time=1776807000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=ebfc4230667fd3c63b88f89e13ea67b75b42ee5b&x-sign=de9b35eb4af137282ff5b6f95f9ba9fa&x-time=1776807900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=f79ae5f95b4d12467a342cac009062eb33a8a492&x-sign=2dd30ebfdaf792732735f910430cb403&x-time=1776807000",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=ebfc4230667fd3c63b88f89e13ea67b75b42ee5b&x-sign=c6ebffe7b70cc84def7a8a3d7b84e6f5&x-time=1776807900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -57,7 +57,7 @@
             "teams": {
                 "home_name": "Girona",
                 "away_name": "Real Betis",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Girona%20VS%20Real%20Betis%20%20La%20Liga%20%5BServer%201%5D.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776799800,
@@ -66,22 +66,19 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=f79ae5f95b4d12467a342cac009062eb33a8a492&x-sign=131b43498298965964dbbc302a0c90fe&x-time=1776807000",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=ebfc4230667fd3c63b88f89e13ea67b75b42ee5b&x-sign=ad527333175408ea81a3a259c05c5b69&x-time=1776807900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 39,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489524,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sao Paulo vs Juventude",
             "slug": "sao-paulo-vs-juventude-1629489524",
-            "status": "NS",
+            "title": "Sao Paulo vs Juventude",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -94,10 +91,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776808800,
-                "start_time_local": "22 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "22 Apr 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=ebfc4230667fd3c63b88f89e13ea67b75b42ee5b&x-sign=b1d29025bdf03382accc9d2301f17ad3&x-time=1776807900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629489528,
             "sport_name": "Baseball",
