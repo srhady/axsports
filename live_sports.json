@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:31:11 PM 22-04-2026"
+        "last_update_time": "11:46:14 PM 22-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489974,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "arantxa-sanchez-stadium-1629489974",
-            "title": "Arantxa Sanchez Stadium",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776848400,
-                "start_time_local": "22 Apr 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=add0756a8454a2fadd5bffd8ce70a6b8&x-time=1776879000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/20/chunks.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=8b62c6e2100f556d2339bc7dace0275b&x-time=1776879000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489534,
             "sport_name": "Tennis",
@@ -66,7 +30,43 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=c93e976fb281a01c17315be11c4bf4ae&x-time=1776879000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=82eb61620741912285ff3975d268152c&x-time=1776879900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489974,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "arantxa-sanchez-stadium-1629489974",
+            "title": "Arantxa Sanchez Stadium",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776848400,
+                "start_time_local": "22 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=46646e77e6d70651170701ff5eb2da4c&x-time=1776879900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "20",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/20/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=fa0dc6f6064aa24e95ad9d0ab5e08a00&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,67 +96,7 @@
             "streams": [
                 {
                     "server_name": "1418",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=5ffe9edb414c044f084848b36e443d5e&x-time=1776879000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1401369,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "union-berlin-w-vs-bayern-munich-w-1401369",
-            "title": "Union Berlin W vs Bayern Munich W",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Frauen Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Union Berlin W",
-                "away_name": "Bayern Munich W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20W%20VS%20Bayern%20Munich%20W%20%20Frauen%20Bundesliga%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776873600,
-                "start_time_local": "22 Apr 2026, 10:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=b8ea4e979e8cc41671ab25e764b94611&x-time=1776879000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1541869,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "al-nassr-vs-al-ahli-doha-1541869",
-            "title": "Al-Nassr vs Al Ahli Doha",
-            "status": "LIVE",
-            "league": {
-                "league_name": "AFC Champions League Two",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Al-Nassr",
-                "away_name": "Al Ahli Doha",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Nassr%20VS%20Al%20Ahli%20Doha%20%20AFC%20Champions%20League%20Two%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776873600,
-                "start_time_local": "22 Apr 2026, 10:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=86b55bc113b3f9ace6e47d9e68a7b512&x-time=1776879000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=ef98a74b26b26a4f29f1539edd8e3f14&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -186,7 +126,67 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=db0e774fb9d9d7bbe24c28615abdde4a&x-time=1776879000",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=8128313d8067916b037c5b4a8c33852e&x-time=1776879900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1401369,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "union-berlin-w-vs-bayern-munich-w-1401369",
+            "title": "Union Berlin W vs Bayern Munich W",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Frauen Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Union Berlin W",
+                "away_name": "Bayern Munich W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Berlin%20W%20VS%20Bayern%20Munich%20W%20%20Frauen%20Bundesliga%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776873600,
+                "start_time_local": "22 Apr 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=78444f4b3b31bb1105073d43f6c673d7&x-time=1776879900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1541869,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "al-nassr-vs-al-ahli-doha-1541869",
+            "title": "Al-Nassr vs Al Ahli Doha",
+            "status": "LIVE",
+            "league": {
+                "league_name": "AFC Champions League Two",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Al-Nassr",
+                "away_name": "Al Ahli Doha",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Nassr%20VS%20Al%20Ahli%20Doha%20%20AFC%20Champions%20League%20Two%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776873600,
+                "start_time_local": "22 Apr 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=facdaf902bcb333ceba32737b65906af&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -216,37 +216,7 @@
             "streams": [
                 {
                     "server_name": "161359",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161359_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=e95ec65128533b481cf10f811bd3f792&x-time=1776879000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1387929,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "paris-saint-germain-vs-nantes-1387929",
-            "title": "Paris Saint Germain vs Nantes",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Paris Saint Germain",
-                "away_name": "Nantes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Nantes%20%20Ligue%201%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776877200,
-                "start_time_local": "22 Apr 2026, 11:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=a27081b50a14a4ad713f06bb4296f52f&x-time=1776879000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161359_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=3837158ed7f171929c5cdd98e70ab539&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -276,28 +246,28 @@
             "streams": [
                 {
                     "server_name": "68905",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68905_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=3e875a6de43f1109153aab32c7e5eeb9&x-time=1776879000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68905_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=18dba70e5d2539aac4ac2bbdd2cec40b&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1397261,
+            "match_id": 1387929,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "espanyol-w-vs-barcelona-w-1397261",
-            "title": "Espanyol W vs Barcelona W",
+            "slug": "paris-saint-germain-vs-nantes-1387929",
+            "title": "Paris Saint Germain vs Nantes",
             "status": "LIVE",
             "league": {
-                "league_name": "Primera División Femenina",
+                "league_name": "Ligue 1",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Espanyol W",
-                "away_name": "Barcelona W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20W%20VS%20Barcelona%20W%20%20Primera%20Divisi%C3%B3n%20Femenina%20%5BServer%201%5D.jpg"
+                "home_name": "Paris Saint Germain",
+                "away_name": "Nantes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Nantes%20%20Ligue%201%20%5BServer%201%5D.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776877200,
@@ -305,8 +275,8 @@
             },
             "streams": [
                 {
-                    "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=ba1264d82fb87074d72110e695bb379a&x-time=1776879000",
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=0d79e03f6714c4f2d234b711240425e9&x-time=1776879900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -336,7 +306,37 @@
             "streams": [
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=43a1950c247ff9ce10aeca879e7d7665&x-time=1776879060",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112520_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=073de72958f147b711c0a8af3871dcef&x-time=1776879900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1397261,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "espanyol-w-vs-barcelona-w-1397261",
+            "title": "Espanyol W vs Barcelona W",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Primera División Femenina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Espanyol W",
+                "away_name": "Barcelona W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20W%20VS%20Barcelona%20W%20%20Primera%20Divisi%C3%B3n%20Femenina%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776877200,
+                "start_time_local": "22 Apr 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=cd0cf8002f37546b4b097e970717a6d0&x-time=1776879960",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -366,28 +366,25 @@
             "streams": [
                 {
                     "server_name": "34477",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/34477_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=b30a6d3617614bfbabb967272a5e9608&x-time=1776879060",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/34477_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=8c78a778c732ea6b48340c8d91b654d9&x-time=1776879960",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68892_hd/index.m3u8?is_vip=false&token=ab56825d36429aaa4f4f9edadc46bbefb299c59d&x-sign=110dded6334369d11e3d6af65f20c9ac&x-time=1776879060",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68892_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=456a67f2e64bc5eb8b0c9b7349aa3306&x-time=1776879960",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1391147,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Real Sociedad vs Getafe",
             "slug": "real-sociedad-vs-getafe-1391147",
-            "status": "NS",
+            "title": "Real Sociedad vs Getafe",
+            "status": "LIVE",
             "league": {
                 "league_name": "La Liga",
                 "league_logo": ""
@@ -400,7 +397,46 @@
             },
             "timing": {
                 "start_time_timestamp": 1776880800,
-                "start_time_local": "23 Apr 2026, 12:00 AM",
+                "start_time_local": "23 Apr 2026, 12:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=562924982b7d031ed83d64acdf9bfb7f&x-time=1776879960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "271339",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/271339_hd/index.m3u8?is_vip=false&token=242e4d2b50eda8e1fe93a12e5cf68c3fc3c6a9bc&x-sign=b83837fb7e9ae71a72a83bb2603df058&x-time=1776879960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
+        {
+            "match_id": 1536989,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Club Brugge KV vs KV Mechelen",
+            "slug": "club-brugge-kv-vs-kv-mechelen-1536989",
+            "status": "NS",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Club Brugge KV",
+                "away_name": "KV Mechelen",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20VS%20KV%20Mechelen%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776882600,
+                "start_time_local": "23 Apr 2026, 12:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -420,29 +456,6 @@
                 "home_name": "Union St. Gilloise",
                 "away_name": "Gent",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20St.%20Gilloise%20VS%20Gent%20%20Jupiler%20Pro%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776882600,
-                "start_time_local": "23 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1536989,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Club Brugge KV vs KV Mechelen",
-            "slug": "club-brugge-kv-vs-kv-mechelen-1536989",
-            "status": "NS",
-            "league": {
-                "league_name": "Jupiler Pro League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Club Brugge KV",
-                "away_name": "KV Mechelen",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20VS%20KV%20Mechelen%20%20Jupiler%20Pro%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776882600,
@@ -520,6 +533,29 @@
             }
         },
         {
+            "match_id": 1379300,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bournemouth vs Leeds",
+            "slug": "bournemouth-vs-leeds-1379300",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bournemouth",
+                "away_name": "Leeds",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Leeds%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776884400,
+                "start_time_local": "23 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1522480,
             "sport_name": "Football",
             "sport_id": 1,
@@ -558,29 +594,6 @@
                 "home_name": "Strasbourg",
                 "away_name": "Nice",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Nice%20%20Coupe%20de%20France.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776884400,
-                "start_time_local": "23 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379300,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bournemouth vs Leeds",
-            "slug": "bournemouth-vs-leeds-1379300",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bournemouth",
-                "away_name": "Leeds",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Leeds%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776884400,
@@ -907,6 +920,29 @@
             "timing": {
                 "start_time_timestamp": 1776963600,
                 "start_time_local": "23 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1531968,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Beşiktaş vs Alanyaspor",
+            "slug": "besiktas-vs-alanyaspor-1531968",
+            "status": "NS",
+            "league": {
+                "league_name": "Türkiye Kupası",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Beşiktaş",
+                "away_name": "Alanyaspor",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Be%C5%9Fikta%C5%9F%20VS%20Alanyaspor%20%20T%C3%BCrkiye%20Kupas%C4%B1.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776966300,
+                "start_time_local": "23 Apr 2026, 11:45 PM",
                 "countdown_seconds": null
             }
         }
