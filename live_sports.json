@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:30 AM 22-04-2026"
+        "last_update_time": "07:00:41 AM 22-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=191ef7602802670804c835bd1c7df4c823600a2f&x-sign=960966edc969829d3b5600d2b0d95ec4&x-time=1776818700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=77bcbfc68b3a318072aa3f86c08102c5&x-time=1776819600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=191ef7602802670804c835bd1c7df4c823600a2f&x-sign=b299f969f8dd23cc4082691ada13f3d2&x-time=1776818700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=05714c199b9a1514f1a112bd01b43292&x-time=1776819600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "372",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=191ef7602802670804c835bd1c7df4c823600a2f&x-sign=a795fe518698276f9ccbfd34aa1ac032&x-time=1776818700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=8ddc4bed755e846b1f906305ac673748&x-time=1776819600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 37,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489952,
             "sport_name": "Golf",
             "sport_id": 13,
-            "title": "Golf channel",
             "slug": "golf-channel-1629489952",
-            "status": "NS",
+            "title": "Golf channel",
+            "status": "LIVE",
             "league": {
                 "league_name": "Golf channel",
                 "league_logo": ""
@@ -118,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776820075,
-                "start_time_local": "22 Apr 2026, 07:07 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "22 Apr 2026, 07:07 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "411",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=3ef48209164e1648961cd7f34565c560&x-time=1776819600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 36,
+    "upcoming_matches": [
         {
             "match_id": 1629489528,
             "sport_name": "Baseball",
