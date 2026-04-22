@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:41 AM 22-04-2026"
+        "last_update_time": "07:15:38 AM 22-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489379,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "auto-racing-channel-1629489379",
-            "title": "Auto racing channel",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Auto Racing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776816000,
-                "start_time_local": "22 Apr 2026, 06:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=77bcbfc68b3a318072aa3f86c08102c5&x-time=1776819600",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489950,
             "sport_name": "Tennis",
@@ -60,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=05714c199b9a1514f1a112bd01b43292&x-time=1776819600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/112612_hd/index.m3u8?is_vip=false&token=497b9bf0cb717fed2ca5b294e15a9fc55b5d5931&x-sign=f30b85fa801b76a0573ea5d6adc08bc3&x-time=1776820500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489379,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-channel-1629489379",
+            "title": "Auto racing channel",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776816000,
+                "start_time_local": "22 Apr 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=497b9bf0cb717fed2ca5b294e15a9fc55b5d5931&x-sign=4d3cdfadfcc540a02aa0b1602ca85823&x-time=1776820500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "372",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=8ddc4bed755e846b1f906305ac673748&x-time=1776819600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/372_hd/index.m3u8?is_vip=false&token=497b9bf0cb717fed2ca5b294e15a9fc55b5d5931&x-sign=28cef0939b1d388ad3596623e145cd00&x-time=1776820500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,7 +120,7 @@
             "streams": [
                 {
                     "server_name": "411",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=6640cb8ea800e9476c0728ee70765460207abbc8&x-sign=3ef48209164e1648961cd7f34565c560&x-time=1776819600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/411_hd/index.m3u8?is_vip=false&token=497b9bf0cb717fed2ca5b294e15a9fc55b5d5931&x-sign=2d75611b4c039e6abc06c018c8bda760&x-time=1776820500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -153,11 +153,11 @@
             }
         },
         {
-            "match_id": 1629489529,
+            "match_id": 1629489531,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Orix Buffaloes",
-            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629489529",
+            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
+            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629489531",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -165,9 +165,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776848400,
@@ -199,29 +199,6 @@
             }
         },
         {
-            "match_id": 1629489531,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
-            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629489531",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776848400,
-                "start_time_local": "22 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489530,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -237,6 +214,29 @@
                 "home_name": "Yomiuri Giants",
                 "away_name": "Chunichi Dragons",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776848400,
+                "start_time_local": "22 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489529,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Orix Buffaloes",
+            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629489529",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1776848400,
@@ -268,29 +268,6 @@
             }
         },
         {
-            "match_id": 1506949,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Pohang Steelers vs Gwangju FC",
-            "slug": "pohang-steelers-vs-gwangju-fc-1506949",
-            "status": "NS",
-            "league": {
-                "league_name": "K League 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Pohang Steelers",
-                "away_name": "Gwangju FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pohang%20Steelers%20VS%20Gwangju%20FC%20%20K%20League%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776853800,
-                "start_time_local": "22 Apr 2026, 04:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489535,
             "sport_name": "Cycling",
             "sport_id": 20,
@@ -306,6 +283,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776853800,
+                "start_time_local": "22 Apr 2026, 04:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1506949,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Pohang Steelers vs Gwangju FC",
+            "slug": "pohang-steelers-vs-gwangju-fc-1506949",
+            "status": "NS",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Pohang Steelers",
+                "away_name": "Gwangju FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pohang%20Steelers%20VS%20Gwangju%20FC%20%20K%20League%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776853800,
@@ -406,29 +406,6 @@
             }
         },
         {
-            "match_id": 1387929,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Paris Saint Germain vs Nantes",
-            "slug": "paris-saint-germain-vs-nantes-1387929",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Paris Saint Germain",
-                "away_name": "Nantes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Nantes%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776877200,
-                "start_time_local": "22 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1391141,
             "sport_name": "Football",
             "sport_id": 1,
@@ -490,6 +467,29 @@
                 "home_name": "Oliveirense",
                 "away_name": "Benfica B",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Oliveirense%20VS%20Benfica%20B%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776877200,
+                "start_time_local": "22 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387929,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Paris Saint Germain vs Nantes",
+            "slug": "paris-saint-germain-vs-nantes-1387929",
+            "status": "NS",
+            "league": {
+                "league_name": "Ligue 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Paris Saint Germain",
+                "away_name": "Nantes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20VS%20Nantes%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776877200,
@@ -590,29 +590,6 @@
             }
         },
         {
-            "match_id": 1526336,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bayer Leverkusen vs Bayern München",
-            "slug": "bayer-leverkusen-vs-bayern-munchen-1526336",
-            "status": "NS",
-            "league": {
-                "league_name": "DFB Pokal",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bayer Leverkusen",
-                "away_name": "Bayern München",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20Bayern%20M%C3%BCnchen%20%20DFB%20Pokal.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776883500,
-                "start_time_local": "23 Apr 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387075,
             "sport_name": "Football",
             "sport_id": 1,
@@ -628,6 +605,29 @@
                 "home_name": "Charlton",
                 "away_name": "Ipswich",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20VS%20Ipswich%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776883500,
+                "start_time_local": "23 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1526336,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayer Leverkusen vs Bayern München",
+            "slug": "bayer-leverkusen-vs-bayern-munchen-1526336",
+            "status": "NS",
+            "league": {
+                "league_name": "DFB Pokal",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayer Leverkusen",
+                "away_name": "Bayern München",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20Bayern%20M%C3%BCnchen%20%20DFB%20Pokal.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776883500,
@@ -659,21 +659,21 @@
             }
         },
         {
-            "match_id": 1379300,
+            "match_id": 1530106,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bournemouth vs Leeds",
-            "slug": "bournemouth-vs-leeds-1379300",
+            "title": "Strasbourg vs Nice",
+            "slug": "strasbourg-vs-nice-1530106",
             "status": "NS",
             "league": {
-                "league_name": "Premier League",
+                "league_name": "Coupe de France",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Bournemouth",
-                "away_name": "Leeds",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Leeds%20%20Premier%20League.jpg"
+                "home_name": "Strasbourg",
+                "away_name": "Nice",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Nice%20%20Coupe%20de%20France.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776884400,
@@ -705,21 +705,21 @@
             }
         },
         {
-            "match_id": 1530106,
+            "match_id": 1379300,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Strasbourg vs Nice",
-            "slug": "strasbourg-vs-nice-1530106",
+            "title": "Bournemouth vs Leeds",
+            "slug": "bournemouth-vs-leeds-1379300",
             "status": "NS",
             "league": {
-                "league_name": "Coupe de France",
+                "league_name": "Premier League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Strasbourg",
-                "away_name": "Nice",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Nice%20%20Coupe%20de%20France.jpg"
+                "home_name": "Bournemouth",
+                "away_name": "Leeds",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Leeds%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776884400,
