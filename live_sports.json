@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:23 AM 23-04-2026"
+        "last_update_time": "10:30:27 AM 23-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=64f043e433ddf9b675c141bbf37c932b92c3a9ee&x-sign=970b31426fb9226072af5519e1619728&x-time=1776917700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=c1ca856e8b21765101a6187b9e0a0236cc6ceaef&x-sign=a1a909827ab00b34b6f384e82d8ae8d2&x-time=1776918600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1492606,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "necaxa-vs-guadalajara-chivas-1492606",
+            "title": "Necaxa vs Guadalajara Chivas",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Necaxa",
+                "away_name": "Guadalajara Chivas",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Necaxa%20VS%20Guadalajara%20Chivas%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776913800,
+                "start_time_local": "23 Apr 2026, 09:10 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274860",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=c1ca856e8b21765101a6187b9e0a0236cc6ceaef&x-sign=373ea8c22d156942e0ffc2c7e57d3775&x-time=1776918600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -132,29 +162,6 @@
             }
         },
         {
-            "match_id": 1629489543,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
-            "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489543",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490008,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -170,6 +177,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776934800,
+                "start_time_local": "23 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489543,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
+            "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489543",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776934800,
@@ -431,29 +461,6 @@
             }
         },
         {
-            "match_id": 1381143,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "PSV Eindhoven vs PEC Zwolle",
-            "slug": "psv-eindhoven-vs-pec-zwolle-1381143",
-            "status": "NS",
-            "league": {
-                "league_name": "Eredivisie",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "PSV Eindhoven",
-                "away_name": "PEC Zwolle",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20VS%20PEC%20Zwolle%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776970800,
-                "start_time_local": "24 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1386532,
             "sport_name": "Football",
             "sport_id": 1,
@@ -469,6 +476,29 @@
                 "home_name": "Salford City",
                 "away_name": "Bromley",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Salford%20City%20VS%20Bromley%20%20League%20Two.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1776970800,
+                "start_time_local": "24 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1381143,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "PSV Eindhoven vs PEC Zwolle",
+            "slug": "psv-eindhoven-vs-pec-zwolle-1381143",
+            "status": "NS",
+            "league": {
+                "league_name": "Eredivisie",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "PSV Eindhoven",
+                "away_name": "PEC Zwolle",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PSV%20Eindhoven%20VS%20PEC%20Zwolle%20%20Eredivisie.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776970800,
