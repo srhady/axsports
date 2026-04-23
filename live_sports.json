@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:33 PM 23-04-2026"
+        "last_update_time": "02:45:42 PM 23-04-2026"
     },
     "live_matches": [
         {
@@ -30,75 +30,19 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=5f022b249f3be5de675827d15ec6c9fe04909f51&x-sign=e6f95e4f15a54fb05aa9ba53b4d7b82f&x-time=1776933000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=005393df38173ac099a1c16f04352ca7f03ef074&x-sign=0d7c298712357c18dbeb74dab20033b0&x-time=1776933900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        },
-        {
-            "match_id": 1629489542,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "yokohama-dena-baystars-vs-hanshin-tigers-1629489542",
-            "title": "Yokohama DeNA BayStars vs Hanshin Tigers",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Hanshin%20Tigers%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776933900,
-                "start_time_local": "23 Apr 2026, 02:45 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=5f022b249f3be5de675827d15ec6c9fe04909f51&x-sign=f3c393390e370571270407d17804720b&x-time=1776933000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
-        {
-            "match_id": 1629489545,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Orix Buffaloes",
-            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629489545",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
         },
         {
             "match_id": 1629489543,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
             "slug": "saitama-seibu-lions-vs-fukuoka-softbank-hawks-1629489543",
-            "status": "NS",
+            "title": "Saitama Seibu Lions vs Fukuoka SoftBank Hawks",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -111,17 +55,84 @@
             },
             "timing": {
                 "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "23 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=005393df38173ac099a1c16f04352ca7f03ef074&x-sign=c04be58a96c9c9cf5995440da587506d&x-time=1776933900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629490008,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "arantxa-sanchez-stadium-1629490008",
+            "title": "Arantxa Sanchez Stadium",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776934800,
+                "start_time_local": "23 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=005393df38173ac099a1c16f04352ca7f03ef074&x-sign=7018336d9f65bd1df524331231e6a1b8&x-time=1776933900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489546,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "manolo-santana-stadium-1629489546",
+            "title": "Manolo Santana Stadium",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776934800,
+                "start_time_local": "23 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=005393df38173ac099a1c16f04352ca7f03ef074&x-sign=088530de5eab43864475a1dd54477665&x-time=1776933900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629489544,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
             "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629489544",
-            "status": "NS",
+            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -134,56 +145,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489546,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Manolo Santana Stadium",
-            "slug": "manolo-santana-stadium-1629489546",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
+                "start_time_local": "23 Apr 2026, 03:00 PM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490008,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Arantxa Sanchez Stadium",
-            "slug": "arantxa-sanchez-stadium-1629490008",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1776934800,
-                "start_time_local": "23 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=005393df38173ac099a1c16f04352ca7f03ef074&x-sign=b5407fd43dd50382b8e76d67de199fd1&x-time=1776933900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629489547,
             "sport_name": "Rugby",
@@ -323,29 +298,6 @@
             }
         },
         {
-            "match_id": 1396464,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Casa Pia vs SC Braga",
-            "slug": "casa-pia-vs-sc-braga-1396464",
-            "status": "NS",
-            "league": {
-                "league_name": "Primeira Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Casa Pia",
-                "away_name": "SC Braga",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Casa%20Pia%20VS%20SC%20Braga%20%20Primeira%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1776967200,
-                "start_time_local": "24 Apr 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489549,
             "sport_name": "Darts",
             "sport_id": 31,
@@ -361,6 +313,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1776967200,
+                "start_time_local": "24 Apr 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1396464,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Casa Pia vs SC Braga",
+            "slug": "casa-pia-vs-sc-braga-1396464",
+            "status": "NS",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Casa Pia",
+                "away_name": "SC Braga",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Casa%20Pia%20VS%20SC%20Braga%20%20Primeira%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1776967200,
