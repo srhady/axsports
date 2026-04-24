@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:30 AM 24-04-2026"
+        "last_update_time": "09:15:37 AM 24-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=0b5dbb944f7fcc88d8f2c0cd1c3e681f64fdbc0d&x-sign=03e5f34d7b2eb89c26ac2d2ae5c7d6f3&x-time=1776999600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=55e8ce267e8731998f26b43bbd3f3c5ade45cd51&x-sign=b60ac8f9f16f4145f956860e5deef70a&x-time=1777000500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=0b5dbb944f7fcc88d8f2c0cd1c3e681f64fdbc0d&x-sign=7979dfa3ce3ff3820138d2efdcfdd043&x-time=1776999600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=55e8ce267e8731998f26b43bbd3f3c5ade45cd51&x-sign=3097c0880ad71564719744e974ae306c&x-time=1777000500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489552,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chunichi Dragons vs Yomiuri Giants",
             "slug": "chunichi-dragons-vs-yomiuri-giants-1629489552",
-            "status": "NS",
+            "title": "Chunichi Dragons vs Yomiuri Giants",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777001400,
-                "start_time_local": "24 Apr 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "24 Apr 2026, 09:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=55e8ce267e8731998f26b43bbd3f3c5ade45cd51&x-sign=2de733cee1ed0dd35f5ed79339e7b82c&x-time=1777000500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629489553,
             "sport_name": "Rugby",
@@ -507,6 +514,29 @@
             }
         },
         {
+            "match_id": 1388584,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "RB Leipzig vs Union Berlin",
+            "slug": "rb-leipzig-vs-union-berlin-1388584",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "RB Leipzig",
+                "away_name": "Union Berlin",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777055400,
+                "start_time_local": "25 Apr 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489564,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -522,29 +552,6 @@
                 "home_name": "Caledonia Gladiators",
                 "away_name": "Bristol Flyers",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caledonia%20Gladiators%20VS%20Bristol%20Flyers%20%20SLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777055400,
-                "start_time_local": "25 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1380646,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Jagiellonia vs Gornik Zabrze",
-            "slug": "jagiellonia-vs-gornik-zabrze-1380646",
-            "status": "NS",
-            "league": {
-                "league_name": "Ekstraklasa",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Jagiellonia",
-                "away_name": "Gornik Zabrze",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jagiellonia%20VS%20Gornik%20Zabrze%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777055400,
@@ -576,48 +583,25 @@
             }
         },
         {
-            "match_id": 1388584,
+            "match_id": 1380646,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "RB Leipzig vs Union Berlin",
-            "slug": "rb-leipzig-vs-union-berlin-1388584",
+            "title": "Jagiellonia vs Gornik Zabrze",
+            "slug": "jagiellonia-vs-gornik-zabrze-1380646",
             "status": "NS",
             "league": {
-                "league_name": "Bundesliga",
+                "league_name": "Ekstraklasa",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "RB Leipzig",
-                "away_name": "Union Berlin",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
+                "home_name": "Jagiellonia",
+                "away_name": "Gornik Zabrze",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jagiellonia%20VS%20Gornik%20Zabrze%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777055400,
                 "start_time_local": "25 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1378200,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Napoli vs Cremonese",
-            "slug": "napoli-vs-cremonese-1378200",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Napoli",
-                "away_name": "Cremonese",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Napoli%20VS%20Cremonese%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777056300,
-                "start_time_local": "25 Apr 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         },
@@ -645,6 +629,29 @@
             }
         },
         {
+            "match_id": 1378200,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Napoli vs Cremonese",
+            "slug": "napoli-vs-cremonese-1378200",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Napoli",
+                "away_name": "Cremonese",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Napoli%20VS%20Cremonese%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777056300,
+                "start_time_local": "25 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489566,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -664,6 +671,52 @@
             "timing": {
                 "start_time_timestamp": 1777056300,
                 "start_time_local": "25 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391131,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Betis vs Real Madrid",
+            "slug": "real-betis-vs-real-madrid-1391131",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Betis",
+                "away_name": "Real Madrid",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Betis%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777057200,
+                "start_time_local": "25 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379306,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sunderland vs Nottingham Forest",
+            "slug": "sunderland-vs-nottingham-forest-1379306",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sunderland",
+                "away_name": "Nottingham Forest",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunderland%20VS%20Nottingham%20Forest%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777057200,
+                "start_time_local": "25 Apr 2026, 01:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -706,52 +759,6 @@
                 "home_name": "Leicester",
                 "away_name": "Millwall",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leicester%20VS%20Millwall%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777057200,
-                "start_time_local": "25 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379306,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sunderland vs Nottingham Forest",
-            "slug": "sunderland-vs-nottingham-forest-1379306",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sunderland",
-                "away_name": "Nottingham Forest",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunderland%20VS%20Nottingham%20Forest%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777057200,
-                "start_time_local": "25 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391131,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Betis vs Real Madrid",
-            "slug": "real-betis-vs-real-madrid-1391131",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Betis",
-                "away_name": "Real Madrid",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Betis%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777057200,
