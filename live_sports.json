@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:33 AM 24-04-2026"
+        "last_update_time": "11:45:26 AM 24-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=f340cbbb94bd79cdfec35850d34d5fc2ed6e1b0e&x-sign=01835b8245d863bb6cbfc03d8576637a&x-time=1777008600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=6ffc4f9ba24f9a9932491c5f612c6ec7f2818112&x-sign=465ae2a7cb44567a94d24505dd729c31&x-time=1777009500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,14 +60,14 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=f340cbbb94bd79cdfec35850d34d5fc2ed6e1b0e&x-sign=985fa56d87dfaa3fc3b54960ac65fe78&x-time=1777008600",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=6ffc4f9ba24f9a9932491c5f612c6ec7f2818112&x-sign=dae8c82c9021c4f9fb0e80abf7bb1568&x-time=1777009500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 37,
+    "total_upcoming_matches": 38,
     "upcoming_matches": [
         {
             "match_id": 1629489553,
@@ -89,6 +89,29 @@
             "timing": {
                 "start_time_timestamp": 1777014000,
                 "start_time_local": "24 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489560,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Live Stage 1",
+            "slug": "live-stage-1-1629489560",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777021200,
+                "start_time_local": "24 Apr 2026, 03:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -139,21 +162,21 @@
             }
         },
         {
-            "match_id": 1629489560,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Live Stage 1",
-            "slug": "live-stage-1-1629489560",
+            "match_id": 1629489554,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Yomiuri Giants",
+            "slug": "yokohama-dena-baystars-vs-yomiuri-giants-1629489554",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Yomiuri Giants",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Yomiuri%20Giants%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777021200,
@@ -177,29 +200,6 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777021200,
-                "start_time_local": "24 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489554,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Yomiuri Giants",
-            "slug": "yokohama-dena-baystars-vs-yomiuri-giants-1629489554",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Yomiuri Giants",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Yomiuri%20Giants%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777021200,
@@ -438,29 +438,6 @@
             }
         },
         {
-            "match_id": 1419947,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Monza vs Modena",
-            "slug": "monza-vs-modena-1419947",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Monza",
-                "away_name": "Modena",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%20VS%20Modena%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777050000,
-                "start_time_local": "24 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1394704,
             "sport_name": "Football",
             "sport_id": 1,
@@ -484,6 +461,29 @@
             }
         },
         {
+            "match_id": 1419947,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Monza vs Modena",
+            "slug": "monza-vs-modena-1419947",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Monza",
+                "away_name": "Modena",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%20VS%20Modena%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777050000,
+                "start_time_local": "24 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489564,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -499,29 +499,6 @@
                 "home_name": "Caledonia Gladiators",
                 "away_name": "Bristol Flyers",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caledonia%20Gladiators%20VS%20Bristol%20Flyers%20%20SLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777055400,
-                "start_time_local": "25 Apr 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388584,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "RB Leipzig vs Union Berlin",
-            "slug": "rb-leipzig-vs-union-berlin-1388584",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "RB Leipzig",
-                "away_name": "Union Berlin",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777055400,
@@ -576,6 +553,29 @@
             }
         },
         {
+            "match_id": 1388584,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "RB Leipzig vs Union Berlin",
+            "slug": "rb-leipzig-vs-union-berlin-1388584",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "RB Leipzig",
+                "away_name": "Union Berlin",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20Union%20Berlin%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777055400,
+                "start_time_local": "25 Apr 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1378200,
             "sport_name": "Football",
             "sport_id": 1,
@@ -591,29 +591,6 @@
                 "home_name": "Napoli",
                 "away_name": "Cremonese",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Napoli%20VS%20Cremonese%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777056300,
-                "start_time_local": "25 Apr 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489566,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Newcastle Falcons vs Bristol Bears",
-            "slug": "newcastle-falcons-vs-bristol-bears-1629489566",
-            "status": "NS",
-            "league": {
-                "league_name": "PREM Rugby",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Newcastle Falcons",
-                "away_name": "Bristol Bears",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Falcons%20VS%20Bristol%20Bears%20%20PREM%20Rugby.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777056300,
@@ -645,6 +622,29 @@
             }
         },
         {
+            "match_id": 1629489566,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Newcastle Falcons vs Bristol Bears",
+            "slug": "newcastle-falcons-vs-bristol-bears-1629489566",
+            "status": "NS",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Newcastle Falcons",
+                "away_name": "Bristol Bears",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Falcons%20VS%20Bristol%20Bears%20%20PREM%20Rugby.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777056300,
+                "start_time_local": "25 Apr 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1419945,
             "sport_name": "Football",
             "sport_id": 1,
@@ -660,29 +660,6 @@
                 "home_name": "Avellino",
                 "away_name": "Bari",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avellino%20VS%20Bari%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777057200,
-                "start_time_local": "25 Apr 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391131,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Betis vs Real Madrid",
-            "slug": "real-betis-vs-real-madrid-1391131",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Betis",
-                "away_name": "Real Madrid",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Betis%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777057200,
@@ -729,6 +706,29 @@
                 "home_name": "Sunderland",
                 "away_name": "Nottingham Forest",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sunderland%20VS%20Nottingham%20Forest%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777057200,
+                "start_time_local": "25 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391131,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Betis vs Real Madrid",
+            "slug": "real-betis-vs-real-madrid-1391131",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Betis",
+                "away_name": "Real Madrid",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Betis%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777057200,
@@ -913,6 +913,29 @@
                 "home_name": "Shimizu S-pulse",
                 "away_name": "Nagoya Grampus",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Nagoya%20Grampus%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777093200,
+                "start_time_local": "25 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504762,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fagiano Okayama vs Avispa Fukuoka",
+            "slug": "fagiano-okayama-vs-avispa-fukuoka-1504762",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fagiano Okayama",
+                "away_name": "Avispa Fukuoka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777093200,
