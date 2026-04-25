@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:29 AM 26-04-2026"
+        "last_update_time": "05:45:32 AM 26-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=2fd4469752e2c3232004bca4db5be11f07319a8e&x-sign=bbf534396e2e141e2d45ac57954a3bd3&x-time=1777159800",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=018892323973a221214bfa6bb4465880&x-time=1777160700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=2fd4469752e2c3232004bca4db5be11f07319a8e&x-sign=4e92c19df69c9fbf76039c6bb0d7a27d&x-time=1777159800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=be62ef17638d65080d80fdf43cab83a6&x-time=1777160700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 3,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489621,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "STERLING vs ZALAL",
             "slug": "sterling-vs-zalal-1629489621",
-            "status": "NS",
+            "title": "STERLING vs ZALAL",
+            "status": "LIVE",
             "league": {
                 "league_name": "UFC FIGHT NIGHT",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777161600,
-                "start_time_local": "26 Apr 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 Apr 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=018892323973a221214bfa6bb4465880&x-time=1777160700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 6,
+    "upcoming_matches": [
         {
             "match_id": 1492055,
             "sport_name": "Football",
@@ -135,6 +142,98 @@
             "timing": {
                 "start_time_timestamp": 1777164000,
                 "start_time_local": "26 Apr 2026, 06:40 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1492611,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Toluca vs Leon",
+            "slug": "toluca-vs-leon-1492611",
+            "status": "NS",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Toluca",
+                "away_name": "Leon",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toluca%20VS%20Leon%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777165200,
+                "start_time_local": "26 Apr 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489624,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Highlanders vs Moana Pasifika",
+            "slug": "highlanders-vs-moana-pasifika-1629489624",
+            "status": "NS",
+            "league": {
+                "league_name": "Super Rugby Pacific",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Moana Pasifika",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777172400,
+                "start_time_local": "26 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1492612,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Club America vs Atlas",
+            "slug": "club-america-vs-atlas-1492612",
+            "status": "NS",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Club America",
+                "away_name": "Atlas",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20VS%20Atlas%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777172400,
+                "start_time_local": "26 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1492613,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Juarez vs Atletico San Luis",
+            "slug": "fc-juarez-vs-atletico-san-luis-1492613",
+            "status": "NS",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Juarez",
+                "away_name": "Atletico San Luis",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Juarez%20VS%20Atletico%20San%20Luis%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777172400,
+                "start_time_local": "26 Apr 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         }
