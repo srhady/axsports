@@ -3,9 +3,40 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:20 AM 26-04-2026"
+        "last_update_time": "03:45:22 AM 26-04-2026"
     },
-    "live_matches": [],
+    "live_matches": [
+        {
+            "match_id": 1396515,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "guimaraes-vs-rio-ave-1396515",
+            "title": "Guimaraes vs Rio Ave",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Guimaraes",
+                "away_name": "Rio Ave",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guimaraes%20VS%20Rio%20Ave%20%20Primeira%20Liga%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777145400,
+                "start_time_local": "26 Apr 2026, 01:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=eba8faaa0e1ef510fc31c0b745021c85a67813d9&x-sign=933391d04719f7e9cc1e6810be9e2800&x-time=1777153500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
     "total_upcoming_matches": 0,
     "upcoming_matches": []
 }
