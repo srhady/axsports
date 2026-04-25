@@ -3,70 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:26 AM 26-04-2026"
+        "last_update_time": "03:30:20 AM 26-04-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1629489618,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "slug": "france-vs-ireland-1629489618",
-            "title": "France vs Ireland",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Women's Six Nations",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "France",
-                "away_name": "Ireland",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/France%20VS%20Ireland%20%20Women%27s%20Six%20Nations%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777143600,
-                "start_time_local": "26 Apr 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "18",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=74dde69e1ef0ab99187c04b926d8b16959b70e05&x-sign=3388b8c277a9466156eca9877360ece6&x-time=1777151700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629489617,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "slug": "bordeaux-begles-vs-montpellier-1629489617",
-            "title": "Bordeaux Bègles vs Montpellier",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Top 14",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777143600,
-                "start_time_local": "26 Apr 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=74dde69e1ef0ab99187c04b926d8b16959b70e05&x-sign=054f82c8e1bc373efae5088e1043b86b&x-time=1777151700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
+    "live_matches": [],
     "total_upcoming_matches": 0,
     "upcoming_matches": []
 }
