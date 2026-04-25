@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:32 AM 25-04-2026"
+        "last_update_time": "10:30:36 AM 25-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489570,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "tuff-n-uff-153-1629489570",
-            "title": "TUFF-N-UFF 153",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777082400,
-                "start_time_local": "25 Apr 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "53767",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=2efcf68ad2f761ed91dcd5ea130e806f125780f7&x-sign=d41726238c6783bc7e3470cc94887f7c&x-time=1777090500",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489571,
             "sport_name": "Football",
@@ -60,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=2efcf68ad2f761ed91dcd5ea130e806f125780f7&x-sign=4e0d54845f6c782cee5501f80b9671e3&x-time=1777090500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=caa85ae16769d5cc6e592d1c928aa33634b37b82&x-sign=5580f5b3b3373b635cd708958db8ddc9&x-time=1777091400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489570,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "tuff-n-uff-153-1629489570",
+            "title": "TUFF-N-UFF 153",
+            "status": "LIVE",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777082400,
+                "start_time_local": "25 Apr 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "53767",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=caa85ae16769d5cc6e592d1c928aa33634b37b82&x-sign=81bbccdf4f547fa946c5bf23206bb5dd&x-time=1777091400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=2efcf68ad2f761ed91dcd5ea130e806f125780f7&x-sign=54f8c88f3c8050e672c17ba565fe106a&x-time=1777090500",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=caa85ae16769d5cc6e592d1c928aa33634b37b82&x-sign=16bc997cb0a0b8c5d27771a99729a3e0&x-time=1777091400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,21 +120,21 @@
             "streams": [
                 {
                     "server_name": "323",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/323_hd/index.m3u8?is_vip=false&token=2efcf68ad2f761ed91dcd5ea130e806f125780f7&x-sign=35895639a3ec7e370fb3fb7b37ff3d33&x-time=1777090500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/323_hd/index.m3u8?is_vip=false&token=caa85ae16769d5cc6e592d1c928aa33634b37b82&x-sign=60b9e425eccb998a5746ea5e824fe5cc&x-time=1777091400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 32,
+    "total_upcoming_matches": 34,
     "upcoming_matches": [
         {
-            "match_id": 1504764,
+            "match_id": 1504762,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Urawa vs Yokohama F. Marinos",
-            "slug": "urawa-vs-yokohama-f-marinos-1504764",
+            "title": "Fagiano Okayama vs Avispa Fukuoka",
+            "slug": "fagiano-okayama-vs-avispa-fukuoka-1504762",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -142,9 +142,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Urawa",
-                "away_name": "Yokohama F. Marinos",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
+                "home_name": "Fagiano Okayama",
+                "away_name": "Avispa Fukuoka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777093200,
@@ -199,11 +199,11 @@
             }
         },
         {
-            "match_id": 1504762,
+            "match_id": 1504764,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Fagiano Okayama vs Avispa Fukuoka",
-            "slug": "fagiano-okayama-vs-avispa-fukuoka-1504762",
+            "title": "Urawa vs Yokohama F. Marinos",
+            "slug": "urawa-vs-yokohama-f-marinos-1504764",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -211,9 +211,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Fagiano Okayama",
-                "away_name": "Avispa Fukuoka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
+                "home_name": "Urawa",
+                "away_name": "Yokohama F. Marinos",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777093200,
@@ -291,21 +291,21 @@
             }
         },
         {
-            "match_id": 1504766,
+            "match_id": 1469707,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
-            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
+            "title": "Newcastle Jets vs Central Coast Mariners",
+            "slug": "newcastle-jets-vs-central-coast-mariners-1469707",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "A-League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
+                "home_name": "Newcastle Jets",
+                "away_name": "Central Coast Mariners",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Jets%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777100400,
@@ -337,21 +337,21 @@
             }
         },
         {
-            "match_id": 1469707,
+            "match_id": 1504766,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Newcastle Jets vs Central Coast Mariners",
-            "slug": "newcastle-jets-vs-central-coast-mariners-1469707",
+            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
+            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
             "status": "NS",
             "league": {
-                "league_name": "A-League",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Newcastle Jets",
-                "away_name": "Central Coast Mariners",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Jets%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777100400,
@@ -521,29 +521,6 @@
             }
         },
         {
-            "match_id": 1629489590,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Carlton vs Fremantle",
-            "slug": "carlton-vs-fremantle-1629489590",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777111200,
-                "start_time_local": "25 Apr 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398243,
             "sport_name": "Football",
             "sport_id": 1,
@@ -567,25 +544,25 @@
             }
         },
         {
-            "match_id": 1388892,
+            "match_id": 1629489590,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Preußen Münster vs Arminia Bielefeld",
-            "slug": "preussen-munster-vs-arminia-bielefeld-1388892",
+            "title": "Carlton vs Fremantle",
+            "slug": "carlton-vs-fremantle-1629489590",
             "status": "NS",
             "league": {
-                "league_name": "2. Bundesliga",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Preußen Münster",
-                "away_name": "Arminia Bielefeld",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20Arminia%20Bielefeld%20%202.%20Bundesliga.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1777114800,
-                "start_time_local": "25 Apr 2026, 05:00 PM",
+                "start_time_timestamp": 1777111200,
+                "start_time_local": "25 Apr 2026, 04:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -628,6 +605,29 @@
                 "home_name": "Karlsruher SC",
                 "away_name": "Hannover 96",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlsruher%20SC%20VS%20Hannover%2096%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777114800,
+                "start_time_local": "25 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388892,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Preußen Münster vs Arminia Bielefeld",
+            "slug": "preussen-munster-vs-arminia-bielefeld-1388892",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Preußen Münster",
+                "away_name": "Arminia Bielefeld",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20Arminia%20Bielefeld%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777114800,
@@ -839,6 +839,52 @@
             "timing": {
                 "start_time_timestamp": 1777121100,
                 "start_time_local": "25 Apr 2026, 06:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378201,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Parma vs Pisa",
+            "slug": "parma-vs-pisa-1378201",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Parma",
+                "away_name": "Pisa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Parma%20VS%20Pisa%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777122000,
+                "start_time_local": "25 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398246,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Farense vs Academico Viseu",
+            "slug": "farense-vs-academico-viseu-1398246",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Farense",
+                "away_name": "Academico Viseu",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20Academico%20Viseu%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777122000,
+                "start_time_local": "25 Apr 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         },
