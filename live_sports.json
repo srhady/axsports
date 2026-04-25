@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:29 AM 25-04-2026"
+        "last_update_time": "08:30:34 AM 25-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=fb62144d6c37cf14f6da6750a2dc0280&x-time=1777083300",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=84d8283a4f834f21bb926a5ee0fe15ab21f79b72&x-sign=9431d135b1c16210fe65b2746e740df7&x-time=1777084200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -40,7 +40,7 @@
             "match_id": 1629489571,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "gold-coast-suns-vs-hawthorn-1629489571",
+            "slug": "gold-coast-suns-vs-hawthorn-hawks-1629489571",
             "title": "Gold Coast Suns vs Hawthorn",
             "status": "LIVE",
             "league": {
@@ -50,7 +50,7 @@
             "venue": "TBA",
             "teams": {
                 "home_name": "Gold Coast Suns",
-                "away_name": "Unknown",
+                "away_name": "Hawthorn Hawks",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=1b41a306393ae1126cb4ee26f5a85f97&x-time=1777083300",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=84d8283a4f834f21bb926a5ee0fe15ab21f79b72&x-sign=4652264dbc1c8d6b37ed78cd5acfb17d&x-time=1777084200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=342359767031d9e477d11fe3550a8a06&x-time=1777083300",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=84d8283a4f834f21bb926a5ee0fe15ab21f79b72&x-sign=38fd4546a206f895c07ef4f78bf702d4&x-time=1777084200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -192,29 +192,6 @@
             }
         },
         {
-            "match_id": 1504763,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Shimizu S-pulse vs Nagoya Grampus",
-            "slug": "shimizu-s-pulse-vs-nagoya-grampus-1504763",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Shimizu S-pulse",
-                "away_name": "Nagoya Grampus",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Nagoya%20Grampus%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777093200,
-                "start_time_local": "25 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1506950,
             "sport_name": "Football",
             "sport_id": 1,
@@ -230,6 +207,29 @@
                 "home_name": "Gangwon FC",
                 "away_name": "FC Seoul",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20VS%20FC%20Seoul%20%20K%20League%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777093200,
+                "start_time_local": "25 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504763,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Shimizu S-pulse vs Nagoya Grampus",
+            "slug": "shimizu-s-pulse-vs-nagoya-grampus-1504763",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Shimizu S-pulse",
+                "away_name": "Nagoya Grampus",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Nagoya%20Grampus%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777093200,
@@ -330,29 +330,6 @@
             }
         },
         {
-            "match_id": 1504766,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
-            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777100400,
-                "start_time_local": "25 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1469707,
             "sport_name": "Football",
             "sport_id": 1,
@@ -368,6 +345,29 @@
                 "home_name": "Newcastle Jets",
                 "away_name": "Central Coast Mariners",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Newcastle%20Jets%20VS%20Central%20Coast%20Mariners%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777100400,
+                "start_time_local": "25 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504766,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
+            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777100400,
@@ -606,29 +606,6 @@
             }
         },
         {
-            "match_id": 1388889,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Karlsruher SC vs Hannover 96",
-            "slug": "karlsruher-sc-vs-hannover-96-1388889",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Karlsruher SC",
-                "away_name": "Hannover 96",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlsruher%20SC%20VS%20Hannover%2096%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777114800,
-                "start_time_local": "25 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388892,
             "sport_name": "Football",
             "sport_id": 1,
@@ -644,6 +621,29 @@
                 "home_name": "Preußen Münster",
                 "away_name": "Arminia Bielefeld",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20Arminia%20Bielefeld%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777114800,
+                "start_time_local": "25 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388889,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Karlsruher SC vs Hannover 96",
+            "slug": "karlsruher-sc-vs-hannover-96-1388889",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Karlsruher SC",
+                "away_name": "Hannover 96",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlsruher%20SC%20VS%20Hannover%2096%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777114800,
