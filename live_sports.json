@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:33 AM 25-04-2026"
+        "last_update_time": "08:15:29 AM 25-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=a31d27c505635c3c8d1db5e1a2f7c2fa4141a74e&x-sign=bb3b24885d656b9d4ea1be3d02df2cca&x-time=1777082400",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=fb62144d6c37cf14f6da6750a2dc0280&x-time=1777083300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=a31d27c505635c3c8d1db5e1a2f7c2fa4141a74e&x-sign=a8b7904c9a099c82875bf19aaca6f249&x-time=1777082400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=1b41a306393ae1126cb4ee26f5a85f97&x-time=1777083300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -89,14 +89,8 @@
             },
             "streams": [
                 {
-                    "server_name": "53767",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53767_hd/index.m3u8?is_vip=false&token=a31d27c505635c3c8d1db5e1a2f7c2fa4141a74e&x-sign=ae5afcc42cb7da6cf8149ce5469c4f54&x-time=1777082400",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=a31d27c505635c3c8d1db5e1a2f7c2fa4141a74e&x-sign=c4bc1c62d2d82bc3c8551654852b441e&x-time=1777082400",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=6f87371bfae13e5acfb99f58102610ce3e413a53&x-sign=342359767031d9e477d11fe3550a8a06&x-time=1777083300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -175,6 +169,29 @@
             }
         },
         {
+            "match_id": 1504764,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Urawa vs Yokohama F. Marinos",
+            "slug": "urawa-vs-yokohama-f-marinos-1504764",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Urawa",
+                "away_name": "Yokohama F. Marinos",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777093200,
+                "start_time_local": "25 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1504763,
             "sport_name": "Football",
             "sport_id": 1,
@@ -213,29 +230,6 @@
                 "home_name": "Gangwon FC",
                 "away_name": "FC Seoul",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gangwon%20FC%20VS%20FC%20Seoul%20%20K%20League%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777093200,
-                "start_time_local": "25 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504764,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Urawa vs Yokohama F. Marinos",
-            "slug": "urawa-vs-yokohama-f-marinos-1504764",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Urawa",
-                "away_name": "Yokohama F. Marinos",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777093200,
@@ -313,29 +307,6 @@
             }
         },
         {
-            "match_id": 1504766,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
-            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777100400,
-                "start_time_local": "25 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1539694,
             "sport_name": "Football",
             "sport_id": 1,
@@ -351,6 +322,29 @@
                 "home_name": "Brisbane Roar FC W",
                 "away_name": "Adelaide United W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brisbane%20Roar%20FC%20W%20VS%20Adelaide%20United%20W%20%20A-League%20Women.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777100400,
+                "start_time_local": "25 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504766,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sanfrecce Hiroshima vs Cerezo Osaka",
+            "slug": "sanfrecce-hiroshima-vs-cerezo-osaka-1504766",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777100400,
@@ -458,7 +452,7 @@
             "slug": "mutua-madrid-open-day-5-1629489588",
             "status": "NS",
             "league": {
-                "league_name": "WTA 1000",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -470,29 +464,6 @@
             "timing": {
                 "start_time_timestamp": 1777107600,
                 "start_time_local": "25 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504767,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "V-varen Nagasaki vs Gamba Osaka",
-            "slug": "v-varen-nagasaki-vs-gamba-osaka-1504767",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "V-varen Nagasaki",
-                "away_name": "Gamba Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20VS%20Gamba%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777109400,
-                "start_time_local": "25 Apr 2026, 03:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -512,6 +483,29 @@
                 "home_name": "Australia",
                 "away_name": "New Zealand",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777109400,
+                "start_time_local": "25 Apr 2026, 03:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504767,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "V-varen Nagasaki vs Gamba Osaka",
+            "slug": "v-varen-nagasaki-vs-gamba-osaka-1504767",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "V-varen Nagasaki",
+                "away_name": "Gamba Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20VS%20Gamba%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777109400,
@@ -543,6 +537,29 @@
             }
         },
         {
+            "match_id": 1398243,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Leixoes vs Portimonense",
+            "slug": "leixoes-vs-portimonense-1398243",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Leixoes",
+                "away_name": "Portimonense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leixoes%20VS%20Portimonense%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777111200,
+                "start_time_local": "25 Apr 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629489590,
             "sport_name": "Football",
             "sport_id": 1,
@@ -566,25 +583,25 @@
             }
         },
         {
-            "match_id": 1398243,
+            "match_id": 1417312,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Leixoes vs Portimonense",
-            "slug": "leixoes-vs-portimonense-1398243",
+            "title": "Brighton W vs Manchester City W",
+            "slug": "brighton-w-vs-manchester-city-w-1417312",
             "status": "NS",
             "league": {
-                "league_name": "Segunda Liga",
+                "league_name": "FA WSL",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Leixoes",
-                "away_name": "Portimonense",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leixoes%20VS%20Portimonense%20%20Segunda%20Liga.jpg"
+                "home_name": "Brighton W",
+                "away_name": "Manchester City W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brighton%20W%20VS%20Manchester%20City%20W%20%20FA%20WSL.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777111200,
-                "start_time_local": "25 Apr 2026, 04:00 PM",
+                "start_time_timestamp": 1777114800,
+                "start_time_local": "25 Apr 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -658,29 +675,6 @@
             }
         },
         {
-            "match_id": 1417312,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brighton W vs Manchester City W",
-            "slug": "brighton-w-vs-manchester-city-w-1417312",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brighton W",
-                "away_name": "Manchester City W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brighton%20W%20VS%20Manchester%20City%20W%20%20FA%20WSL.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777114800,
-                "start_time_local": "25 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1387089,
             "sport_name": "Football",
             "sport_id": 1,
@@ -727,29 +721,6 @@
             }
         },
         {
-            "match_id": 1387085,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Charlton vs Hull City",
-            "slug": "charlton-vs-hull-city-1387085",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Charlton",
-                "away_name": "Hull City",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20VS%20Hull%20City%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777116600,
-                "start_time_local": "25 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1379303,
             "sport_name": "Football",
             "sport_id": 1,
@@ -765,6 +736,29 @@
                 "home_name": "Fulham",
                 "away_name": "Aston Villa",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fulham%20VS%20Aston%20Villa%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777116600,
+                "start_time_local": "25 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387085,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Charlton vs Hull City",
+            "slug": "charlton-vs-hull-city-1387085",
+            "status": "NS",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Charlton",
+                "away_name": "Hull City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Charlton%20VS%20Hull%20City%20%20Championship.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777116600,
@@ -796,29 +790,6 @@
             }
         },
         {
-            "match_id": 1391129,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Alaves vs Mallorca",
-            "slug": "alaves-vs-mallorca-1391129",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Alaves",
-                "away_name": "Mallorca",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alaves%20VS%20Mallorca%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777118400,
-                "start_time_local": "25 Apr 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1389393,
             "sport_name": "Football",
             "sport_id": 1,
@@ -834,6 +805,29 @@
                 "home_name": "Reims",
                 "away_name": "Nancy",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reims%20VS%20Nancy%20%20Ligue%202.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777118400,
+                "start_time_local": "25 Apr 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391129,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Alaves vs Mallorca",
+            "slug": "alaves-vs-mallorca-1391129",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Alaves",
+                "away_name": "Mallorca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alaves%20VS%20Mallorca%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777118400,
