@@ -3,9 +3,39 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:15:25 AM 25-04-2026"
+        "last_update_time": "06:30:30 AM 25-04-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1517273,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "supra-du-quebec-vs-hfx-wanderers-fc-1517273",
+            "title": "Supra du Quebec vs HFX Wanderers FC",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Canadian Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Supra du Quebec",
+                "away_name": "HFX Wanderers FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Supra%20du%20Quebec%20VS%20HFX%20Wanderers%20FC%20%20Canadian%20Premier%20League%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777071600,
+                "start_time_local": "25 Apr 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=c836e5009feb459d4956bc8b7bd5c54e3fad12db&x-sign=4371f28fa52369151c01325e630ff522&x-time=1777077000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629489569,
             "sport_name": "Auto Racing",
@@ -30,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=d34aa4f8636b34d5e44a164cbd6a6828667c1039&x-sign=b655bd6bf9ad2debde0e6cd94f22835b&x-time=1777076100",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=c836e5009feb459d4956bc8b7bd5c54e3fad12db&x-sign=cf49650ba71bb9dd1c80e6989bf7c0df&x-time=1777077000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -592,29 +622,6 @@
             }
         },
         {
-            "match_id": 1388892,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Preußen Münster vs Arminia Bielefeld",
-            "slug": "preussen-munster-vs-arminia-bielefeld-1388892",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Preußen Münster",
-                "away_name": "Arminia Bielefeld",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20Arminia%20Bielefeld%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777114800,
-                "start_time_local": "25 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388889,
             "sport_name": "Football",
             "sport_id": 1,
@@ -630,6 +637,29 @@
                 "home_name": "Karlsruher SC",
                 "away_name": "Hannover 96",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Karlsruher%20SC%20VS%20Hannover%2096%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777114800,
+                "start_time_local": "25 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388892,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Preußen Münster vs Arminia Bielefeld",
+            "slug": "preussen-munster-vs-arminia-bielefeld-1388892",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Preußen Münster",
+                "away_name": "Arminia Bielefeld",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20Arminia%20Bielefeld%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777114800,
