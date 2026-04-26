@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:32 AM 26-04-2026"
+        "last_update_time": "06:00:37 AM 26-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=018892323973a221214bfa6bb4465880&x-time=1777160700",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=914a7dbab6f3b34b7949dea0af877c98&x-time=1777161600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=be62ef17638d65080d80fdf43cab83a6&x-time=1777160700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=1d1fd2873c7c89f7f05e43d7c3142afd&x-time=1777161600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,14 +90,14 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=f0e4af9d9f61adc118c2a515ebd26fadae666d26&x-sign=018892323973a221214bfa6bb4465880&x-time=1777160700",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/6/chunks.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=914a7dbab6f3b34b7949dea0af877c98&x-time=1777161600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 6,
+    "total_upcoming_matches": 9,
     "upcoming_matches": [
         {
             "match_id": 1492055,
@@ -234,6 +234,75 @@
             "timing": {
                 "start_time_timestamp": 1777172400,
                 "start_time_local": "26 Apr 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489626,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
+            "slug": "orix-buffaloes-vs-hokkaido-nippon-ham-fighters-1629489626",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777176000,
+                "start_time_local": "26 Apr 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489630,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Tokyo Yakult Swallows",
+            "slug": "chunichi-dragons-vs-tokyo-yakult-swallows-1629489630",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777177800,
+                "start_time_local": "26 Apr 2026, 10:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1469710,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sydney vs Auckland",
+            "slug": "sydney-vs-auckland-1469710",
+            "status": "NS",
+            "league": {
+                "league_name": "A-League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sydney",
+                "away_name": "Auckland",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20VS%20Auckland%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777179600,
+                "start_time_local": "26 Apr 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         }
