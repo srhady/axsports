@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:32 AM 27-04-2026"
+        "last_update_time": "04:15:23 AM 27-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1396507,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "avs-vs-sporting-cp-1396507",
-            "title": "AVS vs Sporting CP",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Primeira Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "AVS",
-                "away_name": "Sporting CP",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777231800,
-                "start_time_local": "27 Apr 2026, 01:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "881",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/881_hd/index.m3u8?is_vip=false&token=f79ae5f95b4d12467a342cac009062eb33a8a492&x-sign=7b896c821c8c5a3e85927f2b22b41d88&x-time=1777240800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1517276,
             "sport_name": "Football",
@@ -60,14 +30,14 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=f79ae5f95b4d12467a342cac009062eb33a8a492&x-sign=0f2517ce08b0318d26ad049f2627c2c4&x-time=1777240800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=a6e23e6926df9bd2617507491388e70dbdffeb5c&x-sign=2cb88f018ef684f01023be83f94c5712&x-time=1777241700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 7,
+    "total_upcoming_matches": 8,
     "upcoming_matches": [
         {
             "match_id": 1629489897,
@@ -162,29 +132,6 @@
             }
         },
         {
-            "match_id": 1394705,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Beşiktaş vs Fatih Karagümrük",
-            "slug": "besiktas-vs-fatih-karagumruk-1394705",
-            "status": "NS",
-            "league": {
-                "league_name": "Süper Lig",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Beşiktaş",
-                "away_name": "Fatih Karagümrük",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Be%C5%9Fikta%C5%9F%20VS%20Fatih%20Karag%C3%BCmr%C3%BCk%20%20S%C3%BCper%20Lig.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777309200,
-                "start_time_local": "27 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398240,
             "sport_name": "Football",
             "sport_id": 1,
@@ -223,6 +170,52 @@
                 "home_name": "Piast Gliwice",
                 "away_name": "Arka Gdynia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Arka%20Gdynia%20%20Ekstraklasa.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777309200,
+                "start_time_local": "27 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1394705,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Beşiktaş vs Fatih Karagümrük",
+            "slug": "besiktas-vs-fatih-karagumruk-1394705",
+            "status": "NS",
+            "league": {
+                "league_name": "Süper Lig",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Beşiktaş",
+                "away_name": "Fatih Karagümrük",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Be%C5%9Fikta%C5%9F%20VS%20Fatih%20Karag%C3%BCmr%C3%BCk%20%20S%C3%BCper%20Lig.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777309200,
+                "start_time_local": "27 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1394711,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Konyaspor vs Trabzonspor",
+            "slug": "konyaspor-vs-trabzonspor-1394711",
+            "status": "NS",
+            "league": {
+                "league_name": "Süper Lig",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Konyaspor",
+                "away_name": "Trabzonspor",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Konyaspor%20VS%20Trabzonspor%20%20S%C3%BCper%20Lig.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777309200,
