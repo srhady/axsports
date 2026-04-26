@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:27 AM 27-04-2026"
+        "last_update_time": "03:30:26 AM 27-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489894,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "slug": "stade-toulousain-vs-clermont-1629489894",
-            "title": "Stade Toulousain vs Clermont",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Top 14",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777230000,
-                "start_time_local": "27 Apr 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/4/chunks.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=8eacc926ca8451c5911df0f63c1bf7d3&x-time=1777238100",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1396507,
             "sport_name": "Football",
@@ -60,14 +30,14 @@
             "streams": [
                 {
                     "server_name": "881",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/881_hd/index.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=998e4f62a31ad30f8660f206cc262a58&x-time=1777238100",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/881_hd/index.m3u8?is_vip=false&token=90109849f779e5443891d667710be2e96f40e0b7&x-sign=d3bb30fa061d5584e90774c85fad0cd7&x-time=1777239000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 7,
+    "total_upcoming_matches": 8,
     "upcoming_matches": [
         {
             "match_id": 1517276,
@@ -223,6 +193,29 @@
                 "home_name": "Chaves",
                 "away_name": "Oliveirense",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chaves%20VS%20Oliveirense%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777309200,
+                "start_time_local": "27 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1380650,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Piast Gliwice vs Arka Gdynia",
+            "slug": "piast-gliwice-vs-arka-gdynia-1380650",
+            "status": "NS",
+            "league": {
+                "league_name": "Ekstraklasa",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Piast Gliwice",
+                "away_name": "Arka Gdynia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Arka%20Gdynia%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777309200,
