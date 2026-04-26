@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:26 PM 26-04-2026"
+        "last_update_time": "02:45:32 PM 26-04-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,28 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=77d3a4f2a5bcaaeaffd275c6310ef09c8c40b15d&x-sign=e7cd9019f0094d294300f58a30bd4020&x-time=1777192200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=3805a1009370d6544227da4cd505b16f35fe800a&x-sign=7203ea7fb9b745c87cb71f258462c1c4&x-time=1777193100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1629489637,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "red-bull-ring-or-qualifying-2-1629489637",
-            "title": "Red Bull Ring | Qualifying 2",
+            "match_id": 1469711,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "melbourne-city-vs-adelaide-united-1469711",
+            "title": "Melbourne City vs Adelaide United",
             "status": "LIVE",
             "league": {
-                "league_name": "Deutsche Tourenwagen Masters",
+                "league_name": "A-League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Melbourne City",
+                "away_name": "Adelaide United",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Adelaide%20United%20%20A-League%20%5BServer%201%5D.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777188600,
@@ -59,23 +59,20 @@
             },
             "streams": [
                 {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=77d3a4f2a5bcaaeaffd275c6310ef09c8c40b15d&x-sign=973bae57f0bb1e048b0f7ca45e312fa2&x-time=1777192200",
+                    "server_name": "323",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/323_hd/index.m3u8?is_vip=false&token=3805a1009370d6544227da4cd505b16f35fe800a&x-sign=f424f3fdf84a62f9b6930a8f6b282d93&x-time=1777193100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 42,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489638,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Mutua Madrid Open: Day 6",
             "slug": "mutua-madrid-open-day-6-1629489638",
-            "status": "NS",
+            "title": "Mutua Madrid Open: Day 6",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777194000,
-                "start_time_local": "26 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=3805a1009370d6544227da4cd505b16f35fe800a&x-sign=a7a002ce34f9958770f0d00a193c2c68&x-time=1777193100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1629489639,
             "sport_name": "Cycling",
@@ -231,6 +238,29 @@
             }
         },
         {
+            "match_id": 1417313,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Everton W vs Chelsea W",
+            "slug": "everton-w-vs-chelsea-w-1417313",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Everton W",
+                "away_name": "Chelsea W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20VS%20Chelsea%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777201200,
+                "start_time_local": "26 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1417310,
             "sport_name": "Football",
             "sport_id": 1,
@@ -254,25 +284,25 @@
             }
         },
         {
-            "match_id": 1417313,
+            "match_id": 1388890,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Everton W vs Chelsea W",
-            "slug": "everton-w-vs-chelsea-w-1417313",
+            "title": "1. FC Nürnberg vs 1. FC Magdeburg",
+            "slug": "1-fc-nurnberg-vs-1-fc-magdeburg-1388890",
             "status": "NS",
             "league": {
-                "league_name": "FA WSL",
+                "league_name": "2. Bundesliga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Everton W",
-                "away_name": "Chelsea W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20VS%20Chelsea%20W%20%20FA%20WSL.jpg"
+                "home_name": "1. FC Nürnberg",
+                "away_name": "1. FC Magdeburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20N%C3%BCrnberg%20VS%201.%20FC%20Magdeburg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777201200,
-                "start_time_local": "26 Apr 2026, 05:00 PM",
+                "start_time_timestamp": 1777203000,
+                "start_time_local": "26 Apr 2026, 05:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -323,52 +353,6 @@
             }
         },
         {
-            "match_id": 1388891,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "SC Paderborn 07 vs FC Schalke 04",
-            "slug": "sc-paderborn-07-vs-fc-schalke-04-1388891",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "SC Paderborn 07",
-                "away_name": "FC Schalke 04",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Paderborn%2007%20VS%20FC%20Schalke%2004%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777203000,
-                "start_time_local": "26 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388890,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "1. FC Nürnberg vs 1. FC Magdeburg",
-            "slug": "1-fc-nurnberg-vs-1-fc-magdeburg-1388890",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "1. FC Nürnberg",
-                "away_name": "1. FC Magdeburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20N%C3%BCrnberg%20VS%201.%20FC%20Magdeburg%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777203000,
-                "start_time_local": "26 Apr 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1394402,
             "sport_name": "Football",
             "sport_id": 1,
@@ -384,6 +368,29 @@
                 "home_name": "FC Viktoria Köln",
                 "away_name": "Energie Cottbus",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Viktoria%20K%C3%B6ln%20VS%20Energie%20Cottbus%20%203.%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777203000,
+                "start_time_local": "26 Apr 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388891,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "SC Paderborn 07 vs FC Schalke 04",
+            "slug": "sc-paderborn-07-vs-fc-schalke-04-1388891",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "SC Paderborn 07",
+                "away_name": "FC Schalke 04",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Paderborn%2007%20VS%20FC%20Schalke%2004%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777203000,
@@ -461,52 +468,6 @@
             }
         },
         {
-            "match_id": 1387971,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lorient vs Strasbourg",
-            "slug": "lorient-vs-strasbourg-1387971",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lorient",
-                "away_name": "Strasbourg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lorient%20VS%20Strasbourg%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777208400,
-                "start_time_local": "26 Apr 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1378197,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Genoa vs Como",
-            "slug": "genoa-vs-como-1378197",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Genoa",
-                "away_name": "Como",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genoa%20VS%20Como%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777208400,
-                "start_time_local": "26 Apr 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1417314,
             "sport_name": "Football",
             "sport_id": 1,
@@ -522,6 +483,29 @@
                 "home_name": "Liverpool W",
                 "away_name": "West Ham W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20W%20VS%20West%20Ham%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777208400,
+                "start_time_local": "26 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387971,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lorient vs Strasbourg",
+            "slug": "lorient-vs-strasbourg-1387971",
+            "status": "NS",
+            "league": {
+                "league_name": "Ligue 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lorient",
+                "away_name": "Strasbourg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lorient%20VS%20Strasbourg%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777208400,
@@ -553,6 +537,29 @@
             }
         },
         {
+            "match_id": 1378197,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Genoa vs Como",
+            "slug": "genoa-vs-como-1378197",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Genoa",
+                "away_name": "Como",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genoa%20VS%20Como%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777208400,
+                "start_time_local": "26 Apr 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1388585,
             "sport_name": "Football",
             "sport_id": 1,
@@ -572,29 +579,6 @@
             "timing": {
                 "start_time_timestamp": 1777210200,
                 "start_time_local": "26 Apr 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1536991,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "KV Mechelen vs St. Truiden",
-            "slug": "kv-mechelen-vs-st-truiden-1536991",
-            "status": "NS",
-            "league": {
-                "league_name": "Jupiler Pro League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "KV Mechelen",
-                "away_name": "St. Truiden",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KV%20Mechelen%20VS%20St.%20Truiden%20%20Jupiler%20Pro%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777212000,
-                "start_time_local": "26 Apr 2026, 08:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -622,6 +606,29 @@
             }
         },
         {
+            "match_id": 1536991,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "KV Mechelen vs St. Truiden",
+            "slug": "kv-mechelen-vs-st-truiden-1536991",
+            "status": "NS",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "KV Mechelen",
+                "away_name": "St. Truiden",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/KV%20Mechelen%20VS%20St.%20Truiden%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777212000,
+                "start_time_local": "26 Apr 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1391136,
             "sport_name": "Football",
             "sport_id": 1,
@@ -641,6 +648,29 @@
             "timing": {
                 "start_time_timestamp": 1777212900,
                 "start_time_local": "26 Apr 2026, 08:15 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489647,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Gloucester vs Exeter",
+            "slug": "gloucester-vs-exeter-1629489647",
+            "status": "NS",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777213800,
+                "start_time_local": "26 Apr 2026, 08:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -683,29 +713,6 @@
                 "home_name": "Estoril",
                 "away_name": "Famalicao",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estoril%20VS%20Famalicao%20%20Primeira%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777213800,
-                "start_time_local": "26 Apr 2026, 08:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489647,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Gloucester vs Exeter",
-            "slug": "gloucester-vs-exeter-1629489647",
-            "status": "NS",
-            "league": {
-                "league_name": "PREM Rugby",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1777213800,
@@ -760,11 +767,11 @@
             }
         },
         {
-            "match_id": 1387970,
+            "match_id": 1387975,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Le Havre vs Metz",
-            "slug": "le-havre-vs-metz-1387970",
+            "title": "Rennes vs Nantes",
+            "slug": "rennes-vs-nantes-1387975",
             "status": "NS",
             "league": {
                 "league_name": "Ligue 1",
@@ -772,9 +779,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Le Havre",
-                "away_name": "Metz",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Le%20Havre%20VS%20Metz%20%20Ligue%201.jpg"
+                "home_name": "Rennes",
+                "away_name": "Nantes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rennes%20VS%20Nantes%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777216500,
@@ -806,11 +813,11 @@
             }
         },
         {
-            "match_id": 1387975,
+            "match_id": 1387970,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Rennes vs Nantes",
-            "slug": "rennes-vs-nantes-1387975",
+            "title": "Le Havre vs Metz",
+            "slug": "le-havre-vs-metz-1387970",
             "status": "NS",
             "league": {
                 "league_name": "Ligue 1",
@@ -818,9 +825,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Rennes",
-                "away_name": "Nantes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rennes%20VS%20Nantes%20%20Ligue%201.jpg"
+                "home_name": "Le Havre",
+                "away_name": "Metz",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Le%20Havre%20VS%20Metz%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777216500,
@@ -852,21 +859,21 @@
             }
         },
         {
-            "match_id": 1388579,
+            "match_id": 1380649,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Borussia Dortmund vs SC Freiburg",
-            "slug": "borussia-dortmund-vs-sc-freiburg-1388579",
+            "title": "Lech Poznan vs Legia Warszawa",
+            "slug": "lech-poznan-vs-legia-warszawa-1380649",
             "status": "NS",
             "league": {
-                "league_name": "Bundesliga",
+                "league_name": "Ekstraklasa",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Borussia Dortmund",
-                "away_name": "SC Freiburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20Dortmund%20VS%20SC%20Freiburg%20%20Bundesliga.jpg"
+                "home_name": "Lech Poznan",
+                "away_name": "Legia Warszawa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lech%20Poznan%20VS%20Legia%20Warszawa%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777217400,
@@ -898,21 +905,21 @@
             }
         },
         {
-            "match_id": 1380649,
+            "match_id": 1388579,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Lech Poznan vs Legia Warszawa",
-            "slug": "lech-poznan-vs-legia-warszawa-1380649",
+            "title": "Borussia Dortmund vs SC Freiburg",
+            "slug": "borussia-dortmund-vs-sc-freiburg-1388579",
             "status": "NS",
             "league": {
-                "league_name": "Ekstraklasa",
+                "league_name": "Bundesliga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Lech Poznan",
-                "away_name": "Legia Warszawa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lech%20Poznan%20VS%20Legia%20Warszawa%20%20Ekstraklasa.jpg"
+                "home_name": "Borussia Dortmund",
+                "away_name": "SC Freiburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20Dortmund%20VS%20SC%20Freiburg%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777217400,
@@ -990,6 +997,29 @@
             }
         },
         {
+            "match_id": 1396513,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Santa Clara vs SC Braga",
+            "slug": "santa-clara-vs-sc-braga-1396513",
+            "status": "NS",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Santa Clara",
+                "away_name": "SC Braga",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777222800,
+                "start_time_local": "26 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1396511,
             "sport_name": "Football",
             "sport_id": 1,
@@ -1013,20 +1043,20 @@
             }
         },
         {
-            "match_id": 1396513,
+            "match_id": 1517275,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Santa Clara vs SC Braga",
-            "slug": "santa-clara-vs-sc-braga-1396513",
+            "title": "Atlético Ottawa vs Vancouver FC",
+            "slug": "atletico-ottawa-vs-vancouver-fc-1517275",
             "status": "NS",
             "league": {
-                "league_name": "Primeira Liga",
+                "league_name": "Canadian Premier League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Santa Clara",
-                "away_name": "SC Braga",
+                "home_name": "Atlético Ottawa",
+                "away_name": "Vancouver FC",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
