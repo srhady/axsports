@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:39 AM 26-04-2026"
+        "last_update_time": "09:00:50 AM 26-04-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,43 @@
             "streams": [
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=02321804bd162aa87189fac8158e0027d247a5b0&x-sign=38eae966ff1b19a65caac8004d3aebf8&x-time=1777171500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=5f1b146020da16a0d3169503fd9057bc&x-time=1777172400",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=02321804bd162aa87189fac8158e0027d247a5b0&x-sign=5101a9a87293005676457bc0f2632aa0&x-time=1777171500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=22224719ed44e304d168cf6a87531aad&x-time=1777172400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489622,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "autopolis-free-practice-2-1629489622",
+            "title": "Autopolis - Free Practice 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Super Formula",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777164000,
+                "start_time_local": "26 Apr 2026, 06:40 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=524b980c37be3a081a4c3f74d61293d3&x-time=1777172400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,7 +96,7 @@
             "streams": [
                 {
                     "server_name": "274860",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=02321804bd162aa87189fac8158e0027d247a5b0&x-sign=9bf984555e02e5cb34039daad00abba4&x-time=1777171500",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=f68b4bee5ce0cfa72b48412aaa25b2cf&x-time=1777172400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,7 +126,7 @@
             "streams": [
                 {
                     "server_name": "18",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=02321804bd162aa87189fac8158e0027d247a5b0&x-sign=6eb8e6098a37a185dacbab9602503ebd&x-time=1777171500",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=e78b760a696257a7407cf8a203550759&x-time=1777172400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,22 +156,19 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=02321804bd162aa87189fac8158e0027d247a5b0&x-sign=0b7fc18d6ce8958312bc61815381e41f&x-time=1777171500",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=aff56fee4c4c1da018914bf449773cd7&x-time=1777172400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 24,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1492612,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Club America vs Atlas",
             "slug": "club-america-vs-atlas-1492612",
-            "status": "NS",
+            "title": "Club America vs Atlas",
+            "status": "LIVE",
             "league": {
                 "league_name": "Liga MX",
                 "league_logo": ""
@@ -154,10 +181,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777173000,
-                "start_time_local": "26 Apr 2026, 09:10 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 Apr 2026, 09:10 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274860",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=6f055cace5caf84daf522680c80d163b5f6465e0&x-sign=f68b4bee5ce0cfa72b48412aaa25b2cf&x-time=1777172400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 23,
+    "upcoming_matches": [
         {
             "match_id": 1629489626,
             "sport_name": "Baseball",
