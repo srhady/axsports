@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:26 AM 27-04-2026"
+        "last_update_time": "03:45:31 AM 27-04-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "881",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/881_hd/index.m3u8?is_vip=false&token=90109849f779e5443891d667710be2e96f40e0b7&x-sign=d3bb30fa061d5584e90774c85fad0cd7&x-time=1777239000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/881_hd/index.m3u8?is_vip=false&token=a5fd882873cc3da0fc0c2b4bd6b8a2c6cc23107c&x-sign=d0c3bad4061cc6fb691a7b0f2aa0cbca&x-time=1777239900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 8,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1517276,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Pacific FC vs Forge",
             "slug": "pacific-fc-vs-forge-1517276",
-            "status": "NS",
+            "title": "Pacific FC vs Forge",
+            "status": "LIVE",
             "league": {
                 "league_name": "Canadian Premier League",
                 "league_logo": ""
@@ -58,10 +55,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777240800,
-                "start_time_local": "27 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "27 Apr 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=a5fd882873cc3da0fc0c2b4bd6b8a2c6cc23107c&x-sign=2cbb51ea8d7aec1a099c491a16b2d2b4&x-time=1777239900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 7,
+    "upcoming_matches": [
         {
             "match_id": 1629489897,
             "sport_name": "Tennis",
