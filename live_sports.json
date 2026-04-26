@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:54 AM 26-04-2026"
+        "last_update_time": "09:45:52 AM 26-04-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=82f208c7fa1af4a8b5ef7744eed64c50&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/53768_hd/index.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=c1f1f5da5dbe7fc618630176e775fcc9&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=43588db28ab7941dad0f46e9ffc9f45a&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=4a1ef036540c9549f9f396fe38eefdc2&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,7 +66,7 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=e980bb4f1cba6fea25bf3648fa210920&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=e666cea3ea1395384a25bff6b7785966&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,7 +96,7 @@
             "streams": [
                 {
                     "server_name": "274860",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=8bd43c531c57cbb42f453eef024b4538&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=52bf820fa713138dba70720a6fb7bd04&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,7 +126,7 @@
             "streams": [
                 {
                     "server_name": "18",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=57a792404b1c84f70a8161a266ce7959&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/18/chunks.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=18b5b50d7e598d535f8a9d5e00dd495e&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -156,22 +156,49 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=5c1fe7500ab275958aad06144bf60fdf8960cf18&x-sign=93b6d911498905c47eb13f500929bd82&x-time=1777174200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=608b7f0440ee06dc3a017f1190441b82&x-time=1777175100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 24,
-    "upcoming_matches": [
+        },
+        {
+            "match_id": 1492612,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "club-america-vs-atlas-1492612",
+            "title": "Club America vs Atlas",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Club America",
+                "away_name": "Atlas",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20America%20VS%20Atlas%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777173000,
+                "start_time_local": "26 Apr 2026, 09:10 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274860",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274860_hd/index.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=52bf820fa713138dba70720a6fb7bd04&x-time=1777175100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629489626,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
             "slug": "orix-buffaloes-vs-hokkaido-nippon-ham-fighters-1629489626",
-            "status": "NS",
+            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -184,10 +211,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777176000,
-                "start_time_local": "26 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 Apr 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=7c2904b5ab375fd386898eda056590877ed2f5b9&x-sign=6cec4675cc81ae58bfec5c6e5fc84233&x-time=1777175100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 23,
+    "upcoming_matches": [
         {
             "match_id": 1629489630,
             "sport_name": "Baseball",
@@ -212,21 +249,21 @@
             }
         },
         {
-            "match_id": 1629489632,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
-            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629489632",
+            "match_id": 1469710,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sydney vs Auckland",
+            "slug": "sydney-vs-auckland-1469710",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "A-League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+                "home_name": "Sydney",
+                "away_name": "Auckland",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20VS%20Auckland%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777179600,
@@ -258,6 +295,29 @@
             }
         },
         {
+            "match_id": 1629489632,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
+            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629489632",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777179600,
+                "start_time_local": "26 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1506953,
             "sport_name": "Football",
             "sport_id": 1,
@@ -273,29 +333,6 @@
                 "home_name": "Jeonbuk Motors",
                 "away_name": "Pohang Steelers",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeonbuk%20Motors%20VS%20Pohang%20Steelers%20%20K%20League%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777179600,
-                "start_time_local": "26 Apr 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1469710,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sydney vs Auckland",
-            "slug": "sydney-vs-auckland-1469710",
-            "status": "NS",
-            "league": {
-                "league_name": "A-League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sydney",
-                "away_name": "Auckland",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20VS%20Auckland%20%20A-League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777179600,
@@ -373,29 +410,6 @@
             }
         },
         {
-            "match_id": 1629489637,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Red Bull Ring | Qualifying 2",
-            "slug": "red-bull-ring-or-qualifying-2-1629489637",
-            "status": "NS",
-            "league": {
-                "league_name": "Deutsche Tourenwagen Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777188600,
-                "start_time_local": "26 Apr 2026, 01:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1469711,
             "sport_name": "Football",
             "sport_id": 1,
@@ -411,6 +425,29 @@
                 "home_name": "Melbourne City",
                 "away_name": "Adelaide United",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20City%20VS%20Adelaide%20United%20%20A-League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777188600,
+                "start_time_local": "26 Apr 2026, 01:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489637,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Red Bull Ring | Qualifying 2",
+            "slug": "red-bull-ring-or-qualifying-2-1629489637",
+            "status": "NS",
+            "league": {
+                "league_name": "Deutsche Tourenwagen Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1777188600,
@@ -534,52 +571,6 @@
             }
         },
         {
-            "match_id": 1387083,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Coventry vs Wrexham",
-            "slug": "coventry-vs-wrexham-1387083",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Coventry",
-                "away_name": "Wrexham",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Coventry%20VS%20Wrexham%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777201200,
-                "start_time_local": "26 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1417310,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "London City Lionesses vs Leicester City WFC",
-            "slug": "london-city-lionesses-vs-leicester-city-wfc-1417310",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "London City Lionesses",
-                "away_name": "Leicester City WFC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/London%20City%20Lionesses%20VS%20Leicester%20City%20WFC%20%20FA%20WSL.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777201200,
-                "start_time_local": "26 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1417313,
             "sport_name": "Football",
             "sport_id": 1,
@@ -603,6 +594,29 @@
             }
         },
         {
+            "match_id": 1387083,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Coventry vs Wrexham",
+            "slug": "coventry-vs-wrexham-1387083",
+            "status": "NS",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Coventry",
+                "away_name": "Wrexham",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Coventry%20VS%20Wrexham%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777201200,
+                "start_time_local": "26 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1417315,
             "sport_name": "Football",
             "sport_id": 1,
@@ -618,6 +632,29 @@
                 "home_name": "Tottenham Hotspur W",
                 "away_name": "Manchester United W",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777201200,
+                "start_time_local": "26 Apr 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417310,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "London City Lionesses vs Leicester City WFC",
+            "slug": "london-city-lionesses-vs-leicester-city-wfc-1417310",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "London City Lionesses",
+                "away_name": "Leicester City WFC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/London%20City%20Lionesses%20VS%20Leicester%20City%20WFC%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777201200,
