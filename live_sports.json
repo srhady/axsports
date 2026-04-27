@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:31 PM 27-04-2026"
+        "last_update_time": "09:45:33 PM 27-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=c1025321b6561886c3a049145699a7d800c8e87e&x-sign=a0367adb6e2821200ce88dff9e8b7d59&x-time=1777303800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=169a5b432e0815df72b2a94778a5e1948eead6b5&x-sign=795c3a2e9e10706be7a50a73700ef219&x-time=1777304700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=c1025321b6561886c3a049145699a7d800c8e87e&x-sign=e115356ec95da9fbf8c7aed4364281cd&x-time=1777303800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=169a5b432e0815df72b2a94778a5e1948eead6b5&x-sign=2b9f27b58107f6741e9d37d92aec5f2f&x-time=1777304700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1401366,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "1899 Hoffenheim W vs FC Koln W",
             "slug": "1899-hoffenheim-w-vs-fc-koln-w-1401366",
-            "status": "NS",
+            "title": "1899 Hoffenheim W vs FC Koln W",
+            "status": "LIVE",
             "league": {
                 "league_name": "Frauen Bundesliga",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777305600,
-                "start_time_local": "27 Apr 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "27 Apr 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=169a5b432e0815df72b2a94778a5e1948eead6b5&x-sign=7256d1ea505f66a895b2f2fee62f3829&x-time=1777304700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1378195,
             "sport_name": "Football",
