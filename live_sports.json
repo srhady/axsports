@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:40 PM 27-04-2026"
+        "last_update_time": "09:15:33 PM 27-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=bf7348f2dcb485786f97da8b7e71a8f8dd225373&x-sign=65d91d8762d196ff5ecc3416ab1f0c17&x-time=1777302000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=eb7a667f5586987afcafb42da4d23338&x-time=1777302900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=bf7348f2dcb485786f97da8b7e71a8f8dd225373&x-sign=3b32e053424b7a5f5fb57c99404cee8f&x-time=1777302000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=d4a32e847834e34ff643e480e0b496e0&x-time=1777302900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -116,29 +116,6 @@
             }
         },
         {
-            "match_id": 1380650,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Piast Gliwice vs Arka Gdynia",
-            "slug": "piast-gliwice-vs-arka-gdynia-1380650",
-            "status": "NS",
-            "league": {
-                "league_name": "Ekstraklasa",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Piast Gliwice",
-                "away_name": "Arka Gdynia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Arka%20Gdynia%20%20Ekstraklasa.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777309200,
-                "start_time_local": "27 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398240,
             "sport_name": "Football",
             "sport_id": 1,
@@ -154,6 +131,29 @@
                 "home_name": "Chaves",
                 "away_name": "Oliveirense",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chaves%20VS%20Oliveirense%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777309200,
+                "start_time_local": "27 Apr 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1380650,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Piast Gliwice vs Arka Gdynia",
+            "slug": "piast-gliwice-vs-arka-gdynia-1380650",
+            "status": "NS",
+            "league": {
+                "league_name": "Ekstraklasa",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Piast Gliwice",
+                "away_name": "Arka Gdynia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Piast%20Gliwice%20VS%20Arka%20Gdynia%20%20Ekstraklasa.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777309200,
@@ -415,89 +415,20 @@
             }
         },
         {
-            "match_id": 1629489905,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
-            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629489905",
+            "match_id": 1629489911,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 2",
+            "slug": "day-2-1629489911",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777366800,
-                "start_time_local": "28 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489906,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Yokohama DeNA BayStars",
-            "slug": "chunichi-dragons-vs-yokohama-dena-baystars-1629489906",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777366800,
-                "start_time_local": "28 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489907,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
-            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629489907",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777366800,
-                "start_time_local": "28 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489908,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
-            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489908",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Hanshin Tigers",
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -530,20 +461,89 @@
             }
         },
         {
-            "match_id": 1629489911,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 2",
-            "slug": "day-2-1629489911",
+            "match_id": 1629489906,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Yokohama DeNA BayStars",
+            "slug": "chunichi-dragons-vs-yokohama-dena-baystars-1629489906",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
+                "home_name": "Chunichi Dragons",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777366800,
+                "start_time_local": "28 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489905,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
+            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629489905",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777366800,
+                "start_time_local": "28 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489908,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
+            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489908",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777366800,
+                "start_time_local": "28 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489907,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
+            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629489907",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
