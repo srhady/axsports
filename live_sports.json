@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:37 PM 27-04-2026"
+        "last_update_time": "10:15:36 PM 27-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=d0a97fb90fc0e40e2a0acdb5cc567c2a8d20eb45&x-sign=25ef2e796748655defc10ebb73a2ac8a&x-time=1777305600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=4807af02ca66d9171c8e83e63949c59c&x-time=1777306500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=d0a97fb90fc0e40e2a0acdb5cc567c2a8d20eb45&x-sign=331964012ff19a0ac6e7973b49d9113b&x-time=1777305600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=69b7305852fbd90ed3655324790d64c5&x-time=1777306500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,25 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=d0a97fb90fc0e40e2a0acdb5cc567c2a8d20eb45&x-sign=9de77beb5bc66d8058885bcfaef8ee92&x-time=1777305600",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=c472faafd45fb01a4d5cd5dd317b5d3d&x-time=1777306500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "5803",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/5803_hd/index.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=18e4133d902c2d4dad4d187c190a89d1&x-time=1777306500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1378195,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Cagliari vs Atalanta",
             "slug": "cagliari-vs-atalanta-1378195",
-            "status": "NS",
+            "title": "Cagliari vs Atalanta",
+            "status": "LIVE",
             "league": {
                 "league_name": "Serie A",
                 "league_logo": ""
@@ -118,10 +121,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1777307400,
-                "start_time_local": "27 Apr 2026, 10:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "27 Apr 2026, 10:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=d8b74da85287fbb0484cb2b01cb8c86c&x-time=1777306500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "54047",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54047_hd/index.m3u8?is_vip=false&token=fea44c3bcb30feeef97caa31bde968439f9b2d01&x-sign=7eb5051652bfce9ff1c3fef47727ad2d&x-time=1777306500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1398240,
             "sport_name": "Football",
