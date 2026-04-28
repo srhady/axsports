@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:47 PM 28-04-2026"
+        "last_update_time": "10:00:41 PM 28-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=f9c603461ea8e43f9a1ef505f1c1e0cb11aa510a&x-sign=7095a38a785a85043cceeee4a17ecf02&x-time=1777391100",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=6d7c9145436753fa1599974d02b2074675965b18&x-sign=732b84b735218908e3872a3cea52a846&x-time=1777392000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=f9c603461ea8e43f9a1ef505f1c1e0cb11aa510a&x-sign=f1e078a602a9acc2b37de13c425f7a8a&x-time=1777391100",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=6d7c9145436753fa1599974d02b2074675965b18&x-sign=0026e0c944eb7ed7bc1152a0d77396b2&x-time=1777392000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,44 +90,14 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=f9c603461ea8e43f9a1ef505f1c1e0cb11aa510a&x-sign=5f4f1cfac683ff8be2dd6f67ddef5b0e&x-time=1777391100",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629489915,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "slug": "tour-of-romandie-prologue-1629489915",
-            "title": "Tour of Romandie, prologue",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UCI World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777383000,
-                "start_time_local": "28 Apr 2026, 07:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "1418",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=f9c603461ea8e43f9a1ef505f1c1e0cb11aa510a&x-sign=4bd606724633c7622258064970de0ca9&x-time=1777391100",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=6d7c9145436753fa1599974d02b2074675965b18&x-sign=ee2fc387768a5619ecb6e27f90691937&x-time=1777392000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1542765,
@@ -199,6 +169,52 @@
             }
         },
         {
+            "match_id": 1629490188,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Fenerbahce Beko Istanbul vs Zalgiris Kaunas",
+            "slug": "fenerbahce-beko-istanbul-vs-zalgiris-kaunas-1629490188",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fenerbahce Beko Istanbul",
+                "away_name": "Zalgiris Kaunas",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777398300,
+                "start_time_local": "28 Apr 2026, 11:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490189,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Olympiacos Piraeus vs AS Monaco Basketball",
+            "slug": "olympiacos-piraeus-basketball-vs-as-monaco-basketball-1629490189",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Olympiacos Piraeus Basketball",
+                "away_name": "AS Monaco Basketball",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777399200,
+                "start_time_local": "29 Apr 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1436182,
             "sport_name": "Football",
             "sport_id": 1,
@@ -218,6 +234,29 @@
             "timing": {
                 "start_time_timestamp": 1777399200,
                 "start_time_local": "29 Apr 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1387028,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Southampton vs Ipswich",
+            "slug": "southampton-vs-ipswich-1387028",
+            "status": "NS",
+            "league": {
+                "league_name": "Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Southampton",
+                "away_name": "Ipswich",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Southampton%20VS%20Ipswich%20%20Championship.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777401900,
+                "start_time_local": "29 Apr 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         },
@@ -268,29 +307,6 @@
             }
         },
         {
-            "match_id": 1387028,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Southampton vs Ipswich",
-            "slug": "southampton-vs-ipswich-1387028",
-            "status": "NS",
-            "league": {
-                "league_name": "Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Southampton",
-                "away_name": "Ipswich",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Southampton%20VS%20Ipswich%20%20Championship.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777401900,
-                "start_time_local": "29 Apr 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540841,
             "sport_name": "Football",
             "sport_id": 1,
@@ -310,6 +326,29 @@
             "timing": {
                 "start_time_timestamp": 1777402800,
                 "start_time_local": "29 Apr 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535275,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lanus vs LDU de Quito",
+            "slug": "lanus-vs-ldu-de-quito-1535275",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lanus",
+                "away_name": "LDU de Quito",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777413600,
+                "start_time_local": "29 Apr 2026, 04:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -352,29 +391,6 @@
                 "home_name": "San Lorenzo",
                 "away_name": "Santos",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Lorenzo%20VS%20Santos%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777413600,
-                "start_time_local": "29 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535275,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lanus vs LDU de Quito",
-            "slug": "lanus-vs-ldu-de-quito-1535275",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lanus",
-                "away_name": "LDU de Quito",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777413600,
@@ -429,29 +445,6 @@
             }
         },
         {
-            "match_id": 1535182,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Deportivo Recoleta vs Deportivo Cuenca",
-            "slug": "deportivo-recoleta-vs-deportivo-cuenca-1535182",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Deportivo Recoleta",
-                "away_name": "Deportivo Cuenca",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777422600,
-                "start_time_local": "29 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540846,
             "sport_name": "Football",
             "sport_id": 1,
@@ -498,11 +491,11 @@
             }
         },
         {
-            "match_id": 1535180,
+            "match_id": 1535182,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "O'Higgins vs Boston River",
-            "slug": "ohiggins-vs-boston-river-1535180",
+            "title": "Deportivo Recoleta vs Deportivo Cuenca",
+            "slug": "deportivo-recoleta-vs-deportivo-cuenca-1535182",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -510,13 +503,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "O'Higgins",
-                "away_name": "Boston River",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/O%27Higgins%20VS%20Boston%20River%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Deportivo Recoleta",
+                "away_name": "Deportivo Cuenca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777428000,
-                "start_time_local": "29 Apr 2026, 08:00 AM",
+                "start_time_timestamp": 1777422600,
+                "start_time_local": "29 Apr 2026, 06:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -536,6 +529,29 @@
                 "home_name": "Sporting Cristal",
                 "away_name": "Junior",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777428000,
+                "start_time_local": "29 Apr 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535180,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "O'Higgins vs Boston River",
+            "slug": "ohiggins-vs-boston-river-1535180",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "O'Higgins",
+                "away_name": "Boston River",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/O%27Higgins%20VS%20Boston%20River%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777428000,
@@ -774,14 +790,14 @@
             }
         },
         {
-            "match_id": 1629489930,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629489930",
+            "match_id": 1629489929,
+            "sport_name": "Boxing",
+            "sport_id": 16,
+            "title": "Nicolson vs Turner",
+            "slug": "nicolson-vs-turner-1629489929",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Matchroom Boxing",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -797,14 +813,14 @@
             }
         },
         {
-            "match_id": 1629489929,
-            "sport_name": "Boxing",
-            "sport_id": 16,
-            "title": "Nicolson vs Turner",
-            "slug": "nicolson-vs-turner-1629489929",
+            "match_id": 1629489930,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3",
+            "slug": "day-3-1629489930",
             "status": "NS",
             "league": {
-                "league_name": "Matchroom Boxing",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
