@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:55 PM 28-04-2026"
+        "last_update_time": "09:15:45 PM 28-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489911,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-2-1629489911",
-            "title": "Day 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777366800,
-                "start_time_local": "28 Apr 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=27081e0d2c2cf17b2c1a6c4a44117426af128e2f&x-sign=aea66a19956708d475a2e5c31fbf05ad&x-time=1777388400",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489912,
             "sport_name": "Tennis",
@@ -60,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=27081e0d2c2cf17b2c1a6c4a44117426af128e2f&x-sign=91d6ea7c9adeef63f6c878dab4c40ead&x-time=1777388400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=132a5cbbcdcbb65c3968ad96ec67bf3363c9bfa3&x-sign=e38d6f9b4e92b4a2a9172b8882213018&x-time=1777389300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489911,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "day-2-1629489911",
+            "title": "Day 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777366800,
+                "start_time_local": "28 Apr 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=132a5cbbcdcbb65c3968ad96ec67bf3363c9bfa3&x-sign=c18946997ba59b77a59913259bc9edc3&x-time=1777389300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=27081e0d2c2cf17b2c1a6c4a44117426af128e2f&x-sign=da1bbb11fc32c43ecd43af1f3cfaaf59&x-time=1777388400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=132a5cbbcdcbb65c3968ad96ec67bf3363c9bfa3&x-sign=8d7853b6c1a8b1a06f219fcadcddb440&x-time=1777389300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,7 +120,7 @@
             "streams": [
                 {
                     "server_name": "1418",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=27081e0d2c2cf17b2c1a6c4a44117426af128e2f&x-sign=7b00ecb274cc97398ba7a5eefeedd151&x-time=1777388400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/1418_hd/index.m3u8?is_vip=false&token=132a5cbbcdcbb65c3968ad96ec67bf3363c9bfa3&x-sign=d99089776c73290ac135c7d2842d2a95&x-time=1777389300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -314,11 +314,11 @@
             }
         },
         {
-            "match_id": 1535183,
+            "match_id": 1535172,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "San Lorenzo vs Santos",
-            "slug": "san-lorenzo-vs-santos-1535183",
+            "title": "Botafogo vs Independiente Petrolero",
+            "slug": "botafogo-vs-independiente-petrolero-1535172",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -326,9 +326,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "San Lorenzo",
-                "away_name": "Santos",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Lorenzo%20VS%20Santos%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Botafogo",
+                "away_name": "Independiente Petrolero",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botafogo%20VS%20Independiente%20Petrolero%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777413600,
@@ -360,11 +360,11 @@
             }
         },
         {
-            "match_id": 1535172,
+            "match_id": 1535183,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Botafogo vs Independiente Petrolero",
-            "slug": "botafogo-vs-independiente-petrolero-1535172",
+            "title": "San Lorenzo vs Santos",
+            "slug": "san-lorenzo-vs-santos-1535183",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -372,36 +372,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Botafogo",
-                "away_name": "Independiente Petrolero",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botafogo%20VS%20Independiente%20Petrolero%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "San Lorenzo",
+                "away_name": "Santos",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Lorenzo%20VS%20Santos%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777413600,
                 "start_time_local": "29 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535281,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "UCV vs Rosario Central",
-            "slug": "ucv-vs-rosario-central-1535281",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "UCV",
-                "away_name": "Rosario Central",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/UCV%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777420800,
-                "start_time_local": "29 Apr 2026, 06:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -421,6 +398,29 @@
                 "home_name": "Barracas Central",
                 "away_name": "A. Italiano",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barracas%20Central%20VS%20A.%20Italiano%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777420800,
+                "start_time_local": "29 Apr 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535281,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "UCV vs Rosario Central",
+            "slug": "ucv-vs-rosario-central-1535281",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "UCV",
+                "away_name": "Rosario Central",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/UCV%20VS%20Rosario%20Central%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777420800,
@@ -452,29 +452,6 @@
             }
         },
         {
-            "match_id": 1535182,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Deportivo Recoleta vs Deportivo Cuenca",
-            "slug": "deportivo-recoleta-vs-deportivo-cuenca-1535182",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Deportivo Recoleta",
-                "away_name": "Deportivo Cuenca",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777422600,
-                "start_time_local": "29 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535270,
             "sport_name": "Football",
             "sport_id": 1,
@@ -498,25 +475,25 @@
             }
         },
         {
-            "match_id": 1535279,
+            "match_id": 1535182,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sporting Cristal vs Junior",
-            "slug": "sporting-cristal-vs-junior-1535279",
+            "title": "Deportivo Recoleta vs Deportivo Cuenca",
+            "slug": "deportivo-recoleta-vs-deportivo-cuenca-1535182",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Libertadores",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sporting Cristal",
-                "away_name": "Junior",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Deportivo Recoleta",
+                "away_name": "Deportivo Cuenca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Recoleta%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777428000,
-                "start_time_local": "29 Apr 2026, 08:00 AM",
+                "start_time_timestamp": 1777422600,
+                "start_time_local": "29 Apr 2026, 06:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -544,25 +521,25 @@
             }
         },
         {
-            "match_id": 1504769,
+            "match_id": 1535279,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Shimizu S-pulse vs V-varen Nagasaki",
-            "slug": "shimizu-s-pulse-vs-v-varen-nagasaki-1504769",
+            "title": "Sporting Cristal vs Junior",
+            "slug": "sporting-cristal-vs-junior-1535279",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Shimizu S-pulse",
-                "away_name": "V-varen Nagasaki",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
+                "home_name": "Sporting Cristal",
+                "away_name": "Junior",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777435200,
-                "start_time_local": "29 Apr 2026, 10:00 AM",
+                "start_time_timestamp": 1777428000,
+                "start_time_local": "29 Apr 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -590,11 +567,11 @@
             }
         },
         {
-            "match_id": 1504772,
+            "match_id": 1504769,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "JEF United Chiba vs Yokohama F. Marinos",
-            "slug": "jef-united-chiba-vs-yokohama-f-marinos-1504772",
+            "title": "Shimizu S-pulse vs V-varen Nagasaki",
+            "slug": "shimizu-s-pulse-vs-v-varen-nagasaki-1504769",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -602,13 +579,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "JEF United Chiba",
-                "away_name": "Yokohama F. Marinos",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
+                "home_name": "Shimizu S-pulse",
+                "away_name": "V-varen Nagasaki",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20V-varen%20Nagasaki%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777438800,
-                "start_time_local": "29 Apr 2026, 11:00 AM",
+                "start_time_timestamp": 1777435200,
+                "start_time_local": "29 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -628,6 +605,29 @@
                 "home_name": "Vissel Kobe",
                 "away_name": "Cerezo Osaka",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777438800,
+                "start_time_local": "29 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504772,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "JEF United Chiba vs Yokohama F. Marinos",
+            "slug": "jef-united-chiba-vs-yokohama-f-marinos-1504772",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "JEF United Chiba",
+                "away_name": "Yokohama F. Marinos",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777438800,
@@ -659,29 +659,6 @@
             }
         },
         {
-            "match_id": 1504775,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Nagoya Grampus vs Fagiano Okayama",
-            "slug": "nagoya-grampus-vs-fagiano-okayama-1504775",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Nagoya Grampus",
-                "away_name": "Fagiano Okayama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777442400,
-                "start_time_local": "29 Apr 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504776,
             "sport_name": "Football",
             "sport_id": 1,
@@ -697,6 +674,29 @@
                 "home_name": "Urawa",
                 "away_name": "Kawasaki Frontale",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20Kawasaki%20Frontale%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777442400,
+                "start_time_local": "29 Apr 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504775,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Nagoya Grampus vs Fagiano Okayama",
+            "slug": "nagoya-grampus-vs-fagiano-okayama-1504775",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Nagoya Grampus",
+                "away_name": "Fagiano Okayama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777442400,
@@ -728,29 +728,6 @@
             }
         },
         {
-            "match_id": 1504777,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Kashiwa Reysol vs FC Tokyo",
-            "slug": "kashiwa-reysol-vs-fc-tokyo-1504777",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Kashiwa Reysol",
-                "away_name": "FC Tokyo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20FC%20Tokyo%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777446000,
-                "start_time_local": "29 Apr 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504778,
             "sport_name": "Football",
             "sport_id": 1,
@@ -766,6 +743,29 @@
                 "home_name": "Mito Hollyhock",
                 "away_name": "Machida Zelvia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Machida%20Zelvia%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777446000,
+                "start_time_local": "29 Apr 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504777,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashiwa Reysol vs FC Tokyo",
+            "slug": "kashiwa-reysol-vs-fc-tokyo-1504777",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Kashiwa Reysol",
+                "away_name": "FC Tokyo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20FC%20Tokyo%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777446000,
