@@ -3,9 +3,118 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:26 AM 29-04-2026"
+        "last_update_time": "05:15:35 AM 29-04-2026"
     },
-    "live_matches": [],
+    "live_matches": [
+        {
+            "match_id": 1535275,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "lanus-vs-ldu-de-quito-1535275",
+            "title": "Lanus vs LDU de Quito",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lanus",
+                "away_name": "LDU de Quito",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lanus%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777413600,
+                "start_time_local": "29 Apr 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=d6f7becdba259a9cdc2cceb24bf3a78e&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "274844",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274844_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=28c953979317b44a523841d00950aac8&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1535172,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "botafogo-vs-independiente-petrolero-1535172",
+            "title": "Botafogo vs Independiente Petrolero",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Botafogo",
+                "away_name": "Independiente Petrolero",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botafogo%20VS%20Independiente%20Petrolero%20%20CONMEBOL%20Sudamericana%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777413600,
+                "start_time_local": "29 Apr 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "161358",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=baa49891d158f08cb0459108bfa2827d&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "274843",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=59e0364628707ae4f4a7ba14eff34c53&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1535183,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "san-lorenzo-vs-santos-1535183",
+            "title": "San Lorenzo vs Santos",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "San Lorenzo",
+                "away_name": "Santos",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Lorenzo%20VS%20Santos%20%20CONMEBOL%20Sudamericana%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777413600,
+                "start_time_local": "29 Apr 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274842",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=86e51c53a5f8d3a8b0f766298e6083a1&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=046f7ba6f01c03f36715190f1edc7aeaf843b8a1&x-sign=76fb95d129ad6a233951d535b1d74a57&x-time=1777418100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
     "total_upcoming_matches": 41,
     "upcoming_matches": [
         {
@@ -55,29 +164,6 @@
             }
         },
         {
-            "match_id": 1535270,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cruzeiro vs Boca Juniors",
-            "slug": "cruzeiro-vs-boca-juniors-1535270",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cruzeiro",
-                "away_name": "Boca Juniors",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruzeiro%20VS%20Boca%20Juniors%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777422600,
-                "start_time_local": "29 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540846,
             "sport_name": "Football",
             "sport_id": 1,
@@ -93,6 +179,29 @@
                 "home_name": "Nashville SC",
                 "away_name": "Tigres UANL",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nashville%20SC%20VS%20Tigres%20UANL%20%20CONCACAF%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777422600,
+                "start_time_local": "29 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535270,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cruzeiro vs Boca Juniors",
+            "slug": "cruzeiro-vs-boca-juniors-1535270",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cruzeiro",
+                "away_name": "Boca Juniors",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruzeiro%20VS%20Boca%20Juniors%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777422600,
@@ -124,29 +233,6 @@
             }
         },
         {
-            "match_id": 1535279,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sporting Cristal vs Junior",
-            "slug": "sporting-cristal-vs-junior-1535279",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sporting Cristal",
-                "away_name": "Junior",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777428000,
-                "start_time_local": "29 Apr 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535180,
             "sport_name": "Football",
             "sport_id": 1,
@@ -170,25 +256,25 @@
             }
         },
         {
-            "match_id": 1504770,
+            "match_id": 1535279,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Tokyo Verdy vs Kashima",
-            "slug": "tokyo-verdy-vs-kashima-1504770",
+            "title": "Sporting Cristal vs Junior",
+            "slug": "sporting-cristal-vs-junior-1535279",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tokyo Verdy",
-                "away_name": "Kashima",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20VS%20Kashima%20%20J1%20League.jpg"
+                "home_name": "Sporting Cristal",
+                "away_name": "Junior",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Junior%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777435200,
-                "start_time_local": "29 Apr 2026, 10:00 AM",
+                "start_time_timestamp": 1777428000,
+                "start_time_local": "29 Apr 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -216,11 +302,11 @@
             }
         },
         {
-            "match_id": 1504773,
+            "match_id": 1504770,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Vissel Kobe vs Cerezo Osaka",
-            "slug": "vissel-kobe-vs-cerezo-osaka-1504773",
+            "title": "Tokyo Verdy vs Kashima",
+            "slug": "tokyo-verdy-vs-kashima-1504770",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -228,13 +314,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Vissel Kobe",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
+                "home_name": "Tokyo Verdy",
+                "away_name": "Kashima",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20VS%20Kashima%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777438800,
-                "start_time_local": "29 Apr 2026, 11:00 AM",
+                "start_time_timestamp": 1777435200,
+                "start_time_local": "29 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -277,6 +363,29 @@
                 "home_name": "Avispa Fukuoka",
                 "away_name": "Sanfrecce Hiroshima",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20VS%20Sanfrecce%20Hiroshima%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777438800,
+                "start_time_local": "29 Apr 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504773,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Vissel Kobe vs Cerezo Osaka",
+            "slug": "vissel-kobe-vs-cerezo-osaka-1504773",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Vissel Kobe",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777438800,
@@ -400,14 +509,14 @@
             }
         },
         {
-            "match_id": 1629489929,
-            "sport_name": "Boxing",
-            "sport_id": 16,
-            "title": "Nicolson vs Turner",
-            "slug": "nicolson-vs-turner-1629489929",
+            "match_id": 1629489930,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3",
+            "slug": "day-3-1629489930",
             "status": "NS",
             "league": {
-                "league_name": "Matchroom Boxing",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -423,14 +532,14 @@
             }
         },
         {
-            "match_id": 1629489930,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629489930",
+            "match_id": 1629489929,
+            "sport_name": "Boxing",
+            "sport_id": 16,
+            "title": "Nicolson vs Turner",
+            "slug": "nicolson-vs-turner-1629489929",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Matchroom Boxing",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -676,52 +785,6 @@
             }
         },
         {
-            "match_id": 1535178,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Juventud vs Puerto Cabello",
-            "slug": "juventud-vs-puerto-cabello-1535178",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Juventud",
-                "away_name": "Puerto Cabello",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Puerto%20Cabello%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777500000,
-                "start_time_local": "30 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535175,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Caracas FC vs Racing Club",
-            "slug": "caracas-fc-vs-racing-club-1535175",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Caracas FC",
-                "away_name": "Racing Club",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caracas%20FC%20VS%20Racing%20Club%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777500000,
-                "start_time_local": "30 Apr 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535278,
             "sport_name": "Football",
             "sport_id": 1,
@@ -760,6 +823,52 @@
                 "home_name": "Deportivo Riestra",
                 "away_name": "Atletico Torque",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Riestra%20VS%20Atletico%20Torque%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777500000,
+                "start_time_local": "30 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535178,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Juventud vs Puerto Cabello",
+            "slug": "juventud-vs-puerto-cabello-1535178",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Juventud",
+                "away_name": "Puerto Cabello",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Puerto%20Cabello%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777500000,
+                "start_time_local": "30 Apr 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535175,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Caracas FC vs Racing Club",
+            "slug": "caracas-fc-vs-racing-club-1535175",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Caracas FC",
+                "away_name": "Racing Club",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caracas%20FC%20VS%20Racing%20Club%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777500000,
