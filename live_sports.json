@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:42 PM 28-04-2026"
+        "last_update_time": "10:45:49 PM 28-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=ef3edbd49811b6d4bb6b27a58f42a64cf7410928&x-sign=4d708cc30c3c9e2254037a5b3873b051&x-time=1777393800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=fef4b8ac3bc372c82daacde0a3bcd37b81799b76&x-sign=ab301a1e5449a1223483f4bdb69881d7&x-time=1777394700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=ef3edbd49811b6d4bb6b27a58f42a64cf7410928&x-sign=a4e1a47f40c6e4da6d404b094f96eacb&x-time=1777393800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=fef4b8ac3bc372c82daacde0a3bcd37b81799b76&x-sign=322ad7ec2ab4435d7d6d0b28d558caf6&x-time=1777394700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1398241,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Feirense vs Torreense",
             "slug": "feirense-vs-torreense-1398241",
-            "status": "NS",
+            "title": "Feirense vs Torreense",
+            "status": "LIVE",
             "league": {
                 "league_name": "Segunda Liga",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777395600,
-                "start_time_local": "28 Apr 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 Apr 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=fef4b8ac3bc372c82daacde0a3bcd37b81799b76&x-sign=f9c64da1257ce1ffe0b1f6e5b300a36f&x-time=1777394700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1629489916,
             "sport_name": "Basketball",
@@ -917,6 +924,29 @@
             "timing": {
                 "start_time_timestamp": 1777479000,
                 "start_time_local": "29 Apr 2026, 10:10 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1542766,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Den Bosch vs Almere City FC",
+            "slug": "den-bosch-vs-almere-city-fc-1542766",
+            "status": "NS",
+            "league": {
+                "league_name": "Eredivisie",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Den Bosch",
+                "away_name": "Almere City FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Den%20Bosch%20VS%20Almere%20City%20FC%20%20Eredivisie.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777481100,
+                "start_time_local": "29 Apr 2026, 10:45 PM",
                 "countdown_seconds": null
             }
         }
