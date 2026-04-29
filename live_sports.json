@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:30 PM 29-04-2026"
+        "last_update_time": "02:30:30 PM 29-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1504778,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "mito-hollyhock-vs-machida-zelvia-1504778",
-            "title": "Mito Hollyhock vs Machida Zelvia",
-            "status": "LIVE",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mito Hollyhock",
-                "away_name": "Machida Zelvia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Machida%20Zelvia%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777446000,
-                "start_time_local": "29 Apr 2026, 01:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=cf67be2d033af9e35285d9000afc1ee8ece367af&x-sign=3960b3e7ca4e3c1f568e1b9bc5b88d43&x-time=1777450500",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1504777,
             "sport_name": "Football",
@@ -60,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=cf67be2d033af9e35285d9000afc1ee8ece367af&x-sign=bc5040fb789dd940b469d695adb63807&x-time=1777450500",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=13b408d674296f24a280eea9570df215b10a9fb0&x-sign=a38aaaa1b4d4a0580b2e48923fae3787&x-time=1777451400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1504778,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "mito-hollyhock-vs-machida-zelvia-1504778",
+            "title": "Mito Hollyhock vs Machida Zelvia",
+            "status": "LIVE",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mito Hollyhock",
+                "away_name": "Machida Zelvia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Machida%20Zelvia%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777446000,
+                "start_time_local": "29 Apr 2026, 01:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=13b408d674296f24a280eea9570df215b10a9fb0&x-sign=0366d0c8c5a8373b9e8634f2c480de8f&x-time=1777451400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
