@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:58 AM 30-04-2026"
+        "last_update_time": "01:15:52 AM 30-04-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629489931,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "cagliari-open-or-day-3-1629489931",
-            "title": "Cagliari Open | Day 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777456800,
-                "start_time_local": "29 Apr 2026, 04:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=0285fa04b2725d99bccb738919549111&x-time=1777489200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629489932,
             "sport_name": "Tennis",
@@ -60,7 +30,79 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=40626482bc5832a29b8976b746628c7b&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=a496ac8500c335aa9b7c0e125fac4e56&x-time=1777490100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1417274,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "arsenal-w-vs-leicester-city-wfc-1417274",
+            "title": "Arsenal W vs Leicester City WFC",
+            "status": "LIVE",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Arsenal W",
+                "away_name": "Leicester City WFC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arsenal%20W%20VS%20Leicester%20City%20WFC%20%20FA%20WSL%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777485600,
+                "start_time_local": "30 Apr 2026, 12:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=677252293a87f1b9cb395e513b83378b&x-time=1777490100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "143070",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143070_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=99828b86e16ce3d4729ebb5b6e8eb0ea&x-time=1777490100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1436179,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "al-nassr-vs-al-ahli-jeddah-1436179",
+            "title": "Al-Nassr vs Al-Ahli Jeddah",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Al-Nassr",
+                "away_name": "Al-Ahli Jeddah",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Nassr%20VS%20Al-Ahli%20Jeddah%20%20Pro%20League%20%5BServer%202%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777485600,
+                "start_time_local": "30 Apr 2026, 12:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "161358",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161358_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=105a69062ad7efc3825d48958021785c&x-time=1777490100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274862_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=39847f373020e87e958836c55f5d327c&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +132,7 @@
             "streams": [
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68892_hd/index.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=091185b9b836e42bdd5a30847251026f&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/68892_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=1f5d3b16273b819d55be0e16529ca644&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,19 +162,19 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/366_hd/index.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=3f1d8a65ab4985ad96f904e6c3438349&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/366_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=9e29418e7f23d534efeb32fb1d8391ff&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=1d30dd3593f7e11f7f287c9bae4ce02e&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=1ecae3eb6c3d152356fb364b033154c2&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "143072",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143072_hd/index.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=41ed6d4cf7f9ec6bbeeda6c0a1626f4e&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143072_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=68072f0b11d448b9bd546b943ac1d617&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -162,37 +204,37 @@
             "streams": [
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn.linewgen.xyz/stream/20/chunks.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&verify=1777489200-hofNH143DGO3Vx1%2FIjkWyNZYV31J4kg2dh7H7qbArqo%3D",
+                    "play_url": "https://livecdn.linewgen.xyz/stream/20/chunks.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&verify=1777490100-7ZyUSKx%2Fw8auI6jPSHb9Njwxzxb7T7EBqnClq6Wtkqg%3D",
                     "is_new_format": true,
                     "required_referer": "https://iframe.tnewdesign.site/"
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=fc9ecc02e8fd6b09a8f1f09719c3dcf239ebb0d8&x-sign=54a7e180d7eef08fd773beb992791cb0&x-time=1777489200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=f113430aa0c6d6e687d267416901139dc5eaf28c&x-sign=1605dfbe6ea5744595190997aa3cfa9d&x-time=1777490100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 42,
+    "total_upcoming_matches": 43,
     "upcoming_matches": [
         {
-            "match_id": 1535278,
+            "match_id": 1535178,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Platense vs Santa Fe",
-            "slug": "platense-vs-santa-fe-1535278",
+            "title": "Juventud vs Puerto Cabello",
+            "slug": "juventud-vs-puerto-cabello-1535178",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Libertadores",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Platense",
-                "away_name": "Santa Fe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Platense%20VS%20Santa%20Fe%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Juventud",
+                "away_name": "Puerto Cabello",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Puerto%20Cabello%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777500000,
@@ -224,11 +266,11 @@
             }
         },
         {
-            "match_id": 1535178,
+            "match_id": 1535175,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Juventud vs Puerto Cabello",
-            "slug": "juventud-vs-puerto-cabello-1535178",
+            "title": "Caracas FC vs Racing Club",
+            "slug": "caracas-fc-vs-racing-club-1535175",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -236,9 +278,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Juventud",
-                "away_name": "Puerto Cabello",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Puerto%20Cabello%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Caracas FC",
+                "away_name": "Racing Club",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caracas%20FC%20VS%20Racing%20Club%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777500000,
@@ -270,21 +312,21 @@
             }
         },
         {
-            "match_id": 1535175,
+            "match_id": 1535278,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Caracas FC vs Racing Club",
-            "slug": "caracas-fc-vs-racing-club-1535175",
+            "title": "Platense vs Santa Fe",
+            "slug": "platense-vs-santa-fe-1535278",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Sudamericana",
+                "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Caracas FC",
-                "away_name": "Racing Club",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Caracas%20FC%20VS%20Racing%20Club%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Platense",
+                "away_name": "Santa Fe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Platense%20VS%20Santa%20Fe%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777500000,
@@ -316,29 +358,6 @@
             }
         },
         {
-            "match_id": 1535181,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Palestino vs Gremio",
-            "slug": "palestino-vs-gremio-1535181",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Palestino",
-                "away_name": "Gremio",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palestino%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777509000,
-                "start_time_local": "30 Apr 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535268,
             "sport_name": "Football",
             "sport_id": 1,
@@ -354,6 +373,29 @@
                 "home_name": "Cerro Porteno",
                 "away_name": "Palmeiras",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerro%20Porteno%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777509000,
+                "start_time_local": "30 Apr 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535181,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Palestino vs Gremio",
+            "slug": "palestino-vs-gremio-1535181",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palestino",
+                "away_name": "Gremio",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palestino%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777509000,
@@ -500,29 +542,6 @@
             }
         },
         {
-            "match_id": 1629489937,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Oisix Niigata vs Hanshin Tigers",
-            "slug": "oisix-niigata-vs-hanshin-tigers-1629489937",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777521600,
-                "start_time_local": "30 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489938,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -546,25 +565,25 @@
             }
         },
         {
-            "match_id": 1629489939,
+            "match_id": 1629489937,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
-            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489939",
+            "title": "Oisix Niigata vs Hanshin Tigers",
+            "slug": "oisix-niigata-vs-hanshin-tigers-1629489937",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tokyo Yakult Swallows",
+                "home_name": "Unknown",
                 "away_name": "Hanshin Tigers",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1777539600,
-                "start_time_local": "30 Apr 2026, 03:00 PM",
+                "start_time_timestamp": 1777521600,
+                "start_time_local": "30 Apr 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -583,29 +602,6 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777539600,
-                "start_time_local": "30 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489941,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters",
-            "slug": "saitama-seibu-lions-vs-hokkaido-nippon-ham-fighters-1629489941",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -652,6 +648,52 @@
             "teams": {
                 "home_name": "Yomiuri Giants",
                 "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777539600,
+                "start_time_local": "30 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489941,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters",
+            "slug": "saitama-seibu-lions-vs-hokkaido-nippon-ham-fighters-1629489941",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777539600,
+                "start_time_local": "30 Apr 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489939,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
+            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489939",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Hanshin Tigers",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -799,29 +841,6 @@
             }
         },
         {
-            "match_id": 1540871,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "SC Braga vs SC Freiburg",
-            "slug": "sc-braga-vs-sc-freiburg-1540871",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Europa League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "SC Braga",
-                "away_name": "SC Freiburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Braga%20VS%20SC%20Freiburg%20%20UEFA%20Europa%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777575600,
-                "start_time_local": "01 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540880,
             "sport_name": "Football",
             "sport_id": 1,
@@ -837,6 +856,29 @@
                 "home_name": "Shakhtar Donetsk",
                 "away_name": "Crystal Palace",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shakhtar%20Donetsk%20VS%20Crystal%20Palace%20%20UEFA%20Europa%20Conference%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777575600,
+                "start_time_local": "01 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540879,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Rayo Vallecano vs Strasbourg",
+            "slug": "rayo-vallecano-vs-strasbourg-1540879",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Europa Conference League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Rayo Vallecano",
+                "away_name": "Strasbourg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20VS%20Strasbourg%20%20UEFA%20Europa%20Conference%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777575600,
@@ -868,21 +910,21 @@
             }
         },
         {
-            "match_id": 1540879,
+            "match_id": 1540871,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Rayo Vallecano vs Strasbourg",
-            "slug": "rayo-vallecano-vs-strasbourg-1540879",
+            "title": "SC Braga vs SC Freiburg",
+            "slug": "sc-braga-vs-sc-freiburg-1540871",
             "status": "NS",
             "league": {
-                "league_name": "UEFA Europa Conference League",
+                "league_name": "UEFA Europa League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Rayo Vallecano",
-                "away_name": "Strasbourg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20VS%20Strasbourg%20%20UEFA%20Europa%20Conference%20League.jpg"
+                "home_name": "SC Braga",
+                "away_name": "SC Freiburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Braga%20VS%20SC%20Freiburg%20%20UEFA%20Europa%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777575600,
