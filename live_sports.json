@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:41 PM 29-04-2026"
+        "last_update_time": "04:45:42 PM 29-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=4ec13966825aeca960df53343eb23311d0df618e&x-sign=44266ee8b6d0bbb5995c74e0fbe6eb3c&x-time=1777458600",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=bf0b6a0afd8f6a70b2b92d951cd81ab2b9d897d2&x-sign=b4563258ff544db770a177d170186565&x-time=1777459500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "138851",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/138851_hd/index.m3u8?is_vip=false&token=4ec13966825aeca960df53343eb23311d0df618e&x-sign=b2e8bd21684c79bc79ac1e54e3de6a1e&x-time=1777458600",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/138851_hd/index.m3u8?is_vip=false&token=bf0b6a0afd8f6a70b2b92d951cd81ab2b9d897d2&x-sign=2c2e67f877fa9525d28656d038378595&x-time=1777459500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=4ec13966825aeca960df53343eb23311d0df618e&x-sign=38e264b37dbd96fea411493d8d8f19c4&x-time=1777458600",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=bf0b6a0afd8f6a70b2b92d951cd81ab2b9d897d2&x-sign=5c45f44617ff3aa346b090bf86530297&x-time=1777459500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 33,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489932,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Mutua Madrid Open: Day 9",
             "slug": "mutua-madrid-open-day-9-1629489932",
-            "status": "NS",
+            "title": "Mutua Madrid Open: Day 9",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -118,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777460400,
-                "start_time_local": "29 Apr 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "29 Apr 2026, 05:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=bf0b6a0afd8f6a70b2b92d951cd81ab2b9d897d2&x-sign=3571ff3ba8fb8ca4102a754191f9a7ba&x-time=1777459500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 32,
+    "upcoming_matches": [
         {
             "match_id": 1629489933,
             "sport_name": "Cycling",
