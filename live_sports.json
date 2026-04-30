@@ -3,9 +3,39 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:51 AM 30-04-2026"
+        "last_update_time": "08:45:52 AM 30-04-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1535181,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "palestino-vs-gremio-1535181",
+            "title": "Palestino vs Gremio",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palestino",
+                "away_name": "Gremio",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palestino%20VS%20Gremio%20%20CONMEBOL%20Sudamericana%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777509000,
+                "start_time_local": "30 Apr 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274842",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=28f594bb60d804f4f89d64532b76ad28&x-time=1777517100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1535176,
             "sport_name": "Football",
@@ -30,37 +60,7 @@
             "streams": [
                 {
                     "server_name": "274849",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=ca372d135718db5bac64944530ed13b4&x-time=1777516200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1535268,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "cerro-porteno-vs-palmeiras-1535268",
-            "title": "Cerro Porteno vs Palmeiras",
-            "status": "LIVE",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cerro Porteno",
-                "away_name": "Palmeiras",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerro%20Porteno%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777509000,
-                "start_time_local": "30 Apr 2026, 06:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=2a207406f3c33b9f65e0b6142991b091&x-time=1777516200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=c4b59054a704f60014f82731ef12d4b8&x-time=1777517100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,28 +90,28 @@
             "streams": [
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=75389d670b976ed20fed6ee7c1cd9c5c&x-time=1777516200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=ffd44f9710f4308883a809c294e4384c&x-time=1777517100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1535181,
+            "match_id": 1535268,
             "sport_name": "Football",
             "sport_id": 1,
-            "slug": "palestino-vs-gremio-1535181",
-            "title": "Palestino vs Gremio",
+            "slug": "cerro-porteno-vs-palmeiras-1535268",
+            "title": "Cerro Porteno vs Palmeiras",
             "status": "LIVE",
             "league": {
-                "league_name": "CONMEBOL Sudamericana",
+                "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Palestino",
-                "away_name": "Gremio",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palestino%20VS%20Gremio%20%20CONMEBOL%20Sudamericana%20%5BServer%201%5D.jpg"
+                "home_name": "Cerro Porteno",
+                "away_name": "Palmeiras",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cerro%20Porteno%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores%20%5BServer%201%5D.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777509000,
@@ -119,8 +119,8 @@
             },
             "streams": [
                 {
-                    "server_name": "274842",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274842_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=8f45fed9ec52f2f6cf0ae38aeea8ad83&x-time=1777516200",
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=4c2aa333e79428671d9c1bc326a7f08d&x-time=1777517100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -150,7 +150,7 @@
             "streams": [
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=75389d670b976ed20fed6ee7c1cd9c5c&x-time=1777516200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=ffd44f9710f4308883a809c294e4384c&x-time=1777517100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -180,22 +180,19 @@
             "streams": [
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=c5db34f1a43d1aaf1f0ce260bd534bad6302afcf&x-sign=2a207406f3c33b9f65e0b6142991b091&x-time=1777516200",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=4c2aa333e79428671d9c1bc326a7f08d&x-time=1777517100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 34,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629489935,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "INKA MMA 56",
             "slug": "inka-mma-56-1629489935",
-            "status": "NS",
+            "title": "INKA MMA 56",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -208,10 +205,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777518000,
-                "start_time_local": "30 Apr 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "30 Apr 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=c460549e038519d9a0b0b8545bc8657a74093f5a&x-sign=064dc60ef79a819c83f0b567ad4053d6&x-time=1777517100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 33,
+    "upcoming_matches": [
         {
             "match_id": 1629489936,
             "sport_name": "Baseball",
@@ -627,29 +634,6 @@
             }
         },
         {
-            "match_id": 1535174,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Carabobo FC vs Blooming",
-            "slug": "carabobo-fc-vs-blooming-1535174",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Carabobo FC",
-                "away_name": "Blooming",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777586400,
-                "start_time_local": "01 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535185,
             "sport_name": "Football",
             "sport_id": 1,
@@ -665,6 +649,29 @@
                 "home_name": "Vasco DA Gama",
                 "away_name": "Olimpia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20Olimpia%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777586400,
+                "start_time_local": "01 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535174,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Carabobo FC vs Blooming",
+            "slug": "carabobo-fc-vs-blooming-1535174",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carabobo FC",
+                "away_name": "Blooming",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777586400,
@@ -742,29 +749,6 @@
             }
         },
         {
-            "match_id": 1535273,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independiente Medellin vs Cusco",
-            "slug": "independiente-medellin-vs-cusco-1535273",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independiente Medellin",
-                "away_name": "Cusco",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20Medellin%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777600800,
-                "start_time_local": "01 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535170,
             "sport_name": "Football",
             "sport_id": 1,
@@ -780,6 +764,29 @@
                 "home_name": "Alianza Atletico",
                 "away_name": "Macara",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20Atletico%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777600800,
+                "start_time_local": "01 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535273,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Independiente Medellin vs Cusco",
+            "slug": "independiente-medellin-vs-cusco-1535273",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Independiente Medellin",
+                "away_name": "Cusco",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20Medellin%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777600800,
