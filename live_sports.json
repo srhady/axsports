@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:39 AM 30-04-2026"
+        "last_update_time": "09:45:50 AM 30-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=23de6f62725eb09c351f5af92f3f6e62462f29f2&x-sign=50d183c192a176b1be1fb78d820d2c7e&x-time=1777519800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=0cbfe9e2b868a85f06a78419726d9035&x-time=1777520700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1540845,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "los-angeles-fc-vs-toluca-1540845",
+            "title": "Los Angeles FC vs Toluca",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONCACAF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Los Angeles FC",
+                "away_name": "Toluca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20FC%20VS%20Toluca%20%20CONCACAF%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777516200,
+                "start_time_local": "30 Apr 2026, 08:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=2ef9c53ee2f6956ff2411c4fbe4db082&x-time=1777520700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,13 +90,13 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/498587_hd/index.m3u8?is_vip=false&token=23de6f62725eb09c351f5af92f3f6e62462f29f2&x-sign=1c5021cb62ecf390f11cf422540632ca&x-time=1777519800",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/498587_hd/index.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=0f1e096e4acd471946060aa41f8f98fb&x-time=1777520700",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=23de6f62725eb09c351f5af92f3f6e62462f29f2&x-sign=feba2d4a2b54649b6828191fe19f47fa&x-time=1777519800",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=6d75814b1b693cb0628fb0fe5d1aafb9&x-time=1777520700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,45 +126,19 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=23de6f62725eb09c351f5af92f3f6e62462f29f2&x-sign=c1d96f69c9f6444711680e80d467b7fe&x-time=1777519800",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/1/chunks.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=e37dc594a31406083142e8b7f4fd4b17&x-time=1777520700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 32,
-    "upcoming_matches": [
-        {
-            "match_id": 1629489937,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Oisix Niigata vs Hanshin Tigers",
-            "slug": "oisix-niigata-vs-hanshin-tigers-1629489937",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777521600,
-                "start_time_local": "30 Apr 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
         },
         {
             "match_id": 1629489938,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
             "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629489938",
-            "status": "NS",
+            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -147,7 +151,70 @@
             },
             "timing": {
                 "start_time_timestamp": 1777521600,
-                "start_time_local": "30 Apr 2026, 10:00 AM",
+                "start_time_local": "30 Apr 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/3/chunks.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=e719e02bbc698b751294dd6513ff285c&x-time=1777520700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629489937,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "oisix-niigata-vs-hanshin-tigers-1629489937",
+            "title": "Oisix Niigata vs Hanshin Tigers",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777521600,
+                "start_time_local": "30 Apr 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/7/chunks.m3u8?is_vip=false&token=722391cec33a61be422fbdf8a0df8ad4bf612b40&x-sign=087a9e9d24db0e9bb99d882130987d55&x-time=1777520700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 30,
+    "upcoming_matches": [
+        {
+            "match_id": 1629489942,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Hiroshima Toyo Carp",
+            "slug": "yomiuri-giants-vs-hiroshima-toyo-carp-1629489942",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777539600,
+                "start_time_local": "30 Apr 2026, 03:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -212,29 +279,6 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777539600,
-                "start_time_local": "30 Apr 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489942,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Hiroshima Toyo Carp",
-            "slug": "yomiuri-giants-vs-hiroshima-toyo-carp-1629489942",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -405,29 +449,6 @@
             }
         },
         {
-            "match_id": 1540880,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Shakhtar Donetsk vs Crystal Palace",
-            "slug": "shakhtar-donetsk-vs-crystal-palace-1540880",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Europa Conference League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Shakhtar Donetsk",
-                "away_name": "Crystal Palace",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shakhtar%20Donetsk%20VS%20Crystal%20Palace%20%20UEFA%20Europa%20Conference%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777575600,
-                "start_time_local": "01 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540879,
             "sport_name": "Football",
             "sport_id": 1,
@@ -451,21 +472,21 @@
             }
         },
         {
-            "match_id": 1540872,
+            "match_id": 1540880,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Nottingham Forest vs Aston Villa",
-            "slug": "nottingham-forest-vs-aston-villa-1540872",
+            "title": "Shakhtar Donetsk vs Crystal Palace",
+            "slug": "shakhtar-donetsk-vs-crystal-palace-1540880",
             "status": "NS",
             "league": {
-                "league_name": "UEFA Europa League",
+                "league_name": "UEFA Europa Conference League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Nottingham Forest",
-                "away_name": "Aston Villa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg"
+                "home_name": "Shakhtar Donetsk",
+                "away_name": "Crystal Palace",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shakhtar%20Donetsk%20VS%20Crystal%20Palace%20%20UEFA%20Europa%20Conference%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777575600,
@@ -497,6 +518,29 @@
             }
         },
         {
+            "match_id": 1540872,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Nottingham Forest vs Aston Villa",
+            "slug": "nottingham-forest-vs-aston-villa-1540872",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Europa League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Nottingham Forest",
+                "away_name": "Aston Villa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Aston%20Villa%20%20UEFA%20Europa%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777575600,
+                "start_time_local": "01 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535267,
             "sport_name": "Football",
             "sport_id": 1,
@@ -520,29 +564,6 @@
             }
         },
         {
-            "match_id": 1535185,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Vasco DA Gama vs Olimpia",
-            "slug": "vasco-da-gama-vs-olimpia-1535185",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Vasco DA Gama",
-                "away_name": "Olimpia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20Olimpia%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777586400,
-                "start_time_local": "01 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535174,
             "sport_name": "Football",
             "sport_id": 1,
@@ -558,6 +579,29 @@
                 "home_name": "Carabobo FC",
                 "away_name": "Blooming",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777586400,
+                "start_time_local": "01 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535185,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Vasco DA Gama vs Olimpia",
+            "slug": "vasco-da-gama-vs-olimpia-1535185",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Vasco DA Gama",
+                "away_name": "Olimpia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20Olimpia%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777586400,
@@ -612,29 +656,6 @@
             }
         },
         {
-            "match_id": 1535170,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Alianza Atletico vs Macara",
-            "slug": "alianza-atletico-vs-macara-1535170",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Alianza Atletico",
-                "away_name": "Macara",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20Atletico%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777600800,
-                "start_time_local": "01 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535273,
             "sport_name": "Football",
             "sport_id": 1,
@@ -650,6 +671,29 @@
                 "home_name": "Independiente Medellin",
                 "away_name": "Cusco",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20Medellin%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777600800,
+                "start_time_local": "01 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535170,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Alianza Atletico vs Macara",
+            "slug": "alianza-atletico-vs-macara-1535170",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Alianza Atletico",
+                "away_name": "Macara",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20Atletico%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777600800,
