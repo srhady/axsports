@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:38 PM 30-04-2026"
+        "last_update_time": "10:00:43 PM 30-04-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=d3261bef7f9ed67a5fa8321ba86902d789c3dc61&x-sign=811d9c6061872ee7e2e7a87c17c674f0&x-time=1777563900",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/8/chunks.m3u8?is_vip=false&token=07ea37314440268d0ec3902c23313e8a9d16ec07&x-sign=8715e9f4163abd2fd2bdc06aa493d583&x-time=1777564800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=d3261bef7f9ed67a5fa8321ba86902d789c3dc61&x-sign=9f63d4dc314e497cdaf8eea4284c438d&x-time=1777563900",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/23/chunks.m3u8?is_vip=false&token=07ea37314440268d0ec3902c23313e8a9d16ec07&x-sign=b97a5157118a253db8386edf8fe29344&x-time=1777564800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,45 +90,84 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=d3261bef7f9ed67a5fa8321ba86902d789c3dc61&x-sign=798ea8dcceac814d37a0edcad6a3bc01&x-time=1777563900",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629489947,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "slug": "tour-of-romandie-stage-2-1629489947",
-            "title": "Tour of Romandie, Stage 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UCI World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777555800,
-                "start_time_local": "30 Apr 2026, 07:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "33006",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/33006_hd/index.m3u8?is_vip=false&token=d3261bef7f9ed67a5fa8321ba86902d789c3dc61&x-sign=f874025fbd37ee9cd80577e9b624d025&x-time=1777563900",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/147445_hd/index.m3u8?is_vip=false&token=07ea37314440268d0ec3902c23313e8a9d16ec07&x-sign=b23c2e71b11436b6a66a5275a33aca3a&x-time=1777564800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
+        {
+            "match_id": 1629490462,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Cosea JL Bourg-en-Bresse vs Besiktas GAIN Istanbul",
+            "slug": "cosea-jl-bourg-en-bresse-vs-besiktas-gain-istanbul-1629490462",
+            "status": "NS",
+            "league": {
+                "league_name": "EuroCup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cosea JL Bourg-en-Bresse",
+                "away_name": "Besiktas GAIN Istanbul",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777570200,
+                "start_time_local": "30 Apr 2026, 11:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490463,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Fenerbahce Beko Istanbul vs Zalgiris Kaunas",
+            "slug": "fenerbahce-beko-istanbul-vs-zalgiris-kaunas-1629490463",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fenerbahce Beko Istanbul",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777571100,
+                "start_time_local": "30 Apr 2026, 11:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490464,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Olympiacos Piraeus vs AS Monaco Basketball",
+            "slug": "olympiacos-piraeus-basketball-vs-as-monaco-basketball-1629490464",
+            "status": "NS",
+            "league": {
+                "league_name": "Euroleague",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Olympiacos Piraeus Basketball",
+                "away_name": "AS Monaco Basketball",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777572000,
+                "start_time_local": "01 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1629489986,
             "sport_name": "Darts",
@@ -153,21 +192,44 @@
             }
         },
         {
-            "match_id": 1540871,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "SC Braga vs SC Freiburg",
-            "slug": "sc-braga-vs-sc-freiburg-1540871",
+            "match_id": 1629490465,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Valencia Basketball vs Panathinaikos Athens Basketball",
+            "slug": "valencia-basketball-vs-panathinaikos-athens-basketball-1629490465",
             "status": "NS",
             "league": {
-                "league_name": "UEFA Europa League",
+                "league_name": "Euroleague",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "SC Braga",
-                "away_name": "SC Freiburg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Braga%20VS%20SC%20Freiburg%20%20UEFA%20Europa%20League.jpg"
+                "home_name": "Valencia Basketball",
+                "away_name": "Panathinaikos Athens Basketball",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777574700,
+                "start_time_local": "01 May 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540880,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Shakhtar Donetsk vs Crystal Palace",
+            "slug": "shakhtar-donetsk-vs-crystal-palace-1540880",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Europa Conference League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Shakhtar Donetsk",
+                "away_name": "Crystal Palace",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shakhtar%20Donetsk%20VS%20Crystal%20Palace%20%20UEFA%20Europa%20Conference%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777575600,
@@ -222,48 +284,25 @@
             }
         },
         {
-            "match_id": 1540880,
+            "match_id": 1540871,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Shakhtar Donetsk vs Crystal Palace",
-            "slug": "shakhtar-donetsk-vs-crystal-palace-1540880",
+            "title": "SC Braga vs SC Freiburg",
+            "slug": "sc-braga-vs-sc-freiburg-1540871",
             "status": "NS",
             "league": {
-                "league_name": "UEFA Europa Conference League",
+                "league_name": "UEFA Europa League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Shakhtar Donetsk",
-                "away_name": "Crystal Palace",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shakhtar%20Donetsk%20VS%20Crystal%20Palace%20%20UEFA%20Europa%20Conference%20League.jpg"
+                "home_name": "SC Braga",
+                "away_name": "SC Freiburg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Braga%20VS%20SC%20Freiburg%20%20UEFA%20Europa%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777575600,
                 "start_time_local": "01 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535174,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Carabobo FC vs Blooming",
-            "slug": "carabobo-fc-vs-blooming-1535174",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Carabobo FC",
-                "away_name": "Blooming",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777586400,
-                "start_time_local": "01 May 2026, 04:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -283,6 +322,29 @@
                 "home_name": "Vasco DA Gama",
                 "away_name": "Olimpia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vasco%20DA%20Gama%20VS%20Olimpia%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777586400,
+                "start_time_local": "01 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535174,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Carabobo FC vs Blooming",
+            "slug": "carabobo-fc-vs-blooming-1535174",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carabobo FC",
+                "away_name": "Blooming",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777586400,
@@ -406,29 +468,6 @@
             }
         },
         {
-            "match_id": 1629489987,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
-            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489987",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777606200,
-                "start_time_local": "01 May 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629489988,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -444,6 +483,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777606200,
+                "start_time_local": "01 May 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489987,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Hanshin Tigers",
+            "slug": "tokyo-yakult-swallows-vs-hanshin-tigers-1629489987",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777606200,
@@ -567,52 +629,6 @@
             }
         },
         {
-            "match_id": 1629490000,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 5",
-            "slug": "day-5-1629490000",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777626000,
-                "start_time_local": "01 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629489996,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles",
-            "slug": "fukuoka-softbank-hawks-vs-tohoku-rakuten-golden-eagles-1629489996",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777626000,
-                "start_time_local": "01 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490001,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -650,6 +666,52 @@
             "teams": {
                 "home_name": "Hanshin Tigers",
                 "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777626000,
+                "start_time_local": "01 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490000,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 5",
+            "slug": "day-5-1629490000",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777626000,
+                "start_time_local": "01 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629489996,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles",
+            "slug": "fukuoka-softbank-hawks-vs-tohoku-rakuten-golden-eagles-1629489996",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -820,29 +882,6 @@
             }
         },
         {
-            "match_id": 1419951,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Palermo vs Catanzaro",
-            "slug": "palermo-vs-catanzaro-1419951",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Palermo",
-                "away_name": "Catanzaro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777640400,
-                "start_time_local": "01 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1419954,
             "sport_name": "Football",
             "sport_id": 1,
@@ -858,29 +897,6 @@
                 "home_name": "Carrarese",
                 "away_name": "Cesena",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carrarese%20VS%20Cesena%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777640400,
-                "start_time_local": "01 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419958,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bari vs Virtus Entella",
-            "slug": "bari-vs-virtus-entella-1419958",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bari",
-                "away_name": "Virtus Entella",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bari%20VS%20Virtus%20Entella%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777640400,
@@ -912,6 +928,29 @@
             }
         },
         {
+            "match_id": 1401372,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hamburger SV W vs Union Berlin W",
+            "slug": "hamburger-sv-w-vs-union-berlin-w-1401372",
+            "status": "NS",
+            "league": {
+                "league_name": "Frauen Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hamburger SV W",
+                "away_name": "Union Berlin W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hamburger%20SV%20W%20VS%20Union%20Berlin%20W%20%20Frauen%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777640400,
+                "start_time_local": "01 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1419953,
             "sport_name": "Football",
             "sport_id": 1,
@@ -935,21 +974,44 @@
             }
         },
         {
-            "match_id": 1401372,
+            "match_id": 1419958,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Hamburger SV W vs Union Berlin W",
-            "slug": "hamburger-sv-w-vs-union-berlin-w-1401372",
+            "title": "Bari vs Virtus Entella",
+            "slug": "bari-vs-virtus-entella-1419958",
             "status": "NS",
             "league": {
-                "league_name": "Frauen Bundesliga",
+                "league_name": "Serie B",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hamburger SV W",
-                "away_name": "Union Berlin W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hamburger%20SV%20W%20VS%20Union%20Berlin%20W%20%20Frauen%20Bundesliga.jpg"
+                "home_name": "Bari",
+                "away_name": "Virtus Entella",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bari%20VS%20Virtus%20Entella%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777640400,
+                "start_time_local": "01 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419951,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Palermo vs Catanzaro",
+            "slug": "palermo-vs-catanzaro-1419951",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palermo",
+                "away_name": "Catanzaro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777640400,
