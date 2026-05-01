@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:24 AM 01-05-2026"
+        "last_update_time": "07:45:36 AM 01-05-2026"
     },
     "live_matches": [
         {
@@ -30,51 +30,55 @@
             "streams": [
                 {
                     "server_name": "274849",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=a9b00a413cdf07eb5cbb365db0d5526615501d53&x-sign=2c49df6d5f48884dda358a5a9893ad09&x-time=1777599000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=a2a1d3e9897d535cd298e1b5b457b56e&x-time=1777599900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=a9b00a413cdf07eb5cbb365db0d5526615501d53&x-sign=88f8faba74990fdd6f1fe71b8d8c4a69&x-time=1777599000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/161357_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=530fc30c309e6a1d14a58f63b350fc84&x-time=1777599900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1535170,
+            "match_id": 1535173,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Alianza Atletico vs Macara",
-            "slug": "alianza-atletico-vs-macara-1535170",
-            "status": "NS",
+            "slug": "rb-bragantino-vs-river-plate-1535173",
+            "title": "RB Bragantino vs River Plate",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Alianza Atletico",
-                "away_name": "Macara",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20Atletico%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "RB Bragantino",
+                "away_name": "River Plate",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Bragantino%20VS%20River%20Plate%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777600800,
-                "start_time_local": "01 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_timestamp": 1777595400,
+                "start_time_local": "01 May 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=69c23fb676c7572af5c6b7d33abca286&x-time=1777599900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1535273,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Independiente Medellin vs Cusco",
             "slug": "independiente-medellin-vs-cusco-1535273",
-            "status": "NS",
+            "title": "Independiente Medellin vs Cusco",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
@@ -87,10 +91,56 @@
             },
             "timing": {
                 "start_time_timestamp": 1777600800,
-                "start_time_local": "01 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "01 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274843",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=84e9cf9a243c3fc0024a3a16117b0ca0&x-time=1777599900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=69c23fb676c7572af5c6b7d33abca286&x-time=1777599900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
+        {
+            "match_id": 1535170,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "alianza-atletico-vs-macara-1535170",
+            "title": "Alianza Atletico vs Macara",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Alianza Atletico",
+                "away_name": "Macara",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20Atletico%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777600800,
+                "start_time_local": "01 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=74c4c6db50b7e16046056ef090e8c72a0e979d00&x-sign=a2a1d3e9897d535cd298e1b5b457b56e&x-time=1777599900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 39,
+    "upcoming_matches": [
         {
             "match_id": 1629489988,
             "sport_name": "Baseball",
