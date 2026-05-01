@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:37 PM 01-05-2026"
+        "last_update_time": "12:45:30 PM 01-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=d6009c7ca0232310529959705d481f6455f09587&x-sign=33bc0d6bd3fef8637e0accc2d5906d6e&x-time=1777617000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=56934a515660a451901f8b0e6797c430b698456c&x-sign=601db00ab80c11941a0d59e3e591fdab&x-time=1777617900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143070_hd/index.m3u8?is_vip=false&token=d6009c7ca0232310529959705d481f6455f09587&x-sign=d9285637ee881724dfeb19f2e958ed08&x-time=1777617000",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/143070_hd/index.m3u8?is_vip=false&token=56934a515660a451901f8b0e6797c430b698456c&x-sign=86928c801481913ee08d09882753c7ed&x-time=1777617900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -300,14 +300,14 @@
             }
         },
         {
-            "match_id": 1629490004,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "Tour of Turkey | Stage 6",
-            "slug": "tour-of-turkey-or-stage-6-1629490004",
+            "match_id": 1629490003,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Mutua Madrid Open: Day 11",
+            "slug": "mutua-madrid-open-day-11-1629490003",
             "status": "NS",
             "league": {
-                "league_name": "UCI Pro Series",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -323,14 +323,14 @@
             }
         },
         {
-            "match_id": 1629490003,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Mutua Madrid Open: Day 11",
-            "slug": "mutua-madrid-open-day-11-1629490003",
+            "match_id": 1629490004,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "Tour of Turkey | Stage 6",
+            "slug": "tour-of-turkey-or-stage-6-1629490004",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "UCI Pro Series",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -369,29 +369,6 @@
             }
         },
         {
-            "match_id": 1419951,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Palermo vs Catanzaro",
-            "slug": "palermo-vs-catanzaro-1419951",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Palermo",
-                "away_name": "Catanzaro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777640400,
-                "start_time_local": "01 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1419957,
             "sport_name": "Football",
             "sport_id": 1,
@@ -407,6 +384,29 @@
                 "home_name": "Modena",
                 "away_name": "Reggiana",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Modena%20VS%20Reggiana%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777640400,
+                "start_time_local": "01 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419951,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Palermo vs Catanzaro",
+            "slug": "palermo-vs-catanzaro-1419951",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palermo",
+                "away_name": "Catanzaro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777640400,
@@ -461,29 +461,6 @@
             }
         },
         {
-            "match_id": 1419954,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Carrarese vs Cesena",
-            "slug": "carrarese-vs-cesena-1419954",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Carrarese",
-                "away_name": "Cesena",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carrarese%20VS%20Cesena%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777640400,
-                "start_time_local": "01 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1419958,
             "sport_name": "Football",
             "sport_id": 1,
@@ -499,6 +476,29 @@
                 "home_name": "Bari",
                 "away_name": "Virtus Entella",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bari%20VS%20Virtus%20Entella%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777640400,
+                "start_time_local": "01 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419954,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Carrarese vs Cesena",
+            "slug": "carrarese-vs-cesena-1419954",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carrarese",
+                "away_name": "Cesena",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carrarese%20VS%20Cesena%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777640400,
@@ -645,29 +645,6 @@
             }
         },
         {
-            "match_id": 1378210,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Pisa vs Lecce",
-            "slug": "pisa-vs-lecce-1378210",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Pisa",
-                "away_name": "Lecce",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pisa%20VS%20Lecce%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777661100,
-                "start_time_local": "02 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540008,
             "sport_name": "Football",
             "sport_id": 1,
@@ -683,6 +660,29 @@
                 "home_name": "Livingston",
                 "away_name": "Aberdeen",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Livingston%20VS%20Aberdeen%20%20Premiership.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777661100,
+                "start_time_local": "02 May 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378210,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Pisa vs Lecce",
+            "slug": "pisa-vs-lecce-1378210",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Pisa",
+                "away_name": "Lecce",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pisa%20VS%20Lecce%20%20Serie%20A.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777661100,
