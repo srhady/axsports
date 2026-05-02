@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:30 AM 02-05-2026"
+        "last_update_time": "09:30:42 AM 02-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=a9a8f137adfcb2051ffae5609389de2d&x-time=1777691700",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=ccb6087035dc9c430ab82128a803a64d&x-time=1777692600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -59,35 +59,20 @@
             },
             "streams": [
                 {
-                    "server_name": "2",
-                    "play_url": "https://livecdn.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&verify=1777691700-LmbenYKZKWyCera0nQrZMD1qLyvp2hC7H9PLB1djAkg%3D",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.tnewdesign.site/"
-                },
-                {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=b734d6a628798d8a0d1a3a403a2972d2&x-time=1777691700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "114415",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114415_hd/index.m3u8?is_vip=false&token=3ed603621aa90dc4b00ad848f03f04bc1801c948&x-sign=c37bec5500681835cce0d540d038d674&x-time=1777691700",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=dd9e66f4cc10882c398fc8bfa9ac3030&x-time=1777692600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490013,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "Downhill: Seoul",
             "slug": "downhill-seoul-1629490013",
-            "status": "NS",
+            "title": "Downhill: Seoul",
+            "status": "LIVE",
             "league": {
                 "league_name": "UCI Mountain Bike World Series",
                 "league_logo": ""
@@ -100,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777693500,
-                "start_time_local": "02 May 2026, 09:45 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "02 May 2026, 09:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=8983d9bf941d53b2a41c3b5f9ef6aef4b8bbbcff&x-sign=905a6e702073bbf382f817a4a981a234&x-time=1777692600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1504779,
             "sport_name": "Football",
