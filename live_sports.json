@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:01:03 AM 03-05-2026"
+        "last_update_time": "12:16:11 AM 03-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1378206,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "como-vs-napoli-1378206",
-            "title": "Como vs Napoli",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Como",
-                "away_name": "Napoli",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Como%20VS%20Napoli%20%20Serie%20A%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777737600,
-                "start_time_local": "02 May 2026, 10:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=6edd8754b2f9a97c3f5fe0c88b584672d3c5177e&x-sign=9304b55d9f50e71cbcab4b673ad55862&x-time=1777742100",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "54041",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/54041/abr.m3u8",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.tnewdesign.site/"
-                }
-            ]
-        },
         {
             "match_id": 1629490037,
             "sport_name": "MMA",
@@ -76,25 +40,25 @@
     "total_upcoming_matches": 11,
     "upcoming_matches": [
         {
-            "match_id": 1388900,
+            "match_id": 1536994,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC Schalke 04 vs Fortuna Düsseldorf",
-            "slug": "fc-schalke-04-vs-fortuna-dusseldorf-1388900",
+            "title": "St. Truiden vs Union St. Gilloise",
+            "slug": "st-truiden-vs-union-st-gilloise-1536994",
             "status": "NS",
             "league": {
-                "league_name": "2. Bundesliga",
+                "league_name": "Jupiler Pro League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "FC Schalke 04",
-                "away_name": "Fortuna Düsseldorf",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20VS%20Fortuna%20D%C3%BCsseldorf%20%202.%20Bundesliga.jpg"
+                "home_name": "St. Truiden",
+                "away_name": "Union St. Gilloise",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Truiden%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777746600,
-                "start_time_local": "03 May 2026, 12:30 AM",
+                "start_time_timestamp": 1777747500,
+                "start_time_local": "03 May 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         },
@@ -122,25 +86,25 @@
             }
         },
         {
-            "match_id": 1536994,
+            "match_id": 1391155,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "St. Truiden vs Union St. Gilloise",
-            "slug": "st-truiden-vs-union-st-gilloise-1536994",
+            "title": "Osasuna vs Barcelona",
+            "slug": "osasuna-vs-barcelona-1391155",
             "status": "NS",
             "league": {
-                "league_name": "Jupiler Pro League",
+                "league_name": "La Liga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "St. Truiden",
-                "away_name": "Union St. Gilloise",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St.%20Truiden%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
+                "home_name": "Osasuna",
+                "away_name": "Barcelona",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Osasuna%20VS%20Barcelona%20%20La%20Liga.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777747500,
-                "start_time_local": "03 May 2026, 12:45 AM",
+                "start_time_timestamp": 1777748400,
+                "start_time_local": "03 May 2026, 01:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -160,29 +124,6 @@
                 "home_name": "NEC Nijmegen",
                 "away_name": "Telstar",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEC%20Nijmegen%20VS%20Telstar%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777748400,
-                "start_time_local": "03 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391155,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Osasuna vs Barcelona",
-            "slug": "osasuna-vs-barcelona-1391155",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Osasuna",
-                "away_name": "Barcelona",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Osasuna%20VS%20Barcelona%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777748400,
@@ -325,6 +266,29 @@
             "timing": {
                 "start_time_timestamp": 1777777200,
                 "start_time_local": "03 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490045,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
+            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629490045",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777780800,
+                "start_time_local": "03 May 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         }
