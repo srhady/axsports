@@ -3,9 +3,39 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:25 AM 02-05-2026"
+        "last_update_time": "07:00:36 AM 02-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1517277,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "york-united-vs-atletico-ottawa-1517277",
+            "title": "York United vs Atlético Ottawa",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Canadian Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "York United",
+                "away_name": "Atlético Ottawa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/York%20United%20VS%20Atl%C3%A9tico%20Ottawa%20%20Canadian%20Premier%20League%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777678200,
+                "start_time_local": "02 May 2026, 05:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=df5cfec85f110b39f9ded2b8dbfb10f50dc4d66b&x-sign=27879dc006d697df2a3a2bd2cd058d7a&x-time=1777683600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629490470,
             "sport_name": "Football",
@@ -30,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=f22c0c272e8a94d4cad231293f70be899284b4f8&x-sign=3a3951e75d3ac61c47fb42d76c102337&x-time=1777682700",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=df5cfec85f110b39f9ded2b8dbfb10f50dc4d66b&x-sign=f9c60340972885bf454cd5811c28777e&x-time=1777683600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
