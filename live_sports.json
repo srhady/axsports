@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:47 PM 02-05-2026"
+        "last_update_time": "11:46:08 PM 02-05-2026"
     },
     "live_matches": [
         {
@@ -73,36 +73,6 @@
             ]
         },
         {
-            "match_id": 1396519,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "famalicao-vs-benfica-1396519",
-            "title": "Famalicao vs Benfica",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Primeira Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Famalicao",
-                "away_name": "Benfica",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Famalicao%20VS%20Benfica%20%20Primeira%20Liga%20%5BServer%201%5D.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777741200,
-                "start_time_local": "02 May 2026, 11:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=6edd8754b2f9a97c3f5fe0c88b584672d3c5177e&x-sign=5d544959d2c29f66b12b2bfc8e16b463&x-time=1777742100",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
             "match_id": 1387980,
             "sport_name": "Football",
             "sport_id": 1,
@@ -131,79 +101,40 @@
                     "required_referer": ""
                 }
             ]
+        },
+        {
+            "match_id": 1396519,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "famalicao-vs-benfica-1396519",
+            "title": "Famalicao vs Benfica",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Famalicao",
+                "away_name": "Benfica",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Famalicao%20VS%20Benfica%20%20Primeira%20Liga%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777741200,
+                "start_time_local": "02 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/24/chunks.m3u8?is_vip=false&token=6edd8754b2f9a97c3f5fe0c88b584672d3c5177e&x-sign=5d544959d2c29f66b12b2bfc8e16b463&x-time=1777742100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         }
     ],
-    "total_upcoming_matches": 15,
+    "total_upcoming_matches": 12,
     "upcoming_matches": [
-        {
-            "match_id": 1389402,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Rodez vs Saint Etienne",
-            "slug": "rodez-vs-saint-etienne-1389402",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 2",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Rodez",
-                "away_name": "Saint Etienne",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rodez%20VS%20Saint%20Etienne%20%20Ligue%202.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777744800,
-                "start_time_local": "03 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1389398,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Le Mans vs Reims",
-            "slug": "le-mans-vs-reims-1389398",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 2",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Le Mans",
-                "away_name": "Reims",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Le%20Mans%20VS%20Reims%20%20Ligue%202.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777744800,
-                "start_time_local": "03 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1381146,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Ajax vs PSV Eindhoven",
-            "slug": "ajax-vs-psv-eindhoven-1381146",
-            "status": "NS",
-            "league": {
-                "league_name": "Eredivisie",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ajax",
-                "away_name": "PSV Eindhoven",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ajax%20VS%20PSV%20Eindhoven%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777744800,
-                "start_time_local": "03 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1380658,
             "sport_name": "Football",
