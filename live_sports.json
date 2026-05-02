@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:36 AM 02-05-2026"
+        "last_update_time": "07:45:26 AM 02-05-2026"
     },
     "live_matches": [
         {
@@ -30,52 +30,19 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=e619da0c895fdf14a092cd348c258e2a294dc3f9&x-sign=bb0f4ca4cc3e47ed80fd5486dda2404f&x-time=1777685400",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/450_hd/index.m3u8?is_vip=false&token=40c3b734e04176298e4b6f6bc52869540d808a12&x-sign=cfce48fcf3a8e4f2175193d47191c9f1&x-time=1777686300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1629490470,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "ufc-130-rampage-vs-hamill-1629490470",
-            "title": "UFC 130: Rampage vs Hamill",
-            "status": "LIVE",
-            "league": {
-                "league_name": "One Championship",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777679405,
-                "start_time_local": "02 May 2026, 05:50 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/27/chunks.m3u8?is_vip=false&token=e619da0c895fdf14a092cd348c258e2a294dc3f9&x-sign=6677676b625c9983d283acf17b19f48a&x-time=1777685400",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
-        {
             "match_id": 1629490010,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "Asian Tour 9-10 Kuala Lumpur",
             "slug": "asian-tour-9-10-kuala-lumpur-1629490010",
-            "status": "NS",
+            "title": "Asian Tour 9-10 Kuala Lumpur",
+            "status": "LIVE",
             "league": {
                 "league_name": "Asian Tour",
                 "league_logo": ""
@@ -88,10 +55,32 @@
             },
             "timing": {
                 "start_time_timestamp": 1777687200,
-                "start_time_local": "02 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "02 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=40c3b734e04176298e4b6f6bc52869540d808a12&verify=1777686300-fMPXxE0wkQofekcYWpdMPwNotSSLNJZfT10Eao3qLn4%3D",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.tnewdesign.site/"
+                },
+                {
+                    "server_name": "114414",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114414_hd/index.m3u8?is_vip=false&token=40c3b734e04176298e4b6f6bc52869540d808a12&x-sign=3b9f169ca8218dca8b4ca0c604fd5113&x-time=1777686300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "114415",
+                    "play_url": "https://livecdn-bp-iptv.linewgen.xyz/live_abr/114415_hd/index.m3u8?is_vip=false&token=40c3b734e04176298e4b6f6bc52869540d808a12&x-sign=ff06500a2b1ba6f1a4b27b17a70fed79&x-time=1777686300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629490013,
             "sport_name": "Cycling",
@@ -162,52 +151,6 @@
             }
         },
         {
-            "match_id": 1504782,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Yokohama F. Marinos vs Mito Hollyhock",
-            "slug": "yokohama-f-marinos-vs-mito-hollyhock-1504782",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yokohama F. Marinos",
-                "away_name": "Mito Hollyhock",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Mito%20Hollyhock%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777698000,
-                "start_time_local": "02 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504780,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "FC Tokyo vs Kawasaki Frontale",
-            "slug": "fc-tokyo-vs-kawasaki-frontale-1504780",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "FC Tokyo",
-                "away_name": "Kawasaki Frontale",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Kawasaki%20Frontale%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777698000,
-                "start_time_local": "02 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504781,
             "sport_name": "Football",
             "sport_id": 1,
@@ -254,6 +197,29 @@
             }
         },
         {
+            "match_id": 1504780,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Tokyo vs Kawasaki Frontale",
+            "slug": "fc-tokyo-vs-kawasaki-frontale-1504780",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Tokyo",
+                "away_name": "Kawasaki Frontale",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Kawasaki%20Frontale%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777698000,
+                "start_time_local": "02 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1506957,
             "sport_name": "Football",
             "sport_id": 1,
@@ -269,6 +235,29 @@
                 "home_name": "Ulsan Hyundai FC",
                 "away_name": "Pohang Steelers",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ulsan%20Hyundai%20FC%20VS%20Pohang%20Steelers%20%20K%20League%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777698000,
+                "start_time_local": "02 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504782,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Yokohama F. Marinos vs Mito Hollyhock",
+            "slug": "yokohama-f-marinos-vs-mito-hollyhock-1504782",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yokohama F. Marinos",
+                "away_name": "Mito Hollyhock",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Mito%20Hollyhock%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777698000,
@@ -461,29 +450,6 @@
             }
         },
         {
-            "match_id": 1629490031,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "St. Kilda Saints vs Carlton",
-            "slug": "st-kilda-saints-vs-carlton-1629490031",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "St. Kilda Saints",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777714200,
-                "start_time_local": "02 May 2026, 03:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490030,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -497,6 +463,29 @@
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777714200,
+                "start_time_local": "02 May 2026, 03:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490031,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "St. Kilda Saints vs Carlton",
+            "slug": "st-kilda-saints-vs-carlton-1629490031",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "St. Kilda Saints",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
@@ -530,29 +519,6 @@
             }
         },
         {
-            "match_id": 1629490032,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 6",
-            "slug": "day-6-1629490032",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777716000,
-                "start_time_local": "02 May 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398252,
             "sport_name": "Football",
             "sport_id": 1,
@@ -576,25 +542,25 @@
             }
         },
         {
-            "match_id": 1417317,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Manchester United W vs Brighton W",
-            "slug": "manchester-united-w-vs-brighton-w-1417317",
+            "match_id": 1629490032,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 6",
+            "slug": "day-6-1629490032",
             "status": "NS",
             "league": {
-                "league_name": "FA WSL",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Manchester United W",
-                "away_name": "Brighton W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20W%20VS%20Brighton%20W%20%20FA%20WSL.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1777719600,
-                "start_time_local": "02 May 2026, 05:00 PM",
+                "start_time_timestamp": 1777716000,
+                "start_time_local": "02 May 2026, 04:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -614,6 +580,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777719600,
+                "start_time_local": "02 May 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417317,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Manchester United W vs Brighton W",
+            "slug": "manchester-united-w-vs-brighton-w-1417317",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Manchester United W",
+                "away_name": "Brighton W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20W%20VS%20Brighton%20W%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777719600,
@@ -783,6 +772,29 @@
             }
         },
         {
+            "match_id": 1629490036,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Race 1: Berlin",
+            "slug": "race-1-berlin-1629490036",
+            "status": "NS",
+            "league": {
+                "league_name": "Formula E",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777726800,
+                "start_time_local": "02 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1387981,
             "sport_name": "Football",
             "sport_id": 1,
@@ -821,29 +833,6 @@
                 "home_name": "Udinese",
                 "away_name": "Torino",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Udinese%20VS%20Torino%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777726800,
-                "start_time_local": "02 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490036,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Race 1: Berlin",
-            "slug": "race-1-berlin-1629490036",
-            "status": "NS",
-            "league": {
-                "league_name": "Formula E",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1777726800,
@@ -1009,6 +998,29 @@
             "timing": {
                 "start_time_timestamp": 1777728600,
                 "start_time_local": "02 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379312,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Brentford vs West Ham",
+            "slug": "brentford-vs-west-ham-1379312",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brentford",
+                "away_name": "West Ham",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brentford%20VS%20West%20Ham%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777730400,
+                "start_time_local": "02 May 2026, 08:00 PM",
                 "countdown_seconds": null
             }
         }
