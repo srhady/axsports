@@ -3,10 +3,10 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:29 AM 04-05-2026"
+        "last_update_time": "05:15:22 AM 04-05-2026"
     },
     "live_matches": [],
-    "total_upcoming_matches": 14,
+    "total_upcoming_matches": 17,
     "upcoming_matches": [
         {
             "match_id": 1629490077,
@@ -78,6 +78,29 @@
             }
         },
         {
+            "match_id": 1629490081,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
+            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629490081",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777885200,
+                "start_time_local": "04 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629490082,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -115,29 +138,6 @@
             "teams": {
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777885200,
-                "start_time_local": "04 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490081,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
-            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629490081",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -327,6 +327,75 @@
             "timing": {
                 "start_time_timestamp": 1777914000,
                 "start_time_local": "04 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398256,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Torreense vs Penafiel",
+            "slug": "torreense-vs-penafiel-1398256",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Torreense",
+                "away_name": "Penafiel",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torreense%20VS%20Penafiel%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777914000,
+                "start_time_local": "04 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398249,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Porto B vs Felgueiras 1932",
+            "slug": "fc-porto-b-vs-felgueiras-1932-1398249",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Porto B",
+                "away_name": "Felgueiras 1932",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20B%20VS%20Felgueiras%201932%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777914000,
+                "start_time_local": "04 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378211,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "AS Roma vs Fiorentina",
+            "slug": "as-roma-vs-fiorentina-1378211",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "AS Roma",
+                "away_name": "Fiorentina",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AS%20Roma%20VS%20Fiorentina%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777920300,
+                "start_time_local": "05 May 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         }
