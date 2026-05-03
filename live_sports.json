@@ -3,39 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:48 AM 03-05-2026"
+        "last_update_time": "10:15:40 AM 03-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629490039,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "urijah-fabers-a-1-combat-35-1629490039",
-            "title": "URIJAH FABER'S A-1 COMBAT 35",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1777773600,
-                "start_time_local": "03 May 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.linewgen.xyz/stream/5/chunks.m3u8?is_vip=false&token=c72bb457653df287d460a6e3673c94dcbbef8239&x-sign=2ccffc5622eb3e33ca3f8e28efea4169&x-time=1777774500",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629490040,
             "sport_name": "Darts",
@@ -67,7 +37,7 @@
             ]
         }
     ],
-    "total_upcoming_matches": 26,
+    "total_upcoming_matches": 28,
     "upcoming_matches": [
         {
             "match_id": 1629490053,
@@ -110,8 +80,8 @@
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20VS%20Kashiwa%20Reysol%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777784400,
-                "start_time_local": "03 May 2026, 11:00 AM",
+                "start_time_timestamp": 1777784580,
+                "start_time_local": "03 May 2026, 11:03 AM",
                 "countdown_seconds": null
             }
         },
@@ -392,6 +362,29 @@
             }
         },
         {
+            "match_id": 1417321,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Tottenham Hotspur W vs London City Lionesses",
+            "slug": "tottenham-hotspur-w-vs-london-city-lionesses-1417321",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tottenham Hotspur W",
+                "away_name": "London City Lionesses",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1777806000,
+                "start_time_local": "03 May 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1417316,
             "sport_name": "Football",
             "sport_id": 1,
@@ -438,25 +431,71 @@
             }
         },
         {
-            "match_id": 1417321,
+            "match_id": 1388895,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Tottenham Hotspur W vs London City Lionesses",
-            "slug": "tottenham-hotspur-w-vs-london-city-lionesses-1417321",
+            "title": "SpVgg Greuther Fürth vs 1. FC Nürnberg",
+            "slug": "spvgg-greuther-furth-vs-1-fc-nurnberg-1388895",
             "status": "NS",
             "league": {
-                "league_name": "FA WSL",
+                "league_name": "2. Bundesliga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tottenham Hotspur W",
-                "away_name": "London City Lionesses",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "SpVgg Greuther Fürth",
+                "away_name": "1. FC Nürnberg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1777806000,
-                "start_time_local": "03 May 2026, 05:00 PM",
+                "start_time_timestamp": 1777807800,
+                "start_time_local": "03 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388899,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "1. FC Magdeburg vs Hertha BSC",
+            "slug": "1-fc-magdeburg-vs-hertha-bsc-1388899",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "1. FC Magdeburg",
+                "away_name": "Hertha BSC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Hertha%20BSC%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777807800,
+                "start_time_local": "03 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388896,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hannover 96 vs Preußen Münster",
+            "slug": "hannover-96-vs-preussen-munster-1388896",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hannover 96",
+                "away_name": "Preußen Münster",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hannover%2096%20VS%20Preu%C3%9Fen%20M%C3%BCnster%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777807800,
+                "start_time_local": "03 May 2026, 05:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -499,75 +538,6 @@
                 "home_name": "SV Elversberg",
                 "away_name": "SC Paderborn 07",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SV%20Elversberg%20VS%20SC%20Paderborn%2007%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777807800,
-                "start_time_local": "03 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388899,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "1. FC Magdeburg vs Hertha BSC",
-            "slug": "1-fc-magdeburg-vs-hertha-bsc-1388899",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "1. FC Magdeburg",
-                "away_name": "Hertha BSC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%20Hertha%20BSC%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777807800,
-                "start_time_local": "03 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388895,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "SpVgg Greuther Fürth vs 1. FC Nürnberg",
-            "slug": "spvgg-greuther-furth-vs-1-fc-nurnberg-1388895",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "SpVgg Greuther Fürth",
-                "away_name": "1. FC Nürnberg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20VS%201.%20FC%20N%C3%BCrnberg%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1777807800,
-                "start_time_local": "03 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388896,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Hannover 96 vs Preußen Münster",
-            "slug": "hannover-96-vs-preussen-munster-1388896",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hannover 96",
-                "away_name": "Preußen Münster",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hannover%2096%20VS%20Preu%C3%9Fen%20M%C3%BCnster%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1777807800,
@@ -664,6 +634,52 @@
             "timing": {
                 "start_time_timestamp": 1777811400,
                 "start_time_local": "03 May 2026, 06:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1380662,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Zaglebie Lubin vs Cracovia Krakow",
+            "slug": "zaglebie-lubin-vs-cracovia-krakow-1380662",
+            "status": "NS",
+            "league": {
+                "league_name": "Ekstraklasa",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Zaglebie Lubin",
+                "away_name": "Cracovia Krakow",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zaglebie%20Lubin%20VS%20Cracovia%20Krakow%20%20Ekstraklasa.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777812300,
+                "start_time_local": "03 May 2026, 06:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398253,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Pacos Ferreira vs Feirense",
+            "slug": "pacos-ferreira-vs-feirense-1398253",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Pacos Ferreira",
+                "away_name": "Feirense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pacos%20Ferreira%20VS%20Feirense%20%20Segunda%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777813200,
+                "start_time_local": "03 May 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         }
