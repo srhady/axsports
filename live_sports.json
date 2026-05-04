@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:30:36 PM 04-05-2026"
+        "last_update_time": "04:45:48 PM 04-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=016b146d1d8cff0df351020b98b0b97f8102abcb&x-sign=b969a15a824054876e5c638db8db5ea6&x-time=1777890600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=578ad1ae8eeec2e40c5ece939fab94208354fe43&x-sign=91d5403901bd40842fbf30b2e0e94311&x-time=1777891500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=016b146d1d8cff0df351020b98b0b97f8102abcb&x-sign=01e67cf66c66be971c615fdca9b9ebce&x-time=1777890600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=578ad1ae8eeec2e40c5ece939fab94208354fe43&x-sign=be3be11216af671a335567043b0d49df&x-time=1777891500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=016b146d1d8cff0df351020b98b0b97f8102abcb&x-sign=e09ac9c61e59ab2db55f09f51313f161&x-time=1777890600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=578ad1ae8eeec2e40c5ece939fab94208354fe43&x-sign=66a958b79f8874bdc7cde7cd091e2a57&x-time=1777891500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490083,
             "sport_name": "Darts",
             "sport_id": 31,
-            "title": "Players Championship 13",
             "slug": "players-championship-13-1629490083",
-            "status": "NS",
+            "title": "Players Championship 13",
+            "status": "LIVE",
             "league": {
                 "league_name": "Players Championship",
                 "league_logo": ""
@@ -118,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1777892400,
-                "start_time_local": "04 May 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "04 May 2026, 05:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "114414",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=578ad1ae8eeec2e40c5ece939fab94208354fe43&x-sign=b055bd81738f072e6faf9a59a0a07186&x-time=1777891500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1417319,
             "sport_name": "Football",
