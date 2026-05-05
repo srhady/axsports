@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:39 PM 05-05-2026"
+        "last_update_time": "05:15:40 PM 05-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,43 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=81caa4662a0da8f13273eddd9608d0fede83befe&x-sign=d834544d0aa66ad077e98d017f56e3e7&x-time=1777978800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=e17eaac9c464bb0ce9cbfbc48f9bab0092ba8da7&x-sign=aaebb152bf7c897c0443745358c9ca64&x-time=1777979700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1506967,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "fc-seoul-vs-fc-anyang-1506967",
+            "title": "FC Seoul vs FC Anyang",
+            "status": "LIVE",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Seoul",
+                "away_name": "FC Anyang",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20VS%20FC%20Anyang%20%20K%20League%201%20%5BServer%202%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1777975200,
+                "start_time_local": "05 May 2026, 04:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "143070",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=e17eaac9c464bb0ce9cbfbc48f9bab0092ba8da7&x-sign=bf0aab1db059c0279a7ec297a62e08b5&x-time=1777979700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "526224",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/526224_hd/index.m3u8?is_vip=false&token=e17eaac9c464bb0ce9cbfbc48f9bab0092ba8da7&x-sign=52b0245f63b824860566a278c11b5138&x-time=1777979700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +96,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=81caa4662a0da8f13273eddd9608d0fede83befe&x-sign=fc449cfde099518314be5586dfbd0a82&x-time=1777978800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=e17eaac9c464bb0ce9cbfbc48f9bab0092ba8da7&x-sign=ac5b3bead7084e3f8f3bb2c302c3d41b&x-time=1777979700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -185,21 +221,21 @@
             }
         },
         {
-            "match_id": 1535295,
+            "match_id": 1535195,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sporting Cristal vs Palmeiras",
-            "slug": "sporting-cristal-vs-palmeiras-1535295",
+            "title": "Independiente Petrolero vs Caracas FC",
+            "slug": "independiente-petrolero-vs-caracas-fc-1535195",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Libertadores",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sporting Cristal",
-                "away_name": "Palmeiras",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Independiente Petrolero",
+                "away_name": "Caracas FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20Petrolero%20VS%20Caracas%20FC%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778018400,
@@ -223,29 +259,6 @@
                 "home_name": "Deportivo Riestra",
                 "away_name": "Gremio",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Riestra%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778018400,
-                "start_time_local": "06 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535195,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independiente Petrolero vs Caracas FC",
-            "slug": "independiente-petrolero-vs-caracas-fc-1535195",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independiente Petrolero",
-                "away_name": "Caracas FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20Petrolero%20VS%20Caracas%20FC%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778018400,
@@ -292,6 +305,29 @@
                 "home_name": "Rosario Central",
                 "away_name": "Libertad Asuncion",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rosario%20Central%20VS%20Libertad%20Asuncion%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778018400,
+                "start_time_local": "06 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535295,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sporting Cristal vs Palmeiras",
+            "slug": "sporting-cristal-vs-palmeiras-1535295",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sporting Cristal",
+                "away_name": "Palmeiras",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778018400,
@@ -461,29 +497,6 @@
             }
         },
         {
-            "match_id": 1504790,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "V-varen Nagasaki vs Fagiano Okayama",
-            "slug": "v-varen-nagasaki-vs-fagiano-okayama-1504790",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "V-varen Nagasaki",
-                "away_name": "Fagiano Okayama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778040000,
-                "start_time_local": "06 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504789,
             "sport_name": "Football",
             "sport_id": 1,
@@ -499,6 +512,29 @@
                 "home_name": "Shimizu S-pulse",
                 "away_name": "Cerezo Osaka",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778040000,
+                "start_time_local": "06 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504790,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "V-varen Nagasaki vs Fagiano Okayama",
+            "slug": "v-varen-nagasaki-vs-fagiano-okayama-1504790",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "V-varen Nagasaki",
+                "away_name": "Fagiano Okayama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778040000,
@@ -553,29 +589,6 @@
             }
         },
         {
-            "match_id": 1504793,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "FC Tokyo vs JEF United Chiba",
-            "slug": "fc-tokyo-vs-jef-united-chiba-1504793",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "FC Tokyo",
-                "away_name": "JEF United Chiba",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20JEF%20United%20Chiba%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778047200,
-                "start_time_local": "06 May 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504794,
             "sport_name": "Football",
             "sport_id": 1,
@@ -599,11 +612,11 @@
             }
         },
         {
-            "match_id": 1504795,
+            "match_id": 1504793,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Kashima vs Mito Hollyhock",
-            "slug": "kashima-vs-mito-hollyhock-1504795",
+            "title": "FC Tokyo vs JEF United Chiba",
+            "slug": "fc-tokyo-vs-jef-united-chiba-1504793",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -611,13 +624,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Kashima",
-                "away_name": "Mito Hollyhock",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Mito%20Hollyhock%20%20J1%20League.jpg"
+                "home_name": "FC Tokyo",
+                "away_name": "JEF United Chiba",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20JEF%20United%20Chiba%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778050800,
-                "start_time_local": "06 May 2026, 01:00 PM",
+                "start_time_timestamp": 1778047200,
+                "start_time_local": "06 May 2026, 12:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -637,6 +650,29 @@
                 "home_name": "Machida Zelvia",
                 "away_name": "Yokohama F. Marinos",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Machida%20Zelvia%20VS%20Yokohama%20F.%20Marinos%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778050800,
+                "start_time_local": "06 May 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504795,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashima vs Mito Hollyhock",
+            "slug": "kashima-vs-mito-hollyhock-1504795",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Kashima",
+                "away_name": "Mito Hollyhock",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Mito%20Hollyhock%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778050800,
