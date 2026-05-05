@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:38 PM 05-05-2026"
+        "last_update_time": "04:15:30 PM 05-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=1e52fd80a67b651a86b7d55dd408a22f67395af6&x-sign=8958828b2a81a18e104c6183c4371e28&x-time=1777975200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=dce39e693a1e0d374a184d74b98d975d7dce3eb0&x-sign=a4e1f8b8ae032dc00ec08c8c8acfb859&x-time=1777976100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -59,8 +59,14 @@
             },
             "streams": [
                 {
+                    "server_name": "143070",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=dce39e693a1e0d374a184d74b98d975d7dce3eb0&x-sign=f5acc36ba98d13a4448b745be3a6766b&x-time=1777976100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
                     "server_name": "526224",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/526224_hd/index.m3u8?is_vip=false&token=1e52fd80a67b651a86b7d55dd408a22f67395af6&x-sign=17561038bd006ca2bf873877ccd532ca&x-time=1777975200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/526224_hd/index.m3u8?is_vip=false&token=dce39e693a1e0d374a184d74b98d975d7dce3eb0&x-sign=d50ece0b5b42e86d2a413292152d9ddd&x-time=1777976100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -208,6 +214,29 @@
             }
         },
         {
+            "match_id": 1535295,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sporting Cristal vs Palmeiras",
+            "slug": "sporting-cristal-vs-palmeiras-1535295",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sporting Cristal",
+                "away_name": "Palmeiras",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778018400,
+                "start_time_local": "06 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535194,
             "sport_name": "Football",
             "sport_id": 1,
@@ -223,29 +252,6 @@
                 "home_name": "Deportivo Riestra",
                 "away_name": "Gremio",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Riestra%20VS%20Gremio%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778018400,
-                "start_time_local": "06 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535196,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Juventud vs Atletico-MG",
-            "slug": "juventud-vs-atletico-mg-1535196",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Juventud",
-                "away_name": "Atletico-MG",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Atletico-MG%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778018400,
@@ -277,6 +283,29 @@
             }
         },
         {
+            "match_id": 1535196,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Juventud vs Atletico-MG",
+            "slug": "juventud-vs-atletico-mg-1535196",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Juventud",
+                "away_name": "Atletico-MG",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventud%20VS%20Atletico-MG%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778018400,
+                "start_time_local": "06 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535293,
             "sport_name": "Football",
             "sport_id": 1,
@@ -292,29 +321,6 @@
                 "home_name": "Rosario Central",
                 "away_name": "Libertad Asuncion",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rosario%20Central%20VS%20Libertad%20Asuncion%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778018400,
-                "start_time_local": "06 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535295,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sporting Cristal vs Palmeiras",
-            "slug": "sporting-cristal-vs-palmeiras-1535295",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sporting Cristal",
-                "away_name": "Palmeiras",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20Cristal%20VS%20Palmeiras%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778018400,
@@ -484,29 +490,6 @@
             }
         },
         {
-            "match_id": 1504789,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Shimizu S-pulse vs Cerezo Osaka",
-            "slug": "shimizu-s-pulse-vs-cerezo-osaka-1504789",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Shimizu S-pulse",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778040000,
-                "start_time_local": "06 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504790,
             "sport_name": "Football",
             "sport_id": 1,
@@ -530,11 +513,11 @@
             }
         },
         {
-            "match_id": 1504791,
+            "match_id": 1504789,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Avispa Fukuoka vs Kyoto Sanga",
-            "slug": "avispa-fukuoka-vs-kyoto-sanga-1504791",
+            "title": "Shimizu S-pulse vs Cerezo Osaka",
+            "slug": "shimizu-s-pulse-vs-cerezo-osaka-1504789",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -542,13 +525,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Avispa Fukuoka",
-                "away_name": "Kyoto Sanga",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
+                "home_name": "Shimizu S-pulse",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778043600,
-                "start_time_local": "06 May 2026, 11:00 AM",
+                "start_time_timestamp": 1778040000,
+                "start_time_local": "06 May 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -576,11 +559,11 @@
             }
         },
         {
-            "match_id": 1504794,
+            "match_id": 1504791,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sanfrecce Hiroshima vs Vissel Kobe",
-            "slug": "sanfrecce-hiroshima-vs-vissel-kobe-1504794",
+            "title": "Avispa Fukuoka vs Kyoto Sanga",
+            "slug": "avispa-fukuoka-vs-kyoto-sanga-1504791",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -588,13 +571,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sanfrecce Hiroshima",
-                "away_name": "Vissel Kobe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Vissel%20Kobe%20%20J1%20League.jpg"
+                "home_name": "Avispa Fukuoka",
+                "away_name": "Kyoto Sanga",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Avispa%20Fukuoka%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778047200,
-                "start_time_local": "06 May 2026, 12:00 PM",
+                "start_time_timestamp": 1778043600,
+                "start_time_local": "06 May 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -614,6 +597,29 @@
                 "home_name": "FC Tokyo",
                 "away_name": "JEF United Chiba",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20JEF%20United%20Chiba%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778047200,
+                "start_time_local": "06 May 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504794,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sanfrecce Hiroshima vs Vissel Kobe",
+            "slug": "sanfrecce-hiroshima-vs-vissel-kobe-1504794",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sanfrecce Hiroshima",
+                "away_name": "Vissel Kobe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sanfrecce%20Hiroshima%20VS%20Vissel%20Kobe%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778047200,
