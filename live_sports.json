@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:45 PM 06-05-2026"
+        "last_update_time": "10:31:00 PM 06-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=85f40f51139f9fe0d2ba9f3d8bc1010218c19e90&x-sign=65006be40d168bb6701d4c5fc9088215&x-time=1778084100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=eea73be94f4d91c775c30c149b5aeb1d&x-time=1778085000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=85f40f51139f9fe0d2ba9f3d8bc1010218c19e90&x-sign=d79aeba6ec1ef0a72bc70b665aebfd0c&x-time=1778084100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=73d63a0e5485baa280fb5008ff8cdbc0&x-time=1778085000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=85f40f51139f9fe0d2ba9f3d8bc1010218c19e90&x-sign=9b62c8cd0c8bc0e42481a9d440a8cf60&x-time=1778084100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=a0032462f933cafb940c1b778b40f878&x-time=1778085000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1397267,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Barcelona W vs Levante W",
             "slug": "barcelona-w-vs-levante-w-1397267",
-            "status": "NS",
+            "title": "Barcelona W vs Levante W",
+            "status": "LIVE",
             "league": {
                 "league_name": "Primera División Femenina",
                 "league_logo": ""
@@ -118,33 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778085900,
-                "start_time_local": "06 May 2026, 10:45 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1543734,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Almere City FC vs De Graafschap",
-            "slug": "almere-city-fc-vs-de-graafschap-1543734",
-            "status": "NS",
-            "league": {
-                "league_name": "Eredivisie",
-                "league_logo": ""
+                "start_time_local": "06 May 2026, 10:45 PM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Almere City FC",
-                "away_name": "De Graafschap",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almere%20City%20FC%20VS%20De%20Graafschap%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778085900,
-                "start_time_local": "06 May 2026, 10:45 PM",
-                "countdown_seconds": null
-            }
-        },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=6aaf0b915b6af285208e018427fdff5b&x-time=1778085000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629490241,
             "sport_name": "Basketball",
