@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:38 AM 07-05-2026"
+        "last_update_time": "12:30:58 AM 07-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7a42899d8f3073f623ba45f8fd2dbb69ef64e8b8&x-sign=5bcc0b5315bc481ac830216f7b1a7bf5&x-time=1778091300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=a1064ab67058b247af908ad1acc75f45&x-time=1778092200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=7a42899d8f3073f623ba45f8fd2dbb69ef64e8b8&x-sign=a32cfea958d11c632e11beb17a172346&x-time=1778091300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=a3dde38c411dfe2759a154a39b7b7d13&x-time=1778092200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "68905",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_hd/index.m3u8?is_vip=false&token=7a42899d8f3073f623ba45f8fd2dbb69ef64e8b8&x-sign=791ddfcd428f2bde5162bb1bb7e3d0d1&x-time=1778091300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_hd/index.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=97c36a7593c5966d43b840b3a950c526&x-time=1778092200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,22 +120,19 @@
             "streams": [
                 {
                     "server_name": "68904",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904_hd/index.m3u8?is_vip=false&token=7a42899d8f3073f623ba45f8fd2dbb69ef64e8b8&x-sign=8f50e78b06b61a20d46513db580005ce&x-time=1778091300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904_hd/index.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=4516756886dca126b562a34049dfb129&x-time=1778092200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1417289,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Brighton W vs Arsenal W",
             "slug": "brighton-w-vs-arsenal-w-1417289",
-            "status": "NS",
+            "title": "Brighton W vs Arsenal W",
+            "status": "LIVE",
             "league": {
                 "league_name": "FA WSL",
                 "league_logo": ""
@@ -148,10 +145,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778093100,
-                "start_time_local": "07 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "07 May 2026, 12:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "45",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/45/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=c0f5ca8cea72a486abef51f532c418e0&x-time=1778092200",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b4a691f6b0dea39c5680646b48e5aa09ab3a52fa&x-sign=266801385d9d7dbd70d8d5d152938246&x-time=1778092200",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 39,
+    "upcoming_matches": [
         {
             "match_id": 1540844,
             "sport_name": "Football",
