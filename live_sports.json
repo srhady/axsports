@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:48 PM 06-05-2026"
+        "last_update_time": "08:15:41 PM 06-05-2026"
     },
     "live_matches": [
         {
@@ -30,37 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=d1e3ca24f73508d398f274c69494e44e360fc1b6&x-sign=794f9a7c6a4ecea885d034b48174f9f7&x-time=1778076000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629490873,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "hubert-hurkacz-vs-yannick-hanfmann-mens-singles-1629490873",
-            "title": "Hubert Hurkacz vs Yannick Hanfmann (Men's Singles)",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Internazionali BNL d'Italia",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778065381,
-                "start_time_local": "06 May 2026, 05:03 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d1e3ca24f73508d398f274c69494e44e360fc1b6&x-sign=0231983d9bc50c16ecffaced5150ac26&x-time=1778076000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=0e2fbdd0d78b0a413e5bdea1ffceeebe1d982997&x-sign=38291aec2ae525600bc0a437ef625c4b&x-time=1778076900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=d1e3ca24f73508d398f274c69494e44e360fc1b6&x-sign=e7b4a3d50bf14165ff9c8e3d1f99f49a&x-time=1778076000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=0e2fbdd0d78b0a413e5bdea1ffceeebe1d982997&x-sign=c1fba07294896a058664b79b7b59031f&x-time=1778076900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -261,6 +231,29 @@
             }
         },
         {
+            "match_id": 1535186,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "A. Italiano vs Vasco DA Gama",
+            "slug": "a-italiano-vs-vasco-da-gama-1535186",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "A. Italiano",
+                "away_name": "Vasco DA Gama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/A.%20Italiano%20VS%20Vasco%20DA%20Gama%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778104800,
+                "start_time_local": "07 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535290,
             "sport_name": "Football",
             "sport_id": 1,
@@ -276,29 +269,6 @@
                 "home_name": "Deportivo La Guaira",
                 "away_name": "Bolívar",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Guaira%20VS%20Bol%C3%ADvar%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778104800,
-                "start_time_local": "07 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535198,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Atletico Torque vs Palestino",
-            "slug": "atletico-torque-vs-palestino-1535198",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Atletico Torque",
-                "away_name": "Palestino",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Torque%20VS%20Palestino%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778104800,
@@ -330,11 +300,11 @@
             }
         },
         {
-            "match_id": 1535186,
+            "match_id": 1535198,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "A. Italiano vs Vasco DA Gama",
-            "slug": "a-italiano-vs-vasco-da-gama-1535186",
+            "title": "Atletico Torque vs Palestino",
+            "slug": "atletico-torque-vs-palestino-1535198",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -342,9 +312,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "A. Italiano",
-                "away_name": "Vasco DA Gama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/A.%20Italiano%20VS%20Vasco%20DA%20Gama%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Atletico Torque",
+                "away_name": "Palestino",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Torque%20VS%20Palestino%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778104800,
@@ -399,29 +369,6 @@
             }
         },
         {
-            "match_id": 1535288,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independ. Rivadavia vs Fluminense",
-            "slug": "independ-rivadavia-vs-fluminense-1535288",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independ. Rivadavia",
-                "away_name": "Fluminense",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778113800,
-                "start_time_local": "07 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535191,
             "sport_name": "Football",
             "sport_id": 1,
@@ -437,6 +384,29 @@
                 "home_name": "Botafogo",
                 "away_name": "Racing Club",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Botafogo%20VS%20Racing%20Club%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778113800,
+                "start_time_local": "07 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535288,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Independ. Rivadavia vs Fluminense",
+            "slug": "independ-rivadavia-vs-fluminense-1535288",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Independ. Rivadavia",
+                "away_name": "Fluminense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778113800,
@@ -491,29 +461,6 @@
             }
         },
         {
-            "match_id": 1535296,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "U. Catolica vs Cruzeiro",
-            "slug": "u-catolica-vs-cruzeiro-1535296",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "U. Catolica",
-                "away_name": "Cruzeiro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778119200,
-                "start_time_local": "07 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535286,
             "sport_name": "Football",
             "sport_id": 1,
@@ -529,6 +476,29 @@
                 "home_name": "Deportes Tolima",
                 "away_name": "Club Nacional",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportes%20Tolima%20VS%20Club%20Nacional%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778119200,
+                "start_time_local": "07 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535296,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "U. Catolica vs Cruzeiro",
+            "slug": "u-catolica-vs-cruzeiro-1535296",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "U. Catolica",
+                "away_name": "Cruzeiro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778119200,
