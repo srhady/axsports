@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:31:00 PM 06-05-2026"
+        "last_update_time": "10:45:46 PM 06-05-2026"
     },
     "live_matches": [
         {
@@ -30,37 +30,7 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=eea73be94f4d91c775c30c149b5aeb1d&x-time=1778085000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629490240,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "slug": "la-vuelta-femenina-or-stage-4-1629490240",
-            "title": "La Vuelta Femenina | Stage 4",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UCI Women's World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778074200,
-                "start_time_local": "06 May 2026, 07:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=73d63a0e5485baa280fb5008ff8cdbc0&x-time=1778085000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2075d75eccd3b7a22747a19a6a9c5fb5737ff25a&x-sign=cb6e867f42c1dde36c2628861f8d744f&x-time=1778085900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=a0032462f933cafb940c1b778b40f878&x-time=1778085000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=2075d75eccd3b7a22747a19a6a9c5fb5737ff25a&x-sign=7b8e07765eb34fc20b0eec635e7cbff4&x-time=1778085900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6543923224d678a1030d7186d813d60fd68e4185&x-sign=6aaf0b915b6af285208e018427fdff5b&x-time=1778085000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2075d75eccd3b7a22747a19a6a9c5fb5737ff25a&x-sign=17a7c261e060911385946c0a7fbd2c08&x-time=1778085900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 38,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490241,
             "sport_name": "Basketball",
             "sport_id": 3,
-            "title": "Zalgiris Kaunas vs Fenerbahce Beko Istanbul",
             "slug": "zalgiris-kaunas-vs-fenerbahce-beko-istanbul-1629490241",
-            "status": "NS",
+            "title": "Zalgiris Kaunas vs Fenerbahce Beko Istanbul",
+            "status": "LIVE",
             "league": {
                 "league_name": "Euroleague",
                 "league_logo": ""
@@ -148,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778086800,
-                "start_time_local": "06 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "06 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "68892",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892_hd/index.m3u8?is_vip=false&token=2075d75eccd3b7a22747a19a6a9c5fb5737ff25a&x-sign=8396c0e099de24278c508a744c39fce7&x-time=1778085900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629490242,
             "sport_name": "Basketball",
@@ -222,11 +199,11 @@
             }
         },
         {
-            "match_id": 1535290,
+            "match_id": 1535285,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Deportivo La Guaira vs Bolívar",
-            "slug": "deportivo-la-guaira-vs-bolivar-1535290",
+            "title": "Cusco vs Estudiantes L.P.",
+            "slug": "cusco-vs-estudiantes-lp-1535285",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -234,9 +211,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Deportivo La Guaira",
-                "away_name": "Bolívar",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Guaira%20VS%20Bol%C3%ADvar%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Cusco",
+                "away_name": "Estudiantes L.P.",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cusco%20VS%20Estudiantes%20L.P.%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778104800,
@@ -291,11 +268,11 @@
             }
         },
         {
-            "match_id": 1535285,
+            "match_id": 1535290,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Cusco vs Estudiantes L.P.",
-            "slug": "cusco-vs-estudiantes-lp-1535285",
+            "title": "Deportivo La Guaira vs Bolívar",
+            "slug": "deportivo-la-guaira-vs-bolivar-1535290",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -303,36 +280,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Cusco",
-                "away_name": "Estudiantes L.P.",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cusco%20VS%20Estudiantes%20L.P.%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Deportivo La Guaira",
+                "away_name": "Bolívar",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Guaira%20VS%20Bol%C3%ADvar%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778104800,
                 "start_time_local": "07 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535197,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Macara vs Tigre",
-            "slug": "macara-vs-tigre-1535197",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Macara",
-                "away_name": "Tigre",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Macara%20VS%20Tigre%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778112000,
-                "start_time_local": "07 May 2026, 06:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -352,6 +306,29 @@
                 "home_name": "Barracas Central",
                 "away_name": "Olimpia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barracas%20Central%20VS%20Olimpia%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778112000,
+                "start_time_local": "07 May 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535197,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Macara vs Tigre",
+            "slug": "macara-vs-tigre-1535197",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Macara",
+                "away_name": "Tigre",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Macara%20VS%20Tigre%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778112000,
