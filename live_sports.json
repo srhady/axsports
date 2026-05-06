@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:44 PM 06-05-2026"
+        "last_update_time": "04:00:59 PM 06-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=8b3c795732401bba899a3bef595accc9a0c07556&x-sign=c2f666a7e8ad9d1991a59a2d86b25944&x-time=1778060700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=77472d8914bcace19c9414d47e754d2eb11df06f&x-sign=d92f678e48ebd19a22bd9ef0bc10c54d&x-time=1778061600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=8b3c795732401bba899a3bef595accc9a0c07556&x-sign=596dc316ce0f07c1f1c58b60274d2da7&x-time=1778060700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=77472d8914bcace19c9414d47e754d2eb11df06f&x-sign=7d1acbf418c8b2606917dd51fcd3073d&x-time=1778061600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,13 @@
             "streams": [
                 {
                     "server_name": "61349",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/61349_hd/index.m3u8?is_vip=false&token=8b3c795732401bba899a3bef595accc9a0c07556&x-sign=140b2a44c5c549e7d69c577929f87506&x-time=1778060700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/61349_hd/index.m3u8?is_vip=false&token=77472d8914bcace19c9414d47e754d2eb11df06f&x-sign=af896cba5e5f79565615aaa28cee925e&x-time=1778061600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=77472d8914bcace19c9414d47e754d2eb11df06f&x-sign=d73a93117203dcb517a8433778180be6&x-time=1778061600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,14 +126,14 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8b3c795732401bba899a3bef595accc9a0c07556&x-sign=fc09e70b65641934342e3c0a32ba67dd&x-time=1778060700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=77472d8914bcace19c9414d47e754d2eb11df06f&x-sign=c44ce1525e9a0eb28631ab76a8300e26&x-time=1778061600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 28,
+    "total_upcoming_matches": 33,
     "upcoming_matches": [
         {
             "match_id": 1629490240,
@@ -452,29 +458,6 @@
             }
         },
         {
-            "match_id": 1535288,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independ. Rivadavia vs Fluminense",
-            "slug": "independ-rivadavia-vs-fluminense-1535288",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independ. Rivadavia",
-                "away_name": "Fluminense",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778113800,
-                "start_time_local": "07 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535294,
             "sport_name": "Football",
             "sport_id": 1,
@@ -490,6 +473,29 @@
                 "home_name": "Santa Fe",
                 "away_name": "Corinthians",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santa%20Fe%20VS%20Corinthians%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778113800,
+                "start_time_local": "07 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535288,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Independ. Rivadavia vs Fluminense",
+            "slug": "independ-rivadavia-vs-fluminense-1535288",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Independ. Rivadavia",
+                "away_name": "Fluminense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778113800,
@@ -567,29 +573,6 @@
             }
         },
         {
-            "match_id": 1535296,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "U. Catolica vs Cruzeiro",
-            "slug": "u-catolica-vs-cruzeiro-1535296",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "U. Catolica",
-                "away_name": "Cruzeiro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778119200,
-                "start_time_local": "07 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535286,
             "sport_name": "Football",
             "sport_id": 1,
@@ -605,6 +588,29 @@
                 "home_name": "Deportes Tolima",
                 "away_name": "Club Nacional",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportes%20Tolima%20VS%20Club%20Nacional%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778119200,
+                "start_time_local": "07 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535296,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "U. Catolica vs Cruzeiro",
+            "slug": "u-catolica-vs-cruzeiro-1535296",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "U. Catolica",
+                "away_name": "Cruzeiro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778119200,
@@ -632,6 +638,29 @@
             "timing": {
                 "start_time_timestamp": 1778144400,
                 "start_time_local": "07 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490244,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hawthorn vs Fremantle",
+            "slug": "hawthorn-vs-fremantle-1629490244",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778148000,
+                "start_time_local": "07 May 2026, 04:00 PM",
                 "countdown_seconds": null
             }
         }
