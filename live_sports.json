@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:35 PM 06-05-2026"
+        "last_update_time": "12:01:15 AM 07-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a322e8d782c774780e7e78a8b3725a13b65ceeea&x-sign=52f8a8af7f86484ae4952e90b0903d7d&x-time=1778089500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=0ea5f75059673fb641ef995c2a79b431d935c00b&x-sign=1409c80ba09e4a8413ca799b32b8dbc4&x-time=1778090400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,37 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a322e8d782c774780e7e78a8b3725a13b65ceeea&x-sign=f4b75bace0b83d3a934134b4f234c7e2&x-time=1778089500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0ea5f75059673fb641ef995c2a79b431d935c00b&x-sign=601a9477bede485304430cf5264fb40a&x-time=1778090400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1397267,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "barcelona-w-vs-levante-w-1397267",
+            "title": "Barcelona W vs Levante W",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Primera División Femenina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Barcelona W",
+                "away_name": "Levante W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Barcelona%20W%20VS%20Levante%20W%20%20Primera%20Divisi%C3%B3n%20Femenina%20%5BServer%201%5D.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778085900,
+                "start_time_local": "06 May 2026, 10:45 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0ea5f75059673fb641ef995c2a79b431d935c00b&x-sign=8ef5587bb3ee4ec45755b28025d10378&x-time=1778090460",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +120,19 @@
             "streams": [
                 {
                     "server_name": "68905",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_hd/index.m3u8?is_vip=false&token=a322e8d782c774780e7e78a8b3725a13b65ceeea&x-sign=9fe25c7c8f5a53fd5ce2feda081b1c1e&x-time=1778089500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905_hd/index.m3u8?is_vip=false&token=0ea5f75059673fb641ef995c2a79b431d935c00b&x-sign=f88ccc806a5bcb169993f9c5b61542fe&x-time=1778090460",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490242,
             "sport_name": "Basketball",
             "sport_id": 3,
-            "title": "Panathinaikos Athens Basketball vs Valencia Basketball",
             "slug": "panathinaikos-athens-basketball-vs-valencia-basketball-1629490242",
-            "status": "NS",
+            "title": "Panathinaikos Athens Basketball vs Valencia Basketball",
+            "status": "LIVE",
             "league": {
                 "league_name": "Euroleague",
                 "league_logo": ""
@@ -118,10 +145,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778091300,
-                "start_time_local": "07 May 2026, 12:15 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "07 May 2026, 12:15 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "68904",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904_hd/index.m3u8?is_vip=false&token=0ea5f75059673fb641ef995c2a79b431d935c00b&x-sign=070b3de323454ccd01e676c35bf4c180&x-time=1778090460",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1417289,
             "sport_name": "Football",
@@ -169,29 +206,6 @@
             }
         },
         {
-            "match_id": 1535290,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Deportivo La Guaira vs Bolívar",
-            "slug": "deportivo-la-guaira-vs-bolivar-1535290",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Deportivo La Guaira",
-                "away_name": "Bolívar",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Guaira%20VS%20Bol%C3%ADvar%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778104800,
-                "start_time_local": "07 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535198,
             "sport_name": "Football",
             "sport_id": 1,
@@ -230,6 +244,29 @@
                 "home_name": "A. Italiano",
                 "away_name": "Vasco DA Gama",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/A.%20Italiano%20VS%20Vasco%20DA%20Gama%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778104800,
+                "start_time_local": "07 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535290,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Deportivo La Guaira vs Bolívar",
+            "slug": "deportivo-la-guaira-vs-bolivar-1535290",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Deportivo La Guaira",
+                "away_name": "Bolívar",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20La%20Guaira%20VS%20Bol%C3%ADvar%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778104800,
@@ -307,11 +344,11 @@
             }
         },
         {
-            "match_id": 1535294,
+            "match_id": 1535288,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Santa Fe vs Corinthians",
-            "slug": "santa-fe-vs-corinthians-1535294",
+            "title": "Independ. Rivadavia vs Fluminense",
+            "slug": "independ-rivadavia-vs-fluminense-1535288",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -319,9 +356,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Santa Fe",
-                "away_name": "Corinthians",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santa%20Fe%20VS%20Corinthians%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Independ. Rivadavia",
+                "away_name": "Fluminense",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778113800,
@@ -353,11 +390,11 @@
             }
         },
         {
-            "match_id": 1535288,
+            "match_id": 1535294,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Independ. Rivadavia vs Fluminense",
-            "slug": "independ-rivadavia-vs-fluminense-1535288",
+            "title": "Santa Fe vs Corinthians",
+            "slug": "santa-fe-vs-corinthians-1535294",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -365,9 +402,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Independ. Rivadavia",
-                "away_name": "Fluminense",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independ.%20Rivadavia%20VS%20Fluminense%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "Santa Fe",
+                "away_name": "Corinthians",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santa%20Fe%20VS%20Corinthians%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778113800,
@@ -395,29 +432,6 @@
             "timing": {
                 "start_time_timestamp": 1778117400,
                 "start_time_local": "07 May 2026, 07:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535296,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "U. Catolica vs Cruzeiro",
-            "slug": "u-catolica-vs-cruzeiro-1535296",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "U. Catolica",
-                "away_name": "Cruzeiro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778119200,
-                "start_time_local": "07 May 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -460,6 +474,29 @@
                 "home_name": "Deportes Tolima",
                 "away_name": "Club Nacional",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportes%20Tolima%20VS%20Club%20Nacional%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778119200,
+                "start_time_local": "07 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535296,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "U. Catolica vs Cruzeiro",
+            "slug": "u-catolica-vs-cruzeiro-1535296",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "U. Catolica",
+                "away_name": "Cruzeiro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/U.%20Catolica%20VS%20Cruzeiro%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778119200,
@@ -602,6 +639,52 @@
             "timing": {
                 "start_time_timestamp": 1778173200,
                 "start_time_local": "07 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490248,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Night 14",
+            "slug": "night-14-1629490248",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778176800,
+                "start_time_local": "08 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1436201,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Al Shabab vs Al-Nassr",
+            "slug": "al-shabab-vs-al-nassr-1436201",
+            "status": "NS",
+            "league": {
+                "league_name": "Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Al Shabab",
+                "away_name": "Al-Nassr",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Shabab%20VS%20Al-Nassr%20%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778176800,
+                "start_time_local": "08 May 2026, 12:00 AM",
                 "countdown_seconds": null
             }
         }
