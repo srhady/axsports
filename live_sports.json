@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:53 PM 07-05-2026"
+        "last_update_time": "10:01:04 PM 07-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=33f0f3c4c0d27cea37d881107fd380a3b3cebaa3&x-sign=4579c3f023730239d16e38fe9eaaac75&x-time=1778168700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=054af30664abecea0122929e3f0cffb0&x-time=1778169600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1410",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1410_hd/index.m3u8?is_vip=false&token=33f0f3c4c0d27cea37d881107fd380a3b3cebaa3&x-sign=36c510e2268ea1d91977ad88aef6d345&x-time=1778168700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1410_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=8b5dc51df9c6fa5406691c4b76d4d3fc&x-time=1778169600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,13 +90,13 @@
             "streams": [
                 {
                     "server_name": "238",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_hd/index.m3u8?is_vip=false&token=33f0f3c4c0d27cea37d881107fd380a3b3cebaa3&x-sign=86432de58dde905b8bc22a85e7630ffd&x-time=1778168700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=1ad6438f290ba0765f0877b4f3c735f2&x-time=1778169600",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "161360",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=33f0f3c4c0d27cea37d881107fd380a3b3cebaa3&x-sign=5f9953968c3fd9b3454df286646e275f&x-time=1778168700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=ef8012de2e981f9c01645da838239a4b&x-time=1778169600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,9 +126,15 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=33f0f3c4c0d27cea37d881107fd380a3b3cebaa3&x-sign=55037383c2a39533c636c0119c1704b8&x-time=1778168700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=c5dba2a8bbe7e150ba1e423558703af4&x-time=1778169600",
                     "is_new_format": false,
                     "required_referer": ""
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778256061-Kv4cPTAAP5YTi-cf1e42d972beecce0e6451cb7fc99a0cbd158c3f-276751332ab931514fc003c0613aaee9",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
@@ -914,6 +920,29 @@
             "timing": {
                 "start_time_timestamp": 1778250600,
                 "start_time_local": "08 May 2026, 08:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1380668,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Raków Częstochowa vs Korona Kielce",
+            "slug": "rakow-czestochowa-vs-korona-kielce-1380668",
+            "status": "NS",
+            "league": {
+                "league_name": "Ekstraklasa",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Raków Częstochowa",
+                "away_name": "Korona Kielce",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rak%C3%B3w%20Cz%C4%99stochowa%20VS%20Korona%20Kielce%20%20Ekstraklasa.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778256000,
+                "start_time_local": "08 May 2026, 10:00 PM",
                 "countdown_seconds": null
             }
         }
