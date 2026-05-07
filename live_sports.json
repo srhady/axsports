@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:01:04 PM 07-05-2026"
+        "last_update_time": "10:15:46 PM 07-05-2026"
     },
     "live_matches": [
         {
@@ -30,9 +30,15 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=054af30664abecea0122929e3f0cffb0&x-time=1778169600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=614a1ad41149057b7f6957d659fd500fd5c37508&x-sign=eb8c4eda811cf71dad63b47339de3076&x-time=1778170500",
                     "is_new_format": false,
                     "required_referer": ""
+                },
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=1778256931-Kv4cPTAAP5YTi-614a1ad41149057b7f6957d659fd500fd5c37508-9d40c7c92f31744656f1aa2ba7ad0d79",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -60,43 +66,7 @@
             "streams": [
                 {
                     "server_name": "1410",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1410_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=8b5dc51df9c6fa5406691c4b76d4d3fc&x-time=1778169600",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629490246,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "live-stage-1-1629490246",
-            "title": "Live Stage 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778162400,
-                "start_time_local": "07 May 2026, 08:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "238",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=1ad6438f290ba0765f0877b4f3c735f2&x-time=1778169600",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "161360",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=ef8012de2e981f9c01645da838239a4b&x-time=1778169600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1410_hd/index.m3u8?is_vip=false&token=614a1ad41149057b7f6957d659fd500fd5c37508&x-sign=0ed7390059f4e8b78d69232146f8d631&x-time=1778170500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,20 +96,20 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=cf1e42d972beecce0e6451cb7fc99a0cbd158c3f&x-sign=c5dba2a8bbe7e150ba1e423558703af4&x-time=1778169600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=614a1ad41149057b7f6957d659fd500fd5c37508&x-sign=76dc17ef4440ffdfaf68ccb476e3ad89&x-time=1778170500",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778256061-Kv4cPTAAP5YTi-cf1e42d972beecce0e6451cb7fc99a0cbd158c3f-276751332ab931514fc003c0613aaee9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778256943-Kv4cPTAAP5YTi-614a1ad41149057b7f6957d659fd500fd5c37508-9492e67c519d0ab55047187f152a6099",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1629490247,
@@ -211,29 +181,6 @@
             }
         },
         {
-            "match_id": 1540881,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Crystal Palace vs Shakhtar Donetsk",
-            "slug": "crystal-palace-vs-shakhtar-donetsk-1540881",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Europa Conference League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Crystal Palace",
-                "away_name": "Shakhtar Donetsk",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Shakhtar%20Donetsk%20%20UEFA%20Europa%20Conference%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778180400,
-                "start_time_local": "08 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540873,
             "sport_name": "Football",
             "sport_id": 1,
@@ -280,21 +227,21 @@
             }
         },
         {
-            "match_id": 1629490819,
-            "sport_name": "Basketball",
-            "sport_id": 3,
-            "title": "Malaga vs AEK",
-            "slug": "malaga-vs-aek-bc-1629490819",
+            "match_id": 1540881,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Crystal Palace vs Shakhtar Donetsk",
+            "slug": "crystal-palace-vs-shakhtar-donetsk-1540881",
             "status": "NS",
             "league": {
-                "league_name": "Basketball Champions League",
+                "league_name": "UEFA Europa Conference League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Malaga",
-                "away_name": "AEK BC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20AEK%20BC%20%20Basketball%20Champions%20League.jpg"
+                "home_name": "Crystal Palace",
+                "away_name": "Shakhtar Donetsk",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Shakhtar%20Donetsk%20%20UEFA%20Europa%20Conference%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778180400,
@@ -326,6 +273,29 @@
             }
         },
         {
+            "match_id": 1629490819,
+            "sport_name": "Basketball",
+            "sport_id": 3,
+            "title": "Malaga vs AEK",
+            "slug": "malaga-vs-aek-bc-1629490819",
+            "status": "NS",
+            "league": {
+                "league_name": "Basketball Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Malaga",
+                "away_name": "AEK BC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Malaga%20VS%20AEK%20BC%20%20Basketball%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778180400,
+                "start_time_local": "08 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535190,
             "sport_name": "Football",
             "sport_id": 1,
@@ -341,52 +311,6 @@
                 "home_name": "Boston River",
                 "away_name": "Millonarios",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20River%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778191200,
-                "start_time_local": "08 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535291,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Mirassol vs LDU de Quito",
-            "slug": "mirassol-vs-ldu-de-quito-1535291",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mirassol",
-                "away_name": "LDU de Quito",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mirassol%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778191200,
-                "start_time_local": "08 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535292,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Platense vs Penarol",
-            "slug": "platense-vs-penarol-1535292",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Platense",
-                "away_name": "Penarol",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Platense%20VS%20Penarol%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778191200,
@@ -418,6 +342,52 @@
             }
         },
         {
+            "match_id": 1535292,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Platense vs Penarol",
+            "slug": "platense-vs-penarol-1535292",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Platense",
+                "away_name": "Penarol",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Platense%20VS%20Penarol%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778191200,
+                "start_time_local": "08 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535291,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mirassol vs LDU de Quito",
+            "slug": "mirassol-vs-ldu-de-quito-1535291",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mirassol",
+                "away_name": "LDU de Quito",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mirassol%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778191200,
+                "start_time_local": "08 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535284,
             "sport_name": "Football",
             "sport_id": 1,
@@ -441,11 +411,11 @@
             }
         },
         {
-            "match_id": 1535189,
+            "match_id": 1535192,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Blooming vs RB Bragantino",
-            "slug": "blooming-vs-rb-bragantino-1535189",
+            "title": "Carabobo FC vs River Plate",
+            "slug": "carabobo-fc-vs-river-plate-1535192",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -453,9 +423,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Blooming",
-                "away_name": "RB Bragantino",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Blooming%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Carabobo FC",
+                "away_name": "River Plate",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20River%20Plate%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778200200,
@@ -487,11 +457,11 @@
             }
         },
         {
-            "match_id": 1535192,
+            "match_id": 1535189,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Carabobo FC vs River Plate",
-            "slug": "carabobo-fc-vs-river-plate-1535192",
+            "title": "Blooming vs RB Bragantino",
+            "slug": "blooming-vs-rb-bragantino-1535189",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -499,36 +469,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Carabobo FC",
-                "away_name": "River Plate",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20River%20Plate%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Blooming",
+                "away_name": "RB Bragantino",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Blooming%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778200200,
                 "start_time_local": "08 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490249,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "BFL 87",
-            "slug": "bfl-87-1629490249",
-            "status": "NS",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778205600,
-                "start_time_local": "08 May 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -548,6 +495,29 @@
                 "home_name": "Junior",
                 "away_name": "Cerro Porteno",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Junior%20VS%20Cerro%20Porteno%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778205600,
+                "start_time_local": "08 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490249,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "BFL 87",
+            "slug": "bfl-87-1629490249",
+            "status": "NS",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778205600,
@@ -671,11 +641,11 @@
             }
         },
         {
-            "match_id": 1629490257,
+            "match_id": 1629490256,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
-            "slug": "fukuoka-softbank-hawks-vs-chiba-lotte-marines-1629490257",
+            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
+            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490256",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -683,9 +653,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
@@ -708,6 +678,29 @@
             "teams": {
                 "home_name": "ORIX Buffaloes",
                 "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778230800,
+                "start_time_local": "08 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490257,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
+            "slug": "fukuoka-softbank-hawks-vs-chiba-lotte-marines-1629490257",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Chiba Lotte Marines",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -778,29 +771,6 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490256,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
-            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490256",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
