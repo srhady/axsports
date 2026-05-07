@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:44 PM 07-05-2026"
+        "last_update_time": "07:15:48 PM 07-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=0ca86295037a7b8686f3b9e2eeff29f2d199eeb0&x-sign=60d5a79655d00820ec06ff9417304bb8&x-time=1778158800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=383440cfa82001623a9a35b637860c2e98c39543&x-sign=ad650806f3b14f5c6520cc71d76ab907&x-time=1778159700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,52 +60,19 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=0ca86295037a7b8686f3b9e2eeff29f2d199eeb0&x-sign=953ed87b668b32b087d672a9a7ef4871&x-time=1778158800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=383440cfa82001623a9a35b637860c2e98c39543&x-sign=6f719af6b194cd70e2eb13f1264695cc&x-time=1778159700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1629490244,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "hawthorn-vs-fremantle-1629490244",
-            "title": "Hawthorn vs Fremantle",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778148000,
-                "start_time_local": "07 May 2026, 04:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_hd/index.m3u8?is_vip=false&token=0ca86295037a7b8686f3b9e2eeff29f2d199eeb0&x-sign=ef830716460769d7be61326ab436a0c4&x-time=1778158800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 43,
-    "upcoming_matches": [
-        {
             "match_id": 1629490245,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "La Vuelta Femenina | Stage 5",
             "slug": "la-vuelta-femenina-or-stage-5-1629490245",
-            "status": "NS",
+            "title": "La Vuelta Femenina | Stage 5",
+            "status": "LIVE",
             "league": {
                 "league_name": "UCI Women's World Tour",
                 "league_logo": ""
@@ -118,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778160600,
-                "start_time_local": "07 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "07 May 2026, 07:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1410",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1410_hd/index.m3u8?is_vip=false&token=383440cfa82001623a9a35b637860c2e98c39543&x-sign=aa62a2c87169d97e62ec8b8c82e9d24b&x-time=1778159700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629490246,
             "sport_name": "Auto Racing",
@@ -192,29 +169,6 @@
             }
         },
         {
-            "match_id": 1629490248,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "title": "Night 14",
-            "slug": "night-14-1629490248",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778176800,
-                "start_time_local": "08 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1436201,
             "sport_name": "Football",
             "sport_id": 1,
@@ -238,6 +192,52 @@
             }
         },
         {
+            "match_id": 1629490248,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Night 14",
+            "slug": "night-14-1629490248",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778176800,
+                "start_time_local": "08 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540882,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Strasbourg vs Rayo Vallecano",
+            "slug": "strasbourg-vs-rayo-vallecano-1540882",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Europa Conference League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Strasbourg",
+                "away_name": "Rayo Vallecano",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Rayo%20Vallecano%20%20UEFA%20Europa%20Conference%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778180400,
+                "start_time_local": "08 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1540874,
             "sport_name": "Football",
             "sport_id": 1,
@@ -253,29 +253,6 @@
                 "home_name": "SC Freiburg",
                 "away_name": "SC Braga",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SC%20Freiburg%20VS%20SC%20Braga%20%20UEFA%20Europa%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778180400,
-                "start_time_local": "08 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1540873,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Aston Villa vs Nottingham Forest",
-            "slug": "aston-villa-vs-nottingham-forest-1540873",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Europa League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Aston Villa",
-                "away_name": "Nottingham Forest",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aston%20Villa%20VS%20Nottingham%20Forest%20%20UEFA%20Europa%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778180400,
@@ -307,29 +284,6 @@
             }
         },
         {
-            "match_id": 1540882,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Strasbourg vs Rayo Vallecano",
-            "slug": "strasbourg-vs-rayo-vallecano-1540882",
-            "status": "NS",
-            "league": {
-                "league_name": "UEFA Europa Conference League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Strasbourg",
-                "away_name": "Rayo Vallecano",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Rayo%20Vallecano%20%20UEFA%20Europa%20Conference%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778180400,
-                "start_time_local": "08 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540881,
             "sport_name": "Football",
             "sport_id": 1,
@@ -345,6 +299,29 @@
                 "home_name": "Crystal Palace",
                 "away_name": "Shakhtar Donetsk",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Shakhtar%20Donetsk%20%20UEFA%20Europa%20Conference%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778180400,
+                "start_time_local": "08 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540873,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Aston Villa vs Nottingham Forest",
+            "slug": "aston-villa-vs-nottingham-forest-1540873",
+            "status": "NS",
+            "league": {
+                "league_name": "UEFA Europa League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Aston Villa",
+                "away_name": "Nottingham Forest",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aston%20Villa%20VS%20Nottingham%20Forest%20%20UEFA%20Europa%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778180400,
@@ -399,29 +376,6 @@
             }
         },
         {
-            "match_id": 1535190,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Boston River vs Millonarios",
-            "slug": "boston-river-vs-millonarios-1535190",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Boston River",
-                "away_name": "Millonarios",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20River%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778191200,
-                "start_time_local": "08 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535291,
             "sport_name": "Football",
             "sport_id": 1,
@@ -437,6 +391,29 @@
                 "home_name": "Mirassol",
                 "away_name": "LDU de Quito",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mirassol%20VS%20LDU%20de%20Quito%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778191200,
+                "start_time_local": "08 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535190,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Boston River vs Millonarios",
+            "slug": "boston-river-vs-millonarios-1535190",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Boston River",
+                "away_name": "Millonarios",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boston%20River%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778191200,
@@ -698,29 +675,6 @@
             }
         },
         {
-            "match_id": 1629490256,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
-            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490256",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490258,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -805,6 +759,29 @@
                 "home_name": "Hanshin Tigers",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778230800,
+                "start_time_local": "08 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490256,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
+            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490256",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
