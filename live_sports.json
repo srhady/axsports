@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:44 PM 08-05-2026"
+        "last_update_time": "12:15:38 PM 08-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=c6b463e0927ff31bbd835c0e1e131afaee8e03fa&x-sign=e300bd04a204618e983de0b4e27751f4&x-time=1778220000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=a15d4b787435b01316ec0383db6bb1f7756fdb97&x-sign=0c616e9cf6f478407abe3bfc7cdab9c9&x-time=1778220900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=c6b463e0927ff31bbd835c0e1e131afaee8e03fa&x-sign=b5545749cf8a5d17317decd8b3bf1145&x-time=1778220000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=a15d4b787435b01316ec0383db6bb1f7756fdb97&x-sign=0ae5c106edba198726270190a0cafbe4&x-time=1778220900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490252,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Crusaders vs Blues",
             "slug": "crusaders-vs-blues-1629490252",
-            "status": "NS",
+            "title": "Crusaders vs Blues",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Rugby Pacific",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778221800,
-                "start_time_local": "08 May 2026, 12:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "08 May 2026, 12:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a15d4b787435b01316ec0383db6bb1f7756fdb97&x-sign=375b9bd6a2b80379630b32982c73be30&x-time=1778220900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629490254,
             "sport_name": "Rugby",
@@ -507,6 +514,121 @@
             }
         },
         {
+            "match_id": 1419970,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Catanzaro vs Bari",
+            "slug": "catanzaro-vs-bari-1419970",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Catanzaro",
+                "away_name": "Bari",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Catanzaro%20VS%20Bari%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778265000,
+                "start_time_local": "09 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419968,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Monza vs Empoli",
+            "slug": "monza-vs-empoli-1419968",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Monza",
+                "away_name": "Empoli",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%20VS%20Empoli%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778265000,
+                "start_time_local": "09 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419967,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Reggiana vs Sampdoria",
+            "slug": "reggiana-vs-sampdoria-1419967",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Reggiana",
+                "away_name": "Sampdoria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reggiana%20VS%20Sampdoria%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778265000,
+                "start_time_local": "09 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419965,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Venezia vs Palermo",
+            "slug": "venezia-vs-palermo-1419965",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Venezia",
+                "away_name": "Palermo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Venezia%20VS%20Palermo%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778265000,
+                "start_time_local": "09 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1419969,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Frosinone vs Mantova",
+            "slug": "frosinone-vs-mantova-1419969",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Frosinone",
+                "away_name": "Mantova",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Frosinone%20VS%20Mantova%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778265000,
+                "start_time_local": "09 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1380666,
             "sport_name": "Football",
             "sport_id": 1,
@@ -553,117 +675,25 @@
             }
         },
         {
-            "match_id": 1419969,
+            "match_id": 1387989,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Frosinone vs Mantova",
-            "slug": "frosinone-vs-mantova-1419969",
+            "title": "Lens vs Nantes",
+            "slug": "lens-vs-nantes-1387989",
             "status": "NS",
             "league": {
-                "league_name": "Serie B",
+                "league_name": "Ligue 1",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Frosinone",
-                "away_name": "Mantova",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Frosinone%20VS%20Mantova%20%20Serie%20B.jpg"
+                "home_name": "Lens",
+                "away_name": "Nantes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20VS%20Nantes%20%20Ligue%201.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778265000,
-                "start_time_local": "09 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419965,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Venezia vs Palermo",
-            "slug": "venezia-vs-palermo-1419965",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Venezia",
-                "away_name": "Palermo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Venezia%20VS%20Palermo%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778265000,
-                "start_time_local": "09 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419967,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Reggiana vs Sampdoria",
-            "slug": "reggiana-vs-sampdoria-1419967",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Reggiana",
-                "away_name": "Sampdoria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Reggiana%20VS%20Sampdoria%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778265000,
-                "start_time_local": "09 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419968,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Monza vs Empoli",
-            "slug": "monza-vs-empoli-1419968",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Monza",
-                "away_name": "Empoli",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%20VS%20Empoli%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778265000,
-                "start_time_local": "09 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1419970,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Catanzaro vs Bari",
-            "slug": "catanzaro-vs-bari-1419970",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Catanzaro",
-                "away_name": "Bari",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Catanzaro%20VS%20Bari%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778265000,
-                "start_time_local": "09 May 2026, 12:30 AM",
+                "start_time_timestamp": 1778265900,
+                "start_time_local": "09 May 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         },
@@ -683,29 +713,6 @@
                 "home_name": "Torino",
                 "away_name": "Sassuolo",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torino%20VS%20Sassuolo%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778265900,
-                "start_time_local": "09 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1387989,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lens vs Nantes",
-            "slug": "lens-vs-nantes-1387989",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lens",
-                "away_name": "Nantes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20VS%20Nantes%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778265900,
