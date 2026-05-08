@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:50 PM 08-05-2026"
+        "last_update_time": "02:46:21 PM 08-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778315427-Kv4cPTAAP5YTi-befd76a908f0875d5da535bb564aee79b3746b15-67ddec14b1cd029a4bbc83e2af7d7e3b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778316325-Kv4cPTAAP5YTi-8f3103fbdc973f243a08f958d7f0f7c07447e55f-dbf8958a3630d6bdbc8a5276a146db66",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=befd76a908f0875d5da535bb564aee79b3746b15&x-sign=4ae86e1e7ac32d03054df3203ff85b5f&x-time=1778229000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=a0ff9717c110db55b254a0eeff98361c&x-time=1778229900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,7 +66,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=befd76a908f0875d5da535bb564aee79b3746b15&x-sign=c30b0835c98f45fdd90079b99f66f523&x-time=1778229000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=e001dc2be1c9394e2ebb3d909a41ca1d&x-time=1778229900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,7 +96,7 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_hd/index.m3u8?is_vip=false&token=befd76a908f0875d5da535bb564aee79b3746b15&x-sign=3d65a8afff34c65a0a3967b3a0137196&x-time=1778229000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_hd/index.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=0206cf292d468d286116c5b625873b19&x-time=1778229900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,28 +126,25 @@
             "streams": [
                 {
                     "server_name": "143071",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143071_hd/index.m3u8?is_vip=false&token=befd76a908f0875d5da535bb564aee79b3746b15&x-sign=cef5acd2b1b2b504c49c6c8399819a6d&x-time=1778229000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143071_hd/index.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=fd3f3b850b97e87640af411ad42e9243&x-time=1778229900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=befd76a908f0875d5da535bb564aee79b3746b15&x-sign=9603bb44ba8cab2b6c2f85573b838faf&x-time=1778229000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=5a7adc88e5d29127ca6c0872aed90624&x-time=1778229900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 38,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490264,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 4",
             "slug": "day-4-1629490264",
-            "status": "NS",
+            "title": "Day 4",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -160,17 +157,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=e001dc2be1c9394e2ebb3d909a41ca1d&x-time=1778229900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490255,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
             "slug": "hanshin-tigers-vs-yokohama-dena-baystars-1629490255",
-            "status": "NS",
+            "title": "Hanshin Tigers vs Yokohama DeNA BayStars",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -183,17 +187,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=9388c5d9f29be8772085c3045c5c1dc4&x-time=1778229900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490256,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
             "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490256",
-            "status": "NS",
+            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -206,17 +217,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=d988cf0242d0339ca097a2547880a086&x-time=1778229960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490257,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
             "slug": "fukuoka-softbank-hawks-vs-chiba-lotte-marines-1629490257",
-            "status": "NS",
+            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -229,17 +247,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=46739655fa821346abc614a670f6e270&x-time=1778229960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490258,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
             "slug": "orix-buffaloes-vs-hokkaido-nippon-ham-fighters-1629490258",
-            "status": "NS",
+            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -252,17 +277,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=d8269c6b23c4979f03a0188cc7f55a78&x-time=1778229960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490263,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Queensland Reds vs Chiefs",
             "slug": "queensland-reds-vs-chiefs-1629490263",
-            "status": "NS",
+            "title": "Queensland Reds vs Chiefs",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Rugby Pacific",
                 "league_logo": ""
@@ -275,10 +307,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778230800,
-                "start_time_local": "08 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "08 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=8f3103fbdc973f243a08f958d7f0f7c07447e55f&x-sign=2ad41e6f4a5529c19669c650ce7e49a1&x-time=1778229960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 32,
+    "upcoming_matches": [
         {
             "match_id": 1629490265,
             "sport_name": "Cycling",
@@ -989,6 +1031,29 @@
             "timing": {
                 "start_time_timestamp": 1778310000,
                 "start_time_local": "09 May 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490507,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES1. Giro d'Italia, Stage 2",
+            "slug": "es1-giro-ditalia-stage-2-1629490507",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778316300,
+                "start_time_local": "09 May 2026, 02:45 PM",
                 "countdown_seconds": null
             }
         }
