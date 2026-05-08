@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:38 AM 09-05-2026"
+        "last_update_time": "04:15:34 AM 09-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=520914d455dbb6be66c291b6ffe04dbde31cdd2a&x-sign=4b48e8761e5cae94f08c05c19bf70e5d&x-time=1778277600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=d66547c31adffe60d06ad2ce9cc832dcbc9a71a5&x-sign=1a42a551efc3e0c3101c4d9736de47be&x-time=1778278500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,68 +60,15 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=520914d455dbb6be66c291b6ffe04dbde31cdd2a&x-sign=4b48e8761e5cae94f08c05c19bf70e5d&x-time=1778277600",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629490491,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "slug": "liv-golf-virginia-day-2-1629490491",
-            "title": "LIV Golf Virginia - Day 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "LIV Golf",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778263200,
-                "start_time_local": "09 May 2026, 12:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=520914d455dbb6be66c291b6ffe04dbde31cdd2a&x-sign=389a1304ce55632adfd041f7f82541c3&x-time=1778277600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_hd/index.m3u8?is_vip=false&token=d66547c31adffe60d06ad2ce9cc832dcbc9a71a5&x-sign=1a42a551efc3e0c3101c4d9736de47be&x-time=1778278500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 34,
+    "total_upcoming_matches": 35,
     "upcoming_matches": [
-        {
-            "match_id": 1629490497,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Highlanders vs Waratahs",
-            "slug": "highlanders-vs-waratahs-1629490497",
-            "status": "NS",
-            "league": {
-                "league_name": "Super Rugby Pacific",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Waratahs",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778299200,
-                "start_time_local": "09 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1542801,
             "sport_name": "Football",
@@ -146,11 +93,34 @@
             }
         },
         {
-            "match_id": 1629490501,
+            "match_id": 1629490497,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Highlanders vs Waratahs",
+            "slug": "highlanders-vs-waratahs-1629490497",
+            "status": "NS",
+            "league": {
+                "league_name": "Super Rugby Pacific",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Waratahs",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778299200,
+                "start_time_local": "09 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490500,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
-            "slug": "orix-buffaloes-vs-hokkaido-nippon-ham-fighters-1629490501",
+            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
+            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490500",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -158,9 +128,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778302800,
@@ -192,44 +162,21 @@
             }
         },
         {
-            "match_id": 1629490500,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
-            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629490500",
+            "match_id": 1504799,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mito Hollyhock vs Urawa",
+            "slug": "mito-hollyhock-vs-urawa-1504799",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778302800,
-                "start_time_local": "09 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490499,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
-            "slug": "fukuoka-softbank-hawks-vs-chiba-lotte-marines-1629490499",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+                "home_name": "Mito Hollyhock",
+                "away_name": "Urawa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Urawa%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778302800,
@@ -261,21 +208,44 @@
             }
         },
         {
-            "match_id": 1504799,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Mito Hollyhock vs Urawa",
-            "slug": "mito-hollyhock-vs-urawa-1504799",
+            "match_id": 1629490501,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Hokkaido Nippon-Ham Fighters",
+            "slug": "orix-buffaloes-vs-hokkaido-nippon-ham-fighters-1629490501",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Mito Hollyhock",
-                "away_name": "Urawa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mito%20Hollyhock%20VS%20Urawa%20%20J1%20League.jpg"
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778302800,
+                "start_time_local": "09 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490499,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Chiba Lotte Marines",
+            "slug": "fukuoka-softbank-hawks-vs-chiba-lotte-marines-1629490499",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778302800,
@@ -399,29 +369,6 @@
             }
         },
         {
-            "match_id": 1629490509,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Brumbies vs Force",
-            "slug": "act-brumbies-vs-western-force-1629490509",
-            "status": "NS",
-            "league": {
-                "league_name": "Super Rugby Pacific",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "ACT Brumbies",
-                "away_name": "Western Force",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ACT%20Brumbies%20VS%20Western%20Force%20%20Super%20Rugby%20Pacific.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778317200,
-                "start_time_local": "09 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490508,
             "sport_name": "MMA",
             "sport_id": 17,
@@ -437,6 +384,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778317200,
+                "start_time_local": "09 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490509,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Brumbies vs Force",
+            "slug": "act-brumbies-vs-western-force-1629490509",
+            "status": "NS",
+            "league": {
+                "league_name": "Super Rugby Pacific",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ACT Brumbies",
+                "away_name": "Western Force",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ACT%20Brumbies%20VS%20Western%20Force%20%20Super%20Rugby%20Pacific.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778317200,
@@ -491,29 +461,6 @@
             }
         },
         {
-            "match_id": 1397279,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Sociedad W vs Granada",
-            "slug": "real-sociedad-w-vs-granada-1397279",
-            "status": "NS",
-            "league": {
-                "league_name": "Primera División Femenina",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Sociedad W",
-                "away_name": "Granada",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20W%20VS%20Granada%20%20Primera%20Divisi%C3%B3n%20Femenina.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778320800,
-                "start_time_local": "09 May 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1401380,
             "sport_name": "Football",
             "sport_id": 1,
@@ -537,25 +484,25 @@
             }
         },
         {
-            "match_id": 1629490513,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "title": "Day 2 - Afternoon Session",
-            "slug": "day-2-afternoon-session-1629490513",
+            "match_id": 1397279,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Sociedad W vs Granada",
+            "slug": "real-sociedad-w-vs-granada-1397279",
             "status": "NS",
             "league": {
-                "league_name": "Austrian Darts Open",
+                "league_name": "Primera División Femenina",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Real Sociedad W",
+                "away_name": "Granada",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20W%20VS%20Granada%20%20Primera%20Divisi%C3%B3n%20Femenina.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778324400,
-                "start_time_local": "09 May 2026, 05:00 PM",
+                "start_time_timestamp": 1778320800,
+                "start_time_local": "09 May 2026, 04:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -575,6 +522,29 @@
                 "home_name": "Aston Villa W",
                 "away_name": "Arsenal W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aston%20Villa%20W%20VS%20Arsenal%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778324400,
+                "start_time_local": "09 May 2026, 05:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388903,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Eintracht Braunschweig vs Dynamo Dresden",
+            "slug": "eintracht-braunschweig-vs-dynamo-dresden-1388903",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Eintracht Braunschweig",
+                "away_name": "Dynamo Dresden",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eintracht%20Braunschweig%20VS%20Dynamo%20Dresden%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778324400,
@@ -629,37 +599,14 @@
             }
         },
         {
-            "match_id": 1388903,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Eintracht Braunschweig vs Dynamo Dresden",
-            "slug": "eintracht-braunschweig-vs-dynamo-dresden-1388903",
+            "match_id": 1629490513,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Day 2 - Afternoon Session",
+            "slug": "day-2-afternoon-session-1629490513",
             "status": "NS",
             "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Eintracht Braunschweig",
-                "away_name": "Dynamo Dresden",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eintracht%20Braunschweig%20VS%20Dynamo%20Dresden%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778324400,
-                "start_time_local": "09 May 2026, 05:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490514,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Race: 6 Hours of Spa-Francorchamps",
-            "slug": "race-6-hours-of-spa-francorchamps-1629490514",
-            "status": "NS",
-            "league": {
-                "league_name": "WEC",
+                "league_name": "Austrian Darts Open",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -669,8 +616,8 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1778326200,
-                "start_time_local": "09 May 2026, 05:30 PM",
+                "start_time_timestamp": 1778324400,
+                "start_time_local": "09 May 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -690,6 +637,29 @@
                 "home_name": "Liverpool",
                 "away_name": "Chelsea",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Chelsea%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778326200,
+                "start_time_local": "09 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490514,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Race: 6 Hours of Spa-Francorchamps",
+            "slug": "race-6-hours-of-spa-francorchamps-1629490514",
+            "status": "NS",
+            "league": {
+                "league_name": "WEC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778326200,
@@ -790,6 +760,52 @@
             }
         },
         {
+            "match_id": 1388603,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "VfB Stuttgart vs Bayer Leverkusen",
+            "slug": "vfb-stuttgart-vs-bayer-leverkusen-1388603",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "VfB Stuttgart",
+                "away_name": "Bayer Leverkusen",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20VS%20Bayer%20Leverkusen%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778333400,
+                "start_time_local": "09 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388602,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "RB Leipzig vs FC St. Pauli",
+            "slug": "rb-leipzig-vs-fc-st-pauli-1388602",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "RB Leipzig",
+                "away_name": "FC St. Pauli",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20FC%20St.%20Pauli%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778333400,
+                "start_time_local": "09 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1388596,
             "sport_name": "Football",
             "sport_id": 1,
@@ -836,48 +852,25 @@
             }
         },
         {
-            "match_id": 1388602,
+            "match_id": 1401378,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "RB Leipzig vs FC St. Pauli",
-            "slug": "rb-leipzig-vs-fc-st-pauli-1388602",
+            "title": "Bayern Munich W vs Eintracht Frankfurt W",
+            "slug": "bayern-munich-w-vs-eintracht-frankfurt-w-1401378",
             "status": "NS",
             "league": {
-                "league_name": "Bundesliga",
+                "league_name": "Frauen Bundesliga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "RB Leipzig",
-                "away_name": "FC St. Pauli",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Leipzig%20VS%20FC%20St.%20Pauli%20%20Bundesliga.jpg"
+                "home_name": "Bayern Munich W",
+                "away_name": "Eintracht Frankfurt W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20Munich%20W%20VS%20Eintracht%20Frankfurt%20W%20%20Frauen%20Bundesliga.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778333400,
-                "start_time_local": "09 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388603,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "VfB Stuttgart vs Bayer Leverkusen",
-            "slug": "vfb-stuttgart-vs-bayer-leverkusen-1388603",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "VfB Stuttgart",
-                "away_name": "Bayer Leverkusen",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfB%20Stuttgart%20VS%20Bayer%20Leverkusen%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778333400,
-                "start_time_local": "09 May 2026, 07:30 PM",
+                "start_time_timestamp": 1778334300,
+                "start_time_local": "09 May 2026, 07:45 PM",
                 "countdown_seconds": null
             }
         }
