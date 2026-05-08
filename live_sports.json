@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:43 AM 08-05-2026"
+        "last_update_time": "09:45:39 AM 08-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "274844",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_hd/index.m3u8?is_vip=false&token=bf821a635316428a3204b43a78d910d19e41a71f&x-sign=dd38462a05d90f2063c4d90b0b9c9568&x-time=1778211000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_hd/index.m3u8?is_vip=false&token=32b07ec64c4875db6b305371866efd548550b6c7&x-sign=e50f7b92b653e1123485bdb56ae31ded&x-time=1778211900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "274844",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_hd/index.m3u8?is_vip=false&token=1778297433-Kv4cPTAAP5YTi-bf821a635316428a3204b43a78d910d19e41a71f-b265d591da47a529efdab9b89b7eb598",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_hd/index.m3u8?is_vip=false&token=1778298320-Kv4cPTAAP5YTi-32b07ec64c4875db6b305371866efd548550b6c7-451d0d9ff33bb6781e45a75713498919",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,34 +66,31 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_hd/index.m3u8?is_vip=false&token=bf821a635316428a3204b43a78d910d19e41a71f&x-sign=14e314825bb88ff27bcf37918a400a64&x-time=1778211000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_hd/index.m3u8?is_vip=false&token=32b07ec64c4875db6b305371866efd548550b6c7&x-sign=4aba022ac769b37d2789547c47beec9e&x-time=1778211900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1778297439-Kv4cPTAAP5YTi-bf821a635316428a3204b43a78d910d19e41a71f-7f2a2692cab0b2dc2b73fc71879db578",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1778298326-Kv4cPTAAP5YTi-32b07ec64c4875db6b305371866efd548550b6c7-eae340960d91c38a8ddf5286987a05ce",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=bf821a635316428a3204b43a78d910d19e41a71f&x-sign=e2f81e4ac5e6e8ca174d65146845d8e0&x-time=1778211000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=32b07ec64c4875db6b305371866efd548550b6c7&x-sign=aacf10a6a59478c9f5092240ba9fdd6a&x-time=1778211900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490251,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Chunichi Dragons",
             "slug": "saitama-seibu-lions-vs-chunichi-dragons-1629490251",
-            "status": "NS",
+            "title": "Saitama Seibu Lions vs Chunichi Dragons",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -106,17 +103,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778212800,
-                "start_time_local": "08 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=32b07ec64c4875db6b305371866efd548550b6c7&x-sign=c657245fb2e2b1f6ec42a2894f66a5ab&x-time=1778211900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490250,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Tokyo Yakult Swallows",
             "slug": "tohoku-rakuten-golden-eagles-vs-tokyo-yakult-swallows-1629490250",
-            "status": "NS",
+            "title": "Tohoku Rakuten Golden Eagles vs Tokyo Yakult Swallows",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -129,10 +133,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778212800,
-                "start_time_local": "08 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "08 May 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=32b07ec64c4875db6b305371866efd548550b6c7&x-sign=832aba8b6c295312ef9611881edf1c12&x-time=1778211900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1629490252,
             "sport_name": "Rugby",
