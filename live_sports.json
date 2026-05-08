@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:31 AM 08-05-2026"
+        "last_update_time": "07:45:50 AM 08-05-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,79 @@
             "streams": [
                 {
                     "server_name": "274846",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274846_hd/index.m3u8?is_vip=false&token=d4381a718704980fa3f40dea5af51559048a9dee&x-sign=531c379ea519e79c4b9dcd837c719344&x-time=1778203800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274846_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=ebe922624a65e68e9b9158cdc7af6105&x-time=1778204700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 37,
-    "upcoming_matches": [
+        },
+        {
+            "match_id": 1535192,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "carabobo-fc-vs-river-plate-1535192",
+            "title": "Carabobo FC vs River Plate",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carabobo FC",
+                "away_name": "River Plate",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carabobo%20FC%20VS%20River%20Plate%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778200200,
+                "start_time_local": "08 May 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=adb7e56583baa348a7db429d86743e89&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1535189,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "blooming-vs-rb-bragantino-1535189",
+            "title": "Blooming vs RB Bragantino",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Blooming",
+                "away_name": "RB Bragantino",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Blooming%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778200200,
+                "start_time_local": "08 May 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=73fc2fa9699c1cd2c56c04103f71a565&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629490249,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "BFL 87",
             "slug": "bfl-87-1629490249",
-            "status": "NS",
+            "title": "BFL 87",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -58,17 +115,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1778205600,
-                "start_time_local": "08 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "08 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=c02a96d652d148750883b9f064a20779&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=8e5214e75a689fc0cc0f49cd7cf75cee&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1535289,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Junior vs Cerro Porteno",
             "slug": "junior-vs-cerro-porteno-1535289",
-            "status": "NS",
+            "title": "Junior vs Cerro Porteno",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
@@ -81,10 +151,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778205600,
-                "start_time_local": "08 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "08 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274844",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=11f5b7f215b2dea3d265221a1ac48586&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_hd/index.m3u8?is_vip=false&token=433c2c008ec2bca785fc1ddbbc035f2fe7503971&x-sign=adb7e56583baa348a7db429d86743e89&x-time=1778204700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629490251,
             "sport_name": "Baseball",
