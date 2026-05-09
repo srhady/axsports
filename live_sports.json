@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:43 PM 09-05-2026"
+        "last_update_time": "02:45:59 PM 09-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=aa4db6aba99b7b9df0a9f05289922961&x-time=1778315400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=096e8752435fdb5b670d3ad401c3f70a&x-time=1778316300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "161360",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=4353ea613587993537000c73629179b3&x-time=1778315400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=c5d1c80ed531cbeabfde66dcc3d2e8a0&x-time=1778316300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=cebcf31e716fab6be3eaeaa85ebc95d8&x-time=1778315400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=3539da712f5d7c6552dc965ecf46fe8a&x-time=1778316300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,22 +120,19 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=17c61b10e3b36ce1cb93ccb907656223&x-time=1778315400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=f54d1738bc81549e236d811523774c16&x-time=1778316300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490510,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 5",
             "slug": "day-5-1629490510",
-            "status": "NS",
+            "title": "Day 5",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -148,17 +145,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778317200,
-                "start_time_local": "09 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "09 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=b675263c58c5106b0b073b3c39ca36f1&x-time=1778316300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490508,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "ZFN 04",
             "slug": "zfn-04-1629490508",
-            "status": "NS",
+            "title": "ZFN 04",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -171,17 +175,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778317200,
-                "start_time_local": "09 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "09 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_hd/index.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=e2a6fc370a8eb76c7625f0349b5e8ea9&x-time=1778316300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629490509,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Brumbies vs Force",
             "slug": "act-brumbies-vs-western-force-1629490509",
-            "status": "NS",
+            "title": "Brumbies vs Force",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Rugby Pacific",
                 "league_logo": ""
@@ -194,10 +205,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778317200,
-                "start_time_local": "09 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "09 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4a68e57dee911f91feb25bc531a402acd81a1c78&x-sign=096e8752435fdb5b670d3ad401c3f70a&x-time=1778316300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629490511,
             "sport_name": "Auto Racing",
