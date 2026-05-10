@@ -3,18 +3,46 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:26 AM 10-05-2026"
+        "last_update_time": "08:15:28 AM 10-05-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 21,
-    "upcoming_matches": [
+    "live_matches": [
+        {
+            "match_id": 1629490533,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "chimaev-vs-strickland-1629490533",
+            "title": "CHIMAEV vs STRICKLAND",
+            "status": "LIVE",
+            "league": {
+                "league_name": "UFC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778374800,
+                "start_time_local": "10 May 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "54015",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54015_hd/index.m3u8?is_vip=false&token=bc3a2ebf90f1aef92622504b3d51234118878305&x-sign=6e4ddaefe0f18b925aa9df2f9995827a&x-time=1778379300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1542802,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Wellington Phoenix W vs Brisbane Roar FC W",
             "slug": "wellington-phoenix-w-vs-brisbane-roar-fc-w-1542802",
-            "status": "NS",
+            "title": "Wellington Phoenix W vs Brisbane Roar FC W",
+            "status": "LIVE",
             "league": {
                 "league_name": "A-League Women",
                 "league_logo": ""
@@ -27,10 +55,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778380200,
-                "start_time_local": "10 May 2026, 08:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "10 May 2026, 08:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "323",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_hd/index.m3u8?is_vip=false&token=bc3a2ebf90f1aef92622504b3d51234118878305&x-sign=d1ebe664c37d406c355830109b7131f2&x-time=1778379300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 23,
+    "upcoming_matches": [
         {
             "match_id": 1629490534,
             "sport_name": "Auto Racing",
@@ -55,29 +93,6 @@
             }
         },
         {
-            "match_id": 1504802,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Vissel Kobe vs Fagiano Okayama",
-            "slug": "vissel-kobe-vs-fagiano-okayama-1504802",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Vissel Kobe",
-                "away_name": "Fagiano Okayama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778389200,
-                "start_time_local": "10 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504801,
             "sport_name": "Football",
             "sport_id": 1,
@@ -93,52 +108,6 @@
                 "home_name": "Shimizu S-pulse",
                 "away_name": "Avispa Fukuoka",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778389200,
-                "start_time_local": "10 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504803,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Yokohama F. Marinos vs Kashima",
-            "slug": "yokohama-f-marinos-vs-kashima-1504803",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yokohama F. Marinos",
-                "away_name": "Kashima",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Kashima%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778389200,
-                "start_time_local": "10 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490544,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Adelaide Crows vs Richmond Tigers",
-            "slug": "adelaide-crows-vs-richmond-tigers-1629490544",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Adelaide Crows",
-                "away_name": "Richmond Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20Crows%20VS%20Richmond%20Tigers%20%20AFL%20Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778389200,
@@ -170,11 +139,11 @@
             }
         },
         {
-            "match_id": 1504804,
+            "match_id": 1504802,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC Tokyo vs Tokyo Verdy",
-            "slug": "fc-tokyo-vs-tokyo-verdy-1504804",
+            "title": "Vissel Kobe vs Fagiano Okayama",
+            "slug": "vissel-kobe-vs-fagiano-okayama-1504802",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -182,13 +151,59 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "FC Tokyo",
-                "away_name": "Tokyo Verdy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
+                "home_name": "Vissel Kobe",
+                "away_name": "Fagiano Okayama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1778392800,
-                "start_time_local": "10 May 2026, 12:00 PM",
+                "start_time_timestamp": 1778389200,
+                "start_time_local": "10 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490544,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Adelaide Crows vs Richmond Tigers",
+            "slug": "adelaide-crows-vs-richmond-tigers-1629490544",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Adelaide Crows",
+                "away_name": "Richmond Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adelaide%20Crows%20VS%20Richmond%20Tigers%20%20AFL%20Premiership.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778389200,
+                "start_time_local": "10 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504803,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Yokohama F. Marinos vs Kashima",
+            "slug": "yokohama-f-marinos-vs-kashima-1504803",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yokohama F. Marinos",
+                "away_name": "Kashima",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Kashima%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778389200,
+                "start_time_local": "10 May 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -208,6 +223,29 @@
                 "home_name": "Gamba Osaka",
                 "away_name": "Sanfrecce Hiroshima",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20VS%20Sanfrecce%20Hiroshima%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778392800,
+                "start_time_local": "10 May 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504804,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Tokyo vs Tokyo Verdy",
+            "slug": "fc-tokyo-vs-tokyo-verdy-1504804",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Tokyo",
+                "away_name": "Tokyo Verdy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778392800,
@@ -285,29 +323,6 @@
             }
         },
         {
-            "match_id": 1629490546,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "Tour of Azerbaijan | Stage 1",
-            "slug": "tour-of-azerbaijan-or-stage-1-1629490546",
-            "status": "NS",
-            "league": {
-                "league_name": "UCI Europe Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778400000,
-                "start_time_local": "10 May 2026, 02:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504808,
             "sport_name": "Football",
             "sport_id": 1,
@@ -323,6 +338,29 @@
                 "home_name": "JEF United Chiba",
                 "away_name": "Machida Zelvia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Machida%20Zelvia%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778400000,
+                "start_time_local": "10 May 2026, 02:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490546,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "Tour of Azerbaijan | Stage 1",
+            "slug": "tour-of-azerbaijan-or-stage-1-1629490546",
+            "status": "NS",
+            "league": {
+                "league_name": "UCI Europe Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778400000,
@@ -484,6 +522,75 @@
                 "home_name": "Gent",
                 "away_name": "Anderlecht",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gent%20VS%20Anderlecht%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388910,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Preußen Münster vs SV Darmstadt 98",
+            "slug": "preussen-munster-vs-sv-darmstadt-98-1388910",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Preußen Münster",
+                "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388905,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hertha BSC vs SpVgg Greuther Fürth",
+            "slug": "hertha-bsc-vs-spvgg-greuther-furth-1388905",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hertha BSC",
+                "away_name": "SpVgg Greuther Fürth",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%20SpVgg%20Greuther%20F%C3%BCrth%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388904,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fortuna Düsseldorf vs SV Elversberg",
+            "slug": "fortuna-dusseldorf-vs-sv-elversberg-1388904",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fortuna Düsseldorf",
+                "away_name": "SV Elversberg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortuna%20D%C3%BCsseldorf%20VS%20SV%20Elversberg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778412600,
