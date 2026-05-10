@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:44 AM 10-05-2026"
+        "last_update_time": "09:15:38 AM 10-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "54015",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54015_hd/index.m3u8?is_vip=false&token=e0730e38e36d05fd6bc8d9a68f09751c4d051a94&x-sign=99a12a61fc3012b54770f2d4b35840f3&x-time=1778382000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54015_hd/index.m3u8?is_vip=false&token=4afce40f1deaf23cd0678970ae8b56b29be29bfd&x-sign=24a918e019d36548efdf55fcbf1cd303&x-time=1778382900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "323",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_hd/index.m3u8?is_vip=false&token=e0730e38e36d05fd6bc8d9a68f09751c4d051a94&x-sign=d79b43c84e85f0569353cbc717b2b5bb&x-time=1778382000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_hd/index.m3u8?is_vip=false&token=4afce40f1deaf23cd0678970ae8b56b29be29bfd&x-sign=9acd16884ea9fef098febfaca04efb27&x-time=1778382900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=e0730e38e36d05fd6bc8d9a68f09751c4d051a94&x-sign=47ee30778172d49866bd6164881b0598&x-time=1778382000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4afce40f1deaf23cd0678970ae8b56b29be29bfd&x-sign=6652ddcab2fd31a4185db5bb1b1815df&x-time=1778382900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -99,29 +99,6 @@
     ],
     "total_upcoming_matches": 27,
     "upcoming_matches": [
-        {
-            "match_id": 1504803,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Yokohama F. Marinos vs Kashima",
-            "slug": "yokohama-f-marinos-vs-kashima-1504803",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yokohama F. Marinos",
-                "away_name": "Kashima",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Kashima%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778389200,
-                "start_time_local": "10 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1504801,
             "sport_name": "Football",
@@ -161,6 +138,29 @@
                 "home_name": "Vissel Kobe",
                 "away_name": "Fagiano Okayama",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778389200,
+                "start_time_local": "10 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504803,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Yokohama F. Marinos vs Kashima",
+            "slug": "yokohama-f-marinos-vs-kashima-1504803",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yokohama F. Marinos",
+                "away_name": "Kashima",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yokohama%20F.%20Marinos%20VS%20Kashima%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778389200,
@@ -215,29 +215,6 @@
             }
         },
         {
-            "match_id": 1504804,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "FC Tokyo vs Tokyo Verdy",
-            "slug": "fc-tokyo-vs-tokyo-verdy-1504804",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "FC Tokyo",
-                "away_name": "Tokyo Verdy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778392800,
-                "start_time_local": "10 May 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504805,
             "sport_name": "Football",
             "sport_id": 1,
@@ -253,6 +230,29 @@
                 "home_name": "Gamba Osaka",
                 "away_name": "Sanfrecce Hiroshima",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gamba%20Osaka%20VS%20Sanfrecce%20Hiroshima%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778392800,
+                "start_time_local": "10 May 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504804,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Tokyo vs Tokyo Verdy",
+            "slug": "fc-tokyo-vs-tokyo-verdy-1504804",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Tokyo",
+                "away_name": "Tokyo Verdy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Tokyo%20Verdy%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778392800,
@@ -537,29 +537,6 @@
             }
         },
         {
-            "match_id": 1388910,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Preußen Münster vs SV Darmstadt 98",
-            "slug": "preussen-munster-vs-sv-darmstadt-98-1388910",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Preußen Münster",
-                "away_name": "SV Darmstadt 98",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778412600,
-                "start_time_local": "10 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388905,
             "sport_name": "Football",
             "sport_id": 1,
@@ -575,6 +552,29 @@
                 "home_name": "Hertha BSC",
                 "away_name": "SpVgg Greuther Fürth",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%20SpVgg%20Greuther%20F%C3%BCrth%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388910,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Preußen Münster vs SV Darmstadt 98",
+            "slug": "preussen-munster-vs-sv-darmstadt-98-1388910",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Preußen Münster",
+                "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778412600,
@@ -698,11 +698,11 @@
             }
         },
         {
-            "match_id": 1379325,
+            "match_id": 1379320,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Nottingham Forest vs Newcastle",
-            "slug": "nottingham-forest-vs-newcastle-1379325",
+            "title": "Burnley vs Aston Villa",
+            "slug": "burnley-vs-aston-villa-1379320",
             "status": "NS",
             "league": {
                 "league_name": "Premier League",
@@ -710,9 +710,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Nottingham Forest",
-                "away_name": "Newcastle",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Newcastle%20%20Premier%20League.jpg"
+                "home_name": "Burnley",
+                "away_name": "Aston Villa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Burnley%20VS%20Aston%20Villa%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778418000,
