@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:33 AM 10-05-2026"
+        "last_update_time": "10:30:38 AM 10-05-2026"
     },
     "live_matches": [
         {
@@ -30,37 +30,7 @@
             "streams": [
                 {
                     "server_name": "54015",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54015_hd/index.m3u8?is_vip=false&token=a06a9c2cf93ade58f3c0c1e5435e10ea841cf4ba&x-sign=ef8328ca39e08a114471aa2564a4e642&x-time=1778386500",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1542802,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "wellington-phoenix-w-vs-brisbane-roar-fc-w-1542802",
-            "title": "Wellington Phoenix W vs Brisbane Roar FC W",
-            "status": "LIVE",
-            "league": {
-                "league_name": "A-League Women",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Wellington Phoenix W",
-                "away_name": "Brisbane Roar FC W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wellington%20Phoenix%20W%20VS%20Brisbane%20Roar%20FC%20W%20%20A-League%20Women.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778380200,
-                "start_time_local": "10 May 2026, 08:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "323",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_hd/index.m3u8?is_vip=false&token=a06a9c2cf93ade58f3c0c1e5435e10ea841cf4ba&x-sign=89f98184eff4d66d7d6b254169972bc8&x-time=1778386500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/54015_hd/index.m3u8?is_vip=false&token=5727a063980d6cf479814697def4b21ef41e13eb&x-sign=398749c7e738ea6ba36dc021c062e590&x-time=1778387400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,15 +60,68 @@
             "streams": [
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=a06a9c2cf93ade58f3c0c1e5435e10ea841cf4ba&x-sign=96d5c53e44b04065bbf63bf328fb2755&x-time=1778386500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_hd/index.m3u8?is_vip=false&token=5727a063980d6cf479814697def4b21ef41e13eb&x-sign=227debf113cd76dd10e539dd32bfd924&x-time=1778387400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1542917,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "cruz-azul-vs-atlas-1542917",
+            "title": "Cruz Azul vs Atlas",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Liga MX",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cruz Azul",
+                "away_name": "Atlas",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20VS%20Atlas%20%20Liga%20MX.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778382900,
+                "start_time_local": "10 May 2026, 09:15 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_hd/index.m3u8?is_vip=false&token=5727a063980d6cf479814697def4b21ef41e13eb&x-sign=b72c55cc5c14cb0a2107eddf479109b0&x-time=1778387400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 28,
+    "total_upcoming_matches": 31,
     "upcoming_matches": [
+        {
+            "match_id": 1506972,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ulsan Hyundai FC vs Bucheon FC 1995",
+            "slug": "ulsan-hyundai-fc-vs-bucheon-fc-1995-1506972",
+            "status": "NS",
+            "league": {
+                "league_name": "K League 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ulsan Hyundai FC",
+                "away_name": "Bucheon FC 1995",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ulsan%20Hyundai%20FC%20VS%20Bucheon%20FC%201995%20%20K%20League%201.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778389200,
+                "start_time_local": "10 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1504801,
             "sport_name": "Football",
@@ -115,29 +138,6 @@
                 "home_name": "Shimizu S-pulse",
                 "away_name": "Avispa Fukuoka",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shimizu%20S-pulse%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778389200,
-                "start_time_local": "10 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1504802,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Vissel Kobe vs Fagiano Okayama",
-            "slug": "vissel-kobe-vs-fagiano-okayama-1504802",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Vissel Kobe",
-                "away_name": "Fagiano Okayama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778389200,
@@ -169,21 +169,21 @@
             }
         },
         {
-            "match_id": 1506972,
+            "match_id": 1504802,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Ulsan Hyundai FC vs Bucheon FC 1995",
-            "slug": "ulsan-hyundai-fc-vs-bucheon-fc-1995-1506972",
+            "title": "Vissel Kobe vs Fagiano Okayama",
+            "slug": "vissel-kobe-vs-fagiano-okayama-1504802",
             "status": "NS",
             "league": {
-                "league_name": "K League 1",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Ulsan Hyundai FC",
-                "away_name": "Bucheon FC 1995",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ulsan%20Hyundai%20FC%20VS%20Bucheon%20FC%201995%20%20K%20League%201.jpg"
+                "home_name": "Vissel Kobe",
+                "away_name": "Fagiano Okayama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vissel%20Kobe%20VS%20Fagiano%20Okayama%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778389200,
@@ -284,29 +284,6 @@
             }
         },
         {
-            "match_id": 1504806,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Kashiwa Reysol vs Kawasaki Frontale",
-            "slug": "kashiwa-reysol-vs-kawasaki-frontale-1504806",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Kashiwa Reysol",
-                "away_name": "Kawasaki Frontale",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20Kawasaki%20Frontale%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778396400,
-                "start_time_local": "10 May 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504807,
             "sport_name": "Football",
             "sport_id": 1,
@@ -322,6 +299,29 @@
                 "home_name": "Nagoya Grampus",
                 "away_name": "Kyoto Sanga",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nagoya%20Grampus%20VS%20Kyoto%20Sanga%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778396400,
+                "start_time_local": "10 May 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504806,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashiwa Reysol vs Kawasaki Frontale",
+            "slug": "kashiwa-reysol-vs-kawasaki-frontale-1504806",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Kashiwa Reysol",
+                "away_name": "Kawasaki Frontale",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20Kawasaki%20Frontale%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778396400,
@@ -560,29 +560,6 @@
             }
         },
         {
-            "match_id": 1388905,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Hertha BSC vs SpVgg Greuther Fürth",
-            "slug": "hertha-bsc-vs-spvgg-greuther-furth-1388905",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hertha BSC",
-                "away_name": "SpVgg Greuther Fürth",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%20SpVgg%20Greuther%20F%C3%BCrth%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778412600,
-                "start_time_local": "10 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1388904,
             "sport_name": "Football",
             "sport_id": 1,
@@ -598,6 +575,29 @@
                 "home_name": "Fortuna Düsseldorf",
                 "away_name": "SV Elversberg",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortuna%20D%C3%BCsseldorf%20VS%20SV%20Elversberg%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388905,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Hertha BSC vs SpVgg Greuther Fürth",
+            "slug": "hertha-bsc-vs-spvgg-greuther-furth-1388905",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hertha BSC",
+                "away_name": "SpVgg Greuther Fürth",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%20SpVgg%20Greuther%20F%C3%BCrth%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778412600,
@@ -736,6 +736,75 @@
                 "home_name": "Cremonese",
                 "away_name": "Pisa",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cremonese%20VS%20Pisa%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778418000,
+                "start_time_local": "10 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378216,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fiorentina vs Genoa",
+            "slug": "fiorentina-vs-genoa-1378216",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fiorentina",
+                "away_name": "Genoa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fiorentina%20VS%20Genoa%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778418000,
+                "start_time_local": "10 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379325,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Nottingham Forest vs Newcastle",
+            "slug": "nottingham-forest-vs-newcastle-1379325",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Nottingham Forest",
+                "away_name": "Newcastle",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Newcastle%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778418000,
+                "start_time_local": "10 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379321,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Crystal Palace vs Everton",
+            "slug": "crystal-palace-vs-everton-1379321",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Crystal Palace",
+                "away_name": "Everton",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Everton%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778418000,
