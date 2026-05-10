@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:40 PM 10-05-2026"
+        "last_update_time": "04:00:55 PM 10-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b8dfe0f0374b5e7ea5fa2ab1151fe85ed18537bf&x-sign=72d59264d3275b978528e8c97a858738&x-time=1778406300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=1ebc9fe449478a2335216155783fe18fc168f445&x-sign=f023d1f7affeb94d4e75b390d69cc009&x-time=1778407200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "161360",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=b8dfe0f0374b5e7ea5fa2ab1151fe85ed18537bf&x-sign=72f54ab880e8e7ffda832642fa5a2de6&x-time=1778406300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_hd/index.m3u8?is_vip=false&token=1ebc9fe449478a2335216155783fe18fc168f445&x-sign=65aa50f748598a124281444243cb3b42&x-time=1778407200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=b8dfe0f0374b5e7ea5fa2ab1151fe85ed18537bf&x-sign=553a30098993c3ab834d29c35e0baf99&x-time=1778406300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=1ebc9fe449478a2335216155783fe18fc168f445&x-sign=8052561a9d96b4ba7a9050987bbb1df0&x-time=1778407200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,22 +120,19 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=b8dfe0f0374b5e7ea5fa2ab1151fe85ed18537bf&x-sign=3bef7ec57a8ff91fff57c15a7d3e760e&x-time=1778406300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419_hd/index.m3u8?is_vip=false&token=1ebc9fe449478a2335216155783fe18fc168f445&x-sign=4eae970176ce5a698f350a2aa22dfa53&x-time=1778407200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 35,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1380667,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Piast Gliwice vs GKS Katowice",
             "slug": "piast-gliwice-vs-gks-katowice-1380667",
-            "status": "NS",
+            "title": "Piast Gliwice vs GKS Katowice",
+            "status": "LIVE",
             "league": {
                 "league_name": "Ekstraklasa",
                 "league_logo": ""
@@ -148,10 +145,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778408100,
-                "start_time_local": "10 May 2026, 04:15 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "10 May 2026, 04:15 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=1ebc9fe449478a2335216155783fe18fc168f445&x-sign=9772b0fff035c973a990a1fbb5dbe87a&x-time=1778407200",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1378223,
             "sport_name": "Football",
@@ -199,29 +206,6 @@
             }
         },
         {
-            "match_id": 1388904,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Fortuna Düsseldorf vs SV Elversberg",
-            "slug": "fortuna-dusseldorf-vs-sv-elversberg-1388904",
-            "status": "NS",
-            "league": {
-                "league_name": "2. Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fortuna Düsseldorf",
-                "away_name": "SV Elversberg",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortuna%20D%C3%BCsseldorf%20VS%20SV%20Elversberg%20%202.%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778412600,
-                "start_time_local": "10 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1536996,
             "sport_name": "Football",
             "sport_id": 1,
@@ -245,11 +229,11 @@
             }
         },
         {
-            "match_id": 1388910,
+            "match_id": 1388904,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Preußen Münster vs SV Darmstadt 98",
-            "slug": "preussen-munster-vs-sv-darmstadt-98-1388910",
+            "title": "Fortuna Düsseldorf vs SV Elversberg",
+            "slug": "fortuna-dusseldorf-vs-sv-elversberg-1388904",
             "status": "NS",
             "league": {
                 "league_name": "2. Bundesliga",
@@ -257,9 +241,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Preußen Münster",
-                "away_name": "SV Darmstadt 98",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
+                "home_name": "Fortuna Düsseldorf",
+                "away_name": "SV Elversberg",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fortuna%20D%C3%BCsseldorf%20VS%20SV%20Elversberg%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778412600,
@@ -283,6 +267,29 @@
                 "home_name": "Hertha BSC",
                 "away_name": "SpVgg Greuther Fürth",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hertha%20BSC%20VS%20SpVgg%20Greuther%20F%C3%BCrth%20%202.%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778412600,
+                "start_time_local": "10 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388910,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Preußen Münster vs SV Darmstadt 98",
+            "slug": "preussen-munster-vs-sv-darmstadt-98-1388910",
+            "status": "NS",
+            "league": {
+                "league_name": "2. Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Preußen Münster",
+                "away_name": "SV Darmstadt 98",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Preu%C3%9Fen%20M%C3%BCnster%20VS%20SV%20Darmstadt%2098%20%202.%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778412600,
@@ -889,29 +896,6 @@
             }
         },
         {
-            "match_id": 1629490562,
-            "sport_name": "Sailing",
-            "sport_id": 22,
-            "title": "Day 2",
-            "slug": "day-2-1629490562",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778432400,
-                "start_time_local": "10 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1397273,
             "sport_name": "Football",
             "sport_id": 1,
@@ -927,6 +911,52 @@
                 "home_name": "Granad. Tenerife W",
                 "away_name": "Barcelona W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Granad.%20Tenerife%20W%20VS%20Barcelona%20W%20%20Primera%20Divisi%C3%B3n%20Femenina.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778432400,
+                "start_time_local": "10 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1396525,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "AVS vs FC Porto",
+            "slug": "avs-vs-fc-porto-1396525",
+            "status": "NS",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "AVS",
+                "away_name": "FC Porto",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778432400,
+                "start_time_local": "10 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490562,
+            "sport_name": "Sailing",
+            "sport_id": 22,
+            "title": "Day 2",
+            "slug": "day-2-1629490562",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778432400,
