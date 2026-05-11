@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:39 PM 11-05-2026"
+        "last_update_time": "10:45:55 PM 11-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=4bae67f565fd22bd5a9bc36f253b633fc3a3739a&x-sign=9f090c7f17467f8c5b25cc8ebf5d7d19&x-time=1778517000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445_hd/index.m3u8?is_vip=false&token=2ff2b50de8fa6daf3032f1a735379c65231cb141&x-sign=909033f6b243cc9d972dbf9b9c9fc3ee&x-time=1778517900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=4bae67f565fd22bd5a9bc36f253b633fc3a3739a&x-sign=cf9482bf1ce7d88de4b2b1a175b0a740&x-time=1778517000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=2ff2b50de8fa6daf3032f1a735379c65231cb141&x-sign=0b48c45944679f0fe007245c555ab5b3&x-time=1778517900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1380663,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Cracovia Krakow vs Radomiak Radom",
             "slug": "cracovia-krakow-vs-radomiak-radom-1380663",
-            "status": "NS",
+            "title": "Cracovia Krakow vs Radomiak Radom",
+            "status": "LIVE",
             "league": {
                 "league_name": "Ekstraklasa",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778518800,
-                "start_time_local": "11 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "11 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_hd/index.m3u8?is_vip=false&token=2ff2b50de8fa6daf3032f1a735379c65231cb141&x-sign=5461070833faa8c874103eb2393aceca&x-time=1778517900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1436199,
             "sport_name": "Football",
