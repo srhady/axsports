@@ -3,9 +3,39 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:37 PM 11-05-2026"
+        "last_update_time": "01:15:35 PM 11-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629491059,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-channel-1629491059",
+            "title": "Auto Racing Channel",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778464896,
+                "start_time_local": "11 May 2026, 08:01 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_hd/index.m3u8?is_vip=false&token=99232bbaa80a5c0203234e998b633cad89ee22f6&x-sign=3e511ed8fd1cbc9329d9afcef20132e2&x-time=1778483700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491060,
             "sport_name": "Tennis",
@@ -30,14 +60,14 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=dda3f1c3a803b1b8e83a4d1b7e2df9eea69e975b&x-sign=fe8b1f2943717d6e28a9d7256a893706&x-time=1778482800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=99232bbaa80a5c0203234e998b633cad89ee22f6&x-sign=7f3d3dc5eb55c565aa140f48e41cd930&x-time=1778483700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 48,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1629490569,
