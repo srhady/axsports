@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:38 PM 11-05-2026"
+        "last_update_time": "01:45:41 PM 11-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_hd/index.m3u8?is_vip=false&token=e20f67af6580722ce2df61aea6f630720dc385b2&x-sign=253c55d4d1c6ebfe46a4a434af0111ef&x-time=1778484600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_hd/index.m3u8?is_vip=false&token=9d86d42ee247723cfa9ff7e065974caac45c2065&x-sign=5bf20dc91916ae2a93f79bafffebfa94&x-time=1778485500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=e20f67af6580722ce2df61aea6f630720dc385b2&x-sign=3c90f69be7e6c45e82796140d7a842ef&x-time=1778484600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612_hd/index.m3u8?is_vip=false&token=9d86d42ee247723cfa9ff7e065974caac45c2065&x-sign=01d1ea790a8a5bfafd6cfefa231946a1&x-time=1778485500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490569,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "Tour of Azerbaijan | Stage 2",
             "slug": "tour-of-azerbaijan-or-stage-2-1629490569",
-            "status": "NS",
+            "title": "Tour of Azerbaijan | Stage 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "UCI Europe Tour",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778486400,
-                "start_time_local": "11 May 2026, 02:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "11 May 2026, 02:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1418",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418_hd/index.m3u8?is_vip=false&token=9d86d42ee247723cfa9ff7e065974caac45c2065&x-sign=e1b0e6a6f06bf16fbc0033cead8bb5c6&x-time=1778485500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1629490570,
             "sport_name": "Tennis",
