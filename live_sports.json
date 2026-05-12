@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:37 PM 12-05-2026"
+        "last_update_time": "10:45:41 PM 12-05-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c74d50ebb85906426334bf0e9f50fd17a15de371&x-sign=6e976927b6e6502ab3635ed05b1117cb&x-time=1778603400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=49869432a09f158ff8ed7bfa89e135c361de1ece&x-sign=cb614f7393eb8b1b1c600e55ef7930cd&x-time=1778604300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1391171,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Celta Vigo vs Levante",
             "slug": "celta-vigo-vs-levante-1391171",
-            "status": "NS",
+            "title": "Celta Vigo vs Levante",
+            "status": "LIVE",
             "league": {
                 "league_name": "La Liga",
                 "league_logo": ""
@@ -58,10 +55,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778605200,
-                "start_time_local": "12 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "12 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "112520",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=49869432a09f158ff8ed7bfa89e135c361de1ece&x-sign=b56ab319d26e81d9c9afe7aca6b76d81&x-time=1778604300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=49869432a09f158ff8ed7bfa89e135c361de1ece&x-sign=7285d7cc398ae3b0f926a888ba490055&x-time=1778604300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1436194,
             "sport_name": "Football",
