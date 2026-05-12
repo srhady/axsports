@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:46 AM 13-05-2026"
+        "last_update_time": "12:16:00 AM 13-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,37 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=cead7639f4699c32392c1af7d2dc56cfa4af1dab&x-sign=6a0e4735749294cc76795487ba26ff31&x-time=1778608800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=274a5833925ab54e5181d5858e4607215e2c471b&x-sign=dfb82072ba54d55ea24193ed7b696bde&x-time=1778609700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1391171,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "celta-vigo-vs-levante-1391171",
+            "title": "Celta Vigo vs Levante",
+            "status": "LIVE",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Celta Vigo",
+                "away_name": "Levante",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celta%20Vigo%20VS%20Levante%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778605200,
+                "start_time_local": "12 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=274a5833925ab54e5181d5858e4607215e2c471b&x-sign=10f4c3fd16a1e2e68f5b9e20a9624105&x-time=1778609700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=cead7639f4699c32392c1af7d2dc56cfa4af1dab&x-sign=d8a8f5a631bb846d88e92c1884835889&x-time=1778608800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=274a5833925ab54e5181d5858e4607215e2c471b&x-sign=a0f8c8128a6c34c63c3a4f603eb5f5d9&x-time=1778609700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,45 +120,19 @@
             "streams": [
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=cead7639f4699c32392c1af7d2dc56cfa4af1dab&x-sign=c866b82ca4663cda41d81d0a66557804&x-time=1778608800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=274a5833925ab54e5181d5858e4607215e2c471b&x-sign=87b1ecac7783f0a23218563abefaccc7&x-time=1778609700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
-        {
-            "match_id": 1544684,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "RED Star FC 93 vs Rodez",
-            "slug": "red-star-fc-93-vs-rodez-1544684",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "RED Star FC 93",
-                "away_name": "Rodez",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RED%20Star%20FC%2093%20VS%20Rodez%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778610600,
-                "start_time_local": "13 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
         },
         {
             "match_id": 1629491107,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Thiago Agustin Tirante vs Daniil Medvedev",
             "slug": "thiago-agustin-tirante-vs-daniil-medvedev-1629491107",
-            "status": "NS",
+            "title": "Thiago Agustin Tirante vs Daniil Medvedev",
+            "status": "LIVE",
             "league": {
                 "league_name": "Italian Open Tennis",
                 "league_logo": ""
@@ -141,10 +145,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778610600,
-                "start_time_local": "13 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "13 May 2026, 12:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=274a5833925ab54e5181d5858e4607215e2c471b&x-sign=c6a4c15c03c0e833633e05c5f93dd032&x-time=1778609700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
             "match_id": 1543789,
             "sport_name": "Football",
