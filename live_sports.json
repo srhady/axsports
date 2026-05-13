@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:34 PM 13-05-2026"
+        "last_update_time": "08:30:43 PM 13-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=63e27d24ba7c8d24156fb5eb335f7fb2c6f9328e&x-sign=40420bbea284fff3afaa15918a3f4a1c&x-time=1778681700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=35902eb9adc5fbad8d9bb2f8dad5d8d9fcb6fa7c&x-sign=ca9442301f8a605031190415572dd39f&x-time=1778682600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,14 +60,14 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=63e27d24ba7c8d24156fb5eb335f7fb2c6f9328e&x-sign=3fd4d4ce65fc18fa32f28651e403db1d&x-time=1778681700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=35902eb9adc5fbad8d9bb2f8dad5d8d9fcb6fa7c&x-sign=96fca09285e8d14cafb605715f7e9525&x-time=1778682600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1380654,
@@ -116,29 +116,6 @@
             }
         },
         {
-            "match_id": 1391178,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Villarreal vs Sevilla",
-            "slug": "villarreal-vs-sevilla-1391178",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Villarreal",
-                "away_name": "Sevilla",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Villarreal%20VS%20Sevilla%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778691600,
-                "start_time_local": "13 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1391172,
             "sport_name": "Football",
             "sport_id": 1,
@@ -154,6 +131,29 @@
                 "home_name": "Espanyol",
                 "away_name": "Athletic Club",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20VS%20Athletic%20Club%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778691600,
+                "start_time_local": "13 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391178,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Villarreal vs Sevilla",
+            "slug": "villarreal-vs-sevilla-1391178",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Villarreal",
+                "away_name": "Sevilla",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Villarreal%20VS%20Sevilla%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778691600,
@@ -231,6 +231,52 @@
             }
         },
         {
+            "match_id": 1542548,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lazio vs Inter",
+            "slug": "lazio-vs-inter-1542548",
+            "status": "NS",
+            "league": {
+                "league_name": "Coppa Italia",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lazio",
+                "away_name": "Inter",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lazio%20VS%20Inter%20%20Coppa%20Italia.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778698800,
+                "start_time_local": "14 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379275,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Manchester City vs Crystal Palace",
+            "slug": "manchester-city-vs-crystal-palace-1379275",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Manchester City",
+                "away_name": "Crystal Palace",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20VS%20Crystal%20Palace%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778698800,
+                "start_time_local": "14 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1544063,
             "sport_name": "Football",
             "sport_id": 1,
@@ -269,52 +315,6 @@
                 "home_name": "Lens",
                 "away_name": "Paris Saint Germain",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20VS%20Paris%20Saint%20Germain%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778698800,
-                "start_time_local": "14 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379275,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Manchester City vs Crystal Palace",
-            "slug": "manchester-city-vs-crystal-palace-1379275",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Manchester City",
-                "away_name": "Crystal Palace",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20VS%20Crystal%20Palace%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778698800,
-                "start_time_local": "14 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1542548,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lazio vs Inter",
-            "slug": "lazio-vs-inter-1542548",
-            "status": "NS",
-            "league": {
-                "league_name": "Coppa Italia",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lazio",
-                "away_name": "Inter",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lazio%20VS%20Inter%20%20Coppa%20Italia.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778698800,
@@ -438,29 +438,6 @@
             }
         },
         {
-            "match_id": 1629491098,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491098",
-            "status": "NS",
-            "league": {
-                "league_name": "TOYOTA Thailand Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778724000,
-                "start_time_local": "14 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491099,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -507,6 +484,29 @@
             }
         },
         {
+            "match_id": 1629491098,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629491098",
+            "status": "NS",
+            "league": {
+                "league_name": "TOYOTA Thailand Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778724000,
+                "start_time_local": "14 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491100,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -530,29 +530,6 @@
             }
         },
         {
-            "match_id": 1629490790,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Chiba Lotte Marines",
-            "slug": "tokyo-yakult-swallows-vs-chiba-lotte-marines-1629490790",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chiba%20Lotte%20Marines%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778729400,
-                "start_time_local": "14 May 2026, 09:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490789,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -568,6 +545,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778729400,
+                "start_time_local": "14 May 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490790,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Chiba Lotte Marines",
+            "slug": "tokyo-yakult-swallows-vs-chiba-lotte-marines-1629490790",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chiba%20Lotte%20Marines%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778729400,
@@ -645,29 +645,6 @@
             }
         },
         {
-            "match_id": 1629490794,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
-            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629490794",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778749200,
-                "start_time_local": "14 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490795,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -682,6 +659,29 @@
             "teams": {
                 "home_name": "Chiba Lotte Marines",
                 "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778749200,
+                "start_time_local": "14 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490794,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Chunichi Dragons",
+            "slug": "yokohama-dena-baystars-vs-chunichi-dragons-1629490794",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Chunichi Dragons",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
