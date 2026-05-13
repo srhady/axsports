@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:40 AM 14-05-2026"
+        "last_update_time": "03:45:44 AM 14-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=285563703f2b8e930cbe558752fb911b46185729&x-sign=f5b909a667968c626f319afad2ac816b&x-time=1778707800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=3ecf8f938ab9dde1e6efd4a834a4f8597339f64c&x-sign=4ab9aabd9a3c467c3c51ac00fb016638&x-time=1778708700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,22 +60,19 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=285563703f2b8e930cbe558752fb911b46185729&x-sign=36d4679bdea69d5215f1519c61d57080&x-time=1778707800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=3ecf8f938ab9dde1e6efd4a834a4f8597339f64c&x-sign=55ca2d879e1301f4f3dd30812545f276&x-time=1778708700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 35,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491101,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Juventude vs São Paulo",
             "slug": "juventude-vs-sao-paulo-1629491101",
-            "status": "NS",
+            "title": "Juventude vs São Paulo",
+            "status": "LIVE",
             "league": {
                 "league_name": "Copa do Brazil",
                 "league_logo": ""
@@ -88,10 +85,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778709600,
-                "start_time_local": "14 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "14 May 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "112521",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/chunks.m3u8?is_vip=false&token=3ecf8f938ab9dde1e6efd4a834a4f8597339f64c&x-sign=63ea673dba23f21fb137026180f80eb6&x-time=1778708700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1544852,
             "sport_name": "Football",
