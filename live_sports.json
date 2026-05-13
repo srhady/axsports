@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:51 PM 13-05-2026"
+        "last_update_time": "10:45:54 PM 13-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8568c430dbcad46ca993f33a3e33d0de6262dce5&x-sign=921a35c5ea9793449e7a6aa8274b9d88&x-time=1778689800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=e5cc1faa5105b64f026cb9b10a665270&x-time=1778690700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=8568c430dbcad46ca993f33a3e33d0de6262dce5&x-sign=980ce40ae7c93503011c7101f01ca566&x-time=1778689800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=12d01559f879b4d1e9bb258e97e37dc3&x-time=1778690700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +90,19 @@
             "streams": [
                 {
                     "server_name": "274844",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=8568c430dbcad46ca993f33a3e33d0de6262dce5&x-sign=469b1214616223db502570a68877d694&x-time=1778689800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=8aa3bda7dcba44b1065009c29b6deeb8&x-time=1778690700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1391178,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Villarreal vs Sevilla",
             "slug": "villarreal-vs-sevilla-1391178",
-            "status": "NS",
+            "title": "Villarreal vs Sevilla",
+            "status": "LIVE",
             "league": {
                 "league_name": "La Liga",
                 "league_logo": ""
@@ -118,17 +115,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778691600,
-                "start_time_local": "13 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "13 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "112521",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=2a37f05d1a46709a85a3abd7628a94d6&x-time=1778690700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1387951,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Stade Brestois 29 vs Strasbourg",
             "slug": "stade-brestois-29-vs-strasbourg-1387951",
-            "status": "NS",
+            "title": "Stade Brestois 29 vs Strasbourg",
+            "status": "LIVE",
             "league": {
                 "league_name": "Ligue 1",
                 "league_logo": ""
@@ -141,17 +145,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1778691600,
-                "start_time_local": "13 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "13 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=78d07d0c982c502bcb897e0e34b0f019&x-time=1778690700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1391172,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Espanyol vs Athletic Club",
             "slug": "espanyol-vs-athletic-club-1391172",
-            "status": "NS",
+            "title": "Espanyol vs Athletic Club",
+            "status": "LIVE",
             "league": {
                 "league_name": "La Liga",
                 "league_logo": ""
@@ -164,10 +175,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778691600,
-                "start_time_local": "13 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "13 May 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "51328",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/51328/chunks.m3u8?is_vip=false&token=8cf72fb5c519932f7455b5ee6b056716033c8250&x-sign=6b6c62736509deb3d791c619f6cc62b1&x-time=1778690700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1542692,
             "sport_name": "Football",
