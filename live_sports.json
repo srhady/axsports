@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:37 AM 15-05-2026"
+        "last_update_time": "02:45:49 AM 15-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=c310f13f335728efd93bad4e9231abe0311b5294&x-sign=83f2c1b1a0b1dfb8348ed97495e75c2d&x-time=1778790600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=1afef891aac3eae9fca52a654026db65&x-time=1778791500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c310f13f335728efd93bad4e9231abe0311b5294&x-sign=de677b1641728bdf2234254251a37b0b&x-time=1778790600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=9ad696448f3a526c697acd54664b880a&x-time=1778791500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,13 +90,49 @@
             "streams": [
                 {
                     "server_name": "284",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284/chunks.m3u8?is_vip=false&token=c310f13f335728efd93bad4e9231abe0311b5294&x-sign=df36e3a1db8e54f5867aae9b63e1ddba&x-time=1778790600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/284/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=11d5f06d2b0aa0a3441d46da580e86f3&x-time=1778791500",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c310f13f335728efd93bad4e9231abe0311b5294&x-sign=7275cc1630f6a943fc1d9c245432ac67&x-time=1778790600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=15987fd994142a99e112590e0efb1ded&x-time=1778791500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1391176,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "real-madrid-vs-oviedo-1391176",
+            "title": "Real Madrid vs Oviedo",
+            "status": "LIVE",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Madrid",
+                "away_name": "Oviedo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20VS%20Oviedo%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778787000,
+                "start_time_local": "15 May 2026, 01:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=b634d782456d9ca68d33149cc979c473&x-time=1778791500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "112520",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=e9caacb0bda7dd0636f5df47e11d495a30e4407a&x-sign=a0368f7c2c7e53f2de66d35cbdcccb80&x-time=1778791500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -336,11 +372,11 @@
             }
         },
         {
-            "match_id": 1629490811,
+            "match_id": 1629490809,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
-            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629490811",
+            "title": "Chiba Lotte Marines vs Orix Buffaloes",
+            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629490809",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -348,8 +384,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Hiroshima Toyo Carp",
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -382,29 +418,6 @@
             }
         },
         {
-            "match_id": 1629490809,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Orix Buffaloes",
-            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629490809",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778835600,
-                "start_time_local": "15 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490808,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -419,6 +432,29 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778835600,
+                "start_time_local": "15 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490811,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
+            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629490811",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
