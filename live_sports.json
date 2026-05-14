@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:48 AM 15-05-2026"
+        "last_update_time": "12:45:55 AM 15-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8dc11e17be29a8dcb8a5c68b631ea7d703a0123d&x-sign=894355864f913d3096384a85cbd30d40&x-time=1778783400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=2870e7989a0e7bb2ebcdda741244d0cf&x-time=1778784300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,13 +60,13 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8dc11e17be29a8dcb8a5c68b631ea7d703a0123d&x-sign=9123f72619b67a377a612764fdb48896&x-time=1778783400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=ef0d5b9407f613eb0a5b858521d2a205&x-time=1778784300",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=8dc11e17be29a8dcb8a5c68b631ea7d703a0123d&x-sign=a10303b35cd2fb37ea22f46b4e9d075a&x-time=1778783400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=38395422068a8586ec9175710e7db508&x-time=1778784300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -96,7 +96,7 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8dc11e17be29a8dcb8a5c68b631ea7d703a0123d&x-sign=398d48877321d2f49c384577db9a081e&x-time=1778783400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=7b032da0dad4ca90796a96a4dd7cec9e&x-time=1778784300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -126,22 +126,19 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8dc11e17be29a8dcb8a5c68b631ea7d703a0123d&x-sign=9027419d4157213e9a002ce391d9b5c4&x-time=1778783400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=8ab33fe6c926b55e6b6d8be4ed4c7659&x-time=1778784300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1544064,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bradford vs Bolton",
             "slug": "bradford-vs-bolton-1544064",
-            "status": "NS",
+            "title": "Bradford vs Bolton",
+            "status": "LIVE",
             "league": {
                 "league_name": "League One",
                 "league_logo": ""
@@ -154,10 +151,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778785200,
-                "start_time_local": "15 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "15 May 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=50de61f8ee690b8d0ead96ec2570f297d9c303df&x-sign=254000851988604b1862aedc42e0865f&x-time=1778784300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1391176,
             "sport_name": "Football",
@@ -707,6 +714,29 @@
             "timing": {
                 "start_time_timestamp": 1778869800,
                 "start_time_local": "16 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490841,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Northampton Saints vs Bristol Bears",
+            "slug": "northampton-saints-vs-bristol-bears-1629490841",
+            "status": "NS",
+            "league": {
+                "league_name": "PREM Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Northampton Saints",
+                "away_name": "Bristol Bears",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northampton%20Saints%20VS%20Bristol%20Bears%20%20PREM%20Rugby.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778870700,
+                "start_time_local": "16 May 2026, 12:45 AM",
                 "countdown_seconds": null
             }
         }
