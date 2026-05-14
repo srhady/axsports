@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:36 PM 14-05-2026"
+        "last_update_time": "01:45:38 PM 14-05-2026"
     },
     "live_matches": [
         {
@@ -30,37 +30,7 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=bb29a67966e22a65ca64707d961b429a1105790c&x-sign=4eb6d716c7ea5caf3ac5c871e8c4aea4&x-time=1778743800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491099,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-3-1629491099",
-            "title": "Court 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "TOYOTA Thailand Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778724000,
-                "start_time_local": "14 May 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=bb29a67966e22a65ca64707d961b429a1105790c&x-sign=ec432b32363810ccbad8d946ed0bc4d3&x-time=1778743800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=a6a5cf11146f5d05756a886aa533b811&x-time=1778744700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,22 +60,49 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=bb29a67966e22a65ca64707d961b429a1105790c&x-sign=3b5405847df80afb17cd4a8bd0e8b42c&x-time=1778743800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=4333751e71c06a305683edbee7bb19ce&x-time=1778744700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
+        {
+            "match_id": 1629491099,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-3-1629491099",
+            "title": "Court 3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "TOYOTA Thailand Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778724000,
+                "start_time_local": "14 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=04db25044bbc3108093a2720e2657df7&x-time=1778744700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629490793,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "Tour of Azerbaijan | Stage 5",
             "slug": "tour-of-azerbaijan-or-stage-5-1629490793",
-            "status": "NS",
+            "title": "Tour of Azerbaijan | Stage 5",
+            "status": "LIVE",
             "league": {
                 "league_name": "UCI Europe Tour",
                 "league_logo": ""
@@ -118,10 +115,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778745600,
-                "start_time_local": "14 May 2026, 02:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "14 May 2026, 02:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=68f60ba61a595627537304c0ee6e8ddee6f20796&x-sign=a9fd8f19ceece71cd9c883c52be2094d&x-time=1778744700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1629490795,
             "sport_name": "Baseball",
@@ -445,29 +452,6 @@
             }
         },
         {
-            "match_id": 1629490804,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
-            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629490804",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778817600,
-                "start_time_local": "15 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490803,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -481,6 +465,29 @@
             "venue": "TBA",
             "teams": {
                 "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778817600,
+                "start_time_local": "15 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490804,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
+            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629490804",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
                 "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
