@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:34 PM 14-05-2026"
+        "last_update_time": "11:30:38 PM 14-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=bce8556334d67318c5daf73bfbca0bdede6ba678&x-sign=9267d4669746341049d7a201e02fac0c&x-time=1778778900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=2c0f5648ce79138c1d16489fd657b9bd&x-time=1778779800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,13 +60,13 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=bce8556334d67318c5daf73bfbca0bdede6ba678&x-sign=adcd1811e4352768a853308f0840efd8&x-time=1778778900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=d72a034b0248b7f176ec7fc7d0f982e2&x-time=1778779800",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=bce8556334d67318c5daf73bfbca0bdede6ba678&x-sign=4282e64c22d17bd57604315d0ded9372&x-time=1778778900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/chunks.m3u8?is_vip=false&token=52dab064bf39f740f7d17f91d45843acd4d67659&x-sign=89fbec3c6baafc4c0ec7e29c655a2956&x-time=1778779800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -75,29 +75,6 @@
     ],
     "total_upcoming_matches": 46,
     "upcoming_matches": [
-        {
-            "match_id": 1629490800,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "title": "Night 15",
-            "slug": "night-15-1629490800",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778781600,
-                "start_time_local": "15 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1391174,
             "sport_name": "Football",
@@ -114,6 +91,29 @@
                 "home_name": "Girona",
                 "away_name": "Real Sociedad",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Girona%20VS%20Real%20Sociedad%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778781600,
+                "start_time_local": "15 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490800,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Night 15",
+            "slug": "night-15-1629490800",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778781600,
@@ -191,11 +191,11 @@
             }
         },
         {
-            "match_id": 1629491254,
+            "match_id": 1629491255,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491254",
+            "title": "Court 3",
+            "slug": "court-3-1629491255",
             "status": "NS",
             "league": {
                 "league_name": "TOYOTA Thailand Open",
@@ -214,11 +214,11 @@
             }
         },
         {
-            "match_id": 1629491255,
+            "match_id": 1629491254,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629491255",
+            "title": "Court 2",
+            "slug": "court-2-1629491254",
             "status": "NS",
             "league": {
                 "league_name": "TOYOTA Thailand Open",
@@ -260,29 +260,6 @@
             }
         },
         {
-            "match_id": 1629490804,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
-            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629490804",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778817600,
-                "start_time_local": "15 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490803,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -298,6 +275,29 @@
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778817600,
+                "start_time_local": "15 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490804,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
+            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629490804",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778817600,
@@ -398,11 +398,11 @@
             }
         },
         {
-            "match_id": 1629490809,
+            "match_id": 1629490811,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Orix Buffaloes",
-            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629490809",
+            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
+            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629490811",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -410,8 +410,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "ORIX Buffaloes",
+                "home_name": "Hanshin Tigers",
+                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -444,6 +444,29 @@
             }
         },
         {
+            "match_id": 1629490809,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Orix Buffaloes",
+            "slug": "chiba-lotte-marines-vs-orix-buffaloes-1629490809",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778835600,
+                "start_time_local": "15 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629490808,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -458,29 +481,6 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778835600,
-                "start_time_local": "15 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490811,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Hiroshima Toyo Carp",
-            "slug": "hanshin-tigers-vs-hiroshima-toyo-carp-1629490811",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
