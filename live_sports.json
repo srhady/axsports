@@ -3,18 +3,16 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:26 AM 15-05-2026"
+        "last_update_time": "06:15:23 AM 15-05-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+    "live_matches": [
         {
             "match_id": 1629491253,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Vitória vs Flamengo",
             "slug": "vitoria-vs-flamengo-1629491253",
-            "status": "NS",
+            "title": "Vitória vs Flamengo",
+            "status": "LIVE",
             "league": {
                 "league_name": "Copa do Brazil",
                 "league_logo": ""
@@ -27,33 +25,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778805000,
-                "start_time_local": "15 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491255,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629491255",
-            "status": "NS",
-            "league": {
-                "league_name": "TOYOTA Thailand Open",
-                "league_logo": ""
+                "start_time_local": "15 May 2026, 06:30 AM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778810400,
-                "start_time_local": "15 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+            "streams": [
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=d1f031fbedf4a49ba70c0efa79d03bdad0493538&x-sign=a42b8427b76aee56527011703db10695&x-time=1778804100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629490802,
             "sport_name": "Baseball",
@@ -166,6 +151,29 @@
             "timing": {
                 "start_time_timestamp": 1778821200,
                 "start_time_local": "15 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491255,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629491255",
+            "status": "NS",
+            "league": {
+                "league_name": "TOYOTA Thailand Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778821800,
+                "start_time_local": "15 May 2026, 11:10 AM",
                 "countdown_seconds": null
             }
         },
@@ -308,29 +316,6 @@
             }
         },
         {
-            "match_id": 1629490808,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Tokyo Yakult Swallows",
-            "slug": "chunichi-dragons-vs-tokyo-yakult-swallows-1629490808",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778835600,
-                "start_time_local": "15 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490810,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -345,6 +330,29 @@
             "teams": {
                 "home_name": "Yomiuri Giants",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778835600,
+                "start_time_local": "15 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490808,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Tokyo Yakult Swallows",
+            "slug": "chunichi-dragons-vs-tokyo-yakult-swallows-1629490808",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -584,29 +592,6 @@
             }
         },
         {
-            "match_id": 1543763,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Notts County vs Chesterfield",
-            "slug": "notts-county-vs-chesterfield-1543763",
-            "status": "NS",
-            "league": {
-                "league_name": "League Two",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Notts County",
-                "away_name": "Chesterfield",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Notts%20County%20VS%20Chesterfield%20%20League%20Two.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778871600,
-                "start_time_local": "16 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1379330,
             "sport_name": "Football",
             "sport_id": 1,
@@ -622,6 +607,29 @@
                 "home_name": "Aston Villa",
                 "away_name": "Liverpool",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Aston%20Villa%20VS%20Liverpool%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778871600,
+                "start_time_local": "16 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1543763,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Notts County vs Chesterfield",
+            "slug": "notts-county-vs-chesterfield-1543763",
+            "status": "NS",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Notts County",
+                "away_name": "Chesterfield",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Notts%20County%20VS%20Chesterfield%20%20League%20Two.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778871600,
