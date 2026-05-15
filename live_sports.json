@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:40 PM 15-05-2026"
+        "last_update_time": "09:45:39 PM 15-05-2026"
     },
     "live_matches": [
         {
@@ -30,64 +30,25 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1778945430-Kv4cPTAAP5YTi-b1a3524bd50e6df76b78227fa21590b4ed34f000-36d4e2881ce4727b89f712defd6a3900",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1778946328-Kv4cPTAAP5YTi-3547dfee3810fca8de8ea9243c9bc0649eb554aa-4baaf30e9b00bd21a1a833a62b64ef75",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=b1a3524bd50e6df76b78227fa21590b4ed34f000&x-sign=525898be2ac3c41946ea74ffe493a087&x-time=1778859000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=3547dfee3810fca8de8ea9243c9bc0649eb554aa&x-sign=71b486c738d0f142d01db820797cbdb1&x-time=1778859900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         },
         {
-            "match_id": 1629490815,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "one-friday-fights-154-1629490815",
-            "title": "ONE Friday Fights 154",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778851800,
-                "start_time_local": "15 May 2026, 07:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1778945436-Kv4cPTAAP5YTi-b1a3524bd50e6df76b78227fa21590b4ed34f000-e7377743197711c7d976289892ee6d65",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=b1a3524bd50e6df76b78227fa21590b4ed34f000&x-sign=07c250eeee8984e5601284afde3202a6&x-time=1778859000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
-        {
             "match_id": 1380680,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Zaglebie Lubin vs Pogon Szczecin",
             "slug": "zaglebie-lubin-vs-pogon-szczecin-1380680",
-            "status": "NS",
+            "title": "Zaglebie Lubin vs Pogon Szczecin",
+            "status": "LIVE",
             "league": {
                 "league_name": "Ekstraklasa",
                 "league_logo": ""
@@ -100,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778860800,
-                "start_time_local": "15 May 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "15 May 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1778946335-Kv4cPTAAP5YTi-3547dfee3810fca8de8ea9243c9bc0649eb554aa-99b7553a468187109649c3668175df9d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=3547dfee3810fca8de8ea9243c9bc0649eb554aa&x-sign=5693ce5864aa501ec09f3a428e386708&x-time=1778859900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1398270,
             "sport_name": "Football",
@@ -381,29 +358,6 @@
             }
         },
         {
-            "match_id": 1629490851,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Tokyo Yakult Swallows",
-            "slug": "chunichi-dragons-vs-tokyo-yakult-swallows-1629490851",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778907600,
-                "start_time_local": "16 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490850,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -427,6 +381,29 @@
             }
         },
         {
+            "match_id": 1629490851,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Tokyo Yakult Swallows",
+            "slug": "chunichi-dragons-vs-tokyo-yakult-swallows-1629490851",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778907600,
+                "start_time_local": "16 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629490852,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -441,7 +418,7 @@
             "teams": {
                 "home_name": "Chiba Lotte Marines",
                 "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778907600,
@@ -519,29 +496,6 @@
             }
         },
         {
-            "match_id": 1504810,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Urawa vs FC Tokyo",
-            "slug": "urawa-vs-fc-tokyo-1504810",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Urawa",
-                "away_name": "FC Tokyo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20FC%20Tokyo%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778914800,
-                "start_time_local": "16 May 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490857,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -557,6 +511,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778914800,
+                "start_time_local": "16 May 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504810,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Urawa vs FC Tokyo",
+            "slug": "urawa-vs-fc-tokyo-1504810",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Urawa",
+                "away_name": "FC Tokyo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Urawa%20VS%20FC%20Tokyo%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778914800,
@@ -841,11 +818,11 @@
             }
         },
         {
-            "match_id": 1417323,
+            "match_id": 1417324,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Chelsea W vs Manchester United W",
-            "slug": "chelsea-w-vs-manchester-united-w-1417323",
+            "title": "Everton W vs Leicester City WFC",
+            "slug": "everton-w-vs-leicester-city-wfc-1417324",
             "status": "NS",
             "league": {
                 "league_name": "FA WSL",
@@ -853,9 +830,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chelsea W",
-                "away_name": "Manchester United W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20VS%20Manchester%20United%20W%20%20FA%20WSL.jpg"
+                "home_name": "Everton W",
+                "away_name": "Leicester City WFC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20VS%20Leicester%20City%20WFC%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778932800,
@@ -864,11 +841,11 @@
             }
         },
         {
-            "match_id": 1417327,
+            "match_id": 1417322,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "West Ham W vs Manchester City W",
-            "slug": "west-ham-w-vs-manchester-city-w-1417327",
+            "title": "Brighton W vs Tottenham Hotspur W",
+            "slug": "brighton-w-vs-tottenham-hotspur-w-1417322",
             "status": "NS",
             "league": {
                 "league_name": "FA WSL",
@@ -876,8 +853,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "West Ham W",
-                "away_name": "Manchester City W",
+                "home_name": "Brighton W",
+                "away_name": "Tottenham Hotspur W",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -910,6 +887,29 @@
             }
         },
         {
+            "match_id": 1417323,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Chelsea W vs Manchester United W",
+            "slug": "chelsea-w-vs-manchester-united-w-1417323",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chelsea W",
+                "away_name": "Manchester United W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chelsea%20W%20VS%20Manchester%20United%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778932800,
+                "start_time_local": "16 May 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629490865,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -933,52 +933,6 @@
             }
         },
         {
-            "match_id": 1417322,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Brighton W vs Tottenham Hotspur W",
-            "slug": "brighton-w-vs-tottenham-hotspur-w-1417322",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Brighton W",
-                "away_name": "Tottenham Hotspur W",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778932800,
-                "start_time_local": "16 May 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1417324,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Everton W vs Leicester City WFC",
-            "slug": "everton-w-vs-leicester-city-wfc-1417324",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Everton W",
-                "away_name": "Leicester City WFC",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778932800,
-                "start_time_local": "16 May 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1417326,
             "sport_name": "Football",
             "sport_id": 1,
@@ -993,6 +947,29 @@
             "teams": {
                 "home_name": "London City Lionesses",
                 "away_name": "Aston Villa W",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778932800,
+                "start_time_local": "16 May 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417327,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "West Ham W vs Manchester City W",
+            "slug": "west-ham-w-vs-manchester-city-w-1417327",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "West Ham W",
+                "away_name": "Manchester City W",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1048,11 +1025,11 @@
             }
         },
         {
-            "match_id": 1388611,
+            "match_id": 1388613,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC St. Pauli vs VfL Wolfsburg",
-            "slug": "fc-st-pauli-vs-vfl-wolfsburg-1388611",
+            "title": "Werder Bremen vs Borussia Dortmund",
+            "slug": "werder-bremen-vs-borussia-dortmund-1388613",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -1060,9 +1037,55 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "FC St. Pauli",
-                "away_name": "VfL Wolfsburg",
+                "home_name": "Werder Bremen",
+                "away_name": "Borussia Dortmund",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Werder%20Bremen%20VS%20Borussia%20Dortmund%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778938200,
+                "start_time_local": "16 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388605,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayer Leverkusen vs Hamburger SV",
+            "slug": "bayer-leverkusen-vs-hamburger-sv-1388605",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayer Leverkusen",
+                "away_name": "Hamburger SV",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778938200,
+                "start_time_local": "16 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388606,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayern München vs 1. FC Köln",
+            "slug": "bayern-munchen-vs-1-fc-koln-1388606",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayern München",
+                "away_name": "1. FC Köln",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20VS%201.%20FC%20K%C3%B6ln%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -1117,11 +1140,11 @@
             }
         },
         {
-            "match_id": 1388606,
+            "match_id": 1388608,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bayern München vs 1. FC Köln",
-            "slug": "bayern-munchen-vs-1-fc-koln-1388606",
+            "title": "Eintracht Frankfurt vs VfB Stuttgart",
+            "slug": "eintracht-frankfurt-vs-vfb-stuttgart-1388608",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -1129,32 +1152,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Bayern München",
-                "away_name": "1. FC Köln",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20VS%201.%20FC%20K%C3%B6ln%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778938200,
-                "start_time_local": "16 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388613,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Werder Bremen vs Borussia Dortmund",
-            "slug": "werder-bremen-vs-borussia-dortmund-1388613",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Werder Bremen",
-                "away_name": "Borussia Dortmund",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Werder%20Bremen%20VS%20Borussia%20Dortmund%20%20Bundesliga.jpg"
+                "home_name": "Eintracht Frankfurt",
+                "away_name": "VfB Stuttgart",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
