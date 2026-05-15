@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:24 AM 15-05-2026"
+        "last_update_time": "08:45:29 AM 15-05-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=4e62387cd11a7b324b7dd3895d999888b5b47ca3&x-sign=c3b0a2572aa236adf051297dada7ccfb&x-time=1778812200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=ebbc7dec863a3f38de2a691e69296328cf9509da&x-sign=853362dea66603b81e169cd2118ab7f8&x-time=1778813100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490802,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
             "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629490802",
-            "status": "NS",
+            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -58,10 +55,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1778814000,
-                "start_time_local": "15 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "15 May 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ebbc7dec863a3f38de2a691e69296328cf9509da&x-sign=3c95a49da07bc9eb8e03ad5a489a86cc&x-time=1778813100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
             "match_id": 1629490804,
             "sport_name": "Baseball",
