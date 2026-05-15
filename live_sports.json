@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:39 PM 15-05-2026"
+        "last_update_time": "10:00:48 PM 15-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1778946328-Kv4cPTAAP5YTi-3547dfee3810fca8de8ea9243c9bc0649eb554aa-4baaf30e9b00bd21a1a833a62b64ef75",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1778947230-Kv4cPTAAP5YTi-84648b505224d9f99922e6aba47aee41d737f1be-50ea755692d437a3b260e18709e1e8c4",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=3547dfee3810fca8de8ea9243c9bc0649eb554aa&x-sign=71b486c738d0f142d01db820797cbdb1&x-time=1778859900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=84648b505224d9f99922e6aba47aee41d737f1be&x-sign=aa0b7e0d065c5d74f156c8b6264abc10&x-time=1778860800",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629490815,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "one-friday-fights-154-1629490815",
+            "title": "ONE Friday Fights 154",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778851800,
+                "start_time_local": "15 May 2026, 07:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1778947236-Kv4cPTAAP5YTi-84648b505224d9f99922e6aba47aee41d737f1be-f648026eda672b07f9fba238eb5d2991",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=84648b505224d9f99922e6aba47aee41d737f1be&x-sign=a43c4f81dbe803444267f061ea3e11ba&x-time=1778860800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,20 +102,20 @@
             "streams": [
                 {
                     "server_name": "274849",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1778946335-Kv4cPTAAP5YTi-3547dfee3810fca8de8ea9243c9bc0649eb554aa-99b7553a468187109649c3668175df9d",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849/chunks.m3u8?is_vip=false&token=1778947243-Kv4cPTAAP5YTi-84648b505224d9f99922e6aba47aee41d737f1be-90d6552cad0261f35aead147b5203b77",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "274849",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=3547dfee3810fca8de8ea9243c9bc0649eb554aa&x-sign=5693ce5864aa501ec09f3a428e386708&x-time=1778859900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849/chunks.m3u8?is_vip=false&token=84648b505224d9f99922e6aba47aee41d737f1be&x-sign=24a062405b5ea43872a1961d033661e9&x-time=1778860800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 46,
     "upcoming_matches": [
         {
             "match_id": 1398270,
@@ -933,29 +969,6 @@
             }
         },
         {
-            "match_id": 1417326,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "London City Lionesses vs Aston Villa W",
-            "slug": "london-city-lionesses-vs-aston-villa-w-1417326",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "London City Lionesses",
-                "away_name": "Aston Villa W",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778932800,
-                "start_time_local": "16 May 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1417327,
             "sport_name": "Football",
             "sport_id": 1,
@@ -970,6 +983,29 @@
             "teams": {
                 "home_name": "West Ham W",
                 "away_name": "Manchester City W",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778932800,
+                "start_time_local": "16 May 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417326,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "London City Lionesses vs Aston Villa W",
+            "slug": "london-city-lionesses-vs-aston-villa-w-1417326",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "London City Lionesses",
+                "away_name": "Aston Villa W",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1131,29 +1167,6 @@
             "teams": {
                 "home_name": "Borussia Mönchengladbach",
                 "away_name": "1899 Hoffenheim",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778938200,
-                "start_time_local": "16 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388608,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Eintracht Frankfurt vs VfB Stuttgart",
-            "slug": "eintracht-frankfurt-vs-vfb-stuttgart-1388608",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Eintracht Frankfurt",
-                "away_name": "VfB Stuttgart",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
