@@ -3,18 +3,16 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:22 AM 16-05-2026"
+        "last_update_time": "03:30:31 AM 16-05-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 42,
-    "upcoming_matches": [
+    "live_matches": [
         {
             "match_id": 1543725,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Génesis vs Olancho",
             "slug": "genesis-vs-olancho-1543725",
-            "status": "NS",
+            "title": "Génesis vs Olancho",
+            "status": "LIVE",
             "league": {
                 "league_name": "Liga Nacional",
                 "league_logo": ""
@@ -27,10 +25,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778881500,
-                "start_time_local": "16 May 2026, 03:45 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "16 May 2026, 03:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/chunks.m3u8?is_vip=false&token=1778967027-Kv4cPTAAP5YTi-963c268bd33421cfcb778f9f59c857bc52a7daa4-46b06752844311fae770a50146dbae0c",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/chunks.m3u8?is_vip=false&token=963c268bd33421cfcb778f9f59c857bc52a7daa4&x-sign=cba0ae00438b2034e3c26390eaa92a93&x-time=1778880600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629491104,
             "sport_name": "Darts",
