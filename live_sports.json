@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:15:31 AM 17-05-2026"
+        "last_update_time": "04:30:30 AM 17-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629490871,
-            "sport_name": "Boxing",
-            "sport_id": 16,
-            "slug": "stein-vs-carmona-1629490871",
-            "title": "Stein vs Carmona",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Dream Boxing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Carmona",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778948100,
-                "start_time_local": "16 May 2026, 10:15 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779056117-Kv4cPTAAP5YTi-f68c91c92bfec24256fb95f0e3c11436aee8145b-cddf771e14f3c282143033232c46294a",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=f68c91c92bfec24256fb95f0e3c11436aee8145b&x-sign=6ef0d1691ed8dc227087012e004753be&x-time=1778969700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629490896,
             "sport_name": "MMA",
@@ -66,20 +30,20 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779056123-Kv4cPTAAP5YTi-f68c91c92bfec24256fb95f0e3c11436aee8145b-5ff5606c3f48f32ad0b79f83b8ff3dcb",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779057022-Kv4cPTAAP5YTi-61ef00496c6bc1a9090d5f838b6473eb2638570e-13e8f3c0458c0f3b3887c0386bcc4aa5",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779056124-Kv4cPTAAP5YTi-f68c91c92bfec24256fb95f0e3c11436aee8145b-b7b72b2ac4ebead141c9c26b8d853221",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/chunks.m3u8?is_vip=false&token=1779057023-Kv4cPTAAP5YTi-61ef00496c6bc1a9090d5f838b6473eb2638570e-64ca53dd83254fa8f324216eaec87c1d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 18,
+    "total_upcoming_matches": 19,
     "upcoming_matches": [
         {
             "match_id": 1629491106,
@@ -197,29 +161,6 @@
             }
         },
         {
-            "match_id": 1504814,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Fagiano Okayama vs Shimizu S-pulse",
-            "slug": "fagiano-okayama-vs-shimizu-s-pulse-1504814",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fagiano Okayama",
-                "away_name": "Shimizu S-pulse",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20VS%20Shimizu%20S-pulse%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778994000,
-                "start_time_local": "17 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1504813,
             "sport_name": "Football",
             "sport_id": 1,
@@ -235,6 +176,29 @@
                 "home_name": "JEF United Chiba",
                 "away_name": "Kashima",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Kashima%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778994000,
+                "start_time_local": "17 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1504814,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fagiano Okayama vs Shimizu S-pulse",
+            "slug": "fagiano-okayama-vs-shimizu-s-pulse-1504814",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fagiano Okayama",
+                "away_name": "Shimizu S-pulse",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fagiano%20Okayama%20VS%20Shimizu%20S-pulse%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778994000,
@@ -488,6 +452,29 @@
                 "home_name": "Genoa",
                 "away_name": "AC Milan",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genoa%20VS%20AC%20Milan%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779012000,
+                "start_time_local": "17 May 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378229,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Juventus vs Fiorentina",
+            "slug": "juventus-vs-fiorentina-1378229",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Juventus",
+                "away_name": "Fiorentina",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20VS%20Fiorentina%20%20Serie%20A.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779012000,
