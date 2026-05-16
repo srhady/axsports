@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:38 AM 16-05-2026"
+        "last_update_time": "10:15:38 AM 16-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1778990427-Kv4cPTAAP5YTi-95ab55825c9191aaff04d2c0f5068e8313b4c73f-31e72f6463a765ccddce4dc6c6df0602",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1778991321-Kv4cPTAAP5YTi-331bf763136fa5ebb5b5ddba6d3b7969570c88ad-01b9eaa85010776c8183755e552e77ec",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=95ab55825c9191aaff04d2c0f5068e8313b4c73f&x-sign=7e002c15a397c93902c75f7608a26e18&x-time=1778904000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=331bf763136fa5ebb5b5ddba6d3b7969570c88ad&x-sign=f4f70bfc0776776caa09a915fc5d0689&x-time=1778904900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778990433-Kv4cPTAAP5YTi-95ab55825c9191aaff04d2c0f5068e8313b4c73f-8302f869a813b69a2f6b46143e4f15bc",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1778991327-Kv4cPTAAP5YTi-331bf763136fa5ebb5b5ddba6d3b7969570c88ad-e059a0aed017d76655a3df18e9e6629b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=95ab55825c9191aaff04d2c0f5068e8313b4c73f&x-sign=70313478d150459e2ea314b8b3e710c1&x-time=1778904000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=331bf763136fa5ebb5b5ddba6d3b7969570c88ad&x-sign=4de33565a3bd7220c61719554448416a&x-time=1778904900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629490847,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Fijian Drua vs Waratahs",
             "slug": "fijian-drua-vs-waratahs-1629490847",
-            "status": "NS",
+            "title": "Fijian Drua vs Waratahs",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Rugby Pacific",
                 "league_logo": ""
@@ -100,10 +97,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1778905800,
-                "start_time_local": "16 May 2026, 10:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "16 May 2026, 10:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1778991334-Kv4cPTAAP5YTi-331bf763136fa5ebb5b5ddba6d3b7969570c88ad-a0381f054bc8587e8169f25947ca4943",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=331bf763136fa5ebb5b5ddba6d3b7969570c88ad&x-sign=4361ae24ca00707ada794260b9c53848&x-time=1778904900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 40,
+    "upcoming_matches": [
         {
             "match_id": 1629490852,
             "sport_name": "Baseball",
@@ -151,29 +164,6 @@
             }
         },
         {
-            "match_id": 1629491375,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491375",
-            "status": "NS",
-            "league": {
-                "league_name": "TOYOTA Thailand Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778907600,
-                "start_time_local": "16 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490851,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -189,6 +179,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi%20Dragons%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778907600,
+                "start_time_local": "16 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491375,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629491375",
+            "status": "NS",
+            "league": {
+                "league_name": "TOYOTA Thailand Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778907600,
@@ -473,29 +486,6 @@
             }
         },
         {
-            "match_id": 1398274,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Torreense vs Vizela",
-            "slug": "torreense-vs-vizela-1398274",
-            "status": "NS",
-            "league": {
-                "league_name": "Segunda Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Torreense",
-                "away_name": "Vizela",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torreense%20VS%20Vizela%20%20Segunda%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778925600,
-                "start_time_local": "16 May 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1398266,
             "sport_name": "Football",
             "sport_id": 1,
@@ -534,6 +524,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778925600,
+                "start_time_local": "16 May 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1398274,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Torreense vs Vizela",
+            "slug": "torreense-vs-vizela-1398274",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Torreense",
+                "away_name": "Vizela",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torreense%20VS%20Vizela%20%20Segunda%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778925600,
@@ -611,6 +624,29 @@
             }
         },
         {
+            "match_id": 1417325,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Liverpool W vs Arsenal W",
+            "slug": "liverpool-w-vs-arsenal-w-1417325",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Liverpool W",
+                "away_name": "Arsenal W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20W%20VS%20Arsenal%20W%20%20FA%20WSL.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778932800,
+                "start_time_local": "16 May 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1417327,
             "sport_name": "Football",
             "sport_id": 1,
@@ -626,29 +662,6 @@
                 "home_name": "West Ham W",
                 "away_name": "Manchester City W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Ham%20W%20VS%20Manchester%20City%20W%20%20FA%20WSL.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778932800,
-                "start_time_local": "16 May 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1417324,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Everton W vs Leicester City WFC",
-            "slug": "everton-w-vs-leicester-city-wfc-1417324",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Everton W",
-                "away_name": "Leicester City WFC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20VS%20Leicester%20City%20WFC%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778932800,
@@ -680,29 +693,6 @@
             }
         },
         {
-            "match_id": 1417325,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Liverpool W vs Arsenal W",
-            "slug": "liverpool-w-vs-arsenal-w-1417325",
-            "status": "NS",
-            "league": {
-                "league_name": "FA WSL",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Liverpool W",
-                "away_name": "Arsenal W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20W%20VS%20Arsenal%20W%20%20FA%20WSL.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778932800,
-                "start_time_local": "16 May 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629490866,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -718,6 +708,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778932800,
+                "start_time_local": "16 May 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1417324,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Everton W vs Leicester City WFC",
+            "slug": "everton-w-vs-leicester-city-wfc-1417324",
+            "status": "NS",
+            "league": {
+                "league_name": "FA WSL",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Everton W",
+                "away_name": "Leicester City WFC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Everton%20W%20VS%20Leicester%20City%20WFC%20%20FA%20WSL.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778932800,
@@ -749,11 +762,11 @@
             }
         },
         {
-            "match_id": 1388607,
+            "match_id": 1388611,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Borussia Mönchengladbach vs 1899 Hoffenheim",
-            "slug": "borussia-monchengladbach-vs-1899-hoffenheim-1388607",
+            "title": "FC St. Pauli vs VfL Wolfsburg",
+            "slug": "fc-st-pauli-vs-vfl-wolfsburg-1388611",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -761,9 +774,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Borussia Mönchengladbach",
-                "away_name": "1899 Hoffenheim",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20M%C3%B6nchengladbach%20VS%201899%20Hoffenheim%20%20Bundesliga.jpg"
+                "home_name": "FC St. Pauli",
+                "away_name": "VfL Wolfsburg",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -772,11 +785,11 @@
             }
         },
         {
-            "match_id": 1388605,
+            "match_id": 1388609,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Bayer Leverkusen vs Hamburger SV",
-            "slug": "bayer-leverkusen-vs-hamburger-sv-1388605",
+            "title": "SC Freiburg vs RB Leipzig",
+            "slug": "sc-freiburg-vs-rb-leipzig-1388609",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -784,32 +797,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Bayer Leverkusen",
-                "away_name": "Hamburger SV",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20Hamburger%20SV%20%20Bundesliga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1778938200,
-                "start_time_local": "16 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388608,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Eintracht Frankfurt vs VfB Stuttgart",
-            "slug": "eintracht-frankfurt-vs-vfb-stuttgart-1388608",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Eintracht Frankfurt",
-                "away_name": "VfB Stuttgart",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eintracht%20Frankfurt%20VS%20VfB%20Stuttgart%20%20Bundesliga.jpg"
+                "home_name": "SC Freiburg",
+                "away_name": "RB Leipzig",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -841,11 +831,11 @@
             }
         },
         {
-            "match_id": 1388612,
+            "match_id": 1388608,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Union Berlin vs FC Augsburg",
-            "slug": "union-berlin-vs-fc-augsburg-1388612",
+            "title": "Eintracht Frankfurt vs VfB Stuttgart",
+            "slug": "eintracht-frankfurt-vs-vfb-stuttgart-1388608",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -853,9 +843,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Union Berlin",
-                "away_name": "FC Augsburg",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Eintracht Frankfurt",
+                "away_name": "VfB Stuttgart",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Eintracht%20Frankfurt%20VS%20VfB%20Stuttgart%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -864,11 +854,11 @@
             }
         },
         {
-            "match_id": 1388611,
+            "match_id": 1388607,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC St. Pauli vs VfL Wolfsburg",
-            "slug": "fc-st-pauli-vs-vfl-wolfsburg-1388611",
+            "title": "Borussia Mönchengladbach vs 1899 Hoffenheim",
+            "slug": "borussia-monchengladbach-vs-1899-hoffenheim-1388607",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -876,32 +866,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "FC St. Pauli",
-                "away_name": "VfL Wolfsburg",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1778938200,
-                "start_time_local": "16 May 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1388606,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Bayern München vs 1. FC Köln",
-            "slug": "bayern-munchen-vs-1-fc-koln-1388606",
-            "status": "NS",
-            "league": {
-                "league_name": "Bundesliga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Bayern München",
-                "away_name": "1. FC Köln",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20VS%201.%20FC%20K%C3%B6ln%20%20Bundesliga.jpg"
+                "home_name": "Borussia Mönchengladbach",
+                "away_name": "1899 Hoffenheim",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Borussia%20M%C3%B6nchengladbach%20VS%201899%20Hoffenheim%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -933,11 +900,11 @@
             }
         },
         {
-            "match_id": 1388609,
+            "match_id": 1388612,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "SC Freiburg vs RB Leipzig",
-            "slug": "sc-freiburg-vs-rb-leipzig-1388609",
+            "title": "Union Berlin vs FC Augsburg",
+            "slug": "union-berlin-vs-fc-augsburg-1388612",
             "status": "NS",
             "league": {
                 "league_name": "Bundesliga",
@@ -945,9 +912,55 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "SC Freiburg",
-                "away_name": "RB Leipzig",
+                "home_name": "Union Berlin",
+                "away_name": "FC Augsburg",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1778938200,
+                "start_time_local": "16 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388605,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayer Leverkusen vs Hamburger SV",
+            "slug": "bayer-leverkusen-vs-hamburger-sv-1388605",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayer Leverkusen",
+                "away_name": "Hamburger SV",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayer%20Leverkusen%20VS%20Hamburger%20SV%20%20Bundesliga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778938200,
+                "start_time_local": "16 May 2026, 07:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1388606,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Bayern München vs 1. FC Köln",
+            "slug": "bayern-munchen-vs-1-fc-koln-1388606",
+            "status": "NS",
+            "league": {
+                "league_name": "Bundesliga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Bayern München",
+                "away_name": "1. FC Köln",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bayern%20M%C3%BCnchen%20VS%201.%20FC%20K%C3%B6ln%20%20Bundesliga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1778938200,
@@ -998,6 +1011,29 @@
             "timing": {
                 "start_time_timestamp": 1778940000,
                 "start_time_local": "16 May 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1396539,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "FC Porto vs Santa Clara",
+            "slug": "fc-porto-vs-santa-clara-1396539",
+            "status": "NS",
+            "league": {
+                "league_name": "Primeira Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "FC Porto",
+                "away_name": "Santa Clara",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20VS%20Santa%20Clara%20%20Primeira%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1778941800,
+                "start_time_local": "16 May 2026, 08:30 PM",
                 "countdown_seconds": null
             }
         }
