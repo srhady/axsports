@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:31:36 PM 17-05-2026"
+        "last_update_time": "09:47:10 PM 17-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629490921,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-13-1629490921",
-            "title": "Day 13",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Italian Open Tennis",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779012000,
-                "start_time_local": "17 May 2026, 04:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779118224-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-f9bfa4815b7dc98677f861b040d3d6a7",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=066e9733941a4a4cd7b0c5c9a7418314&x-time=1779031800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629490918,
             "sport_name": "Darts",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779118230-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-09e268ebc3a2d177aa009001dbf6efca",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779119124-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-7082cf4de253f5f5f51cf3e7acba2593",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=b0cffe2bdef3ebaaf9c3bae343ed1ce1&x-time=1779031800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=70204026a3b317b88f52a505cac65a5f&x-time=1779032700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629490921,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "day-13-1629490921",
+            "title": "Day 13",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Italian Open Tennis",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779012000,
+                "start_time_local": "17 May 2026, 04:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779119131-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-3343b33b7d173eb0b449babdcb50ec27",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=1ad38e5621dc2ab0010b3a1e598621dd&x-time=1779032700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -93,7 +93,7 @@
             "teams": {
                 "home_name": "FC Schalke 04",
                 "away_name": "Eintracht Braunschweig",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Schalke%2004%20VS%20Eintracht%20Braunschweig%20%202.%20Bundesliga.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779024600,
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "18",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779118235-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-bb0c365c4c6e81a439f7bbc63fcb86e9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779119140-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-bbbeeddb475bb70f89da108140ac9dd9",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "18",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=3a1db4ee6d904bdf4eef5da905f09fa8&x-time=1779031800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/18/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=a2d2a5de97b018267a390b2be583a7b9&x-time=1779032700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -129,7 +129,7 @@
             "teams": {
                 "home_name": "1. FC Magdeburg",
                 "away_name": "1. FC Kaiserslautern",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1.%20FC%20Magdeburg%20VS%201.%20FC%20Kaiserslautern%20%202.%20Bundesliga.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779024600,
@@ -138,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779118241-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-bd1f38c837c9fe041e7315d110b0ec06",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779119147-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-fd001d8819b9f3be6a77e4ce04b4594d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=7c37630988b18aa5a26947e8a500525f&x-time=1779031800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=30aa074d4c92b98d9dadde6bfd773e71&x-time=1779032700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -165,7 +165,7 @@
             "teams": {
                 "home_name": "Arminia Bielefeld",
                 "away_name": "Hertha BSC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arminia%20Bielefeld%20VS%20Hertha%20BSC%20%202.%20Bundesliga.jpg"
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779024600,
@@ -174,97 +174,13 @@
             "streams": [
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779118247-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-bf7e6254aebe6e790caed62840812c97",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779119155-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-75cb314f372d6d1cfe196b27b98ac98c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=3473df090e1226ac1797453baa55bd08&x-time=1779031800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1379335,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "leeds-vs-brighton-1379335",
-            "title": "Leeds vs Brighton",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Leeds",
-                "away_name": "Brighton",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20VS%20Brighton%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779026400,
-                "start_time_local": "17 May 2026, 08:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "52435",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=a3d1318d19756bef6ce140ed3a2210c9&x-time=1779031800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "144253",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779118254-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-5a6fee5c8079c8e53314579585b54b98",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779118255-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-ec57a566700abf4cd9ef7781e4c19d53",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=c8c1577a999824272daf49a5b7819ff5&x-time=1779031800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1541795,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "mamelodi-sundowns-vs-far-rabat-1541795",
-            "title": "Mamelodi Sundowns vs FAR Rabat",
-            "status": "LIVE",
-            "league": {
-                "league_name": "CAF Champions League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mamelodi Sundowns",
-                "away_name": "FAR Rabat",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mamelodi%20Sundowns%20VS%20FAR%20Rabat%20%20CAF%20Champions%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779026400,
-                "start_time_local": "17 May 2026, 08:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779118261-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-7608e8ffa6c602ffea242004a94956d9",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=7b6a3607687bfadb1d24c6914f12d409&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=0ac6209485b202db31ef28d67ab966a4&x-time=1779032700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -294,25 +210,25 @@
             "streams": [
                 {
                     "server_name": "144256",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=bfc7ffdc0ebf645cdc98f768255673da&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144256/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=0e05135b1f35aace803094d3aa3deee8&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "52434",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=efd868c1b150c3a7d8312414c15edcdb&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52434/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=87648f400fb9bc8b21977bffba4afbe9&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779118270-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-8bac50214c6c3154d9db713b7c599507",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779119164-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-b956b308b744811475257943ee2cf7d0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=ff0550a475c3c89299e739ebf3c973f9&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=8416c6843325a0642f217126e01bb8bd&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -342,25 +258,73 @@
             "streams": [
                 {
                     "server_name": "144254",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=c963e41d87b97382aa121f869415bab9&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144254/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=61e6d611e618227ea7acbae29a1d6ec5&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "52433",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=002c6d9bfbf4342ce8f3475f5131e4c9&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52433/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=01873f7d5d1887dec50b3cc36d4a59f6&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779118278-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-119eccb6a45dac143b1e539ae56c605d",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779119173-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-2e449de8ddc186c0391a8e8ac026d6af",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=c53e1090cf95db94c4643563a4c47552&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=a0b5f8cf056151edd33f673783c6bf40&x-time=1779032760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1379335,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "leeds-vs-brighton-1379335",
+            "title": "Leeds vs Brighton",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Leeds",
+                "away_name": "Brighton",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20VS%20Brighton%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779026400,
+                "start_time_local": "17 May 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "52435",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52435/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=bc5499abc2b2eb0e30a19598fb49d4d7&x-time=1779032760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "144253",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779119182-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-927c1c2fa457ece06737439a1ff471d4",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779119183-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-f976ce6e72316c71b215e46cb1e8aadf",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=72a8a9c774fc9ec88a9dd174e08588bb&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -390,25 +354,61 @@
             "streams": [
                 {
                     "server_name": "144257",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=76172592d8c32b58f2feaa2e31b8de79&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144257/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=76415c0df99e0accef193e5bbc07f0c4&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "52436",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=88a54f9a9361d8cb3d8ee53ac0482c98&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/52436/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=af0faabcc4caf96002572fd11f94e0d6&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779118286-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-887b5a801b7fd548e30068b990a87755",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779119192-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-e15b334a94458f2be0684a8507629bfc",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=d212fa4626aac2d389215950d75d08a0&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=31ca465b40cb40e5baa65bf3067e296d&x-time=1779032760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1541795,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "mamelodi-sundowns-vs-far-rabat-1541795",
+            "title": "Mamelodi Sundowns vs FAR Rabat",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CAF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mamelodi Sundowns",
+                "away_name": "FAR Rabat",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mamelodi%20Sundowns%20VS%20FAR%20Rabat%20%20CAF%20Champions%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779026400,
+                "start_time_local": "17 May 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779119198-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-3453f0d5417c37af40f5c5dc803fe329",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=da1c099f04551bb9effc19c28b62d2d1&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -438,28 +438,25 @@
             "streams": [
                 {
                     "server_name": "274842",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779118292-Kv4cPTAAP5YTi-7b77b68acef3ebf5246daa948c6a72fc51b5f340-e7f5b961115c3e07380237516f0de48b",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274842/chunks.m3u8?is_vip=false&token=1779119205-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-8c43fd3cfb22aa67db5cb65e00708414",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "274842",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=7b77b68acef3ebf5246daa948c6a72fc51b5f340&x-sign=2f6d8c56149a7a52cd1b24650dd09b34&x-time=1779031860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274842/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=0f4d38253623c3f7b84053939f11b233&x-time=1779032760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 18,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1378224,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Atalanta vs Bologna",
             "slug": "atalanta-vs-bologna-1378224",
-            "status": "NS",
+            "title": "Atalanta vs Bologna",
+            "status": "LIVE",
             "league": {
                 "league_name": "Serie A",
                 "league_logo": ""
@@ -472,7 +469,52 @@
             },
             "timing": {
                 "start_time_timestamp": 1779033600,
-                "start_time_local": "17 May 2026, 10:00 PM",
+                "start_time_local": "17 May 2026, 10:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779119211-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-3fc8ffaf811b8ce66d30679aa68d1299",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=03176d7df9b7530d938b9363d88b84024041c7cd&x-sign=1159f0f73ccbc5783da9b169ebba5480&x-time=1779032760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "54044",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/54044/chunks.m3u8?is_vip=false&token=1779119214-Kv4cPTAAP5YTi-03176d7df9b7530d938b9363d88b84024041c7cd-3b5c2d3f08fb9575159beb3349174180",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 17,
+    "upcoming_matches": [
+        {
+            "match_id": 1536999,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Club Brugge KV vs Union St. Gilloise",
+            "slug": "club-brugge-kv-vs-union-st-gilloise-1536999",
+            "status": "NS",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Club Brugge KV",
+                "away_name": "Union St. Gilloise",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779035400,
+                "start_time_local": "17 May 2026, 10:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -500,25 +542,94 @@
             }
         },
         {
-            "match_id": 1536999,
+            "match_id": 1391183,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Club Brugge KV vs Union St. Gilloise",
-            "slug": "club-brugge-kv-vs-union-st-gilloise-1536999",
+            "title": "Levante vs Mallorca",
+            "slug": "levante-vs-mallorca-1391183",
             "status": "NS",
             "league": {
-                "league_name": "Jupiler Pro League",
+                "league_name": "La Liga",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Club Brugge KV",
-                "away_name": "Union St. Gilloise",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
+                "home_name": "Levante",
+                "away_name": "Mallorca",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20VS%20Mallorca%20%20La%20Liga.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1779035400,
-                "start_time_local": "17 May 2026, 10:30 PM",
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391186,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Real Sociedad vs Valencia",
+            "slug": "real-sociedad-vs-valencia-1391186",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Real Sociedad",
+                "away_name": "Valencia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20VS%20Valencia%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391188,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sevilla vs Real Madrid",
+            "slug": "sevilla-vs-real-madrid-1391188",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sevilla",
+                "away_name": "Real Madrid",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sevilla%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391179,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Athletic Club vs Celta Vigo",
+            "slug": "athletic-club-vs-celta-vigo-1391179",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Athletic Club",
+                "away_name": "Celta Vigo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20VS%20Celta%20Vigo%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -561,144 +672,6 @@
                 "home_name": "Leixoes",
                 "away_name": "Lusitânia Lourosa",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leixoes%20VS%20Lusit%C3%A2nia%20Lourosa%20%20Segunda%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391184,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Osasuna vs Espanyol",
-            "slug": "osasuna-vs-espanyol-1391184",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Osasuna",
-                "away_name": "Espanyol",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Osasuna%20VS%20Espanyol%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391185,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Rayo Vallecano vs Villarreal",
-            "slug": "rayo-vallecano-vs-villarreal-1391185",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Rayo Vallecano",
-                "away_name": "Villarreal",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20VS%20Villarreal%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391182,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Elche vs Getafe",
-            "slug": "elche-vs-getafe-1391182",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Elche",
-                "away_name": "Getafe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Elche%20VS%20Getafe%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391186,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Real Sociedad vs Valencia",
-            "slug": "real-sociedad-vs-valencia-1391186",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Real Sociedad",
-                "away_name": "Valencia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Sociedad%20VS%20Valencia%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391183,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Levante vs Mallorca",
-            "slug": "levante-vs-mallorca-1391183",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Levante",
-                "away_name": "Mallorca",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20VS%20Mallorca%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779037200,
-                "start_time_local": "17 May 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1391188,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sevilla vs Real Madrid",
-            "slug": "sevilla-vs-real-madrid-1391188",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sevilla",
-                "away_name": "Real Madrid",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sevilla%20VS%20Real%20Madrid%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779037200,
@@ -753,11 +726,11 @@
             }
         },
         {
-            "match_id": 1391179,
+            "match_id": 1391182,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Athletic Club vs Celta Vigo",
-            "slug": "athletic-club-vs-celta-vigo-1391179",
+            "title": "Elche vs Getafe",
+            "slug": "elche-vs-getafe-1391182",
             "status": "NS",
             "league": {
                 "league_name": "La Liga",
@@ -765,9 +738,55 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Athletic Club",
-                "away_name": "Celta Vigo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Athletic%20Club%20VS%20Celta%20Vigo%20%20La%20Liga.jpg"
+                "home_name": "Elche",
+                "away_name": "Getafe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Elche%20VS%20Getafe%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391184,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Osasuna vs Espanyol",
+            "slug": "osasuna-vs-espanyol-1391184",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Osasuna",
+                "away_name": "Espanyol",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Osasuna%20VS%20Espanyol%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779037200,
+                "start_time_local": "17 May 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391185,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Rayo Vallecano vs Villarreal",
+            "slug": "rayo-vallecano-vs-villarreal-1391185",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Rayo Vallecano",
+                "away_name": "Villarreal",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rayo%20Vallecano%20VS%20Villarreal%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779037200,
@@ -845,11 +864,11 @@
             }
         },
         {
-            "match_id": 1387998,
+            "match_id": 1388003,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Lyon vs Lens",
-            "slug": "lyon-vs-lens-1387998",
+            "title": "Strasbourg vs Monaco",
+            "slug": "strasbourg-vs-monaco-1388003",
             "status": "NS",
             "league": {
                 "league_name": "Ligue 1",
@@ -857,9 +876,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Lyon",
-                "away_name": "Lens",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lyon%20VS%20Lens%20%20Ligue%201.jpg"
+                "home_name": "Strasbourg",
+                "away_name": "Monaco",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Strasbourg%20VS%20Monaco%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779044400,
