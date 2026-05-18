@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:30:59 AM 19-05-2026"
+        "last_update_time": "12:45:46 AM 19-05-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779215454-Kv4cPTAAP5YTi-a3a84b783d2c62441593a5257a0b19b0f27f6d62-c58069e0b0d29ef8c060786361d56979",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779216333-Kv4cPTAAP5YTi-2983795d13b176440561f9f95a23aad36417ab2d-4bd3da44b377706e2e892690d30f18fb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=a3a84b783d2c62441593a5257a0b19b0f27f6d62&x-sign=8775c50d083e3013e592280acac3508d&x-time=1779129000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398/chunks.m3u8?is_vip=false&token=2983795d13b176440561f9f95a23aad36417ab2d&x-sign=12200e74182aa5d6a9f32e4d98169420&x-time=1779129900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1379329,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Arsenal vs Burnley",
             "slug": "arsenal-vs-burnley-1379329",
-            "status": "NS",
+            "title": "Arsenal vs Burnley",
+            "status": "LIVE",
             "league": {
                 "league_name": "Premier League",
                 "league_logo": ""
@@ -64,10 +61,38 @@
             },
             "timing": {
                 "start_time_timestamp": 1779130800,
-                "start_time_local": "19 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "19 May 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "144253",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=2983795d13b176440561f9f95a23aad36417ab2d&x-sign=37a0ff8e8fc98ce0f14a96787a17f32a&x-time=1779129900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779216341-Kv4cPTAAP5YTi-2983795d13b176440561f9f95a23aad36417ab2d-10b9d0f484337acaa3422872cbef1ced",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=2983795d13b176440561f9f95a23aad36417ab2d&x-sign=c8eb8cd5e46d9549e19fa28345348908&x-time=1779129900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "144253",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/chunks.m3u8?is_vip=false&token=1779216343-Kv4cPTAAP5YTi-2983795d13b176440561f9f95a23aad36417ab2d-0a77d1fcb228f196bcc0634cf0c64cf1",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1629490934,
             "sport_name": "Baseball",
