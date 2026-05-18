@@ -3,55 +3,16 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:00:33 PM 18-05-2026"
+        "last_update_time": "02:15:29 PM 18-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629491429,
-            "sport_name": "Boxing",
-            "sport_id": 16,
-            "slug": "test-only-1629491429",
-            "title": "test only",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Boxing",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779080716,
-                "start_time_local": "18 May 2026, 11:05 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779177629-Kv4cPTAAP5YTi-0e9c0cb9344089f20112a6bb28123f6ff93b9a19-cf816021a719be8476c8da5b337be2ce",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0e9c0cb9344089f20112a6bb28123f6ff93b9a19&x-sign=a08e43a87c7d99a9dcefd15971c3c078&x-time=1779091200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
         {
             "match_id": 1629490932,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 2",
             "slug": "day-2-1629490932",
-            "status": "NS",
+            "title": "Day 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -64,10 +25,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779093000,
-                "start_time_local": "18 May 2026, 02:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "18 May 2026, 02:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779178524-Kv4cPTAAP5YTi-e57c309ccc9b76246c72805b61b89b7c6f786832-ddd0e8e20417983967de1d880e218dce",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=e57c309ccc9b76246c72805b61b89b7c6f786832&x-sign=36ac4f56e3cc067355c6b3c5db763369&x-time=1779092100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1629490933,
             "sport_name": "Darts",
