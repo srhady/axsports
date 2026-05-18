@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:29 PM 18-05-2026"
+        "last_update_time": "03:00:31 PM 18-05-2026"
     },
     "live_matches": [
         {
@@ -30,20 +30,20 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779180325-Kv4cPTAAP5YTi-3179171691c8b8bd763406fb63bf9c91bf9c8574-1f7e7c5b717b6590fc1180c55bb1beac",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/chunks.m3u8?is_vip=false&token=1779181226-Kv4cPTAAP5YTi-8bec4108dbb583c7f4607e3a8773db8fcd28e43c-70dd397ff7e2f80bb984fcd4c0db4462",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=3179171691c8b8bd763406fb63bf9c91bf9c8574&x-sign=8a32c950f8f0b69a7d97679fc0812725&x-time=1779093900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/chunks.m3u8?is_vip=false&token=8bec4108dbb583c7f4607e3a8773db8fcd28e43c&x-sign=22890df90807057e973b598e53332859&x-time=1779094800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 48,
     "upcoming_matches": [
         {
             "match_id": 1629490933,
@@ -180,6 +180,121 @@
             "timing": {
                 "start_time_timestamp": 1779179400,
                 "start_time_local": "19 May 2026, 02:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490939,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
+            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629490939",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490940,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
+            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629490940",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490938,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Fukuoka SoftBank Hawks",
+            "slug": "orix-buffaloes-vs-fukuoka-softbank-hawks-1629490938",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490937,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Chiba Lotte Marines",
+            "slug": "saitama-seibu-lions-vs-chiba-lotte-marines-1629490937",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490936,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Chunichi Dragons",
+            "slug": "hanshin-tigers-vs-chunichi-dragons-1629490936",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
                 "countdown_seconds": null
             }
         }
