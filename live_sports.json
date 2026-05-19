@@ -3,18 +3,16 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:30:25 AM 20-05-2026"
+        "last_update_time": "05:45:34 AM 20-05-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+    "live_matches": [
         {
             "match_id": 1535312,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Santa Fe vs Platense",
             "slug": "santa-fe-vs-platense-1535312",
-            "status": "NS",
+            "title": "Santa Fe vs Platense",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
@@ -27,17 +25,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779235200,
-                "start_time_local": "20 May 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "20 May 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779320723-Kv4cPTAAP5YTi-dbd397255802f420e27834f388329885a067d4ec-0037d517bf38e9f8d1952aac390eecfd",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=dbd397255802f420e27834f388329885a067d4ec&x-sign=ba673bf78f96c9e37f3383f296891c5c&x-time=1779234300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1535298,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Always Ready vs Mirassol",
             "slug": "always-ready-vs-mirassol-1535298",
-            "status": "NS",
+            "title": "Always Ready vs Mirassol",
+            "status": "LIVE",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
                 "league_logo": ""
@@ -50,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779235200,
-                "start_time_local": "20 May 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "20 May 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "23",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779320729-Kv4cPTAAP5YTi-dbd397255802f420e27834f388329885a067d4ec-259efa6fe60db53b8a0c932038c94f43",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "23",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=dbd397255802f420e27834f388329885a067d4ec&x-sign=ec0d5499594df195881fdbc3a4dee2b0&x-time=1779234300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1535299,
             "sport_name": "Football",
