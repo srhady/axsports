@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:33 PM 19-05-2026"
+        "last_update_time": "10:30:44 PM 19-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779293723-Kv4cPTAAP5YTi-d0f418bd34e4a2a89e420635e2387abca2ebcaf9-d5a8bf0481bb578c9c663436f52aeefc",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/chunks.m3u8?is_vip=false&token=1779294625-Kv4cPTAAP5YTi-9fa4bea4aa0b95b01bc7aa06f5873c86a26f3202-68eb67ef4e5e2fbee4d6a394294f7ff1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=d0f418bd34e4a2a89e420635e2387abca2ebcaf9&x-sign=08b13f09c94c4a81d6beb4b15c09bca7&x-time=1779207300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/chunks.m3u8?is_vip=false&token=9fa4bea4aa0b95b01bc7aa06f5873c86a26f3202&x-sign=3cd63ca52ecd5f760c83fc71881278a0&x-time=1779208200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,44 +66,51 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779293728-Kv4cPTAAP5YTi-d0f418bd34e4a2a89e420635e2387abca2ebcaf9-456746d5514db7ea63c680a2c5b1fe00",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779294630-Kv4cPTAAP5YTi-9fa4bea4aa0b95b01bc7aa06f5873c86a26f3202-c751fe2d4bb566374701ac306c2c1038",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=d0f418bd34e4a2a89e420635e2387abca2ebcaf9&x-sign=48edb07b2bde55bd3b08b7e9f3eb6287&x-time=1779207300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=9fa4bea4aa0b95b01bc7aa06f5873c86a26f3202&x-sign=6e55555fa9dacd2f26e5949e9d6785c0&x-time=1779208200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1536961,
+            "match_id": 1629491478,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Genk vs Antwerp",
-            "slug": "genk-vs-antwerp-1536961",
-            "status": "NS",
+            "slug": "japan-u17-w-vs-uzbekistan-u17-1629491478",
+            "title": "Japan U17 v Uzbekistan U17",
+            "status": "LIVE",
             "league": {
-                "league_name": "Jupiler Pro League",
+                "league_name": "AFC U17 Asian Cup",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Genk",
-                "away_name": "Antwerp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genk%20VS%20Antwerp%20%20Jupiler%20Pro%20League.jpg"
+                "home_name": "Japan U17 W",
+                "away_name": "Uzbekistan U17",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1779215400,
-                "start_time_local": "20 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1779202800,
+                "start_time_local": "19 May 2026, 09:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779294641-Kv4cPTAAP5YTi-9fa4bea4aa0b95b01bc7aa06f5873c86a26f3202-32efe86c36f0228d600745154012d746",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1379331,
             "sport_name": "Football",
@@ -120,6 +127,29 @@
                 "home_name": "Bournemouth",
                 "away_name": "Manchester City",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20VS%20Manchester%20City%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779215400,
+                "start_time_local": "20 May 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1536961,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Genk vs Antwerp",
+            "slug": "genk-vs-antwerp-1536961",
+            "status": "NS",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Genk",
+                "away_name": "Antwerp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Genk%20VS%20Antwerp%20%20Jupiler%20Pro%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779215400,
@@ -166,29 +196,6 @@
                 "home_name": "Atletico Torque",
                 "away_name": "Deportivo Riestra",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Torque%20VS%20Deportivo%20Riestra%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779228000,
-                "start_time_local": "20 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1535311,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Rosario Central vs UCV",
-            "slug": "rosario-central-vs-ucv-1535311",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Rosario Central",
-                "away_name": "UCV",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rosario%20Central%20VS%20UCV%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779228000,
@@ -266,6 +273,29 @@
             }
         },
         {
+            "match_id": 1535311,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Rosario Central vs UCV",
+            "slug": "rosario-central-vs-ucv-1535311",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Rosario Central",
+                "away_name": "UCV",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rosario%20Central%20VS%20UCV%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779228000,
+                "start_time_local": "20 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1535298,
             "sport_name": "Football",
             "sport_id": 1,
@@ -312,29 +342,6 @@
             }
         },
         {
-            "match_id": 1535217,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sao Paulo vs Millonarios",
-            "slug": "sao-paulo-vs-millonarios-1535217",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sao Paulo",
-                "away_name": "Millonarios",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sao%20Paulo%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779237000,
-                "start_time_local": "20 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535299,
             "sport_name": "Football",
             "sport_id": 1,
@@ -358,48 +365,25 @@
             }
         },
         {
-            "match_id": 1629491437,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629491437",
+            "match_id": 1535217,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sao Paulo vs Millonarios",
+            "slug": "sao-paulo-vs-millonarios-1535217",
             "status": "NS",
             "league": {
-                "league_name": "PERODUA Malaysia Masters",
+                "league_name": "CONMEBOL Sudamericana",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Sao Paulo",
+                "away_name": "Millonarios",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sao%20Paulo%20VS%20Millonarios%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1779242400,
-                "start_time_local": "20 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491438,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 4",
-            "slug": "court-4-1629491438",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779242400,
-                "start_time_local": "20 May 2026, 08:00 AM",
+                "start_time_timestamp": 1779237000,
+                "start_time_local": "20 May 2026, 06:30 AM",
                 "countdown_seconds": null
             }
         },
@@ -419,6 +403,29 @@
                 "home_name": "Deportivo Cuenca",
                 "away_name": "Deportivo Recoleta",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Cuenca%20VS%20Deportivo%20Recoleta%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779242400,
+                "start_time_local": "20 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491435,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629491435",
+            "status": "NS",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779242400,
@@ -450,21 +457,21 @@
             }
         },
         {
-            "match_id": 1535203,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "America de Cali vs Tigre",
-            "slug": "america-de-cali-vs-tigre-1535203",
+            "match_id": 1629491438,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 4",
+            "slug": "court-4-1629491438",
             "status": "NS",
             "league": {
-                "league_name": "CONMEBOL Sudamericana",
+                "league_name": "PERODUA Malaysia Masters",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "America de Cali",
-                "away_name": "Tigre",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20de%20Cali%20VS%20Tigre%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779242400,
@@ -496,11 +503,11 @@
             }
         },
         {
-            "match_id": 1629491435,
+            "match_id": 1629491437,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491435",
+            "title": "Court 3",
+            "slug": "court-3-1629491437",
             "status": "NS",
             "league": {
                 "league_name": "PERODUA Malaysia Masters",
@@ -511,6 +518,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779242400,
+                "start_time_local": "20 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535203,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "America de Cali vs Tigre",
+            "slug": "america-de-cali-vs-tigre-1535203",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "America de Cali",
+                "away_name": "Tigre",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20de%20Cali%20VS%20Tigre%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779242400,
