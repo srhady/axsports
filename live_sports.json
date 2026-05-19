@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:29 AM 19-05-2026"
+        "last_update_time": "07:45:51 AM 19-05-2026"
     },
     "live_matches": [
         {
@@ -30,113 +30,165 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779240625-Kv4cPTAAP5YTi-31301c11145528531a3f7dccead157008d525196-b7f025cc10b2f22a7dfd5275d6794468",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779241521-Kv4cPTAAP5YTi-53790a8c1650aa42fcc6f73b8420caf7cfae5680-cadfc5168887ba3f49b33710a2533e33",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=31301c11145528531a3f7dccead157008d525196&x-sign=f6a8cadc74bde1f3c8f8809f7436eaa8&x-time=1779154200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=53790a8c1650aa42fcc6f73b8420caf7cfae5680&x-sign=7aa6f7985be9830adcd55af2ef21095c&x-time=1779155100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491434,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-4-1629491434",
+            "title": "Court 4",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779156000,
+                "start_time_local": "19 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779241527-Kv4cPTAAP5YTi-53790a8c1650aa42fcc6f73b8420caf7cfae5680-1df9793af3370193e2f468b94b19544f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=53790a8c1650aa42fcc6f73b8420caf7cfae5680&x-sign=045652885118bb246ee90294e74d27dc&x-time=1779155100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491432,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629491432",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779156000,
+                "start_time_local": "19 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779241533-Kv4cPTAAP5YTi-53790a8c1650aa42fcc6f73b8420caf7cfae5680-99320d8b6424c137f8f473826ebf1684",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=53790a8c1650aa42fcc6f73b8420caf7cfae5680&x-sign=d364255e8cba65435e83ab78acdb8da2&x-time=1779155100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491431,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629491431",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779156000,
+                "start_time_local": "19 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779241540-Kv4cPTAAP5YTi-53790a8c1650aa42fcc6f73b8420caf7cfae5680-7bf992998044d63219bc3f25baf56e42",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=53790a8c1650aa42fcc6f73b8420caf7cfae5680&x-sign=68cc3d4cff9d319904928f36c6c1a3a7&x-time=1779155100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491433,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-3-1629491433",
+            "title": "Court 3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779156000,
+                "start_time_local": "19 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779241546-Kv4cPTAAP5YTi-53790a8c1650aa42fcc6f73b8420caf7cfae5680-37e57b2e39962baa208b3e776d94918d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=53790a8c1650aa42fcc6f73b8420caf7cfae5680&x-sign=49f17e3702f7e95b53534de0315e73aa&x-time=1779155100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 43,
     "upcoming_matches": [
-        {
-            "match_id": 1629491434,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 4",
-            "slug": "court-4-1629491434",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779156000,
-                "start_time_local": "19 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491433,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629491433",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779156000,
-                "start_time_local": "19 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491431,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491431",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779156000,
-                "start_time_local": "19 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491432,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491432",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779156000,
-                "start_time_local": "19 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1543728,
             "sport_name": "Football",
@@ -184,11 +236,11 @@
             }
         },
         {
-            "match_id": 1629490940,
+            "match_id": 1629490937,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
-            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629490940",
+            "title": "Saitama Seibu Lions vs Chiba Lotte Marines",
+            "slug": "saitama-seibu-lions-vs-chiba-lotte-marines-1629490937",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -196,8 +248,31 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779181200,
+                "start_time_local": "19 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629490939,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
+            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629490939",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Yomiuri Giants",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -230,11 +305,11 @@
             }
         },
         {
-            "match_id": 1629490937,
+            "match_id": 1629490940,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Chiba Lotte Marines",
-            "slug": "saitama-seibu-lions-vs-chiba-lotte-marines-1629490937",
+            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
+            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629490940",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -242,9 +317,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779181200,
@@ -268,29 +343,6 @@
                 "home_name": "Hanshin Tigers",
                 "away_name": "Chunichi Dragons",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779181200,
-                "start_time_local": "19 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629490939,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
-            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629490939",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Yomiuri Giants",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779181200,
@@ -529,29 +581,6 @@
             }
         },
         {
-            "match_id": 1535312,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Santa Fe vs Platense",
-            "slug": "santa-fe-vs-platense-1535312",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Santa Fe",
-                "away_name": "Platense",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779235200,
-                "start_time_local": "20 May 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535298,
             "sport_name": "Football",
             "sport_id": 1,
@@ -567,6 +596,29 @@
                 "home_name": "Always Ready",
                 "away_name": "Mirassol",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Always%20Ready%20VS%20Mirassol%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779235200,
+                "start_time_local": "20 May 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535312,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Santa Fe vs Platense",
+            "slug": "santa-fe-vs-platense-1535312",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Santa Fe",
+                "away_name": "Platense",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779235200,
