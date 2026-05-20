@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:34 AM 20-05-2026"
+        "last_update_time": "06:45:42 AM 20-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=31899e4c272f710f48923ff0cbfeb5a49b1f574d&x-sign=2ce379ce830000425dc6a3a17a87823a&x-time=1779237000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=e955836dc22b67f21965fd3e34d600f31cb909b4&x-sign=ebd0b536df20820c06f7119b90988e29&x-time=1779237900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,90 +60,93 @@
             "streams": [
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779323430-Kv4cPTAAP5YTi-31899e4c272f710f48923ff0cbfeb5a49b1f574d-d0e699c812819196b6cdc42738c661d9",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/chunks.m3u8?is_vip=false&token=1779324324-Kv4cPTAAP5YTi-e955836dc22b67f21965fd3e34d600f31cb909b4-22939b88cfbb0349059cd91762f68d28",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=31899e4c272f710f48923ff0cbfeb5a49b1f574d&x-sign=bb6e6c530745774881939bf8ee6770a8&x-time=1779237000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/chunks.m3u8?is_vip=false&token=e955836dc22b67f21965fd3e34d600f31cb909b4&x-sign=f2eb085b4d6fcf1fa5542fd6f1408282&x-time=1779237900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491435,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629491435",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779238800,
+                "start_time_local": "20 May 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779324330-Kv4cPTAAP5YTi-e955836dc22b67f21965fd3e34d600f31cb909b4-269a1e3458da219fd532411c9051b10e",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=e955836dc22b67f21965fd3e34d600f31cb909b4&x-sign=a7233448469d1b2621295b6025053534&x-time=1779237900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491436,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629491436",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779238800,
+                "start_time_local": "20 May 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779324337-Kv4cPTAAP5YTi-e955836dc22b67f21965fd3e34d600f31cb909b4-4624f6886d508a9c89bd4ebc72d23dc3",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e955836dc22b67f21965fd3e34d600f31cb909b4&x-sign=90e61642d5ad704bc55d95146bec2f41&x-time=1779237900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 44,
     "upcoming_matches": [
-        {
-            "match_id": 1535304,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Independiente del Valle vs Libertad Asuncion",
-            "slug": "independiente-del-valle-vs-libertad-asuncion-1535304",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Independiente del Valle",
-                "away_name": "Libertad Asuncion",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20del%20Valle%20VS%20Libertad%20Asuncion%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779242400,
-                "start_time_local": "20 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491435,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491435",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779242400,
-                "start_time_local": "20 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491436,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491436",
-            "status": "NS",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779242400,
-                "start_time_local": "20 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629491437,
             "sport_name": "Badminton",
@@ -183,6 +186,29 @@
                 "home_name": "Deportivo Cuenca",
                 "away_name": "Deportivo Recoleta",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Deportivo%20Cuenca%20VS%20Deportivo%20Recoleta%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779242400,
+                "start_time_local": "20 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535304,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Independiente del Valle vs Libertad Asuncion",
+            "slug": "independiente-del-valle-vs-libertad-asuncion-1535304",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Independiente del Valle",
+                "away_name": "Libertad Asuncion",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20del%20Valle%20VS%20Libertad%20Asuncion%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779242400,
@@ -329,6 +355,29 @@
             }
         },
         {
+            "match_id": 1629491067,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Chunichi Dragons",
+            "slug": "hanshin-tigers-vs-chunichi-dragons-1629491067",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779267600,
+                "start_time_local": "20 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491068,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -343,29 +392,6 @@
             "teams": {
                 "home_name": "ORIX Buffaloes",
                 "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779267600,
-                "start_time_local": "20 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491066,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
-            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629491066",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -398,11 +424,11 @@
             }
         },
         {
-            "match_id": 1629491067,
+            "match_id": 1629491066,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Chunichi Dragons",
-            "slug": "hanshin-tigers-vs-chunichi-dragons-1629491067",
+            "title": "Hokkaido Nippon-Ham Fighters vs Tohoku Rakuten Golden Eagles",
+            "slug": "hokkaido-nippon-ham-fighters-vs-tohoku-rakuten-golden-eagles-1629491066",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -410,9 +436,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779267600,
@@ -605,29 +631,6 @@
             }
         },
         {
-            "match_id": 1535309,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Palmeiras vs Cerro Porteno",
-            "slug": "palmeiras-vs-cerro-porteno-1535309",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Palmeiras",
-                "away_name": "Cerro Porteno",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20VS%20Cerro%20Porteno%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779323400,
-                "start_time_local": "21 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535215,
             "sport_name": "Football",
             "sport_id": 1,
@@ -643,6 +646,29 @@
                 "home_name": "River Plate",
                 "away_name": "RB Bragantino",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779323400,
+                "start_time_local": "21 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535309,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Palmeiras vs Cerro Porteno",
+            "slug": "palmeiras-vs-cerro-porteno-1535309",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palmeiras",
+                "away_name": "Cerro Porteno",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palmeiras%20VS%20Cerro%20Porteno%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779323400,
