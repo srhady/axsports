@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:29 PM 20-05-2026"
+        "last_update_time": "09:30:37 PM 20-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629491612,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "auto-racing-1629491612",
+            "title": "Auto racing",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Auto Racing",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779290806,
+                "start_time_local": "20 May 2026, 09:26 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/chunks.m3u8?is_vip=false&token=1779377428-Kv4cPTAAP5YTi-47390a2a721fe120b8f61f8c797c46e2a1abc3cf-7eaf68785c0083f250907a96bf8f2c32",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/chunks.m3u8?is_vip=false&token=47390a2a721fe120b8f61f8c797c46e2a1abc3cf&x-sign=768a276f341b6845d11f1c58c92c474e&x-time=1779291000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491064,
             "sport_name": "Tennis",
@@ -30,20 +66,20 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779376525-Kv4cPTAAP5YTi-b34c20cb1e58b0e6c5e3a677c8ccadd9bc7edb77-c4bc4e308b9e241da099ee03f3bb6d37",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779377433-Kv4cPTAAP5YTi-47390a2a721fe120b8f61f8c797c46e2a1abc3cf-df0a73969337ff6e3c35a37098711469",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b34c20cb1e58b0e6c5e3a677c8ccadd9bc7edb77&x-sign=be619b36f08931c3a5b41fa28367004d&x-time=1779290100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=47390a2a721fe120b8f61f8c797c46e2a1abc3cf&x-sign=244c208bca33dc6fbaa04e39d861cb82&x-time=1779291000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 48,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1545403,
@@ -69,29 +105,6 @@
             }
         },
         {
-            "match_id": 1544952,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Palermo vs Catanzaro",
-            "slug": "palermo-vs-catanzaro-1544952",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Palermo",
-                "away_name": "Catanzaro",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779300000,
-                "start_time_local": "21 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1436212,
             "sport_name": "Football",
             "sport_id": 1,
@@ -107,6 +120,29 @@
                 "home_name": "Al Khaleej Saihat",
                 "away_name": "Al-Ahli Jeddah",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khaleej%20Saihat%20VS%20Al-Ahli%20Jeddah%20%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779300000,
+                "start_time_local": "21 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1544952,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Palermo vs Catanzaro",
+            "slug": "palermo-vs-catanzaro-1544952",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Palermo",
+                "away_name": "Catanzaro",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779300000,
@@ -207,29 +243,6 @@
             }
         },
         {
-            "match_id": 1535216,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Santos vs San Lorenzo",
-            "slug": "santos-vs-san-lorenzo-1535216",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Santos",
-                "away_name": "San Lorenzo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20San%20Lorenzo%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779314400,
-                "start_time_local": "21 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535308,
             "sport_name": "Football",
             "sport_id": 1,
@@ -245,6 +258,29 @@
                 "home_name": "Club Nacional",
                 "away_name": "Universitario",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Nacional%20VS%20Universitario%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779314400,
+                "start_time_local": "21 May 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535216,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Santos vs San Lorenzo",
+            "slug": "santos-vs-san-lorenzo-1535216",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Santos",
+                "away_name": "San Lorenzo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20San%20Lorenzo%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779314400,
@@ -322,29 +358,6 @@
             }
         },
         {
-            "match_id": 1535215,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "River Plate vs RB Bragantino",
-            "slug": "river-plate-vs-rb-bragantino-1535215",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "River Plate",
-                "away_name": "RB Bragantino",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779323400,
-                "start_time_local": "21 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535307,
             "sport_name": "Football",
             "sport_id": 1,
@@ -360,6 +373,29 @@
                 "home_name": "LDU de Quito",
                 "away_name": "Lanus",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LDU%20de%20Quito%20VS%20Lanus%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779323400,
+                "start_time_local": "21 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535215,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "River Plate vs RB Bragantino",
+            "slug": "river-plate-vs-rb-bragantino-1535215",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "River Plate",
+                "away_name": "RB Bragantino",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20RB%20Bragantino%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779323400,
@@ -414,29 +450,6 @@
             }
         },
         {
-            "match_id": 1535301,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cusco vs Independiente Medellin",
-            "slug": "cusco-vs-independiente-medellin-1535301",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cusco",
-                "away_name": "Independiente Medellin",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cusco%20VS%20Independiente%20Medellin%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779328800,
-                "start_time_local": "21 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535305,
             "sport_name": "Football",
             "sport_id": 1,
@@ -452,6 +465,29 @@
                 "home_name": "Junior",
                 "away_name": "Sporting Cristal",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Junior%20VS%20Sporting%20Cristal%20%20CONMEBOL%20Libertadores.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779328800,
+                "start_time_local": "21 May 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535301,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cusco vs Independiente Medellin",
+            "slug": "cusco-vs-independiente-medellin-1535301",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cusco",
+                "away_name": "Independiente Medellin",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cusco%20VS%20Independiente%20Medellin%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779328800,
@@ -552,11 +588,11 @@
             }
         },
         {
-            "match_id": 1629491474,
+            "match_id": 1629491475,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491474",
+            "title": "Court 2",
+            "slug": "court-2-1629491475",
             "status": "NS",
             "league": {
                 "league_name": "PERODUA Malaysia Masters",
@@ -575,11 +611,11 @@
             }
         },
         {
-            "match_id": 1629491475,
+            "match_id": 1629491474,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491475",
+            "title": "Court 1",
+            "slug": "court-1-1629491474",
             "status": "NS",
             "league": {
                 "league_name": "PERODUA Malaysia Masters",
