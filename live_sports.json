@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:37 PM 20-05-2026"
+        "last_update_time": "09:45:39 PM 20-05-2026"
     },
     "live_matches": [
         {
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779377433-Kv4cPTAAP5YTi-47390a2a721fe120b8f61f8c797c46e2a1abc3cf-df0a73969337ff6e3c35a37098711469",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779378334-Kv4cPTAAP5YTi-56c6176509290c7c07da0a20795483bb29f58fdf-b528864121c02c18d6980cbd48594422",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=47390a2a721fe120b8f61f8c797c46e2a1abc3cf&x-sign=244c208bca33dc6fbaa04e39d861cb82&x-time=1779291000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=56c6176509290c7c07da0a20795483bb29f58fdf&x-sign=32fb01360a1929cd368a3db927408e20&x-time=1779291900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -105,29 +105,6 @@
             }
         },
         {
-            "match_id": 1436212,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Al Khaleej Saihat vs Al-Ahli Jeddah",
-            "slug": "al-khaleej-saihat-vs-al-ahli-jeddah-1436212",
-            "status": "NS",
-            "league": {
-                "league_name": "Pro League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Al Khaleej Saihat",
-                "away_name": "Al-Ahli Jeddah",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khaleej%20Saihat%20VS%20Al-Ahli%20Jeddah%20%20Pro%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779300000,
-                "start_time_local": "21 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1544952,
             "sport_name": "Football",
             "sport_id": 1,
@@ -143,6 +120,29 @@
                 "home_name": "Palermo",
                 "away_name": "Catanzaro",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Palermo%20VS%20Catanzaro%20%20Serie%20B.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779300000,
+                "start_time_local": "21 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1436212,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Al Khaleej Saihat vs Al-Ahli Jeddah",
+            "slug": "al-khaleej-saihat-vs-al-ahli-jeddah-1436212",
+            "status": "NS",
+            "league": {
+                "league_name": "Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Al Khaleej Saihat",
+                "away_name": "Al-Ahli Jeddah",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Khaleej%20Saihat%20VS%20Al-Ahli%20Jeddah%20%20Pro%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779300000,
@@ -197,11 +197,11 @@
             }
         },
         {
-            "match_id": 1535212,
+            "match_id": 1535216,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Olimpia vs Vasco DA Gama",
-            "slug": "olimpia-vs-vasco-da-gama-1535212",
+            "title": "Santos vs San Lorenzo",
+            "slug": "santos-vs-san-lorenzo-1535216",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -209,9 +209,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Olimpia",
-                "away_name": "Vasco DA Gama",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Olimpia%20VS%20Vasco%20DA%20Gama%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Santos",
+                "away_name": "San Lorenzo",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20San%20Lorenzo%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779314400,
@@ -266,11 +266,11 @@
             }
         },
         {
-            "match_id": 1535216,
+            "match_id": 1535212,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Santos vs San Lorenzo",
-            "slug": "santos-vs-san-lorenzo-1535216",
+            "title": "Olimpia vs Vasco DA Gama",
+            "slug": "olimpia-vs-vasco-da-gama-1535212",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Sudamericana",
@@ -278,9 +278,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Santos",
-                "away_name": "San Lorenzo",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20San%20Lorenzo%20%20CONMEBOL%20Sudamericana.jpg"
+                "home_name": "Olimpia",
+                "away_name": "Vasco DA Gama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Olimpia%20VS%20Vasco%20DA%20Gama%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779314400,
