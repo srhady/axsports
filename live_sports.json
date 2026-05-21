@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:01:27 AM 22-05-2026"
+        "last_update_time": "01:16:28 AM 22-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629491137,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "slug": "night-16-1629491137",
+            "title": "Night 16",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779386400,
+                "start_time_local": "22 May 2026, 12:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779477324-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-234cb7751df940725276573a7a6d5eb6",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=e717ef16b328711f396370006850cb0f&x-time=1779390900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1438977,
             "sport_name": "Football",
@@ -30,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "151592",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779476428-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-5336c18df94550ec941183f7c68480b8",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1779477331-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-b4eb59e0aa39198cc4d2d5f0e1d2660d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "151592",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=29b1c29eb81fef025a544f5389ca4036&x-time=1779390000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=0370b63e9110da88b1f3c14b8198db50&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,85 +102,13 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779476434-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-f147dff11837e2e083ce490dd2a7f26d",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779477338-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-c43f19298b0335f187e1532493ecef45",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=3fe191f72f33dd4362364ec57f9c3dec&x-time=1779390000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491137,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "slug": "night-16-1629491137",
-            "title": "Night 16",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779386400,
-                "start_time_local": "22 May 2026, 12:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779476440-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-de9cee05ed57c076680bb812eb350909",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=e64fa537b4c73f0f15da544b0388c034&x-time=1779390000",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1537003,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "gent-vs-union-st-gilloise-1537003",
-            "title": "Gent vs Union St. Gilloise",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Jupiler Pro League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gent",
-                "away_name": "Union St. Gilloise",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gent%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779388200,
-                "start_time_local": "22 May 2026, 12:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779476447-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-249cfed886a3345da79316326e21cac8",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=81e2db80bebb488bd229864b3c24ee2d&x-time=1779390000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=58421b845d07ab5f854b1ad9e294d645&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -174,19 +138,19 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779476453-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-1e5ee19019b347d7ef9d76af1acd6d96",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779477344-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-db7a13b0d4e6925335d85722fcd1a308",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=ae87b744fee5f4d59235be49acdc8108&x-time=1779390000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=dfbb088f90cc4c7f5c12792de55a1c9c&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "138846",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138846_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=3257396bd697d0d801783063451e8870&x-time=1779390000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138846_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=4ce03c0ab53f170ad5ef2e097c8a3854&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -216,19 +180,19 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779476462-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-385cf6f4a7bec1ba32fc789d69e2a4c9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779477353-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-3fec6e21d9f6d885e3121c94dc0acd37",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=89ce0878b083d9ebb077095c1f6eb4b3&x-time=1779390060",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=1669c1e37ac11a5abcd7f3067a10df15&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "138851",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138851_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=56da99fcfba8ffdeb20b572d12048237&x-time=1779390060",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138851_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=089e5ac436cdae9008b2d2b2d797da70&x-time=1779390900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -258,13 +222,85 @@
             "streams": [
                 {
                     "server_name": "138854",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=6fb2d4d0ac65a524f1e9e6bddd6b07dd&x-time=1779390060",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=50214cbfc5d72a413c04aec3d6ff9447&x-time=1779390960",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "138854",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1779476471-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-094f1fa47369035f267e79ccb65b5e2f",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/138854_abrhd.m3u8?is_vip=false&token=1779477363-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-2ab27bcdc37a2df92fff53da349befaf",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1537003,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "gent-vs-union-st-gilloise-1537003",
+            "title": "Gent vs Union St. Gilloise",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gent",
+                "away_name": "Union St. Gilloise",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gent%20VS%20Union%20St.%20Gilloise%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779388200,
+                "start_time_local": "22 May 2026, 12:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779477368-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-465c17d8f543ccb4e3fdc61d68f29231",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=883e6d39ccfd81babe9ccdc08b2a3202&x-time=1779390960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1545412,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "utrecht-vs-heerenveen-1545412",
+            "title": "Utrecht vs Heerenveen",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Eredivisie",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Utrecht",
+                "away_name": "Heerenveen",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20VS%20Heerenveen%20%20Eredivisie.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779390000,
+                "start_time_local": "22 May 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "112521",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=b087649e07507619fdb3cc992fdb4287&x-time=1779390960",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "112521",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779477377-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-9e8c0dc9cb409f09c4d69cbfa5dcefd0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -294,49 +330,13 @@
             "streams": [
                 {
                     "server_name": "372",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=df5be82ecaa827fa194525b9fda07519&x-time=1779390060",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1a4eff5f93c3502911be06168a39405a958647a8&x-sign=1227417ef59b2d9496c9ba9f3f3a3552&x-time=1779390960",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "372",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779476478-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-a7f0e3d69e1d9fe26012e41dca939d8d",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1545412,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "utrecht-vs-heerenveen-1545412",
-            "title": "Utrecht vs Heerenveen",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Eredivisie",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Utrecht",
-                "away_name": "Heerenveen",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Utrecht%20VS%20Heerenveen%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779390000,
-                "start_time_local": "22 May 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "112521",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=3665c9452ee424cd78d37a7eefbfc333ca05de9c&x-sign=b637526f069a860c02fb4efb62b7f783&x-time=1779390060",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "112521",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521_abrhd.m3u8?is_vip=false&token=1779476484-Kv4cPTAAP5YTi-3665c9452ee424cd78d37a7eefbfc333ca05de9c-e7bace70a0a4ccb76b9cc66325a817f9",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1779477384-Kv4cPTAAP5YTi-1a4eff5f93c3502911be06168a39405a958647a8-c5e061ea3d718f4ad530805a1e8979e2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
