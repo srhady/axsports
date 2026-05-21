@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:36 PM 21-05-2026"
+        "last_update_time": "10:30:38 PM 21-05-2026"
     },
     "live_matches": [
         {
@@ -30,44 +30,21 @@
             "streams": [
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779466532-Kv4cPTAAP5YTi-82d73dc9db848e16e71b6db9e069cc77584ad80a-fc48b126fb12861f39197996e0c6b4ea",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=1779467429-Kv4cPTAAP5YTi-6e55fe2e4a05c781d9fb2da884472cc0d682ca94-e3d9bdfc42d89eaeaf38da3b8c23b3c4",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=82d73dc9db848e16e71b6db9e069cc77584ad80a&x-sign=79287903cce0dc8315e3673c5753b770&x-time=1779380100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070_abrhd.m3u8?is_vip=false&token=6e55fe2e4a05c781d9fb2da884472cc0d682ca94&x-sign=b870e07864300fdd6144926db32b8f2e&x-time=1779381000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 49,
+    "total_upcoming_matches": 48,
     "upcoming_matches": [
-        {
-            "match_id": 1545411,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Ajax vs Groningen",
-            "slug": "ajax-vs-groningen-1545411",
-            "status": "NS",
-            "league": {
-                "league_name": "Eredivisie",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ajax",
-                "away_name": "Groningen",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ajax%20VS%20Groningen%20%20Eredivisie.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779381900,
-                "start_time_local": "21 May 2026, 10:45 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1438977,
             "sport_name": "Football",
@@ -985,6 +962,29 @@
             "timing": {
                 "start_time_timestamp": 1779457500,
                 "start_time_local": "22 May 2026, 07:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491166,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "BAUHAUS Royal Rally of Scandinavia: Stage 1",
+            "slug": "bauhaus-royal-rally-of-scandinavia-stage-1-1629491166",
+            "status": "NS",
+            "league": {
+                "league_name": "ERC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779467400,
+                "start_time_local": "22 May 2026, 10:30 PM",
                 "countdown_seconds": null
             }
         }
