@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:16:03 AM 22-05-2026"
+        "last_update_time": "09:30:57 AM 22-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629491142,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629491142",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "PERODUA Malaysia Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779411600,
+                "start_time_local": "22 May 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779507025-Kv4cPTAAP5YTi-d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f-5c73724beaf9d297d24cb4f2ac690b0a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f&x-sign=8096bbaab2cf413c4acd795c28322355&x-time=1779420600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491143,
             "sport_name": "Badminton",
@@ -30,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779506124-Kv4cPTAAP5YTi-62960d09e80731992adc326d54c071b97b20a505-403939ff4845073d08fcfffbef53a68a",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779507032-Kv4cPTAAP5YTi-d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f-08c84d32540502c5919be5f3bbd2c05b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=04d70d790cd812e24b2f5a5fff1e51cc&x-time=1779419700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f&x-sign=c45907d26404a588cd35cdbe253cf46f&x-time=1779420600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,85 +102,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779506131-Kv4cPTAAP5YTi-62960d09e80731992adc326d54c071b97b20a505-299be9af99032b6af4dd483f24aae6a6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779507038-Kv4cPTAAP5YTi-d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f-96ba0182a8128d20cf49e9084be04ebb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=7408faa64eebce73a215d004b0cbb1b4&x-time=1779419700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491142,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-1-1629491142",
-            "title": "Court 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "PERODUA Malaysia Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779411600,
-                "start_time_local": "22 May 2026, 07:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779506138-Kv4cPTAAP5YTi-62960d09e80731992adc326d54c071b97b20a505-debe205038275489f02dbec6539c8449",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=9a60eb5f1184b8d2301778dabde9e9a2&x-time=1779419700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491139,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "slug": "suzuka-free-practice-1-1629491139",
-            "title": "Suzuka - Free Practice 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Super Formula",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779414300,
-                "start_time_local": "22 May 2026, 07:45 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779506144-Kv4cPTAAP5YTi-62960d09e80731992adc326d54c071b97b20a505-5366498e257e5157af6f5ce4ecc04da6",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=497d6e0911cda870acba28f3948b204e&x-time=1779419700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f&x-sign=5cbcb09169eddca1411999d99f10a68a&x-time=1779420600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -174,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "274844",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779506151-Kv4cPTAAP5YTi-62960d09e80731992adc326d54c071b97b20a505-47185c8d5d23712d509f466d07ee1215",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=1779507045-Kv4cPTAAP5YTi-d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f-890572dad2e53a5185d5e352a9df9414",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "274844",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=c314e714adde50718e0327277134ab84&x-time=1779419700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274844_abrhd.m3u8?is_vip=false&token=d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f&x-sign=5ed9a2488a3315413b83702188e44d90&x-time=1779420600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -210,20 +174,20 @@
             "streams": [
                 {
                     "server_name": "274860",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abr.m3u8",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=1779507052-Kv4cPTAAP5YTi-d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f-a784509a8dc9c75a931214696d8ff949",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "274860",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=62960d09e80731992adc326d54c071b97b20a505&x-sign=d9af3ee28b87de61558b3ad965c9974a&x-time=1779419700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274860_abrhd.m3u8?is_vip=false&token=d8f37fc42246a83b8a0e2ef0e46e7f0014e7890f&x-sign=bdc34b6d0eec303eb0b87b0c112d2154&x-time=1779420600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 44,
+    "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
             "match_id": 1629491145,
@@ -295,6 +259,29 @@
             }
         },
         {
+            "match_id": 1629491150,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Hanshin Tigers",
+            "slug": "yomiuri-giants-vs-hanshin-tigers-1629491150",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779440400,
+                "start_time_local": "22 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491149,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -318,11 +305,11 @@
             }
         },
         {
-            "match_id": 1629491150,
+            "match_id": 1629491153,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Hanshin Tigers",
-            "slug": "yomiuri-giants-vs-hanshin-tigers-1629491150",
+            "title": "Fukuoka SoftBank Hawks vs Hokkaido Nippon-Ham Fighters",
+            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629491153",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -330,8 +317,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Hanshin Tigers",
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -364,29 +351,6 @@
             }
         },
         {
-            "match_id": 1629491153,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Hokkaido Nippon-Ham Fighters",
-            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629491153",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779440400,
-                "start_time_local": "22 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491157,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -410,29 +374,6 @@
             }
         },
         {
-            "match_id": 1629491159,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "St. Kilda Saints vs Fremantle",
-            "slug": "st-kilda-saints-vs-fremantle-1629491159",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "St. Kilda Saints",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779445800,
-                "start_time_local": "22 May 2026, 04:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491158,
             "sport_name": "Cycling",
             "sport_id": 20,
@@ -446,6 +387,29 @@
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779445800,
+                "start_time_local": "22 May 2026, 04:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491159,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "St. Kilda Saints vs Fremantle",
+            "slug": "st-kilda-saints-vs-fremantle-1629491159",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "St. Kilda Saints",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
