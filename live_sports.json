@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:51 PM 22-05-2026"
+        "last_update_time": "10:15:48 PM 22-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779552040-Kv4cPTAAP5YTi-24b2b9ef95daa0783a07bd838a56114575ce6714-588ac994f102c4128d65b7ce198f27a3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779552929-Kv4cPTAAP5YTi-88a587c9263c39076f3c9235045d44d045185365-77ea15e069ac701864c42b6389f5ef27",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=24b2b9ef95daa0783a07bd838a56114575ce6714&x-sign=ce4ab0c4f70ef44dd247593ad196a65a&x-time=1779465600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&x-sign=b8ba0b913bee34fbc2d690781ce1fc1c&x-time=1779466500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779552046-Kv4cPTAAP5YTi-24b2b9ef95daa0783a07bd838a56114575ce6714-8f43bfb3ea738a865f478707f7189464",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1779552936-Kv4cPTAAP5YTi-88a587c9263c39076f3c9235045d44d045185365-fdd6d7376a5d6bfffee3125821ca4d11",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=24b2b9ef95daa0783a07bd838a56114575ce6714&x-sign=cacf5c68f2e8956f7ab450a319c20000&x-time=1779465600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&x-sign=eabaf421dba57bf634e67e7e7a8367b2&x-time=1779466500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491709,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "CANADIAN GRAND PRIX 2026 Practice 1",
             "slug": "canadian-grand-prix-2026-practice-1-1629491709",
-            "status": "NS",
+            "title": "CANADIAN GRAND PRIX 2026 Practice 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "Formula 1",
                 "league_logo": ""
@@ -100,10 +97,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779467100,
-                "start_time_local": "22 May 2026, 10:25 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "22 May 2026, 10:25 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779552943-Kv4cPTAAP5YTi-88a587c9263c39076f3c9235045d44d045185365-41750b7af88fc30a65fe3d836ea0912b",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=88a587c9263c39076f3c9235045d44d045185365&x-sign=342bb0d8eb25c3789502905af0501075&x-time=1779466500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1629491167,
             "sport_name": "Darts",
@@ -174,29 +187,6 @@
             }
         },
         {
-            "match_id": 1544652,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sudtirol vs Bari",
-            "slug": "sudtirol-vs-bari-1544652",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sudtirol",
-                "away_name": "Bari",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sudtirol%20VS%20Bari%20%20Serie%20B.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779472800,
-                "start_time_local": "23 May 2026, 12:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491710,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -212,6 +202,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779472800,
+                "start_time_local": "23 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1544652,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sudtirol vs Bari",
+            "slug": "sudtirol-vs-bari-1544652",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie B",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sudtirol",
+                "away_name": "Bari",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sudtirol%20VS%20Bari%20%20Serie%20B.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779472800,
@@ -427,6 +440,52 @@
             }
         },
         {
+            "match_id": 1629491181,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Tokyo Yakult Swallows",
+            "slug": "yokohama-dena-baystars-vs-tokyo-yakult-swallows-1629491181",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779512400,
+                "start_time_local": "23 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491180,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Hokkaido Nippon-Ham Fighters",
+            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629491180",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779512400,
+                "start_time_local": "23 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1504821,
             "sport_name": "Football",
             "sport_id": 1,
@@ -473,52 +532,6 @@
             }
         },
         {
-            "match_id": 1629491180,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Hokkaido Nippon-Ham Fighters",
-            "slug": "fukuoka-softbank-hawks-vs-hokkaido-nippon-ham-fighters-1629491180",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Hokkaido%20Nippon-Ham%20Fighters%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779512400,
-                "start_time_local": "23 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491181,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Tokyo Yakult Swallows",
-            "slug": "yokohama-dena-baystars-vs-tokyo-yakult-swallows-1629491181",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779512400,
-                "start_time_local": "23 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491185,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -542,29 +555,6 @@
             }
         },
         {
-            "match_id": 1629491187,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Sydney Swans vs Geelong Cats",
-            "slug": "sydney-swans-vs-geelong-cats-1629491187",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Sydney Swans",
-                "away_name": "Geelong Cats",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Swans%20VS%20Geelong%20Cats%20%20AFL%20Premiership.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779516000,
-                "start_time_local": "23 May 2026, 12:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491186,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -580,6 +570,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779516000,
+                "start_time_local": "23 May 2026, 12:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491187,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Sydney Swans vs Geelong Cats",
+            "slug": "sydney-swans-vs-geelong-cats-1629491187",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Sydney Swans",
+                "away_name": "Geelong Cats",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Swans%20VS%20Geelong%20Cats%20%20AFL%20Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779516000,
@@ -726,6 +739,29 @@
             }
         },
         {
+            "match_id": 1629491195,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "Nove Mesto - XCC",
+            "slug": "nove-mesto-xcc-1629491195",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779526800,
+                "start_time_local": "23 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491194,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -749,44 +785,21 @@
             }
         },
         {
-            "match_id": 1629491193,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Hanshin Tigers",
-            "slug": "yomiuri-giants-vs-hanshin-tigers-1629491193",
+            "match_id": 1504823,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Kashiwa Reysol vs JEF United Chiba",
+            "slug": "kashiwa-reysol-vs-jef-united-chiba-1504823",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Hanshin%20Tigers%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779526800,
-                "start_time_local": "23 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491195,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "Nove Mesto - XCC",
-            "slug": "nove-mesto-xcc-1629491195",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Kashiwa Reysol",
+                "away_name": "JEF United Chiba",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20JEF%20United%20Chiba%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779526800,
@@ -818,21 +831,21 @@
             }
         },
         {
-            "match_id": 1504823,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Kashiwa Reysol vs JEF United Chiba",
-            "slug": "kashiwa-reysol-vs-jef-united-chiba-1504823",
+            "match_id": 1629491193,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Hanshin Tigers",
+            "slug": "yomiuri-giants-vs-hanshin-tigers-1629491193",
             "status": "NS",
             "league": {
-                "league_name": "J1 League",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Kashiwa Reysol",
-                "away_name": "JEF United Chiba",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashiwa%20Reysol%20VS%20JEF%20United%20Chiba%20%20J1%20League.jpg"
+                "home_name": "Yomiuri Giants",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Hanshin%20Tigers%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779526800,
@@ -1002,29 +1015,6 @@
             }
         },
         {
-            "match_id": 1629491203,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Zandvoort - Race 1",
-            "slug": "zandvoort-race-1-1629491203",
-            "status": "NS",
-            "league": {
-                "league_name": "Deutsche Tourenwagen Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779535800,
-                "start_time_local": "23 May 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1543800,
             "sport_name": "Football",
             "sport_id": 1,
@@ -1039,6 +1029,29 @@
             "teams": {
                 "home_name": "Charlton Athletic W",
                 "away_name": "Leicester City WFC",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779535800,
+                "start_time_local": "23 May 2026, 05:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491203,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Zandvoort - Race 1",
+            "slug": "zandvoort-race-1-1629491203",
+            "status": "NS",
+            "league": {
+                "league_name": "Deutsche Tourenwagen Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1117,14 +1130,14 @@
             }
         },
         {
-            "match_id": 1629491208,
+            "match_id": 1629491207,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Zandvoort - Race 1",
-            "slug": "zandvoort-race-1-1629491208",
+            "title": "BAUHAUS Royal Rally of Scandinavia: Stage 6",
+            "slug": "bauhaus-royal-rally-of-scandinavia-stage-6-1629491207",
             "status": "NS",
             "league": {
-                "league_name": "ADAC GT Masters",
+                "league_name": "ERC",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -1140,14 +1153,14 @@
             }
         },
         {
-            "match_id": 1629491207,
+            "match_id": 1629491208,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "BAUHAUS Royal Rally of Scandinavia: Stage 6",
-            "slug": "bauhaus-royal-rally-of-scandinavia-stage-6-1629491207",
+            "title": "Zandvoort - Race 1",
+            "slug": "zandvoort-race-1-1629491208",
             "status": "NS",
             "league": {
-                "league_name": "ERC",
+                "league_name": "ADAC GT Masters",
                 "league_logo": ""
             },
             "venue": "TBA",
