@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:15:50 AM 23-05-2026"
+        "last_update_time": "02:30:58 AM 23-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779567325-Kv4cPTAAP5YTi-39445b65a908435e2f975d5ecc133d192dbe8a23-26c64d873fb641745cfb0f57004cc586",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=1779568226-Kv4cPTAAP5YTi-a52377b041fd6dd0c398832053cee1fd68797248-ee3e93196f64bd5a4a22d043af19b962",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=39445b65a908435e2f975d5ecc133d192dbe8a23&x-sign=adc4764545e575ddfd964bf95394accf&x-time=1779480900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=94c54aa90e605cafd955a905b08dd56e&x-time=1779481800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779567332-Kv4cPTAAP5YTi-39445b65a908435e2f975d5ecc133d192dbe8a23-bd35d25b14eedcd473df740c40064aaf",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779568232-Kv4cPTAAP5YTi-a52377b041fd6dd0c398832053cee1fd68797248-cade3bc25686d4d44a2a2e66bfaca615",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=39445b65a908435e2f975d5ecc133d192dbe8a23&x-sign=fbae20f906ca6f6e9773d05d7959e3c7&x-time=1779480900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=8718390c9c272e049f89d1e697f5ef81&x-time=1779481800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -102,13 +102,55 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779567339-Kv4cPTAAP5YTi-39445b65a908435e2f975d5ecc133d192dbe8a23-6109aa31ec2b81758958bacfbd1986b0",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1779568239-Kv4cPTAAP5YTi-a52377b041fd6dd0c398832053cee1fd68797248-df45a10e78506ca25b6836f2e39fb892",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=39445b65a908435e2f975d5ecc133d192dbe8a23&x-sign=b7be1c029b41b5ae568dcc3e8328d724&x-time=1779480900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=7708af5ebcb844131e3baee91b328166&x-time=1779481800",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1542551,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "lens-vs-nice-1542551",
+            "title": "Lens vs Nice",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Coupe de France",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lens",
+                "away_name": "Nice",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lens%20VS%20Nice%20%20Coupe%20de%20France.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779476400,
+                "start_time_local": "23 May 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "952",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/952_abrhd.m3u8?is_vip=false&token=1779568246-Kv4cPTAAP5YTi-a52377b041fd6dd0c398832053cee1fd68797248-90bde3e49ed1859dc24355041ed06206",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "952",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/952_abrhd.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=398ab6e1af3111d1e305a56bf5b713c2&x-time=1779481800",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592_abrhd.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=2a2fed1908c0560f21e7ade339a20f7b&x-time=1779481800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -138,13 +180,13 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779567346-Kv4cPTAAP5YTi-39445b65a908435e2f975d5ecc133d192dbe8a23-a06481b1de3bb33868d3c98ac6b4b2d9",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239_abrhd.m3u8?is_vip=false&token=1779568254-Kv4cPTAAP5YTi-a52377b041fd6dd0c398832053cee1fd68797248-55e0e97021820ee5d68df8bf4a33f583",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=39445b65a908435e2f975d5ecc133d192dbe8a23&x-sign=ab21f938db37fd1d9285c79343910eb2&x-time=1779480900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=a52377b041fd6dd0c398832053cee1fd68797248&x-sign=934557c26d663e85def1db0674c87c22&x-time=1779481800",
                     "is_new_format": false,
                     "required_referer": ""
                 }
