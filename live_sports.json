@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:27 AM 24-05-2026"
+        "last_update_time": "12:30:50 AM 24-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=b8e059fd58b0fe8a12ec60cb6b88adb5eccd326f&x-sign=8cd2eb9c7344897b35e93d4d060a2668&x-time=1779560100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=559df0d4dccb6a62bbe015693d87fdab7728066e&x-sign=da8845c61bea4df6698808177432b6c0&x-time=1779561000",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,51 +60,55 @@
             "streams": [
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=b8e059fd58b0fe8a12ec60cb6b88adb5eccd326f&x-sign=7421e44517f0c24b61c225db33fed3a2&x-time=1779560100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=559df0d4dccb6a62bbe015693d87fdab7728066e&x-sign=7416cefdaa057e70eb0cbf8700fcb3c8&x-time=1779561000",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779646524-Kv4cPTAAP5YTi-b8e059fd58b0fe8a12ec60cb6b88adb5eccd326f-0dbc6834761a71dc3ca8f9e4c1da77aa",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520_abrhd.m3u8?is_vip=false&token=1779647429-Kv4cPTAAP5YTi-559df0d4dccb6a62bbe015693d87fdab7728066e-ca042536cb30ef4cfbab93f85beb3f86",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1536964,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "OH Leuven vs Genk",
-            "slug": "oh-leuven-vs-genk-1536964",
-            "status": "NS",
+            "match_id": 1629491721,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "montreal-canada-1629491721",
+            "title": "Montreal, Canada",
+            "status": "LIVE",
             "league": {
-                "league_name": "Jupiler Pro League",
+                "league_name": "FIA Formula 2 Championship",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "OH Leuven",
-                "away_name": "Genk",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20VS%20Genk%20%20Jupiler%20Pro%20League.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1779561900,
-                "start_time_local": "24 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
+                "start_time_timestamp": 1779560151,
+                "start_time_local": "24 May 2026, 12:15 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=559df0d4dccb6a62bbe015693d87fdab7728066e&x-sign=f09750bedeec0a2fea6a3fc4efa50b6e&x-time=1779561000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1378237,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Lazio vs Pisa",
             "slug": "lazio-vs-pisa-1378237",
-            "status": "NS",
+            "title": "Lazio vs Pisa",
+            "status": "LIVE",
             "league": {
                 "league_name": "Serie A",
                 "league_logo": ""
@@ -117,10 +121,62 @@
             },
             "timing": {
                 "start_time_timestamp": 1779561900,
-                "start_time_local": "24 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "24 May 2026, 12:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=559df0d4dccb6a62bbe015693d87fdab7728066e&x-sign=271165f4c51cdbe2601bb41a086d77a3&x-time=1779561000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779647440-Kv4cPTAAP5YTi-559df0d4dccb6a62bbe015693d87fdab7728066e-5e0725677807f229ebc1109a4fc8f99a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
+        {
+            "match_id": 1536964,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "oh-leuven-vs-genk-1536964",
+            "title": "OH Leuven vs Genk",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Jupiler Pro League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "OH Leuven",
+                "away_name": "Genk",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/OH%20Leuven%20VS%20Genk%20%20Jupiler%20Pro%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779561900,
+                "start_time_local": "24 May 2026, 12:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779647445-Kv4cPTAAP5YTi-559df0d4dccb6a62bbe015693d87fdab7728066e-d05c0263ca161369f684b31ed82b8615",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=559df0d4dccb6a62bbe015693d87fdab7728066e&x-sign=3d91790ef0209cde2a45524004a92bbe&x-time=1779561000",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1391190,
             "sport_name": "Football",
@@ -237,29 +293,6 @@
             }
         },
         {
-            "match_id": 1391191,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Celta Vigo vs Sevilla",
-            "slug": "celta-vigo-vs-sevilla-1391191",
-            "status": "NS",
-            "league": {
-                "league_name": "La Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Celta Vigo",
-                "away_name": "Sevilla",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celta%20Vigo%20VS%20Sevilla%20%20La%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779562800,
-                "start_time_local": "24 May 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1391189,
             "sport_name": "Football",
             "sport_id": 1,
@@ -275,6 +308,29 @@
                 "home_name": "Alaves",
                 "away_name": "Rayo Vallecano",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alaves%20VS%20Rayo%20Vallecano%20%20La%20Liga.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779562800,
+                "start_time_local": "24 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1391191,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Celta Vigo vs Sevilla",
+            "slug": "celta-vigo-vs-sevilla-1391191",
+            "status": "NS",
+            "league": {
+                "league_name": "La Liga",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Celta Vigo",
+                "away_name": "Sevilla",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Celta%20Vigo%20VS%20Sevilla%20%20La%20Liga.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779562800,
@@ -1084,6 +1140,29 @@
             "timing": {
                 "start_time_timestamp": 1779645600,
                 "start_time_local": "25 May 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1545443,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "River Plate vs Belgrano Cordoba",
+            "slug": "river-plate-vs-belgrano-cordoba-1545443",
+            "status": "NS",
+            "league": {
+                "league_name": "Liga Profesional Argentina",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "River Plate",
+                "away_name": "Belgrano Cordoba",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779647400,
+                "start_time_local": "25 May 2026, 12:30 AM",
                 "countdown_seconds": null
             }
         }
