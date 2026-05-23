@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:28 AM 23-05-2026"
+        "last_update_time": "06:00:38 AM 23-05-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779579924-Kv4cPTAAP5YTi-bd710e350c2efdf1ae2df3dc3a5ca932c5844541-431c03b2c754f29015157f3bf4761333",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1779580827-Kv4cPTAAP5YTi-55e610dc8914cc0709d49011ec6b82d2dd4f928b-38922d4701d1b5503943a1612c087987",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=bd710e350c2efdf1ae2df3dc3a5ca932c5844541&x-sign=fa12656b1ce3fa6e3cf60ccb1f76512b&x-time=1779493500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=55e610dc8914cc0709d49011ec6b82d2dd4f928b&x-sign=d043879cf3cfb3260fcebce9b0a13dc5&x-time=1779494400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491170,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Suzuka - Qualifying 1",
             "slug": "suzuka-qualifying-1-1629491170",
-            "status": "NS",
+            "title": "Suzuka - Qualifying 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Formula",
                 "league_logo": ""
@@ -64,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779495300,
-                "start_time_local": "23 May 2026, 06:15 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "23 May 2026, 06:15 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779580834-Kv4cPTAAP5YTi-55e610dc8914cc0709d49011ec6b82d2dd4f928b-f12243d9dbe0ddbc44785bb1c67d3468",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=55e610dc8914cc0709d49011ec6b82d2dd4f928b&x-sign=e3f2adbf448c6059d0c9f724d63185ed&x-time=1779494400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1629491174,
             "sport_name": "Rugby",
