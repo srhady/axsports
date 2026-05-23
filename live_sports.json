@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:34 AM 24-05-2026"
+        "last_update_time": "04:00:33 AM 24-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1545426,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "farense-vs-cf-os-belenenses-1545426",
-            "title": "Farense vs CF Os Belenenses",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Segunda Liga",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Farense",
-                "away_name": "CF Os Belenenses",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20VS%20CF%20Os%20Belenenses%20%20Segunda%20Liga.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779564600,
-                "start_time_local": "24 May 2026, 01:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "161357",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1779659122-Kv4cPTAAP5YTi-efa0f11d339d8b00081fb14c2ee6734855fd2043-0246fe4b0386b73e7db20f42f162342b",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=efa0f11d339d8b00081fb14c2ee6734855fd2043&x-sign=8106b593a253d48dce4a89338e36b602&x-time=1779572700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629491724,
             "sport_name": "Auto Racing",
@@ -66,20 +30,20 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=efa0f11d339d8b00081fb14c2ee6734855fd2043&x-sign=966dcc1a93da29f007c3585567ee403c&x-time=1779572700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239_abrhd.m3u8?is_vip=false&token=496baa3137970d12a6166f299498751d6aadb461&x-sign=3ab1761576e55049a63b09629a6b4a3c&x-time=1779573600",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "263",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263_abrhd.m3u8?is_vip=false&token=efa0f11d339d8b00081fb14c2ee6734855fd2043&x-sign=357a0a853245c50a3878295488553aa3&x-time=1779572700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263_abrhd.m3u8?is_vip=false&token=496baa3137970d12a6166f299498751d6aadb461&x-sign=c75e232d1b8942b8dffcf136cb41259d&x-time=1779573600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 48,
+    "total_upcoming_matches": 49,
     "upcoming_matches": [
         {
             "match_id": 1629491215,
@@ -473,11 +437,11 @@
             }
         },
         {
-            "match_id": 1379348,
+            "match_id": 1379345,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "West Ham vs Leeds",
-            "slug": "west-ham-vs-leeds-1379348",
+            "title": "Nottingham Forest vs Bournemouth",
+            "slug": "nottingham-forest-vs-bournemouth-1379345",
             "status": "NS",
             "league": {
                 "league_name": "Premier League",
@@ -485,9 +449,124 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "West Ham",
-                "away_name": "Leeds",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Ham%20VS%20Leeds%20%20Premier%20League.jpg"
+                "home_name": "Nottingham Forest",
+                "away_name": "Bournemouth",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Bournemouth%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779634800,
+                "start_time_local": "24 May 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379344,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Manchester City vs Aston Villa",
+            "slug": "manchester-city-vs-aston-villa-1379344",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Manchester City",
+                "away_name": "Aston Villa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20VS%20Aston%20Villa%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779634800,
+                "start_time_local": "24 May 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379343,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Liverpool vs Brentford",
+            "slug": "liverpool-vs-brentford-1379343",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Liverpool",
+                "away_name": "Brentford",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Brentford%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779634800,
+                "start_time_local": "24 May 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379342,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Fulham vs Newcastle",
+            "slug": "fulham-vs-newcastle-1379342",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fulham",
+                "away_name": "Newcastle",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fulham%20VS%20Newcastle%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779634800,
+                "start_time_local": "24 May 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379341,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Crystal Palace vs Arsenal",
+            "slug": "crystal-palace-vs-arsenal-1379341",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Crystal Palace",
+                "away_name": "Arsenal",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Arsenal%20%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779634800,
+                "start_time_local": "24 May 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1379347,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Tottenham vs Everton",
+            "slug": "tottenham-vs-everton-1379347",
+            "status": "NS",
+            "league": {
+                "league_name": "Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tottenham",
+                "away_name": "Everton",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20VS%20Everton%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779634800,
@@ -542,11 +621,11 @@
             }
         },
         {
-            "match_id": 1379341,
+            "match_id": 1379348,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Crystal Palace vs Arsenal",
-            "slug": "crystal-palace-vs-arsenal-1379341",
+            "title": "West Ham vs Leeds",
+            "slug": "west-ham-vs-leeds-1379348",
             "status": "NS",
             "league": {
                 "league_name": "Premier League",
@@ -554,101 +633,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Crystal Palace",
-                "away_name": "Arsenal",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Crystal%20Palace%20VS%20Arsenal%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779634800,
-                "start_time_local": "24 May 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379342,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Fulham vs Newcastle",
-            "slug": "fulham-vs-newcastle-1379342",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fulham",
-                "away_name": "Newcastle",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fulham%20VS%20Newcastle%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779634800,
-                "start_time_local": "24 May 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379343,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Liverpool vs Brentford",
-            "slug": "liverpool-vs-brentford-1379343",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Liverpool",
-                "away_name": "Brentford",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20VS%20Brentford%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779634800,
-                "start_time_local": "24 May 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379344,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Manchester City vs Aston Villa",
-            "slug": "manchester-city-vs-aston-villa-1379344",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Manchester City",
-                "away_name": "Aston Villa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20VS%20Aston%20Villa%20%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779634800,
-                "start_time_local": "24 May 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1379345,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Nottingham Forest vs Bournemouth",
-            "slug": "nottingham-forest-vs-bournemouth-1379345",
-            "status": "NS",
-            "league": {
-                "league_name": "Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Nottingham Forest",
-                "away_name": "Bournemouth",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nottingham%20Forest%20VS%20Bournemouth%20%20Premier%20League.jpg"
+                "home_name": "West Ham",
+                "away_name": "Leeds",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Ham%20VS%20Leeds%20%20Premier%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779634800,
@@ -680,25 +667,25 @@
             }
         },
         {
-            "match_id": 1379347,
+            "match_id": 1542084,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Tottenham vs Everton",
-            "slug": "tottenham-vs-everton-1379347",
+            "title": "Juventus W vs Roma W",
+            "slug": "juventus-w-vs-roma-w-1542084",
             "status": "NS",
             "league": {
-                "league_name": "Premier League",
+                "league_name": "Coppa Italia Women",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tottenham",
-                "away_name": "Everton",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tottenham%20VS%20Everton%20%20Premier%20League.jpg"
+                "home_name": "Juventus W",
+                "away_name": "Roma W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20W%20VS%20Roma%20W%20%20Coppa%20Italia%20Women.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1779634800,
-                "start_time_local": "24 May 2026, 09:00 PM",
+                "start_time_timestamp": 1779638400,
+                "start_time_local": "24 May 2026, 10:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -718,29 +705,6 @@
                 "home_name": "Napoli",
                 "away_name": "Udinese",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Napoli%20VS%20Udinese%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779638400,
-                "start_time_local": "24 May 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1542084,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Juventus W vs Roma W",
-            "slug": "juventus-w-vs-roma-w-1542084",
-            "status": "NS",
-            "league": {
-                "league_name": "Coppa Italia Women",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Juventus W",
-                "away_name": "Roma W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Juventus%20W%20VS%20Roma%20W%20%20Coppa%20Italia%20Women.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779638400,
@@ -841,52 +805,6 @@
             }
         },
         {
-            "match_id": 1378238,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Lecce vs Genoa",
-            "slug": "lecce-vs-genoa-1378238",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Lecce",
-                "away_name": "Genoa",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20VS%20Genoa%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779648300,
-                "start_time_local": "25 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1378235,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cremonese vs Como",
-            "slug": "cremonese-vs-como-1378235",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie A",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cremonese",
-                "away_name": "Como",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cremonese%20VS%20Como%20%20Serie%20A.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779648300,
-                "start_time_local": "25 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1378243,
             "sport_name": "Football",
             "sport_id": 1,
@@ -925,6 +843,52 @@
                 "home_name": "Torino",
                 "away_name": "Juventus",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Torino%20VS%20Juventus%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779648300,
+                "start_time_local": "25 May 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378235,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cremonese vs Como",
+            "slug": "cremonese-vs-como-1378235",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cremonese",
+                "away_name": "Como",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cremonese%20VS%20Como%20%20Serie%20A.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779648300,
+                "start_time_local": "25 May 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1378238,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Lecce vs Genoa",
+            "slug": "lecce-vs-genoa-1378238",
+            "status": "NS",
+            "league": {
+                "league_name": "Serie A",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Lecce",
+                "away_name": "Genoa",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20VS%20Genoa%20%20Serie%20A.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779648300,
