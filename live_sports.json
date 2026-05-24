@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:37 AM 24-05-2026"
+        "last_update_time": "09:45:42 AM 24-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779679826-Kv4cPTAAP5YTi-3d5dae24211ccb2591539eac8485a32751ca1d6d-3a2fcde3a9efca9e552c1f88b059954e",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779680720-Kv4cPTAAP5YTi-aebd3ecb4750b87d1d814059d3fc929e7ef7920e-4b1c41e972df97fa8abd87b1dc3d2725",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=3d5dae24211ccb2591539eac8485a32751ca1d6d&x-sign=edd4177fa812f2238e3dd44965944447&x-time=1779593400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=aebd3ecb4750b87d1d814059d3fc929e7ef7920e&x-sign=1988b40bd4c8d0ffb2f31359d00f1594&x-time=1779594300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779679833-Kv4cPTAAP5YTi-3d5dae24211ccb2591539eac8485a32751ca1d6d-18fd49b3f212155f00911e083a0bc0b5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779680726-Kv4cPTAAP5YTi-aebd3ecb4750b87d1d814059d3fc929e7ef7920e-f60e5ff253c559d22059cbd5f0eaa2cb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=3d5dae24211ccb2591539eac8485a32751ca1d6d&x-sign=72e75f1e071e555ac9d7da6181f8caa0&x-time=1779593400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=aebd3ecb4750b87d1d814059d3fc929e7ef7920e&x-sign=854bfdf2da5ebd3c82fcd0058a6bfd36&x-time=1779594300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1504825,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Fagiano Okayama vs Cerezo Osaka",
             "slug": "fagiano-okayama-vs-cerezo-osaka-1504825",
-            "status": "NS",
+            "title": "Fagiano Okayama vs Cerezo Osaka",
+            "status": "LIVE",
             "league": {
                 "league_name": "J1 League",
                 "league_logo": ""
@@ -100,17 +97,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779594900,
-                "start_time_local": "24 May 2026, 09:55 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "24 May 2026, 09:55 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779680732-Kv4cPTAAP5YTi-aebd3ecb4750b87d1d814059d3fc929e7ef7920e-47a98bdbe99d62045360a848dd6d6136",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=aebd3ecb4750b87d1d814059d3fc929e7ef7920e&x-sign=9f28b6a5de0499745731a79cc49c7829&x-time=1779594300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491226,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
             "slug": "court-1-1629491226",
-            "status": "NS",
+            "title": "Court 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "PERODUA Malaysia Masters",
                 "league_logo": ""
@@ -123,10 +133,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779595200,
-                "start_time_local": "24 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "24 May 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779680738-Kv4cPTAAP5YTi-aebd3ecb4750b87d1d814059d3fc929e7ef7920e-c802f5ddd8604bd81763075dfe41840f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=aebd3ecb4750b87d1d814059d3fc929e7ef7920e&x-sign=2e6b44f52ddf8a62ace6ccfa26792ab1&x-time=1779594300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1504827,
             "sport_name": "Football",
