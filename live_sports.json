@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:00:29 AM 24-05-2026"
+        "last_update_time": "08:15:33 AM 24-05-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779674425-Kv4cPTAAP5YTi-b93bad18bbff7b568273aaa9fcdbbb226bbbe565-8d14a3638f3e18cb83603c71138d05c0",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779675322-Kv4cPTAAP5YTi-d5b7482f1732d16879c55f19f387f8f56cea562e-169a3ed38b072f24bff2f68f73ce60ad",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b93bad18bbff7b568273aaa9fcdbbb226bbbe565&x-sign=2a327a3c5ed4e960c003edf5d8b67a68&x-time=1779588000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d5b7482f1732d16879c55f19f387f8f56cea562e&x-sign=e4a4e169536a07a1a3f6faf0991b4d6b&x-time=1779588900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491216,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Brisbane Lions vs GWS GIANTS",
             "slug": "brisbane-lions-vs-gws-giants-1629491216",
-            "status": "NS",
+            "title": "Brisbane Lions vs GWS GIANTS",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -64,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779589800,
-                "start_time_local": "24 May 2026, 08:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "24 May 2026, 08:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1779675329-Kv4cPTAAP5YTi-d5b7482f1732d16879c55f19f387f8f56cea562e-7d5e2f1982fb61d1970eef4627514609",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=d5b7482f1732d16879c55f19f387f8f56cea562e&x-sign=64daca420b306479894dc3949bbe5b63&x-time=1779588900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1629491217,
             "sport_name": "Auto Racing",
