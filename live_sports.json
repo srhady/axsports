@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:42 PM 25-05-2026"
+        "last_update_time": "03:45:48 PM 25-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779787825-Kv4cPTAAP5YTi-d808949ec0e155084ac4aff8c78317bc70582072-2645d71b8f0832e17e10f5aaec58e530",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779788723-Kv4cPTAAP5YTi-66ffca26760f9668aec7d36baa4998a8a170da17-fe580032e172c64a91a20bc9bc1cd0d4",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=d808949ec0e155084ac4aff8c78317bc70582072&x-sign=68ac8b0d6fba3007d3238e975e2c19df&x-time=1779701400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=66ffca26760f9668aec7d36baa4998a8a170da17&x-sign=edffe0d1de085869838153a2447d5234&x-time=1779702300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779787832-Kv4cPTAAP5YTi-d808949ec0e155084ac4aff8c78317bc70582072-ea0aab7bb8f0e78272603c0460fea25b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779788729-Kv4cPTAAP5YTi-66ffca26760f9668aec7d36baa4998a8a170da17-a773f752239886667c47a7c4637592f1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=d808949ec0e155084ac4aff8c78317bc70582072&x-sign=54bce0adede5ed71915bbf6eb60b0631&x-time=1779701400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=66ffca26760f9668aec7d36baa4998a8a170da17&x-sign=ccf4caa22ed079b75b53e73940239b91&x-time=1779702300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -102,28 +102,25 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779787838-Kv4cPTAAP5YTi-d808949ec0e155084ac4aff8c78317bc70582072-b9e83de5b8360c9d5282ddcb82808eac",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779788736-Kv4cPTAAP5YTi-66ffca26760f9668aec7d36baa4998a8a170da17-307b8ea20d82c702e33b39368df08d40",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=d808949ec0e155084ac4aff8c78317bc70582072&x-sign=829f6f7c7a9ba531896357343c59c139&x-time=1779701400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=66ffca26760f9668aec7d36baa4998a8a170da17&x-sign=49d727c095e864ded3b6b23467f36161&x-time=1779702300",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491401,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 2",
             "slug": "day-2-1629491401",
-            "status": "NS",
+            "title": "Day 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
                 "league_logo": ""
@@ -136,10 +133,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779703200,
-                "start_time_local": "25 May 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "25 May 2026, 04:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779788743-Kv4cPTAAP5YTi-66ffca26760f9668aec7d36baa4998a8a170da17-e04c87663f673dd848eff196a534abe0",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=66ffca26760f9668aec7d36baa4998a8a170da17&x-sign=61fd86d44e19d08de5d58f1b06b5cb2b&x-time=1779702300",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1545251,
             "sport_name": "Football",
