@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:48 PM 25-05-2026"
+        "last_update_time": "09:15:56 PM 25-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=41164d28975fe595bfc356b360442930ebc7ae28&x-sign=8f9f9e7437ec3f63d01ba3f3439ed543&x-time=1779721200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=1d283c290c22e5fee6a1ee08932174f9091cae55&x-sign=67bb819245157597aa288a3136dff0ec&x-time=1779722100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=41164d28975fe595bfc356b360442930ebc7ae28&x-sign=b9f67b3e7a3db344e64b04d3e281eb11&x-time=1779721200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1d283c290c22e5fee6a1ee08932174f9091cae55&x-sign=ac23aa6a9c413943495596f9b084f7aa&x-time=1779722100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,7 +90,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=41164d28975fe595bfc356b360442930ebc7ae28&x-sign=4e13ebcdd4aa5e256f8411ec716231a5&x-time=1779721200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=1d283c290c22e5fee6a1ee08932174f9091cae55&x-sign=53fe15100d84594d5e421d9019ce383c&x-time=1779722100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,13 +120,43 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779807644-Kv4cPTAAP5YTi-41164d28975fe595bfc356b360442930ebc7ae28-4d22718a3e6dd2753ea284544a9b5da3",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779808546-Kv4cPTAAP5YTi-1d283c290c22e5fee6a1ee08932174f9091cae55-b37a65d2de9ec91c2992a060ac59d4b8",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=41164d28975fe595bfc356b360442930ebc7ae28&x-sign=d97833528f4cae8924f7d5de9e55a7aa&x-time=1779721200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1d283c290c22e5fee6a1ee08932174f9091cae55&x-sign=e40e8dd129d9bf9466a1b9dedead805a&x-time=1779722100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1545251,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "notts-county-vs-salford-city-1545251",
+            "title": "Notts County vs Salford City",
+            "status": "LIVE",
+            "league": {
+                "league_name": "League Two",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Notts County",
+                "away_name": "Salford City",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Notts%20County%20VS%20Salford%20City%20%20League%20Two.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779717600,
+                "start_time_local": "25 May 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "372",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/372_abrhd.m3u8?is_vip=false&token=1d283c290c22e5fee6a1ee08932174f9091cae55&x-sign=bd3dc6f5bd03c58716fbcbe00f73da5f&x-time=1779722100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -182,57 +212,11 @@
             }
         },
         {
-            "match_id": 1629491405,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491405",
-            "status": "NS",
-            "league": {
-                "league_name": "KFF Singapore Badminton Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779764400,
-                "start_time_local": "26 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491408,
             "sport_name": "Badminton",
             "sport_id": 32,
             "title": "Court 4",
             "slug": "court-4-1629491408",
-            "status": "NS",
-            "league": {
-                "league_name": "KFF Singapore Badminton Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779764400,
-                "start_time_local": "26 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491407,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629491407",
             "status": "NS",
             "league": {
                 "league_name": "KFF Singapore Badminton Open",
@@ -274,25 +258,48 @@
             }
         },
         {
-            "match_id": 1629491410,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
-            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629491410",
+            "match_id": 1629491405,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629491405",
             "status": "NS",
             "league": {
-                "league_name": "NPB Farm Leagues",
+                "league_name": "KFF Singapore Badminton Open",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB%20Farm%20Leagues.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1779768000,
-                "start_time_local": "26 May 2026, 10:00 AM",
+                "start_time_timestamp": 1779764400,
+                "start_time_local": "26 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491407,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629491407",
+            "status": "NS",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779764400,
+                "start_time_local": "26 May 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -312,6 +319,29 @@
                 "home_name": "Unknown",
                 "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779768000,
+                "start_time_local": "26 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491410,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Tokyo Yakult Swallows",
+            "slug": "yomiuri-giants-vs-tokyo-yakult-swallows-1629491410",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779768000,
@@ -343,11 +373,11 @@
             }
         },
         {
-            "match_id": 1629491412,
+            "match_id": 1629491414,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
-            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491412",
+            "title": "Hanshin Tigers vs Hokkaido Nippon-Ham Fighters",
+            "slug": "hanshin-tigers-vs-hokkaido-nippon-ham-fighters-1629491414",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -355,31 +385,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779786000,
-                "start_time_local": "26 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491420,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3 | Feed 2",
-            "slug": "day-3-or-feed-2-1629491420",
-            "status": "NS",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
+                "home_name": "Hanshin Tigers",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -412,6 +419,52 @@
             }
         },
         {
+            "match_id": 1629491413,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Tohoku Rakuten Golden Eagles",
+            "slug": "chunichi-dragons-vs-tohoku-rakuten-golden-eagles-1629491413",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779786000,
+                "start_time_local": "26 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491412,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
+            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491412",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779786000,
+                "start_time_local": "26 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491422,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -435,43 +488,20 @@
             }
         },
         {
-            "match_id": 1629491414,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Hokkaido Nippon-Ham Fighters",
-            "slug": "hanshin-tigers-vs-hokkaido-nippon-ham-fighters-1629491414",
+            "match_id": 1629491420,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3 | Feed 2",
+            "slug": "day-3-or-feed-2-1629491420",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Roland Garros",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779786000,
-                "start_time_local": "26 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491413,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Tohoku Rakuten Golden Eagles",
-            "slug": "chunichi-dragons-vs-tohoku-rakuten-golden-eagles-1629491413",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
