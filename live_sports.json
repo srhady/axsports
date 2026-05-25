@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:40 AM 26-05-2026"
+        "last_update_time": "12:15:50 AM 26-05-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=57dd8aa459444d1464bd27a85a3211bff095a846&x-sign=f8d45b74041b48171cca209198f358f5&x-time=1779732000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=cc3341a98826d8909e1f8334246065bc&x-time=1779732900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=57dd8aa459444d1464bd27a85a3211bff095a846&x-sign=e1f4d26780bd8307158d6a2e22db31a5&x-time=1779732000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=a5a0d90238fe544aae03c1fc5badd8e4&x-time=1779732900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -90,28 +90,25 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779818436-Kv4cPTAAP5YTi-57dd8aa459444d1464bd27a85a3211bff095a846-429b27863ddb0329c4462cda28ecceb5",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366_abrhd.m3u8?is_vip=false&token=1779819336-Kv4cPTAAP5YTi-f6519d1281899fd9669152a5e9d537da3f7e88c0-e6c9e403dd1e9534fffa95b017e1d1ee",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=57dd8aa459444d1464bd27a85a3211bff095a846&x-sign=e1abb4b6e607652ab45043ab538b1b5b&x-time=1779732000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366_abrhd.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=db2d44392c8fca8b284e3b66b71c47a4&x-time=1779732900",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1545418,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "SC Paderborn 07 vs VfL Wolfsburg",
             "slug": "sc-paderborn-07-vs-vfl-wolfsburg-1545418",
-            "status": "NS",
+            "title": "SC Paderborn 07 vs VfL Wolfsburg",
+            "status": "LIVE",
             "league": {
                 "league_name": "Bundesliga",
                 "league_logo": ""
@@ -124,10 +121,32 @@
             },
             "timing": {
                 "start_time_timestamp": 1779733800,
-                "start_time_local": "26 May 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 May 2026, 12:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=30c6408f3851ffc49b69bb4738a2a17a&x-time=1779732900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "68892",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892_abrhd.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=d8c3482455262a6ff7cfb595df6b8218&x-time=1779732900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "33608",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/33608_abrhd.m3u8?is_vip=false&token=f6519d1281899fd9669152a5e9d537da3f7e88c0&x-sign=2f7c4212250350481f3b5c0855083e4c&x-time=1779732900",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1545235,
             "sport_name": "Football",
@@ -148,6 +167,29 @@
             "timing": {
                 "start_time_timestamp": 1779735600,
                 "start_time_local": "26 May 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491406,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629491406",
+            "status": "NS",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779764400,
+                "start_time_local": "26 May 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -221,25 +263,25 @@
             }
         },
         {
-            "match_id": 1629491406,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629491406",
+            "match_id": 1629491409,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hayate Shizuoka vs Orix Buffaloes",
+            "slug": "hayate-shizuoka-vs-orix-buffaloes-1629491409",
             "status": "NS",
             "league": {
-                "league_name": "KFF Singapore Badminton Open",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
                 "home_name": "Unknown",
-                "away_name": "Unknown",
+                "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1779764400,
-                "start_time_local": "26 May 2026, 09:00 AM",
+                "start_time_timestamp": 1779768000,
+                "start_time_local": "26 May 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -259,29 +301,6 @@
                 "home_name": "Yomiuri Giants",
                 "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779768000,
-                "start_time_local": "26 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491409,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hayate Shizuoka vs Orix Buffaloes",
-            "slug": "hayate-shizuoka-vs-orix-buffaloes-1629491409",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1779768000,
@@ -313,20 +332,20 @@
             }
         },
         {
-            "match_id": 1629491413,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chunichi Dragons vs Tohoku Rakuten Golden Eagles",
-            "slug": "chunichi-dragons-vs-tohoku-rakuten-golden-eagles-1629491413",
+            "match_id": 1629491421,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3 | Feed 3",
+            "slug": "day-3-or-feed-3-1629491421",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Roland Garros",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chunichi Dragons",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -359,29 +378,6 @@
             }
         },
         {
-            "match_id": 1629491422,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3 | Feed 4",
-            "slug": "day-3-or-feed-4-1629491422",
-            "status": "NS",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779786000,
-                "start_time_local": "26 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491420,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -405,11 +401,11 @@
             }
         },
         {
-            "match_id": 1629491421,
+            "match_id": 1629491422,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 3 | Feed 3",
-            "slug": "day-3-or-feed-3-1629491421",
+            "title": "Day 3 | Feed 4",
+            "slug": "day-3-or-feed-4-1629491422",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
@@ -419,6 +415,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779786000,
+                "start_time_local": "26 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491413,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chunichi Dragons vs Tohoku Rakuten Golden Eagles",
+            "slug": "chunichi-dragons-vs-tohoku-rakuten-golden-eagles-1629491413",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chunichi Dragons",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
