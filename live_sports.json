@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:00:58 PM 26-05-2026"
+        "last_update_time": "12:15:52 PM 26-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629491407,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-3-1629491407",
+            "title": "Court 3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779760800,
+                "start_time_local": "26 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779862520-Kv4cPTAAP5YTi-6c7ef2d20b04aaedeccee1874ddd02446b14ba40-012da15f3ef185c99d31f30a4a49bc83",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=6c7ef2d20b04aaedeccee1874ddd02446b14ba40&x-sign=6a72c68f5fe11a95d5e15465d441e831&x-time=1779776100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491405,
             "sport_name": "Badminton",
@@ -30,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779861626-Kv4cPTAAP5YTi-c98b11e93bef0657a0ae6a82851cfbaeba876841-cb9e78cb13bc23796d785b4bbb99e1a8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779862526-Kv4cPTAAP5YTi-6c7ef2d20b04aaedeccee1874ddd02446b14ba40-1414dbb59c6311d223c537793a2642ba",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=c98b11e93bef0657a0ae6a82851cfbaeba876841&x-sign=7c2935644d8ff16ed1716823b05f504a&x-time=1779775200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=6c7ef2d20b04aaedeccee1874ddd02446b14ba40&x-sign=d6c858a3f032104ade09e5fe74bc0c29&x-time=1779776100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,85 +102,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779861633-Kv4cPTAAP5YTi-c98b11e93bef0657a0ae6a82851cfbaeba876841-4e04499f945e921650b02236b60601dc",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779862532-Kv4cPTAAP5YTi-6c7ef2d20b04aaedeccee1874ddd02446b14ba40-2b81f1756b425e7ca78a377f22ce6ac8",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c98b11e93bef0657a0ae6a82851cfbaeba876841&x-sign=6ca01e0c57729bcee0792a5518f1a74a&x-time=1779775200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491407,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-3-1629491407",
-            "title": "Court 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "KFF Singapore Badminton Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779760800,
-                "start_time_local": "26 May 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779861639-Kv4cPTAAP5YTi-c98b11e93bef0657a0ae6a82851cfbaeba876841-0810466ac2ab8eb21dac943db3b2a17a",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c98b11e93bef0657a0ae6a82851cfbaeba876841&x-sign=908f73dec62480dcd5f55bcf1674b384&x-time=1779775200",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491409,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "hayate-shizuoka-vs-orix-buffaloes-1629491409",
-            "title": "Hayate Shizuoka vs Orix Buffaloes",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779768000,
-                "start_time_local": "26 May 2026, 10:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779861646-Kv4cPTAAP5YTi-c98b11e93bef0657a0ae6a82851cfbaeba876841-b7978a0a247d663cf4ee0de8db5cbd45",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c98b11e93bef0657a0ae6a82851cfbaeba876841&x-sign=59a914ff6df1b59b4769754a53fa7396&x-time=1779775200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6c7ef2d20b04aaedeccee1874ddd02446b14ba40&x-sign=059f6c98c249c7fc0c064896153fec89&x-time=1779776100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -174,13 +138,49 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779861653-Kv4cPTAAP5YTi-c98b11e93bef0657a0ae6a82851cfbaeba876841-96114152414e77d344b94f19374fe368",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779862539-Kv4cPTAAP5YTi-6c7ef2d20b04aaedeccee1874ddd02446b14ba40-cf0c90ba1be3aa7be61f580bbc5ea7e2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c98b11e93bef0657a0ae6a82851cfbaeba876841&x-sign=801770a355fccc9e550578d2b8ffbf57&x-time=1779775200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=6c7ef2d20b04aaedeccee1874ddd02446b14ba40&x-sign=9ab47956c7f46f7e969343b1e894b1ac&x-time=1779776100",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491409,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "hayate-shizuoka-vs-orix-buffaloes-1629491409",
+            "title": "Hayate Shizuoka vs Orix Buffaloes",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779768000,
+                "start_time_local": "26 May 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779862548-Kv4cPTAAP5YTi-6c7ef2d20b04aaedeccee1874ddd02446b14ba40-78304bcbc46937a7ab135bd631f0c896",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=6c7ef2d20b04aaedeccee1874ddd02446b14ba40&x-sign=89d8c34929325d39b3dbe902aecbcad7&x-time=1779776100",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -420,29 +420,6 @@
             }
         },
         {
-            "match_id": 1545408,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Saint Etienne vs Nice",
-            "slug": "saint-etienne-vs-nice-1545408",
-            "status": "NS",
-            "league": {
-                "league_name": "Ligue 1",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saint Etienne",
-                "away_name": "Nice",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nice%20VS%20Saint%20Etienne%20%20Ligue%201.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779821100,
-                "start_time_local": "27 May 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491481,
             "sport_name": "Football",
             "sport_id": 1,
@@ -458,6 +435,29 @@
                 "home_name": "Unknown",
                 "away_name": "Saint Etienne",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779821100,
+                "start_time_local": "27 May 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1545408,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Saint Etienne vs Nice",
+            "slug": "saint-etienne-vs-nice-1545408",
+            "status": "NS",
+            "league": {
+                "league_name": "Ligue 1",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saint Etienne",
+                "away_name": "Nice",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Nice%20VS%20Saint%20Etienne%20%20Ligue%201.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779821100,
@@ -512,29 +512,6 @@
             }
         },
         {
-            "match_id": 1535324,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "LDU de Quito vs Always Ready",
-            "slug": "ldu-de-quito-vs-always-ready-1535324",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Libertadores",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "LDU de Quito",
-                "away_name": "Always Ready",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LDU%20de%20Quito%20VS%20Always%20Ready%20%20CONMEBOL%20Libertadores.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779832800,
-                "start_time_local": "27 May 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535226,
             "sport_name": "Football",
             "sport_id": 1,
@@ -558,11 +535,11 @@
             }
         },
         {
-            "match_id": 1535320,
+            "match_id": 1535324,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Flamengo vs Cusco",
-            "slug": "flamengo-vs-cusco-1535320",
+            "title": "LDU de Quito vs Always Ready",
+            "slug": "ldu-de-quito-vs-always-ready-1535324",
             "status": "NS",
             "league": {
                 "league_name": "CONMEBOL Libertadores",
@@ -570,13 +547,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Flamengo",
-                "away_name": "Cusco",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flamengo%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
+                "home_name": "LDU de Quito",
+                "away_name": "Always Ready",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/LDU%20de%20Quito%20VS%20Always%20Ready%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1779841800,
-                "start_time_local": "27 May 2026, 06:30 AM",
+                "start_time_timestamp": 1779832800,
+                "start_time_local": "27 May 2026, 04:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -619,6 +596,29 @@
                 "home_name": "Santos",
                 "away_name": "Deportivo Cuenca",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santos%20VS%20Deportivo%20Cuenca%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779841800,
+                "start_time_local": "27 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535320,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Flamengo vs Cusco",
+            "slug": "flamengo-vs-cusco-1535320",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Libertadores",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Flamengo",
+                "away_name": "Cusco",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Flamengo%20VS%20Cusco%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1779841800,
