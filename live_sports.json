@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:45:50 AM 26-05-2026"
+        "last_update_time": "11:01:01 AM 26-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629491405,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-1-1629491405",
-            "title": "Court 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "KFF Singapore Badminton Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779760800,
-                "start_time_local": "26 May 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779857120-Kv4cPTAAP5YTi-c9521d904ad760c71c4f96dbaefc1d16a8b312c8-51bf5743673044245ca55d1515f5ac42",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=c9521d904ad760c71c4f96dbaefc1d16a8b312c8&x-sign=022cb26582fb659d00a77c0f55653783&x-time=1779770700",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
         {
             "match_id": 1629491406,
             "sport_name": "Badminton",
@@ -66,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779857126-Kv4cPTAAP5YTi-c9521d904ad760c71c4f96dbaefc1d16a8b312c8-c1b5c316a32ee6938f3965373e737d1d",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779858028-Kv4cPTAAP5YTi-ac7db95c432d17d972823db93bf420f00300a58c-bed82db3b4e9448c2204cc68036dd631",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c9521d904ad760c71c4f96dbaefc1d16a8b312c8&x-sign=8f69d8daad195eba058c1ad1a54a1773&x-time=1779770700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=ac7db95c432d17d972823db93bf420f00300a58c&x-sign=f6568127c285b6990c52ea7777f4dc09&x-time=1779771600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -102,13 +66,49 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779857132-Kv4cPTAAP5YTi-c9521d904ad760c71c4f96dbaefc1d16a8b312c8-5b1e8a631677073048c2c407903b7b61",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779858034-Kv4cPTAAP5YTi-ac7db95c432d17d972823db93bf420f00300a58c-0ec7a696f0e3cbc347c70079dd3e5dc7",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c9521d904ad760c71c4f96dbaefc1d16a8b312c8&x-sign=3dd426b9c3d242c727493264d1974e17&x-time=1779770700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=ac7db95c432d17d972823db93bf420f00300a58c&x-sign=61c3b8fcc851f91c614294e5c484b1f7&x-time=1779771600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491405,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629491405",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779760800,
+                "start_time_local": "26 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779858042-Kv4cPTAAP5YTi-ac7db95c432d17d972823db93bf420f00300a58c-076dcbc5f5a01adb9552d0ede01bb833",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ac7db95c432d17d972823db93bf420f00300a58c&x-sign=1ba06a018ddbbb0637e5180f47417126&x-time=1779771600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -138,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779857138-Kv4cPTAAP5YTi-c9521d904ad760c71c4f96dbaefc1d16a8b312c8-6e977f9d3484e2a2f92252d2f29d4c77",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779858050-Kv4cPTAAP5YTi-ac7db95c432d17d972823db93bf420f00300a58c-c2fe9020bc27f6fc7267e2a7e81e7fb5",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c9521d904ad760c71c4f96dbaefc1d16a8b312c8&x-sign=965043b2e3962550e89e042acf38a1d5&x-time=1779770700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=ac7db95c432d17d972823db93bf420f00300a58c&x-sign=a3c01fdea6b884aee17411fc0d1d80a0&x-time=1779771600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -174,13 +174,13 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779857146-Kv4cPTAAP5YTi-c9521d904ad760c71c4f96dbaefc1d16a8b312c8-5c806946d38cbd83e91b95cab13cc48c",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1779858057-Kv4cPTAAP5YTi-ac7db95c432d17d972823db93bf420f00300a58c-891576364fb71216f4f704f093513ceb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c9521d904ad760c71c4f96dbaefc1d16a8b312c8&x-sign=16426a987b1f009d335c94cf87ffc7ac&x-time=1779770700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ac7db95c432d17d972823db93bf420f00300a58c&x-sign=0acdcbf04d9bdc246132b290e6a38994&x-time=1779771600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -354,8 +354,8 @@
             "match_id": 1629491423,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 3 | Feed 1",
-            "slug": "day-3-or-feed-1-1629491423",
+            "title": "Day 3",
+            "slug": "day-3-1629491423",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
