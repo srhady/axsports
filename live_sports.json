@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:49 PM 27-05-2026"
+        "last_update_time": "02:46:32 PM 27-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779957030-Kv4cPTAAP5YTi-12f222ff71855a5e75d582e64015f91578fc6343-f431f8ddd1f940d6a44da2522a570740",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779957927-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-472da7b433e3ec9cd5ec1069b41006b0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=12f222ff71855a5e75d582e64015f91578fc6343&x-sign=7f583131c6178a749ca1fd589986034d&x-time=1779870600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=001189279b32a6e4637459d24f322b8c&x-time=1779871500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779957037-Kv4cPTAAP5YTi-12f222ff71855a5e75d582e64015f91578fc6343-ce3aeb572b7e26a1d21756d8abb58ddf",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779957934-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-856def9935406f48431fb6c091969683",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=12f222ff71855a5e75d582e64015f91578fc6343&x-sign=60745d940d8b204a61e56e5b61c29029&x-time=1779870600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=3ead33e1e5ea99caafda996935ba0a36&x-time=1779871500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -102,28 +102,25 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779957044-Kv4cPTAAP5YTi-12f222ff71855a5e75d582e64015f91578fc6343-ac1c0221cc00c93afd1d3c38e0d2c844",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1779957943-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-01925c79fb0e5f0f24662e826534831b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=12f222ff71855a5e75d582e64015f91578fc6343&x-sign=c4da99abe7406343c58cfdb7bba4566e&x-time=1779870600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=ee283e3b755962d13bd770feda8a8f8c&x-time=1779871500",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 40,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491490,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Orix Buffaloes",
             "slug": "yokohama-dena-baystars-vs-orix-buffaloes-1629491490",
-            "status": "NS",
+            "title": "Yokohama DeNA BayStars vs Orix Buffaloes",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -136,17 +133,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779957950-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-ca647407320fc7f97359a4053f0d8f99",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=1a5c37de5f9f7f41770edd13a9dafc2e&x-time=1779871500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491492,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
             "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491492",
-            "status": "NS",
+            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -159,17 +169,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1779957958-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-8d9767b94afc2bfe954be0410a553f89",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=8507158399dcef4adb37e009dd4420ec&x-time=1779871500",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491498,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 4 | Feed 2",
             "slug": "day-4-or-feed-2-1629491498",
-            "status": "NS",
+            "title": "Day 4 | Feed 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
                 "league_logo": ""
@@ -182,17 +205,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779957966-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-4c956134f21bbeae822f3881eb1caaf0",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=6598c52c874c89157408ff5eb3a9684d&x-time=1779871560",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491500,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 4 | Feed 4",
             "slug": "day-4-or-feed-4-1629491500",
-            "status": "NS",
+            "title": "Day 4 | Feed 4",
+            "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
                 "league_logo": ""
@@ -205,17 +241,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "23",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779957973-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-6f33e09c8c55c078c80aad0659a712e2",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "23",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=2c921c19d2d44fae83cc2512c04a9d9e&x-time=1779871560",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491491,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Chunichi Dragons",
             "slug": "tohoku-rakuten-golden-eagles-vs-chunichi-dragons-1629491491",
-            "status": "NS",
+            "title": "Tohoku Rakuten Golden Eagles vs Chunichi Dragons",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -228,17 +277,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779957980-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-75118139fe6bd9293e7c04ad434a2bb8",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=03251d5fa2166c8089fe9feadb5eb8f4&x-time=1779871560",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491499,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 4 | Feed 3",
             "slug": "day-4-or-feed-3-1629491499",
-            "status": "NS",
+            "title": "Day 4 | Feed 3",
+            "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
                 "league_logo": ""
@@ -251,10 +313,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779872400,
-                "start_time_local": "27 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "27 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779957988-Kv4cPTAAP5YTi-3004bdc518987a7714f0d7b63a81f7df0e9cb518-529d4f3a4e9d793899c0b11f825bdcc1",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=3004bdc518987a7714f0d7b63a81f7df0e9cb518&x-sign=147e26f4aea8a593f56b89b631695fc4&x-time=1779871560",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1629491502,
             "sport_name": "Cycling",
@@ -712,6 +790,29 @@
             "timing": {
                 "start_time_timestamp": 1779940800,
                 "start_time_local": "28 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491513,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Orix Buffaloes",
+            "slug": "yokohama-dena-baystars-vs-orix-buffaloes-1629491513",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779957900,
+                "start_time_local": "28 May 2026, 02:45 PM",
                 "countdown_seconds": null
             }
         }
