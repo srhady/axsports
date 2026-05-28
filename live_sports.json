@@ -3,82 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:15:41 AM 28-05-2026"
+        "last_update_time": "07:30:20 AM 28-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1535220,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "rb-bragantino-vs-carabobo-fc-1535220",
-            "title": "RB Bragantino vs Carabobo FC",
-            "status": "LIVE",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "RB Bragantino",
-                "away_name": "Carabobo FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Bragantino%20VS%20Carabobo%20FC%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779928200,
-                "start_time_local": "28 May 2026, 06:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "274849",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780017329-Kv4cPTAAP5YTi-389b9bfb009cb721eef922a24d27d007f5decd59-353c4f022c130fa92c6491f7b9e6e57a",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "274849",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=389b9bfb009cb721eef922a24d27d007f5decd59&x-sign=2e6603e2fd64289baebc03b3908fd87d&x-time=1779930900",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1535228,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "river-plate-vs-blooming-1535228",
-            "title": "River Plate vs Blooming",
-            "status": "LIVE",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "River Plate",
-                "away_name": "Blooming",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779928200,
-                "start_time_local": "28 May 2026, 06:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780017336-Kv4cPTAAP5YTi-389b9bfb009cb721eef922a24d27d007f5decd59-48dddbfd3349c45a47aef56b89e265a7",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "398",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=389b9bfb009cb721eef922a24d27d007f5decd59&x-sign=c1a9a822521788297c51f442c36923e1&x-time=1779930900",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        }
-    ],
+    "live_matches": [],
     "total_upcoming_matches": 43,
     "upcoming_matches": [
         {
@@ -124,6 +51,52 @@
             "timing": {
                 "start_time_timestamp": 1779937200,
                 "start_time_local": "28 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491511,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Oisix Niigata vs Hiroshima Toyo Carp",
+            "slug": "oisix-niigata-vs-hiroshima-toyo-carp-1629491511",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779940800,
+                "start_time_local": "28 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491510,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Saitama Seibu Lions",
+            "slug": "hanshin-tigers-vs-saitama-seibu-lions-1629491510",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Saitama%20Seibu%20Lions%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779940800,
+                "start_time_local": "28 May 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -174,52 +147,6 @@
             }
         },
         {
-            "match_id": 1629491510,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Saitama Seibu Lions",
-            "slug": "hanshin-tigers-vs-saitama-seibu-lions-1629491510",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Saitama%20Seibu%20Lions%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1779940800,
-                "start_time_local": "28 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491511,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Oisix Niigata vs Hiroshima Toyo Carp",
-            "slug": "oisix-niigata-vs-hiroshima-toyo-carp-1629491511",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779940800,
-                "start_time_local": "28 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491513,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -243,34 +170,11 @@
             }
         },
         {
-            "match_id": 1629491515,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
-            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491515",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779958800,
-                "start_time_local": "28 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491520,
+            "match_id": 1629491519,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 5 | Feed 4",
-            "slug": "day-5-or-feed-4-1629491520",
+            "title": "Day 5 | Feed 3",
+            "slug": "day-5-or-feed-3-1629491519",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
@@ -289,34 +193,11 @@
             }
         },
         {
-            "match_id": 1629491514,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Fukuoka SoftBank Hawks",
-            "slug": "yomiuri-giants-vs-fukuoka-softbank-hawks-1629491514",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1779958800,
-                "start_time_local": "28 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491519,
+            "match_id": 1629491520,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 5 | Feed 3",
-            "slug": "day-5-or-feed-3-1629491519",
+            "title": "Day 5 | Feed 4",
+            "slug": "day-5-or-feed-4-1629491520",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
@@ -372,6 +253,52 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779958800,
+                "start_time_local": "28 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491514,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Fukuoka SoftBank Hawks",
+            "slug": "yomiuri-giants-vs-fukuoka-softbank-hawks-1629491514",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779958800,
+                "start_time_local": "28 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491515,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
+            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491515",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -680,29 +607,6 @@
             }
         },
         {
-            "match_id": 1535218,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "America de Cali vs Macara",
-            "slug": "america-de-cali-vs-macara-1535218",
-            "status": "NS",
-            "league": {
-                "league_name": "CONMEBOL Sudamericana",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "America de Cali",
-                "away_name": "Macara",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20de%20Cali%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780014600,
-                "start_time_local": "29 May 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1535232,
             "sport_name": "Football",
             "sport_id": 1,
@@ -718,6 +622,29 @@
                 "home_name": "Tigre",
                 "away_name": "Alianza Atletico",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tigre%20VS%20Alianza%20Atletico%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780014600,
+                "start_time_local": "29 May 2026, 06:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1535218,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "America de Cali vs Macara",
+            "slug": "america-de-cali-vs-macara-1535218",
+            "status": "NS",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "America de Cali",
+                "away_name": "Macara",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America%20de%20Cali%20VS%20Macara%20%20CONMEBOL%20Sudamericana.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780014600,
@@ -763,7 +690,7 @@
             "teams": {
                 "home_name": "Cruzeiro",
                 "away_name": "Barcelona SC",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruzeiro%20VS%20Barcelona%20SC%20%20CONMEBOL%20Libertadores.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780014600,
