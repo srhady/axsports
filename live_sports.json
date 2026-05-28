@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:45:49 AM 28-05-2026"
+        "last_update_time": "09:01:01 AM 28-05-2026"
     },
     "live_matches": [
         {
@@ -102,30 +102,27 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780022737-Kv4cPTAAP5YTi-a1452b99190edcfd86230f9807da11dbe12a5b9f-bbe3ec68af0347f27445cd05a1bcf7d9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780023651-Kv4cPTAAP5YTi-e57258543447a720895fdd9070ecfd420f710cd5-1f25fc75447a837ed06fa6e6f3578eab",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a1452b99190edcfd86230f9807da11dbe12a5b9f&x-sign=49fd4ead6a5d6483d880478bd763da62&x-time=1779936300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e57258543447a720895fdd9070ecfd420f710cd5&x-sign=0c53dba613e4ed1f873e42b8e0512378&x-time=1779937200",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1629491509,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "title": "LIV Golf Korea",
-            "slug": "liv-golf-korea-1629491509",
-            "status": "NS",
+            "match_id": 1629491504,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "inka-mma-57-1629491504",
+            "title": "INKA MMA 57",
+            "status": "LIVE",
             "league": {
-                "league_name": "LIV Golf",
+                "league_name": "MMA",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -135,11 +132,27 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1779940800,
-                "start_time_local": "28 May 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1779937200,
+                "start_time_local": "28 May 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780023657-Kv4cPTAAP5YTi-e57258543447a720895fdd9070ecfd420f710cd5-cd59a50da3843f3e9d82e031586bf8d0",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=e57258543447a720895fdd9070ecfd420f710cd5&x-sign=320fbcc25260b82ee4f9b62c997e3f02&x-time=1779937200",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629491512,
             "sport_name": "Baseball",
@@ -210,11 +223,34 @@
             }
         },
         {
-            "match_id": 1629491516,
+            "match_id": 1629491509,
+            "sport_name": "Golf",
+            "sport_id": 13,
+            "title": "LIV Golf Korea",
+            "slug": "liv-golf-korea-1629491509",
+            "status": "NS",
+            "league": {
+                "league_name": "LIV Golf",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1779940800,
+                "start_time_local": "28 May 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491514,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Hokkaido Nippon-Ham Fighters",
-            "slug": "hanshin-tigers-vs-hokkaido-nippon-ham-fighters-1629491516",
+            "title": "Yomiuri Giants vs Fukuoka SoftBank Hawks",
+            "slug": "yomiuri-giants-vs-fukuoka-softbank-hawks-1629491514",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -222,8 +258,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Hokkaido Nippon-Ham Fighters",
+                "home_name": "Yomiuri Giants",
+                "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -256,11 +292,11 @@
             }
         },
         {
-            "match_id": 1629491515,
+            "match_id": 1629491516,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
-            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491515",
+            "title": "Hanshin Tigers vs Hokkaido Nippon-Ham Fighters",
+            "slug": "hanshin-tigers-vs-hokkaido-nippon-ham-fighters-1629491516",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -268,8 +304,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Saitama Seibu Lions",
+                "home_name": "Hanshin Tigers",
+                "away_name": "Hokkaido Nippon-Ham Fighters",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -302,11 +338,11 @@
             }
         },
         {
-            "match_id": 1629491514,
+            "match_id": 1629491515,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Fukuoka SoftBank Hawks",
-            "slug": "yomiuri-giants-vs-fukuoka-softbank-hawks-1629491514",
+            "title": "Tokyo Yakult Swallows vs Saitama Seibu Lions",
+            "slug": "tokyo-yakult-swallows-vs-saitama-seibu-lions-1629491515",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -314,8 +350,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Fukuoka SoftBank Hawks",
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -781,6 +817,98 @@
             "timing": {
                 "start_time_timestamp": 1780022700,
                 "start_time_local": "29 May 2026, 08:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491533,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629491533",
+            "status": "NS",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780023600,
+                "start_time_local": "29 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491532,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hiroshima Toyo Carp vs Chiba Lotte Marines",
+            "slug": "hiroshima-toyo-carp-vs-chiba-lotte-marines-1629491532",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hiroshima Toyo Carp",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780023600,
+                "start_time_local": "29 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491535,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629491535",
+            "status": "NS",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780023600,
+                "start_time_local": "29 May 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629491534,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629491534",
+            "status": "NS",
+            "league": {
+                "league_name": "KFF Singapore Badminton Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780023600,
+                "start_time_local": "29 May 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         }
