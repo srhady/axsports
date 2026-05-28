@@ -3,18 +3,88 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:20 AM 28-05-2026"
+        "last_update_time": "07:45:44 AM 28-05-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 43,
-    "upcoming_matches": [
+    "live_matches": [
+        {
+            "match_id": 1535220,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "rb-bragantino-vs-carabobo-fc-1535220",
+            "title": "RB Bragantino vs Carabobo FC",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "RB Bragantino",
+                "away_name": "Carabobo FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/RB%20Bragantino%20VS%20Carabobo%20FC%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779928200,
+                "start_time_local": "28 May 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=1780019126-Kv4cPTAAP5YTi-e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae-46767e2e6e3710ce3836da150f2512b7",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "274849",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274849_abrhd.m3u8?is_vip=false&token=e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae&x-sign=0aaaed4d965c5dcdd506864aca9541e8&x-time=1779932700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1535228,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "river-plate-vs-blooming-1535228",
+            "title": "River Plate vs Blooming",
+            "status": "LIVE",
+            "league": {
+                "league_name": "CONMEBOL Sudamericana",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "River Plate",
+                "away_name": "Blooming",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/River%20Plate%20VS%20Blooming%20%20CONMEBOL%20Sudamericana.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1779928200,
+                "start_time_local": "28 May 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398_abrhd.m3u8?is_vip=false&token=1780019133-Kv4cPTAAP5YTi-e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae-59ba9acac0a9e54c988b3de970dc777a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "398",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/398_abrhd.m3u8?is_vip=false&token=e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae&x-sign=11f005fb085896b28b8d661974aa5ab0&x-time=1779932700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491505,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
             "slug": "court-1-1629491505",
-            "status": "NS",
+            "title": "Court 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "KFF Singapore Badminton Open",
                 "league_logo": ""
@@ -27,10 +97,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1779933600,
-                "start_time_local": "28 May 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 May 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780019140-Kv4cPTAAP5YTi-e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae-9058e8d38b6bb2c70289883ae36ee133",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e525bcef53bedbae9ac619fca5ebdb1e5c71c2ae&x-sign=dca23e3ea94486fd1f60bc50c1afcf73&x-time=1779932700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1629491504,
             "sport_name": "MMA",
