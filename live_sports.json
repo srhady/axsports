@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:31:01 AM 29-05-2026"
+        "last_update_time": "08:46:19 AM 29-05-2026"
     },
     "live_matches": [
         {
@@ -168,22 +168,19 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d7d83f483c4a57cee4f50f3b0e85dfbec70a3ea1&x-sign=47e6449a71ccc3586f295619224a3ba3&x-time=1780021800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=381af72e23b5015fd127bc1e5ae107b62d2cc792&x-sign=5a585223af3e58efc481b3f5d73c0e29&x-time=1780022700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491532,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hiroshima Toyo Carp vs Chiba Lotte Marines",
             "slug": "hiroshima-toyo-carp-vs-chiba-lotte-marines-1629491532",
-            "status": "NS",
+            "title": "Hiroshima Toyo Carp vs Chiba Lotte Marines",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -196,17 +193,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1780023600,
-                "start_time_local": "29 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "29 May 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=381af72e23b5015fd127bc1e5ae107b62d2cc792&x-sign=b9b09383f8b4b659c19c1e5d28e96285&x-time=1780022760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491535,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 3",
             "slug": "court-3-1629491535",
-            "status": "NS",
+            "title": "Court 3",
+            "status": "LIVE",
             "league": {
                 "league_name": "KFF Singapore Badminton Open",
                 "league_logo": ""
@@ -219,17 +223,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1780023600,
-                "start_time_local": "29 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "29 May 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780109166-Kv4cPTAAP5YTi-381af72e23b5015fd127bc1e5ae107b62d2cc792-9e0f401a2d7f4287d12a410c6abe50a5",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=381af72e23b5015fd127bc1e5ae107b62d2cc792&x-sign=f9c7729c647cd1c5747f12c6995606c4&x-time=1780022760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
         },
         {
             "match_id": 1629491534,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
             "slug": "court-2-1629491534",
-            "status": "NS",
+            "title": "Court 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "KFF Singapore Badminton Open",
                 "league_logo": ""
@@ -242,10 +259,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780023600,
-                "start_time_local": "29 May 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "29 May 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780109174-Kv4cPTAAP5YTi-381af72e23b5015fd127bc1e5ae107b62d2cc792-374e46bc8d5603081d8d01eec2637f7f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=381af72e23b5015fd127bc1e5ae107b62d2cc792&x-sign=8dd3b07878996afe487819143b44ce36&x-time=1780022760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629491536,
             "sport_name": "Baseball",
