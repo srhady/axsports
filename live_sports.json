@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:15:49 AM 29-05-2026"
+        "last_update_time": "08:31:01 AM 29-05-2026"
     },
     "live_matches": [
         {
@@ -143,17 +143,14 @@
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 42,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491531,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "FORUM8 Rally Japan: Media Zone at Toyota Stadium",
             "slug": "forum8-rally-japan-media-zone-at-toyota-stadium-1629491531",
-            "status": "NS",
+            "title": "FORUM8 Rally Japan: Media Zone at Toyota Stadium",
+            "status": "LIVE",
             "league": {
                 "league_name": "WRC",
                 "league_logo": ""
@@ -166,10 +163,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1780022700,
-                "start_time_local": "29 May 2026, 08:45 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "29 May 2026, 08:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d7d83f483c4a57cee4f50f3b0e85dfbec70a3ea1&x-sign=47e6449a71ccc3586f295619224a3ba3&x-time=1780021800",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629491532,
             "sport_name": "Baseball",
