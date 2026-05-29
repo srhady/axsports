@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:45:48 AM 30-05-2026"
+        "last_update_time": "05:00:53 AM 30-05-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,7 @@
             "streams": [
                 {
                     "server_name": "161360",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=1780181119-Kv4cPTAAP5YTi-2551427d4b94c7bfc9c1cada8bfed163719aa2d4-99823e415871223b05c1c5e8fccea528",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "161360",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=2551427d4b94c7bfc9c1cada8bfed163719aa2d4&x-sign=89a673d160700bcfca2ecbde7113d3c1&x-time=1780094700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161360_abrhd.m3u8?is_vip=false&token=be4e068c83a1744a84531fdcd802501415774775&x-sign=48c06eca071dd8dea6eea78495b250d8&x-time=1780095600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -66,13 +60,85 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780181125-Kv4cPTAAP5YTi-2551427d4b94c7bfc9c1cada8bfed163719aa2d4-c9dda2b7f8bb6f6a8c8b666e79506103",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780182037-Kv4cPTAAP5YTi-be4e068c83a1744a84531fdcd802501415774775-f9fde0e7e6487cac711442aa3f5f8cc3",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=2551427d4b94c7bfc9c1cada8bfed163719aa2d4&x-sign=cafcb4e108ced7f8c26856dcbe91e517&x-time=1780094700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=be4e068c83a1744a84531fdcd802501415774775&x-sign=61eb9eca01142d3f551c60d831b02568&x-time=1780095600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491568,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "shooto-brazil-137-1629491568",
+            "title": "SHOOTO BRAZIL 137",
+            "status": "LIVE",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780095600,
+                "start_time_local": "30 May 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "53766",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53766_abrhd.m3u8?is_vip=false&token=1780182042-Kv4cPTAAP5YTi-be4e068c83a1744a84531fdcd802501415774775-fd936deb16f44729887ae56b6dd6471a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "53766",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53766_abrhd.m3u8?is_vip=false&token=be4e068c83a1744a84531fdcd802501415774775&x-sign=0a5641718bcd33caf3cd2bd0e4ceee5d&x-time=1780095600",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491567,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "slug": "samourai-mma-19-1629491567",
+            "title": "SAMOURAI MMA 19",
+            "status": "LIVE",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780095600,
+                "start_time_local": "30 May 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=1780182049-Kv4cPTAAP5YTi-be4e068c83a1744a84531fdcd802501415774775-bde00eb9fc329316548f31b78120ad8f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587_abrhd.m3u8?is_vip=false&token=be4e068c83a1744a84531fdcd802501415774775&x-sign=02dd19ae5c0f7fd8e8037e08a38ed50a&x-time=1780095600",
                     "is_new_format": false,
                     "required_referer": ""
                 }
