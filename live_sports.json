@@ -3,9 +3,39 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:01:26 PM 30-05-2026"
+        "last_update_time": "12:16:22 PM 30-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629492333,
+            "sport_name": "Golf",
+            "sport_id": 13,
+            "slug": "liv-golf-korea-1629492333",
+            "title": "LIV Golf Korea",
+            "status": "LIVE",
+            "league": {
+                "league_name": "LIV Golf",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780113600,
+                "start_time_local": "30 May 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=8c82754ef524b605d39cff8fd94d87b7&x-time=1780121700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
         {
             "match_id": 1629491574,
             "sport_name": "Badminton",
@@ -30,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=8d8109c99489a14208ff60535ea020b6&x-time=1780120800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=1f62f96d27ab9444f20b091b153af444&x-time=1780121700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -60,37 +90,7 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=e6c43de526bcd50ded8ded167b06d3c4&x-time=1780120800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629492333,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "slug": "liv-golf-korea-1629492333",
-            "title": "LIV Golf Korea",
-            "status": "LIVE",
-            "league": {
-                "league_name": "LIV Golf",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780113600,
-                "start_time_local": "30 May 2026, 10:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451_abrhd.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=f7d582264360a1560c2e43a7364e0f9a&x-time=1780120800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=338d8171c3a1b581adb33dd04f916c64&x-time=1780121700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -120,85 +120,13 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780207247-Kv4cPTAAP5YTi-4696212dac6544220d426526df59252eac92a89f-780abb3bb0f3e5b38667f8cabd6ca106",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780208138-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-977531b335dc491d1b5a1d426e62b28f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=f0d4326cdc6f6ff0fe55ba3a356778cb&x-time=1780120800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491583,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "saitama-seibu-lions-vs-yokohama-dena-baystars-1629491583",
-            "title": "Saitama Seibu Lions vs Yokohama DeNA BayStars",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780117200,
-                "start_time_local": "30 May 2026, 11:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780207254-Kv4cPTAAP5YTi-4696212dac6544220d426526df59252eac92a89f-75f49e079cc1e1823a7cd849d6691a0e",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=f9e51d0d943b72bf3c0a98f232f435f0&x-time=1780120800",
-                    "is_new_format": false,
-                    "required_referer": ""
-                }
-            ]
-        },
-        {
-            "match_id": 1629491586,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "fukuoka-softbank-hawks-vs-hiroshima-toyo-carp-1629491586",
-            "title": "Fukuoka SoftBank Hawks vs Hiroshima Toyo Carp",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780117200,
-                "start_time_local": "30 May 2026, 11:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780207261-Kv4cPTAAP5YTi-4696212dac6544220d426526df59252eac92a89f-d5b8946bc2d90d2f08c98077da454002",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=e8723df8506a6043d3edc9e2025bf491&x-time=1780120860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=8d09ec886e15695fa5b0557bad10b713&x-time=1780121700",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -228,13 +156,85 @@
             "streams": [
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1780207269-Kv4cPTAAP5YTi-4696212dac6544220d426526df59252eac92a89f-29bfe8427c419bc112c59d9c0930fe0b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1780208145-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-4092dce87245d8399656156052f0da6c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "23",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=9c22b7677725145cfc7cc04b5b1219e6&x-time=1780120860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/23/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=4f41d1f7b44dc7f7884f13c52c711e85&x-time=1780121700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491586,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "fukuoka-softbank-hawks-vs-hiroshima-toyo-carp-1629491586",
+            "title": "Fukuoka SoftBank Hawks vs Hiroshima Toyo Carp",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780117200,
+                "start_time_local": "30 May 2026, 11:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780208151-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-cae089017b7234ff08f5b61d844a7958",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=b5e89890d439449ed6375ecd178d363a&x-time=1780121700",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491583,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "saitama-seibu-lions-vs-yokohama-dena-baystars-1629491583",
+            "title": "Saitama Seibu Lions vs Yokohama DeNA BayStars",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20YOKOHAMA%20DeNA%20BAYSTARS%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780117200,
+                "start_time_local": "30 May 2026, 11:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780208159-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-e85b61c3ad9ecb0d2194b1223c0fa3d2",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "25",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=dfd261c03301aa8a5e22dfb084c8158d&x-time=1780121760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -264,7 +264,7 @@
             "streams": [
                 {
                     "server_name": "238",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=4696212dac6544220d426526df59252eac92a89f&x-sign=ee78b761c384955b91ad87f84127438b&x-time=1780120860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/238_abrhd.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=d2c2407859a3b0d2b9e482916fc82a50&x-time=1780121760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -294,28 +294,25 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780206377-Kv4cPTAAP5YTi-1551e8a50127c9577010a1e1dd3272720b4429a2-d7b991656f9429db0bb1ae46a58e2adf",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1780208171-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-05679df7a1afbc1c391b20a14e1b92e9",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=1551e8a50127c9577010a1e1dd3272720b4429a2&x-sign=cda1822f45bbc621041489462a2bb412&x-time=1780119960",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450_abrhd.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=c790a8f88e5746c30f983c40e00a4f3a&x-time=1780121760",
                     "is_new_format": false,
                     "required_referer": ""
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 39,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629491591,
             "sport_name": "Rugby",
             "sport_id": 18,
-            "title": "Chiefs vs Blues",
             "slug": "chiefs-vs-blues-1629491591",
-            "status": "NS",
+            "title": "Chiefs vs Blues",
+            "status": "LIVE",
             "league": {
                 "league_name": "Super Rugby Pacific",
                 "league_logo": ""
@@ -328,10 +325,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780122600,
-                "start_time_local": "30 May 2026, 12:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "30 May 2026, 12:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780208177-Kv4cPTAAP5YTi-38f9d23bff7fab5a974de47c845af18c3e3db241-609ae01f8190ac3f2af4c40a2a96bc2f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=38f9d23bff7fab5a974de47c845af18c3e3db241&x-sign=2855181d6b0a2c19c55d39743be2beb0&x-time=1780121760",
+                    "is_new_format": false,
+                    "required_referer": ""
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 38,
+    "upcoming_matches": [
         {
             "match_id": 1629491592,
             "sport_name": "Auto Racing",
@@ -494,6 +507,29 @@
             }
         },
         {
+            "match_id": 1629491602,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 7 | Feed 4",
+            "slug": "day-7-or-feed-4-1629491602",
+            "status": "NS",
+            "league": {
+                "league_name": "Roland Garros",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780131600,
+                "start_time_local": "30 May 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629491601,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -522,29 +558,6 @@
             "sport_id": 2,
             "title": "Day 7 | Feed 2",
             "slug": "day-7-or-feed-2-1629491600",
-            "status": "NS",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780131600,
-                "start_time_local": "30 May 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629491602,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 7 | Feed 4",
-            "slug": "day-7-or-feed-4-1629491602",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
@@ -954,29 +967,6 @@
             }
         },
         {
-            "match_id": 1544369,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Toluca vs Tigres UANL",
-            "slug": "toluca-vs-tigres-uanl-1544369",
-            "status": "NS",
-            "league": {
-                "league_name": "CONCACAF Champions League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Toluca",
-                "away_name": "Tigres UANL",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780185600,
-                "start_time_local": "31 May 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629491620,
             "sport_name": "Boxing",
             "sport_id": 16,
@@ -1014,6 +1004,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780185600,
+                "start_time_local": "31 May 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1544369,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Toluca vs Tigres UANL",
+            "slug": "toluca-vs-tigres-uanl-1544369",
+            "status": "NS",
+            "league": {
+                "league_name": "CONCACAF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Toluca",
+                "away_name": "Tigres UANL",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1092,14 +1105,14 @@
             }
         },
         {
-            "match_id": 1629491623,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Race Day: Morgan Park",
-            "slug": "race-day-morgan-park-1629491623",
+            "match_id": 1629491624,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629491624",
             "status": "NS",
             "league": {
-                "league_name": "Australian Superbikes Championship",
+                "league_name": "KFF Singapore Badminton Open",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -1115,14 +1128,14 @@
             }
         },
         {
-            "match_id": 1629491624,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629491624",
+            "match_id": 1629491623,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Race Day: Morgan Park",
+            "slug": "race-day-morgan-park-1629491623",
             "status": "NS",
             "league": {
-                "league_name": "KFF Singapore Badminton Open",
+                "league_name": "Australian Superbikes Championship",
                 "league_logo": ""
             },
             "venue": "TBA",
