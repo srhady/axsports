@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:16:07 AM 31-05-2026"
+        "last_update_time": "01:31:18 AM 31-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629491601,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-7-or-feed-3-1629491601",
-            "title": "Day 7 | Feed 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780131600,
-                "start_time_local": "30 May 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=9d276a41b004558549e10d7cf1d766c3&x-time=1780168500",
-                    "is_new_format": false,
-                    "required_referer": ""
-                },
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780254919-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-127ba3e51ab32e562fd799ffc6d724b4",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629491602,
             "sport_name": "Tennis",
@@ -66,9 +30,45 @@
             "streams": [
                 {
                     "server_name": "323",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=e2cb273ee2742da33e87cda7f8dbbcf1&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/323_abrhd.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=e1aee4f4a1bfa4c3c0405b0a9dd99ea2&x-time=1780169400",
                     "is_new_format": false,
                     "required_referer": ""
+                }
+            ]
+        },
+        {
+            "match_id": 1629491601,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "day-7-or-feed-3-1629491601",
+            "title": "Day 7 | Feed 3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Roland Garros",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780131600,
+                "start_time_local": "30 May 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=c787c4824fc6da69d0b51b121fbbe8ca&x-time=1780169400",
+                    "is_new_format": false,
+                    "required_referer": ""
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780255833-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-2aa88c56e6c8d03105fe9c6e74b975ff",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -96,13 +96,13 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=f0e4ad2406f9c795089cd7f4280037bc&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=b1316c5f5e17688d4ade9b356588be4a&x-time=1780169400",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780254931-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-0672f5a8bd12f8b4323f8d5ad1f5a2d6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780255841-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-63cde41269af110cc1c53f7aed958b95",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -132,13 +132,13 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=135a6f1a6150e1556ba6e6ba526a06a3&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=7c04d8c7898ae990662cb994c0a34193&x-time=1780169400",
                     "is_new_format": false,
                     "required_referer": ""
                 },
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780254937-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-6ef1f12256ee797656b7085a25c32c5a",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780255849-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-5a992abc2a7039ee4cf3efe6e089be8a",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -168,7 +168,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=0d60075399933c13cd420138c9f96831&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414_abrhd.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=072bb6201e35ce74cdfa3e1e19a79df4&x-time=1780169400",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -198,13 +198,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780254950-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-ef924a1ee0b268684b63d90e13609550",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780255861-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-37d6741d853b2b72ba84d803e72a9e57",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=4afd6a931c883fcac9e224f4d7a92683&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=80dccd1db3219ef1b767d02487aa7142&x-time=1780169460",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -234,13 +234,13 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780254957-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-c121df449302a8d5f486f8df042c8070",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780255867-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-a076ba7fabdade1c6d0ccca28be7fe1f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=f6f602c3914c2a40bc56f8ba5165e41c&x-time=1780168500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=507ab55fd9117f9163030557e80784bd&x-time=1780169460",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -270,13 +270,13 @@
             "streams": [
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1780254963-Kv4cPTAAP5YTi-46bd7794ff16c8185f7e4385467348c3b4bc3e5b-c63d5c8f14dee6dec9098cdcb6aa9ecc",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=1780255873-Kv4cPTAAP5YTi-0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c-f542ec62c7eddbe9a09e124a7a81137f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=46bd7794ff16c8185f7e4385467348c3b4bc3e5b&x-sign=83d701be9926caca27e04b6941b59215&x-time=1780168560",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357_abrhd.m3u8?is_vip=false&token=0bc2dc0bf0c000fe5e510c60b0d05e648ae2263c&x-sign=91a12b3c53e798255a28eff731a1fc6a&x-time=1780169460",
                     "is_new_format": false,
                     "required_referer": ""
                 }
@@ -769,29 +769,6 @@
             }
         },
         {
-            "match_id": 1546385,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Imabari vs FC Ryukyu",
-            "slug": "imabari-vs-fc-ryukyu-1546385",
-            "status": "NS",
-            "league": {
-                "league_name": "J2/J3 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Imabari",
-                "away_name": "FC Ryukyu",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Imabari%20VS%20FC%20Ryukyu%20%20J2J3%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780203600,
-                "start_time_local": "31 May 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1546388,
             "sport_name": "Football",
             "sport_id": 1,
@@ -807,6 +784,29 @@
                 "home_name": "Thespakusatsu Gunma",
                 "away_name": "FC Gifu",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Thespakusatsu%20Gunma%20VS%20FC%20Gifu%20%20J2J3%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780203600,
+                "start_time_local": "31 May 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1546385,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Imabari vs FC Ryukyu",
+            "slug": "imabari-vs-fc-ryukyu-1546385",
+            "status": "NS",
+            "league": {
+                "league_name": "J2/J3 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Imabari",
+                "away_name": "FC Ryukyu",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Imabari%20VS%20FC%20Ryukyu%20%20J2J3%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780203600,
@@ -1068,29 +1068,6 @@
             }
         },
         {
-            "match_id": 1528283,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Switzerland vs Jordan",
-            "slug": "switzerland-vs-jordan-1528283",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Switzerland",
-                "away_name": "Jordan",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780232400,
-                "start_time_local": "31 May 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1545453,
             "sport_name": "Football",
             "sport_id": 1,
@@ -1105,6 +1082,29 @@
             "teams": {
                 "home_name": "China PR U20",
                 "away_name": "Saudi Arabia U23",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780232400,
+                "start_time_local": "31 May 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1528283,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Switzerland vs Jordan",
+            "slug": "switzerland-vs-jordan-1528283",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Switzerland",
+                "away_name": "Jordan",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
