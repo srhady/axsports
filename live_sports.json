@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:01:15 PM 02-06-2026"
+        "last_update_time": "03:16:02 PM 02-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492094,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-2-1629492094",
-            "title": "Court 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780365600,
-                "start_time_local": "02 Jun 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780477237-Kv4cPTAAP5YTi-e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034-fd20cda620eeb1c3d36acaceed022bfd",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034&x-sign=93d0322ffdee750ae6d3a5b0a3d9624d&x-time=1780390800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492093,
             "sport_name": "Badminton",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780477244-Kv4cPTAAP5YTi-e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034-5c782ac5d5e0845b186232c89ca1e9cd",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780478125-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-adc99a7ef574f88e02bf2d1ce4677998",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034&x-sign=1ee6aab2d00ff64fc1ffdd25a4f82fab&x-time=1780390800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=1d60ffb42a0f16a1e33f15f027d14524&x-time=1780391700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492094,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629492094",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780365600,
+                "start_time_local": "02 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780478131-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-b8d89b293e8abecfb83f1152d75af83a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "27",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=e85bd28949d18485be6662a8009b24c2&x-time=1780391700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,49 +102,13 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780477251-Kv4cPTAAP5YTi-e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034-649ec9e9d4acedb3982201077af01106",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780478137-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-d86cf60fd64b82e0a9500fcc8d845f91",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034&x-sign=0bb76b2a69277c75a8e20fa4823fc7d3&x-time=1780390800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492102,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "fukuoka-softbank-hawks-vs-chunichi-dragons-1629492102",
-            "title": "Fukuoka SoftBank Hawks vs Chunichi Dragons",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780390800,
-                "start_time_local": "02 Jun 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780477257-Kv4cPTAAP5YTi-e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034-0eedb18456d9c2b6a08218794ceea593",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034&x-sign=5c84bca4d62693ef0233ea27e21a9bd8&x-time=1780390800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=b22ce7327008218d4e57041311864b47&x-time=1780391700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,13 +138,49 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780477264-Kv4cPTAAP5YTi-e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034-8f6fa8cac341b8b69959ee3f0a12c9a1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780478142-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-baf0896d647dddfc5ba74d84c74db8d9",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e8d1f8b30b35e2a2e6de9e83c3d58bb886c4e034&x-sign=6aee83b5d268070b6b8f1e65ca4debe4&x-time=1780390860",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=b2d85f8a8aedbc49586611deb75b9ddc&x-time=1780391700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492102,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "fukuoka-softbank-hawks-vs-chunichi-dragons-1629492102",
+            "title": "Fukuoka SoftBank Hawks vs Chunichi Dragons",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Chunichi%20Dragons%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780390800,
+                "start_time_local": "02 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780478149-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-9979d3ddc828728f412b53a7dcfae82b",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=59857e8a1aad678ea30a6ba9330eb3c9&x-time=1780391700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -190,8 +190,8 @@
             "match_id": 1629492107,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "slug": "women-qf1-1629492107",
-            "title": "Women QF1",
+            "slug": "mirra-andreeva-vs-sorana-cirstea-womens-singles-qf1-1629492107",
+            "title": "Mirra Andreeva vs Sorana Cirstea - (Women's Singles) - QF1",
             "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
@@ -209,14 +209,26 @@
             },
             "streams": [
                 {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780478154-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-b0e3e47358c0435384829145e2aed72f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=fd30be1322225ee8872084d4732b18a9&x-time=1780391700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780476362-Kv4cPTAAP5YTi-92aa747f648c3a3abf912726ffb3ef5d109d91f8-64b1cb0718ed6b0441ecb744e31b50c9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780478158-Kv4cPTAAP5YTi-9f61860440b34622f78ca6908c9df0a7c1d6ae1f-428a0ae982a21f8aa064a1250269d5ef",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=92aa747f648c3a3abf912726ffb3ef5d109d91f8&x-sign=70a5ec9e20e8401d89b71250d0cc73e8&x-time=1780389960",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=9f61860440b34622f78ca6908c9df0a7c1d6ae1f&x-sign=7b62b8d552ed24af554b6b1b486a3265&x-time=1780391700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -229,8 +241,8 @@
             "match_id": 1629492108,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Women QF2",
-            "slug": "women-qf2-1629492108",
+            "title": "Elina Svitolina vs Marta Kostyuk - (Women's Singles) - QF2",
+            "slug": "elina-svitolina-vs-marta-kostyuk-womens-singles-qf2-1629492108",
             "status": "NS",
             "league": {
                 "league_name": "Roland Garros",
@@ -479,29 +491,6 @@
             }
         },
         {
-            "match_id": 1629492114,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629492114",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780452000,
-                "start_time_local": "03 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492115,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -530,6 +519,29 @@
             "sport_id": 32,
             "title": "Court 2",
             "slug": "court-2-1629492113",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780452000,
+                "start_time_local": "03 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492114,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629492114",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -686,20 +698,20 @@
             }
         },
         {
-            "match_id": 1629492126,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Women QF3",
-            "slug": "women-qf3-1629492126",
+            "match_id": 1629492121,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
+            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
             "status": "NS",
             "league": {
-                "league_name": "Roland Garros",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -732,20 +744,20 @@
             }
         },
         {
-            "match_id": 1629492121,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
-            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
+            "match_id": 1629492126,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Women QF3",
+            "slug": "women-qf3-1629492126",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Roland Garros",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
