@@ -3,95 +3,10 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:39 AM 03-06-2026"
+        "last_update_time": "03:45:21 AM 03-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1629492442,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-10-1629492442",
-            "title": "Day 10",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780417129,
-                "start_time_local": "02 Jun 2026, 10:18 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "325",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=7960b8947f3c0835902a7fee6498d83e75664902&x-sign=c1369e0a50cab6a3d8335f355bf296a0&x-time=1780435800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "325",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1780522227-Kv4cPTAAP5YTi-7960b8947f3c0835902a7fee6498d83e75664902-2e8532b2562248ddbe0a6fb79b4fa00e",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492111,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "jakub-mensik-vs-joao-fonseca-mens-singles-qf2-1629492111",
-            "title": "Jakub Mensik vs Joao Fonseca - (Men's Singles) - QF2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780424100,
-                "start_time_local": "03 Jun 2026, 12:15 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780522232-Kv4cPTAAP5YTi-7960b8947f3c0835902a7fee6498d83e75664902-007058c5e494b246e80453c2b610512a",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=7960b8947f3c0835902a7fee6498d83e75664902&x-sign=00ee0625fe4352f979fdec59c7302fcb&x-time=1780435800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "325",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=7960b8947f3c0835902a7fee6498d83e75664902&x-sign=c1369e0a50cab6a3d8335f355bf296a0&x-time=1780435800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "325",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1780522236-Kv4cPTAAP5YTi-7960b8947f3c0835902a7fee6498d83e75664902-2969cc65468d7c329971a112ed285bf8",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 43,
+    "live_matches": [],
+    "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
             "match_id": 1544806,
@@ -255,29 +170,6 @@
             }
         },
         {
-            "match_id": 1629492117,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Fukuoka SoftBank Hawks",
-            "slug": "hanshin-tigers-vs-fukuoka-softbank-hawks-1629492117",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780459200,
-                "start_time_local": "03 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492119,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -301,48 +193,25 @@
             }
         },
         {
-            "match_id": 1629492123,
+            "match_id": 1629492117,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Orix Buffaloes",
-            "slug": "yomiuri-giants-vs-orix-buffaloes-1629492123",
+            "title": "Hanshin Tigers vs Fukuoka SoftBank Hawks",
+            "slug": "hanshin-tigers-vs-fukuoka-softbank-hawks-1629492117",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Hanshin Tigers",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1780477200,
-                "start_time_local": "03 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492121,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
-            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780477200,
-                "start_time_local": "03 Jun 2026, 03:00 PM",
+                "start_time_timestamp": 1780459200,
+                "start_time_local": "03 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -384,6 +253,52 @@
             "teams": {
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Hanshin Tigers",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780477200,
+                "start_time_local": "03 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492123,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Orix Buffaloes",
+            "slug": "yomiuri-giants-vs-orix-buffaloes-1629492123",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780477200,
+                "start_time_local": "03 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492121,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
+            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -577,29 +492,6 @@
             }
         },
         {
-            "match_id": 1540589,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Luxembourg vs Italy",
-            "slug": "luxembourg-vs-italy-1540589",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Luxembourg",
-                "away_name": "Italy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luxembourg%20VS%20Italy%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780512300,
-                "start_time_local": "04 Jun 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1539431,
             "sport_name": "Football",
             "sport_id": 1,
@@ -615,6 +507,29 @@
                 "home_name": "Poland",
                 "away_name": "Nigeria",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Poland%20VS%20Nigeria%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780512300,
+                "start_time_local": "04 Jun 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540589,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Luxembourg vs Italy",
+            "slug": "luxembourg-vs-italy-1540589",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Luxembourg",
+                "away_name": "Italy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Luxembourg%20VS%20Italy%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780512300,
