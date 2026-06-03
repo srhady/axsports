@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:31:12 PM 03-06-2026"
+        "last_update_time": "07:46:18 PM 03-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492113,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-2-1629492113",
-            "title": "Court 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780452000,
-                "start_time_local": "03 Jun 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780579833-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-2721b0dd4b231d9ce7448b67dacc3162",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=3cdb44df84d508e402d544df7da2e146&x-time=1780493400",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492112,
             "sport_name": "Badminton",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780579839-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-f5007f0c64df9a879c3e83a52468021f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780580733-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-d257a1c833ec11b1792ccc829ecd61af",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=7b5d6a3daca34461f3255ab421d6bf78&x-time=1780493400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=466c2c1a3f9711febf010d8d611ab707&x-time=1780494300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492113,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629492113",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780452000,
+                "start_time_local": "03 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780580739-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-813e31d28ece58688c020323169e8e45",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=b6f590d330ca3f48721f93e2485acdd2&x-time=1780494300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780579845-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-a6a9c63261a2e9880e53584ed5176065",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780580744-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-57e3c86d84a3d5b7e8686cf91273ea18",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=e26bfa6f790ac22088abd810d3d48106&x-time=1780493400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=6353c8530410e1a42a3e836a0532b8c1&x-time=1780494300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780579851-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-90a00c91127108629c2fd4c2a6c77059",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780580750-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-0497bc89ff286be7e5fa935b25e05c65",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=904ee89a8849aaa448f6697146bc2b91&x-time=1780493400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=c6c652929737127acafe0442d056fd88&x-time=1780494300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,7 +174,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=26cc043cf6228db0351b4f78d0359aaa&x-time=1780493400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=59b870e5da6b6881a6c840ec8992b80f&x-time=1780494300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -204,13 +204,13 @@
             "streams": [
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1780579861-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-4bfa68f309511277d492fb9de672c4cb",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1780580760-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-7fc0746ccf82bcfe0032daa787d895e5",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=ec4b73c3318b39b786dbaa2574f9e332&x-time=1780493460",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=c86b1925962d0c0e54782d711f721cd2&x-time=1780494360",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -240,28 +240,25 @@
             "streams": [
                 {
                     "server_name": "1418",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1780579867-Kv4cPTAAP5YTi-39d4267d43ba3cba414ec16152110ee87c1ef642-b8d77dc40160eadcfa25a5193483ae84",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1780580766-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-1c509995bdce9e4c72a1320efc85efec",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1418",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=39d4267d43ba3cba414ec16152110ee87c1ef642&x-sign=169e0dfcb60489c2d743eb2add983add&x-time=1780493460",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=76e31b3b29ef79823653a98b945db012&x-time=1780494360",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 43,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492129,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Felix Auger-Aliassime vs Flavio Cobolli (Men's Singles) - QF3",
             "slug": "felix-auger-aliassime-vs-flavio-cobolli-mens-singles-qf3-1629492129",
-            "status": "NS",
+            "title": "Felix Auger-Aliassime vs Flavio Cobolli (Men's Singles) - QF3",
+            "status": "LIVE",
             "league": {
                 "league_name": "Roland Garros",
                 "league_logo": ""
@@ -274,10 +271,38 @@
             },
             "timing": {
                 "start_time_timestamp": 1780495200,
-                "start_time_local": "03 Jun 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "03 Jun 2026, 08:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780580772-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-d101614a1059fb0c025b7edb03e59503",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=32c0e66369c9902c889a76b182a0e49b&x-time=1780494360",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1780580774-Kv4cPTAAP5YTi-961d7f81210c74efb78b0ae6ad07a8cb04f32c18-e714f09e8094e180a4554e184fbe59d5",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=961d7f81210c74efb78b0ae6ad07a8cb04f32c18&x-sign=ce948b947d394c4d4ab760ed3862e9f5&x-time=1780494360",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1545460,
             "sport_name": "Football",
@@ -371,29 +396,6 @@
             }
         },
         {
-            "match_id": 1539431,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Poland vs Nigeria",
-            "slug": "poland-vs-nigeria-1539431",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Poland",
-                "away_name": "Nigeria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Poland%20VS%20Nigeria%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780512300,
-                "start_time_local": "04 Jun 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540589,
             "sport_name": "Football",
             "sport_id": 1,
@@ -440,11 +442,57 @@
             }
         },
         {
+            "match_id": 1539431,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Poland vs Nigeria",
+            "slug": "poland-vs-nigeria-1539431",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Poland",
+                "away_name": "Nigeria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Poland%20VS%20Nigeria%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780512300,
+                "start_time_local": "04 Jun 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492131,
             "sport_name": "Badminton",
             "sport_id": 32,
             "title": "Court 1",
             "slug": "court-1-1629492131",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780538400,
+                "start_time_local": "04 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492134,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 4",
+            "slug": "court-4-1629492134",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -491,29 +539,6 @@
             "sport_id": 32,
             "title": "Court 2",
             "slug": "court-2-1629492132",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780538400,
-                "start_time_local": "04 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492134,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 4",
-            "slug": "court-4-1629492134",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
