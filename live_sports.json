@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:16:17 PM 03-06-2026"
+        "last_update_time": "04:31:22 PM 03-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492113,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-2-1629492113",
-            "title": "Court 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780452000,
-                "start_time_local": "03 Jun 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780568126-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-1e8921e6f0917bd1ab6f8f9b1fee183f",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=192ae84e914edaf7deeafce8247040ad&x-time=1780481700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492112,
             "sport_name": "Badminton",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780568132-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-aed5dcf958ad81627cbd7e6323af86a6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780569030-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-fbfc71324c151319c85199695f3718f0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=ac611e64a51e725ab554bc3bba93bbe7&x-time=1780481700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=1585001a4d74e467b9604705b5a8ad69&x-time=1780482600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492113,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629492113",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780452000,
+                "start_time_local": "03 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780569037-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-62ae0ea752ebf38cb1826fd755dabb41",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=f1e2f7d858f34e9958cdb5ebf397cd45&x-time=1780482600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,121 +102,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780568140-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-e2c1518941654189b950e0037594a615",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780569044-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-9f818a9654a3c6f4bd23b36c97e6324f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=c372fceaa06df6743b9759af1c675b7b&x-time=1780481700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492121,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
-            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780477200,
-                "start_time_local": "03 Jun 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780568147-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-865ee9e951f5acb279019c5fc4267da2",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=af699400bc301f5e9d8c39bbba796efe&x-time=1780481700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492126,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "anna-kalinskaya-vs-maja-chwalinska-womens-singles-qf3-1629492126",
-            "title": "Anna Kalinskaya vs Maja Chwalinska (Women's Singles) - QF3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780477200,
-                "start_time_local": "03 Jun 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780568153-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-f0465b8d101d7efa9703dfb7b1105563",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=f58c67c0da9bcca8a6d07765fb1c9209&x-time=1780481700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492124,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "tokyo-yakult-swallows-vs-chiba-lotte-marines-1629492124",
-            "title": "Tokyo Yakult Swallows vs Chiba Lotte Marines",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780477200,
-                "start_time_local": "03 Jun 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780568160-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-96e06f8a4b3f11a5be211ec9e9065488",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=f680f35c7350ff7c9f85440824a505ad&x-time=1780481760",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=b0d523515f2d517a3a5c9449172966f4&x-time=1780482600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -246,13 +138,49 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780568166-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-3a98e38ddf5c028b8cf09f2556101664",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780569051-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-1335c3fc6a123baef00b7aec3c38ed5f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=c24dfada2691e192884f369b3f87df6c&x-time=1780481760",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=d1b1204abf53493f7c6596f01bb3d848&x-time=1780482600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492124,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "tokyo-yakult-swallows-vs-chiba-lotte-marines-1629492124",
+            "title": "Tokyo Yakult Swallows vs Chiba Lotte Marines",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Chiba%20Lotte%20Marines%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780477200,
+                "start_time_local": "03 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780569058-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-6f36da02dc04e973cbd5af1266707334",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=a492ef933bcb4aae0b9f283f82227bc0&x-time=1780482600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -282,13 +210,85 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780568173-Kv4cPTAAP5YTi-93c4a8f2bb5ab0fa427f5275bc13ced2c7359543-e12842b8cddcbdfe41245fc59d464916",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780569064-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-bdabcba2731c80bdc9f2dafc4b42b41d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=93c4a8f2bb5ab0fa427f5275bc13ced2c7359543&x-sign=fa40ec151f8694eb4669b92d99cba88c&x-time=1780481760",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=4549729dbafa033ff0c6a3a17662477c&x-time=1780482660",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492126,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "anna-kalinskaya-vs-maja-chwalinska-womens-singles-qf3-1629492126",
+            "title": "Anna Kalinskaya vs Maja Chwalinska (Women's Singles) - QF3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Roland Garros",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780477200,
+                "start_time_local": "03 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780569071-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-892feb7abedaab4c89b97b22bbbdce6d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "366",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=7ca8458ca879c43018abbdd42f1339e2&x-time=1780482660",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492121,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "yokohama-dena-baystars-vs-tohoku-rakuten-golden-eagles-1629492121",
+            "title": "Yokohama DeNA BayStars vs Tohoku Rakuten Golden Eagles",
+            "status": "LIVE",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780477200,
+                "start_time_local": "03 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780569077-Kv4cPTAAP5YTi-8318f4fd6d9a7795340a393010ff5b0c13cc73ae-ef40656d1fd9f3ac09b3cb352a03a1b2",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8318f4fd6d9a7795340a393010ff5b0c13cc73ae&x-sign=d9383d847227fd1b4e3e740d4ed8c391&x-time=1780482660",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -482,6 +482,29 @@
             }
         },
         {
+            "match_id": 1539431,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Poland vs Nigeria",
+            "slug": "poland-vs-nigeria-1539431",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Poland",
+                "away_name": "Nigeria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Poland%20VS%20Nigeria%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780512300,
+                "start_time_local": "04 Jun 2026, 12:45 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1540589,
             "sport_name": "Football",
             "sport_id": 1,
@@ -528,29 +551,6 @@
             }
         },
         {
-            "match_id": 1539431,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Poland vs Nigeria",
-            "slug": "poland-vs-nigeria-1539431",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Poland",
-                "away_name": "Nigeria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Poland%20VS%20Nigeria%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780512300,
-                "start_time_local": "04 Jun 2026, 12:45 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492134,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -574,11 +574,11 @@
             }
         },
         {
-            "match_id": 1629492131,
+            "match_id": 1629492132,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629492131",
+            "title": "Court 2",
+            "slug": "court-2-1629492132",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -620,11 +620,11 @@
             }
         },
         {
-            "match_id": 1629492132,
+            "match_id": 1629492131,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492132",
+            "title": "Court 1",
+            "slug": "court-1-1629492131",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
