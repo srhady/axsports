@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:37 AM 03-06-2026"
+        "last_update_time": "07:45:46 AM 03-06-2026"
     },
     "live_matches": [
         {
@@ -29,41 +29,32 @@
             },
             "streams": [
                 {
-                    "server_name": "274862",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780536630-Kv4cPTAAP5YTi-5b2d8487d27705cdc0c44be30bb01d6835af1dfa-57797f770e51d5fc0136661e902466c9",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=5b2d8487d27705cdc0c44be30bb01d6835af1dfa&x-sign=59320555fd1bedf4c945dc23a8b9e127&x-time=1780450200",
+                    "server_name": "112521",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=7eeaf518473740cf9cc4831fe2fa9011575c7567&x-sign=db986d8f869c2239952cf0cf7545a9ae&x-time=1780451100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "112521",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=5b2d8487d27705cdc0c44be30bb01d6835af1dfa&x-sign=fc36a84434c475e7e154a9ed30a23565&x-time=1780450200",
-                    "is_new_format": false,
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780537527-Kv4cPTAAP5YTi-7eeaf518473740cf9cc4831fe2fa9011575c7567-aab88533af6d294201618a2b24e8320d",
+                    "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "server_name": "112521",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780536634-Kv4cPTAAP5YTi-5b2d8487d27705cdc0c44be30bb01d6835af1dfa-3b80d849e6c89a05bf8540b13be522d1",
-                    "is_new_format": true,
+                    "server_name": "274862",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=7eeaf518473740cf9cc4831fe2fa9011575c7567&x-sign=7ebe53c7bbe786779239014bb2bd0bd6&x-time=1780451100",
+                    "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492113,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
             "slug": "court-2-1629492113",
-            "status": "NS",
+            "title": "Court 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -76,17 +67,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1780452000,
-                "start_time_local": "03 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "03 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780537534-Kv4cPTAAP5YTi-7eeaf518473740cf9cc4831fe2fa9011575c7567-40fbe67f148e37d4649260f38a082575",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=7eeaf518473740cf9cc4831fe2fa9011575c7567&x-sign=2c9403c154d9700766517ec4d722a851&x-time=1780451100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629492112,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
             "slug": "court-1-1629492112",
-            "status": "NS",
+            "title": "Court 1",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -99,10 +103,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780452000,
-                "start_time_local": "03 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "03 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780537541-Kv4cPTAAP5YTi-7eeaf518473740cf9cc4831fe2fa9011575c7567-2e06d5ccf75e9c9194952393094f3039",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=7eeaf518473740cf9cc4831fe2fa9011575c7567&x-sign=c309b811e41d5e33a1d3a0f6f3e1bfd5&x-time=1780451100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629492114,
             "sport_name": "Badminton",
