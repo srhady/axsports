@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:45:35 AM 04-06-2026"
+        "last_update_time": "08:00:45 AM 04-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780623924-Kv4cPTAAP5YTi-a14632f1c9bd0456190e054869bcbab5270e277e-184e378d45f6fa63404d5c0259e32724",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780624828-Kv4cPTAAP5YTi-0d045b20445471206f42fbb1e38453de5301c4e5-a1b219718014eb65c978cfb22ff20982",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a14632f1c9bd0456190e054869bcbab5270e277e&x-sign=36fbab5ab18d8cf179889bdb5d3adede&x-time=1780537500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=4645f07814405e663c6266ec58953ebc&x-time=1780538400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780623931-Kv4cPTAAP5YTi-a14632f1c9bd0456190e054869bcbab5270e277e-f1e89db17cd00e02ffd82af61fb00e8f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780624834-Kv4cPTAAP5YTi-0d045b20445471206f42fbb1e38453de5301c4e5-c6a2094ab3912fc0340efeb59f32c8ea",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a14632f1c9bd0456190e054869bcbab5270e277e&x-sign=85d5f9e821c10da90d04ce3e76cf4e64&x-time=1780537500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=1780702860e87218526bc8e9d86b7021&x-time=1780538400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 42,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492133,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 3",
             "slug": "court-3-1629492133",
-            "status": "NS",
+            "title": "Court 3",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -100,10 +97,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780539000,
-                "start_time_local": "04 Jun 2026, 08:10 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "04 Jun 2026, 08:10 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780624841-Kv4cPTAAP5YTi-0d045b20445471206f42fbb1e38453de5301c4e5-7d993b34b9cd75c4f0c2ca04b45ad661",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=0d045b20445471206f42fbb1e38453de5301c4e5&x-sign=5935ce815f76e571f8b5d74d1ca1dcb5&x-time=1780538400",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629492135,
             "sport_name": "Baseball",
@@ -515,6 +528,98 @@
             "timing": {
                 "start_time_timestamp": 1780617600,
                 "start_time_local": "05 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492248,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629492248",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1528284,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Mexico vs Serbia",
+            "slug": "mexico-vs-serbia-1528284",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Mexico",
+                "away_name": "Serbia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mexico%20VS%20Serbia%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492249,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492249",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492250,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629492250",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         }
