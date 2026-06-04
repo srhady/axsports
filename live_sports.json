@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:40 PM 04-06-2026"
+        "last_update_time": "10:30:40 PM 04-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "68896",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=8e1e1eafa3102eeefdbba0bba0010081e6bd7097&x-sign=d667d7eedd41624791c82821e84191a0&x-time=1780589700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=94e359501f6ba49017799fecc098a5ec25b75f04&x-sign=e154321258ea1afb16300cc2e1cdd2e0&x-time=1780590600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68896",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1780676131-Kv4cPTAAP5YTi-8e1e1eafa3102eeefdbba0bba0010081e6bd7097-72b7b007016f71703d3222322aafdf1c",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68896/720p/chunks.m3u8?is_vip=false&token=1780677031-Kv4cPTAAP5YTi-94e359501f6ba49017799fecc098a5ec25b75f04-353fc26b95f7c395570a8623422b64d1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780676136-Kv4cPTAAP5YTi-8e1e1eafa3102eeefdbba0bba0010081e6bd7097-73615591a9b2e76d3c01c4fdeeeb8c1d",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780677036-Kv4cPTAAP5YTi-94e359501f6ba49017799fecc098a5ec25b75f04-862a53704f558d6722dec6a5304413bb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=8e1e1eafa3102eeefdbba0bba0010081e6bd7097&x-sign=9e10b496b452e3475552ec78dd6201a1&x-time=1780589700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=94e359501f6ba49017799fecc098a5ec25b75f04&x-sign=08b645975041baacdaf41d2dda1a0a22&x-time=1780590600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -722,6 +722,29 @@
             "timing": {
                 "start_time_timestamp": 1780675200,
                 "start_time_local": "05 Jun 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1545462,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Saudi Arabia U21 vs Tunisia U23",
+            "slug": "saudi-arabia-u21-vs-tunisia-u23-1545462",
+            "status": "NS",
+            "league": {
+                "league_name": "Tournoi Maurice Revello",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saudi Arabia U21",
+                "away_name": "Tunisia U23",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saudi%20Arabia%20U21%20VS%20Tunisia%20U23%20%20Tournoi%20Maurice%20Revello.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780677000,
+                "start_time_local": "05 Jun 2026, 10:30 PM",
                 "countdown_seconds": null
             }
         }
