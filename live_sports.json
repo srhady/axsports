@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:40 AM 05-06-2026"
+        "last_update_time": "03:17:39 AM 05-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1544359,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "spain-vs-iraq-1544359",
-            "title": "Spain vs Iraq",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Spain",
-                "away_name": "Iraq",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spain%20VS%20Iraq%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780599600,
-                "start_time_local": "05 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "68895",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=87f246f848227b7d246d798e1a91e1628a7be69b&x-sign=fb4b3d38f2d8f37a49c31c4037e2dc2c&x-time=1780606800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "68895",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68895/720p/chunks.m3u8?is_vip=false&token=1780693230-Kv4cPTAAP5YTi-87f246f848227b7d246d798e1a91e1628a7be69b-6df7ecec9ec4cc52333151aa43faf17c",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1536931,
             "sport_name": "Football",
@@ -82,6 +46,29 @@
     "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
+            "match_id": 1629492247,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "UFC BJJ 9 - FOWLER vs JOHNSON",
+            "slug": "ufc-bjj-9-fowler-vs-johnson-1629492247",
+            "status": "NS",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780617600,
+                "start_time_local": "05 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1542893,
             "sport_name": "Football",
             "sport_id": 1,
@@ -105,14 +92,14 @@
             }
         },
         {
-            "match_id": 1629492247,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "UFC BJJ 9 - FOWLER vs JOHNSON",
-            "slug": "ufc-bjj-9-fowler-vs-johnson-1629492247",
+            "match_id": 1629492249,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492249",
             "status": "NS",
             "league": {
-                "league_name": "MMA",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -122,8 +109,8 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1780617600,
-                "start_time_local": "05 Jun 2026, 06:00 AM",
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -156,29 +143,6 @@
             "sport_id": 32,
             "title": "Court 3",
             "slug": "court-3-1629492250",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780624800,
-                "start_time_local": "05 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492249,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492249",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -703,29 +667,6 @@
             }
         },
         {
-            "match_id": 1629492269,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Men SF2",
-            "slug": "men-sf2-1629492269",
-            "status": "NS",
-            "league": {
-                "league_name": "Roland Garros",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780678800,
-                "start_time_local": "05 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1523928,
             "sport_name": "Football",
             "sport_id": 1,
@@ -741,6 +682,29 @@
                 "home_name": "Liechtenstein W",
                 "away_name": "Estonia W",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20W%20VS%20Estonia%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780678800,
+                "start_time_local": "05 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492269,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Men SF2",
+            "slug": "men-sf2-1629492269",
+            "status": "NS",
+            "league": {
+                "league_name": "Roland Garros",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780678800,
