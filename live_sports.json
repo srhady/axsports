@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:38 PM 05-06-2026"
+        "last_update_time": "02:45:56 PM 05-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780734629-Kv4cPTAAP5YTi-f8c329bb04d5e2d2cf7411403fd87c7a1c7a0c56-7cc2cdbcb3a0cbc43ede7203d4eab588",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780735527-Kv4cPTAAP5YTi-fc2d8769958098fa4c555a81d7b75cc243bd4f1a-74b58a12db76d68d558a9de2b3e99178",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f8c329bb04d5e2d2cf7411403fd87c7a1c7a0c56&x-sign=32944a31c8393aad4f28608fd92e50ea&x-time=1780648200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=fc2d8769958098fa4c555a81d7b75cc243bd4f1a&x-sign=169e4b6d26fda75cdd6c731e2c7ef8f2&x-time=1780649100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,22 +66,19 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=f8c329bb04d5e2d2cf7411403fd87c7a1c7a0c56&x-sign=d0f79b11a9d348daca48f799e34e0f49&x-time=1780648200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=fc2d8769958098fa4c555a81d7b75cc243bd4f1a&x-sign=5a091dd5b222c41dc2d66c6041654ee9&x-time=1780649100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492258,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
             "slug": "yokohama-dena-baystars-vs-fukuoka-softbank-hawks-1629492258",
-            "status": "NS",
+            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -94,17 +91,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1780650000,
-                "start_time_local": "05 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "05 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780735539-Kv4cPTAAP5YTi-fc2d8769958098fa4c555a81d7b75cc243bd4f1a-6fc338bbfd94ec8d33ff39fbd226363e",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=fc2d8769958098fa4c555a81d7b75cc243bd4f1a&x-sign=e773c184076e5c324657b4c9ec6b3794&x-time=1780649100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629492256,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Tohoku Rakuten Golden Eagles",
             "slug": "hanshin-tigers-vs-tohoku-rakuten-golden-eagles-1629492256",
-            "status": "NS",
+            "title": "Hanshin Tigers vs Tohoku Rakuten Golden Eagles",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -117,17 +127,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1780650000,
-                "start_time_local": "05 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "05 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780735546-Kv4cPTAAP5YTi-fc2d8769958098fa4c555a81d7b75cc243bd4f1a-a95d5ad7bf9d5d9340baff4c7fcefac7",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=fc2d8769958098fa4c555a81d7b75cc243bd4f1a&x-sign=1f7003ac41ebe1af8ac3ed536bbf7ae9&x-time=1780649100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629492257,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Chiba Lotte Marines",
             "slug": "yomiuri-giants-vs-chiba-lotte-marines-1629492257",
-            "status": "NS",
+            "title": "Yomiuri Giants vs Chiba Lotte Marines",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -140,10 +163,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780650000,
-                "start_time_local": "05 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "05 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780735552-Kv4cPTAAP5YTi-fc2d8769958098fa4c555a81d7b75cc243bd4f1a-8dc50523d514dba06f817ee9ec55fee6",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=fc2d8769958098fa4c555a81d7b75cc243bd4f1a&x-sign=eb2776832fa38fad2b09201a48000c52&x-time=1780649100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629492261,
             "sport_name": "Rugby",
