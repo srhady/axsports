@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:30 AM 06-06-2026"
+        "last_update_time": "03:45:27 AM 06-06-2026"
     },
     "live_matches": [
         {
@@ -30,20 +30,20 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780781427-Kv4cPTAAP5YTi-9ad1b1008b2fe6bdd7483aec61484004ec35c12d-825b5f90a27bd16bf07da1adb345210f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780782323-Kv4cPTAAP5YTi-39af627a77dae18bd6da04c687f21404a02d668c-84da0577376eabda0b4bb79f7da2d50b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=9ad1b1008b2fe6bdd7483aec61484004ec35c12d&x-sign=733d18e9b17571578f490bc484b29f72&x-time=1780695000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=39af627a77dae18bd6da04c687f21404a02d668c&x-sign=8365b9ace9cd62be45ed44e2d29e574d&x-time=1780695900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 36,
+    "total_upcoming_matches": 37,
     "upcoming_matches": [
         {
             "match_id": 1520716,
@@ -870,6 +870,29 @@
             "timing": {
                 "start_time_timestamp": 1780742700,
                 "start_time_local": "06 Jun 2026, 04:45 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492290,
+            "sport_name": "Golf",
+            "sport_id": 13,
+            "title": "LIV Golf Andalucia",
+            "slug": "liv-golf-andalucia-1629492290",
+            "status": "NS",
+            "league": {
+                "league_name": "LIV Golf",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780743600,
+                "start_time_local": "06 Jun 2026, 05:00 PM",
                 "countdown_seconds": null
             }
         }
