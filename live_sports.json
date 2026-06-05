@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:15:35 PM 05-06-2026"
+        "last_update_time": "01:30:35 PM 05-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492252,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "saitama-seibu-lions-vs-tohoku-rakuten-golden-eagles-1629492252",
-            "title": "Saitama Seibu Lions vs Tohoku Rakuten Golden Eagles",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780632000,
-                "start_time_local": "05 Jun 2026, 10:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780730124-Kv4cPTAAP5YTi-38176043e0a464ace6226240cb9f5f657f95a176-39b6f692bb5c53cb2e03f89040b4d987",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=38176043e0a464ace6226240cb9f5f657f95a176&x-sign=2472c91e9598275b911e50066f755c82&x-time=1780643700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492943,
             "sport_name": "Football",
@@ -66,20 +30,20 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780730130-Kv4cPTAAP5YTi-38176043e0a464ace6226240cb9f5f657f95a176-70059fc36d10c3e13cf6fa4a3fb924e1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780731031-Kv4cPTAAP5YTi-65b0790847b938864b6e77c183e49649077ae9a2-f0dc582658aad2c79a0874ad7798101f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=38176043e0a464ace6226240cb9f5f657f95a176&x-sign=de3d821d36f6497d6a6859e377eaa110&x-time=1780643700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=65b0790847b938864b6e77c183e49649077ae9a2&x-sign=3934095499781156488ed8db4f50d027&x-time=1780644600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1629492254,
@@ -101,29 +65,6 @@
             "timing": {
                 "start_time_timestamp": 1780646400,
                 "start_time_local": "05 Jun 2026, 02:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492258,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
-            "slug": "yokohama-dena-baystars-vs-fukuoka-softbank-hawks-1629492258",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780650000,
-                "start_time_local": "05 Jun 2026, 03:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -166,6 +107,29 @@
                 "home_name": "Hanshin Tigers",
                 "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780650000,
+                "start_time_local": "05 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492258,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
+            "slug": "yokohama-dena-baystars-vs-fukuoka-softbank-hawks-1629492258",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780650000,
@@ -496,29 +460,6 @@
             }
         },
         {
-            "match_id": 1540353,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "San Marino vs Bangladesh",
-            "slug": "san-marino-vs-bangladesh-1540353",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "San Marino",
-                "away_name": "Bangladesh",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Marino%20VS%20Bangladesh%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780678800,
-                "start_time_local": "05 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540354,
             "sport_name": "Football",
             "sport_id": 1,
@@ -534,6 +475,29 @@
                 "home_name": "Moldova",
                 "away_name": "Bulgaria",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Moldova%20VS%20Bulgaria%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780678800,
+                "start_time_local": "05 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540353,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "San Marino vs Bangladesh",
+            "slug": "san-marino-vs-bangladesh-1540353",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "San Marino",
+                "away_name": "Bangladesh",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Marino%20VS%20Bangladesh%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780678800,
@@ -841,34 +805,11 @@
             }
         },
         {
-            "match_id": 1546400,
+            "match_id": 1547841,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "FC Tokyo vs Cerezo Osaka",
-            "slug": "fc-tokyo-vs-cerezo-osaka-1546400",
-            "status": "NS",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "FC Tokyo",
-                "away_name": "Cerezo Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780722000,
-                "start_time_local": "06 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1548063,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Albirex Niigata vs Consadole Sapporo",
-            "slug": "albirex-niigata-vs-consadole-sapporo-1548063",
+            "title": "Tochigi City vs Biwako Shiga",
+            "slug": "tochigi-city-vs-biwako-shiga-1547841",
             "status": "NS",
             "league": {
                 "league_name": "J2/J3 League",
@@ -876,8 +817,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Albirex Niigata",
-                "away_name": "Consadole Sapporo",
+                "home_name": "Tochigi City",
+                "away_name": "Biwako Shiga",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -910,6 +851,29 @@
             }
         },
         {
+            "match_id": 1546316,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "JEF United Chiba vs Avispa Fukuoka",
+            "slug": "jef-united-chiba-vs-avispa-fukuoka-1546316",
+            "status": "NS",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "JEF United Chiba",
+                "away_name": "Avispa Fukuoka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780722000,
+                "start_time_local": "06 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1548064,
             "sport_name": "Football",
             "sport_id": 1,
@@ -933,11 +897,11 @@
             }
         },
         {
-            "match_id": 1547841,
+            "match_id": 1547839,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Tochigi City vs Biwako Shiga",
-            "slug": "tochigi-city-vs-biwako-shiga-1547841",
+            "title": "Sagamihara vs Roasso Kumamoto",
+            "slug": "sagamihara-vs-roasso-kumamoto-1547839",
             "status": "NS",
             "league": {
                 "league_name": "J2/J3 League",
@@ -945,8 +909,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tochigi City",
-                "away_name": "Biwako Shiga",
+                "home_name": "Sagamihara",
+                "away_name": "Roasso Kumamoto",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -956,11 +920,11 @@
             }
         },
         {
-            "match_id": 1546317,
+            "match_id": 1546400,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Kashima vs Vissel Kobe",
-            "slug": "kashima-vs-vissel-kobe-1546317",
+            "title": "FC Tokyo vs Cerezo Osaka",
+            "slug": "fc-tokyo-vs-cerezo-osaka-1546400",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -968,9 +932,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Kashima",
-                "away_name": "Vissel Kobe",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Vissel%20Kobe%20%20J1%20League.jpg"
+                "home_name": "FC Tokyo",
+                "away_name": "Cerezo Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Tokyo%20VS%20Cerezo%20Osaka%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780722000,
@@ -993,6 +957,29 @@
             "teams": {
                 "home_name": "Vegalta Sendai",
                 "away_name": "Kataller Toyama",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780722000,
+                "start_time_local": "06 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1548063,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Albirex Niigata vs Consadole Sapporo",
+            "slug": "albirex-niigata-vs-consadole-sapporo-1548063",
+            "status": "NS",
+            "league": {
+                "league_name": "J2/J3 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Albirex Niigata",
+                "away_name": "Consadole Sapporo",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1048,21 +1035,21 @@
             }
         },
         {
-            "match_id": 1547839,
+            "match_id": 1546317,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sagamihara vs Roasso Kumamoto",
-            "slug": "sagamihara-vs-roasso-kumamoto-1547839",
+            "title": "Kashima vs Vissel Kobe",
+            "slug": "kashima-vs-vissel-kobe-1546317",
             "status": "NS",
             "league": {
-                "league_name": "J2/J3 League",
+                "league_name": "J1 League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Sagamihara",
-                "away_name": "Roasso Kumamoto",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Kashima",
+                "away_name": "Vissel Kobe",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kashima%20VS%20Vissel%20Kobe%20%20J1%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780722000,
@@ -1071,11 +1058,11 @@
             }
         },
         {
-            "match_id": 1546316,
+            "match_id": 1546402,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "JEF United Chiba vs Avispa Fukuoka",
-            "slug": "jef-united-chiba-vs-avispa-fukuoka-1546316",
+            "title": "Mito Hollyhock vs V-varen Nagasaki",
+            "slug": "mito-hollyhock-vs-v-varen-nagasaki-1546402",
             "status": "NS",
             "league": {
                 "league_name": "J1 League",
@@ -1083,13 +1070,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "JEF United Chiba",
-                "away_name": "Avispa Fukuoka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/JEF%20United%20Chiba%20VS%20Avispa%20Fukuoka%20%20J1%20League.jpg"
+                "home_name": "Mito Hollyhock",
+                "away_name": "V-varen Nagasaki",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1780722000,
-                "start_time_local": "06 Jun 2026, 11:00 AM",
+                "start_time_timestamp": 1780725600,
+                "start_time_local": "06 Jun 2026, 12:00 PM",
                 "countdown_seconds": null
             }
         },
