@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:41 AM 05-06-2026"
+        "last_update_time": "06:15:32 AM 05-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780704031-Kv4cPTAAP5YTi-44c6607a71a015a87f105ead8d84ca85c782300c-e17b700568fdbf04c191ad283af83d6a",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1780704921-Kv4cPTAAP5YTi-785e16793b7420004f065e1081c05c55847a7eb4-992f3a2ddc418eaf22df22e18e121ba2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=44c6607a71a015a87f105ead8d84ca85c782300c&x-sign=f395d6a27e11fdd5f8a0f155074bcf2b&x-time=1780617600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=785e16793b7420004f065e1081c05c55847a7eb4&x-sign=a26a968597df5e03d99ed2902d1a9dfa&x-time=1780618500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "68904",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=44c6607a71a015a87f105ead8d84ca85c782300c&x-sign=be6f83d2d2383085d765f9a961785591&x-time=1780617600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=785e16793b7420004f065e1081c05c55847a7eb4&x-sign=6c7996b62d707a6057c01521916d65ee&x-time=1780618500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68904",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780704038-Kv4cPTAAP5YTi-44c6607a71a015a87f105ead8d84ca85c782300c-114db7e38de6bd340025cbb53f6dd653",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780704929-Kv4cPTAAP5YTi-785e16793b7420004f065e1081c05c55847a7eb4-1a36ab2862306c561b043c9c7265d105",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -87,6 +87,29 @@
             "sport_id": 32,
             "title": "Court 3",
             "slug": "court-3-1629492250",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780624800,
+                "start_time_local": "05 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492249,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492249",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -143,29 +166,6 @@
                 "home_name": "Mexico",
                 "away_name": "Serbia",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mexico%20VS%20Serbia%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780624800,
-                "start_time_local": "05 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492249,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492249",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780624800,
@@ -266,11 +266,11 @@
             }
         },
         {
-            "match_id": 1629492257,
+            "match_id": 1629492256,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Chiba Lotte Marines",
-            "slug": "yomiuri-giants-vs-chiba-lotte-marines-1629492257",
+            "title": "Hanshin Tigers vs Tohoku Rakuten Golden Eagles",
+            "slug": "hanshin-tigers-vs-tohoku-rakuten-golden-eagles-1629492256",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -278,8 +278,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Chiba Lotte Marines",
+                "home_name": "Hanshin Tigers",
+                "away_name": "Tohoku Rakuten Golden Eagles",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -312,11 +312,11 @@
             }
         },
         {
-            "match_id": 1629492256,
+            "match_id": 1629492257,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Tohoku Rakuten Golden Eagles",
-            "slug": "hanshin-tigers-vs-tohoku-rakuten-golden-eagles-1629492256",
+            "title": "Yomiuri Giants vs Chiba Lotte Marines",
+            "slug": "yomiuri-giants-vs-chiba-lotte-marines-1629492257",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -324,8 +324,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Yomiuri Giants",
+                "away_name": "Chiba Lotte Marines",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -634,29 +634,6 @@
             }
         },
         {
-            "match_id": 1540354,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Moldova vs Bulgaria",
-            "slug": "moldova-vs-bulgaria-1540354",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Moldova",
-                "away_name": "Bulgaria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Moldova%20VS%20Bulgaria%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780678800,
-                "start_time_local": "05 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1540353,
             "sport_name": "Football",
             "sport_id": 1,
@@ -672,6 +649,29 @@
                 "home_name": "San Marino",
                 "away_name": "Bangladesh",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Marino%20VS%20Bangladesh%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780678800,
+                "start_time_local": "05 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1540354,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Moldova vs Bulgaria",
+            "slug": "moldova-vs-bulgaria-1540354",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Moldova",
+                "away_name": "Bulgaria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Moldova%20VS%20Bulgaria%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780678800,
