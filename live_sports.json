@@ -3,40 +3,40 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:16:04 PM 05-06-2026"
+        "last_update_time": "06:30:55 PM 05-06-2026"
     },
     "live_matches": [
         {
-            "match_id": 1629492256,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "hanshin-tigers-vs-tohoku-rakuten-golden-eagles-1629492256",
-            "title": "Hanshin Tigers vs Tohoku Rakuten Golden Eagles",
+            "match_id": 1629492944,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "western-bulldogs-vs-hawthorn-hawks-1629492944",
+            "title": "Western Bulldogs vs Hawthorn",
             "status": "LIVE",
             "league": {
-                "league_name": "NPB",
+                "league_name": "AFL Premiership Football",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hanshin%20Tigers%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+                "home_name": "Western Bulldogs",
+                "away_name": "Hawthorn Hawks",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1780650000,
-                "start_time_local": "05 Jun 2026, 03:00 PM"
+                "start_time_timestamp": 1780651800,
+                "start_time_local": "05 Jun 2026, 03:30 PM"
             },
             "streams": [
                 {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780748127-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-96cd2e3414b821dece35041decbe2737",
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1780749027-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-aeb56fb78f15bb2b06894276beb405ed",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=4acc3e8265d6acd57b1494598c007ab1&x-time=1780661700",
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=9eea941c9c9b8e6ee8f28ae8ba819e96&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,49 +66,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780748133-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-cbad344710fe11e5bae0b2cd8be29423",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780749032-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-551aedea6b318d4a2dc6c895ead26912",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=d2c9dd0f2837334203ff6970236960ad&x-time=1780661700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492944,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "western-bulldogs-vs-hawthorn-hawks-1629492944",
-            "title": "Western Bulldogs vs Hawthorn",
-            "status": "LIVE",
-            "league": {
-                "league_name": "AFL Premiership Football",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Western Bulldogs",
-                "away_name": "Hawthorn Hawks",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780651800,
-                "start_time_local": "05 Jun 2026, 03:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "151592",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1780748138-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-a9965d3f93abd0d0e8efadb423e17ded",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "151592",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=a013bcfe59ed841c118cea648fbb8bd9&x-time=1780661700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=6ab96dce70ae37634902ee236ffb1eb5&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780748144-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-c0a07aaf6b7971d8ce1e8d2f07957484",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780749037-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-4ee791e9c5f3358cda451937e9457e8d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=932d12c394acfab293f9f806114f037b&x-time=1780661700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=0bcd50e99d50240c6b1897835413fb77&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780748149-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-91cd8a415a3abcc88ec14bc81573a785",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780749042-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-986abf071c55888eb9f1aacf3eb4c42f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=5e20ff427b9147c11fa3ad5d6726650a&x-time=1780661700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=25a51afb1cc84952f6868665bf2e1b64&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -210,13 +174,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780748155-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-25e90fd5fe6894e6ddfec648c6047c44",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780749047-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-026a12597ce484776b4ab101c81d1445",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=df69d5ad222906f280c71bf6b95ee455&x-time=1780661700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=f1e6dd8764cec9b87435eb0e0112dd1b&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -246,20 +210,20 @@
             "streams": [
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780748160-Kv4cPTAAP5YTi-4e261339c6280ee5941c5d80735fedf25be4f836-3bd40248785fda4fd643175f4d99af26",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780749052-Kv4cPTAAP5YTi-1255fadda4c7de9007d63c37f9020fc6e10064bc-9485fb7b78d7826fe1a59bf2ea7e3e2a",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "366",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=4e261339c6280ee5941c5d80735fedf25be4f836&x-sign=171890622d6eb543e40ddbfd0bf1cd47&x-time=1780661760",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1255fadda4c7de9007d63c37f9020fc6e10064bc&x-sign=3dec019169ce2a278af87a3924b13b0f&x-time=1780662600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 42,
+    "total_upcoming_matches": 43,
     "upcoming_matches": [
         {
             "match_id": 1545461,
@@ -308,29 +272,6 @@
             }
         },
         {
-            "match_id": 1543825,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Belarus vs Syria",
-            "slug": "belarus-vs-syria-1543825",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Belarus",
-                "away_name": "Syria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belarus%20VS%20Syria%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780675200,
-                "start_time_local": "05 Jun 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1542179,
             "sport_name": "Football",
             "sport_id": 1,
@@ -346,6 +287,29 @@
                 "home_name": "Georgia",
                 "away_name": "Bahrain",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Georgia%20VS%20Bahrain%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780675200,
+                "start_time_local": "05 Jun 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1543825,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Belarus vs Syria",
+            "slug": "belarus-vs-syria-1543825",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Belarus",
+                "away_name": "Syria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belarus%20VS%20Syria%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780675200,
@@ -373,6 +337,29 @@
             "timing": {
                 "start_time_timestamp": 1780677000,
                 "start_time_local": "05 Jun 2026, 10:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492945,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Day 1",
+            "slug": "day-1-1629492945",
+            "status": "NS",
+            "league": {
+                "league_name": "Nordic Darts Masters",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780678800,
+                "start_time_local": "05 Jun 2026, 11:00 PM",
                 "countdown_seconds": null
             }
         },
