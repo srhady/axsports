@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:46:11 PM 06-06-2026"
+        "last_update_time": "02:01:18 PM 06-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492273,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-1-1629492273",
-            "title": "Court 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780722000,
-                "start_time_local": "06 Jun 2026, 11:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780818323-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-1b9e8ba5eb63ad25e56763a04bd20985",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=9afdaa69cd203aff8c9e91be6ac949a3&x-time=1780731900",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1546400,
             "sport_name": "Football",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780818329-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-4c771620697d6b900087be51afdb46e6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780819232-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-3cf47103c2c55320c0deec99e3b81daa",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=d344a3e79e3cd0c780b8217e1939507e&x-time=1780731900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=cb8acf36541a341d198871b79ec61d48&x-time=1780732800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492273,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629492273",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780722000,
+                "start_time_local": "06 Jun 2026, 11:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780819237-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-5e9488b83a7d5507f152403cfc4b190b",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=71d3d9fb759735ec66dbc4a5b8701289&x-time=1780732800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1780818335-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-521f665ea5259a2d667b60ced13ae2dd",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1780819243-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-70019101cb2fcc692a29867ec056e7b6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=c6a4130772a41de3e58ab92791ea8a0c&x-time=1780731900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=782a2b329bb36d04c1b5c208e9a38fef&x-time=1780732800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780818340-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-bc8805bf25e5d642a9c0b6bf3435fd44",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780819248-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-fd664df334130bcf2de4f83058d66d8d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=fc0be1da991e93a1d2359eb70e00b8c6&x-time=1780731900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=b01872238ac86396102aa1ae0a15cc77&x-time=1780732800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,49 +174,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780818346-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-55883d001f3f750474d18d75cf38af2e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780819254-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-0ac7ca451e3aac8db7c7a0bf87d16ec8",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=995397ed4efec8fbe2b89b0c939e7845&x-time=1780731900",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1546404,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "tokyo-verdy-vs-gamba-osaka-1546404",
-            "title": "Tokyo Verdy vs Gamba Osaka",
-            "status": "LIVE",
-            "league": {
-                "league_name": "J1 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Verdy",
-                "away_name": "Gamba Osaka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20VS%20Gamba%20Osaka%20%20J1%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780729200,
-                "start_time_local": "06 Jun 2026, 01:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780818351-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-105ad57eea7544d17150cf52d88179db",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=06c7efb83fe6c1f871ec9ced67a0f3ca&x-time=1780731900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=82f5f12578d4da68d5157c12b45cff04&x-time=1780732800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -246,7 +210,43 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=53a63871f5696bb1b548d8ea88686290&x-time=1780731900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=17d2e9a38226ea64d1f0f0c9bf4aa7e9&x-time=1780732800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1546404,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "tokyo-verdy-vs-gamba-osaka-1546404",
+            "title": "Tokyo Verdy vs Gamba Osaka",
+            "status": "LIVE",
+            "league": {
+                "league_name": "J1 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Verdy",
+                "away_name": "Gamba Osaka",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20VS%20Gamba%20Osaka%20%20J1%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780729200,
+                "start_time_local": "06 Jun 2026, 01:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780819264-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-d400d6807dfba3dc4ae21288efe230df",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=615f63442f0e545ea28712384a2a644d&x-time=1780732860",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -276,13 +276,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780818362-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-6ca3df95723ea69e0c5e15a2025461fd",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780819269-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-1cf915c80959db51525cfe5407e9c209",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=5cc50c7a58729f3d7e994efc3e3e2abe&x-time=1780731960",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=bedae2a326d1be7b8d970b12fb680732&x-time=1780732860",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -312,13 +312,13 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780818367-Kv4cPTAAP5YTi-d49e771ba39a4da59dfac31158cde5fb084dc2d8-f9bd68f811b00f8e5a22aa5e38bec561",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780819275-Kv4cPTAAP5YTi-3caf59340f617a3e3e315c87cc1f863ca160e724-ea59559b9d0ae298f72c66f54011227c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=d49e771ba39a4da59dfac31158cde5fb084dc2d8&x-sign=cc82ec4fe99649af94fa34943fac5ace&x-time=1780731960",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=3caf59340f617a3e3e315c87cc1f863ca160e724&x-sign=1cbf257878e81cc4f04bc0b7b7fda827&x-time=1780732860",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
