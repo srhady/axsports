@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:35 AM 06-06-2026"
+        "last_update_time": "06:45:36 AM 06-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=b6aa7c9acf0a3c77d5b8f0fede6052f8eaa56107&x-sign=6adbc0179c07d7c975a945d52e3244e7&x-time=1780705800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=76c3aead2134df90b696399ae717ab75a8659608&x-sign=7ae0bc8e8009a5eff41c741df7023b9b&x-time=1780706700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780792227-Kv4cPTAAP5YTi-b6aa7c9acf0a3c77d5b8f0fede6052f8eaa56107-2e353c007cffb30c37a86a22a1b127a1",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1780793123-Kv4cPTAAP5YTi-76c3aead2134df90b696399ae717ab75a8659608-ad96ccc4097b492b1ec1395db596c461",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "112521",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=b6aa7c9acf0a3c77d5b8f0fede6052f8eaa56107&x-sign=9fb8e547efef7c5ef9f307dcd03576dc&x-time=1780705800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=76c3aead2134df90b696399ae717ab75a8659608&x-sign=272d97fd7a0d8ee29d089f3bc9347fdf&x-time=1780706700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "112521",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780792232-Kv4cPTAAP5YTi-b6aa7c9acf0a3c77d5b8f0fede6052f8eaa56107-51597d9521d5b29f623eb16a3966ed15",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112521/720p/chunks.m3u8?is_vip=false&token=1780793128-Kv4cPTAAP5YTi-76c3aead2134df90b696399ae717ab75a8659608-38a3db68ec17641db6540713e38d5a71",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492271,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "SUBMISSION HUNTER PRO 103",
             "slug": "submission-hunter-pro-103-1629492271",
-            "status": "NS",
+            "title": "SUBMISSION HUNTER PRO 103",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -100,10 +97,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1780707600,
-                "start_time_local": "06 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "06 Jun 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780793132-Kv4cPTAAP5YTi-76c3aead2134df90b696399ae717ab75a8659608-42c153442a66185c60ea7c7df5108d7d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=76c3aead2134df90b696399ae717ab75a8659608&x-sign=cfcfafeb2b4c14bd26b2a0cd24b2a484&x-time=1780706700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629492272,
             "sport_name": "MMA",
