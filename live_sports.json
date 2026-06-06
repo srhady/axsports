@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:45:51 PM 06-06-2026"
+        "last_update_time": "12:00:56 AM 07-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=f3670b3de395ae5e0016824dc8e52290&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=07371313694a17f06b3e5c38e4c239c3&x-time=1780768800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "274862",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780854322-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-04910c1aa3b5518dc294d72a99666491",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780855227-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-20c721ff3d369f5f7071b7ffa89beb05",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1545272,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "gibraltar-vs-cayman-islands-1545272",
+            "title": "Gibraltar vs Cayman Islands",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Gibraltar",
+                "away_name": "Cayman Islands",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20VS%20Cayman%20Islands%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780765200,
+                "start_time_local": "06 Jun 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "68905",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=05be87a7d119983b1b1e8d375640d1dd&x-time=1780768800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "68905",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780855232-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-ba8043452832ff3ffa0f7661dec09645",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,50 +102,14 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780854326-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-e52108fa0c3221c04ebcf08c7484c2b8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1780855237-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-5ab4f806f1523d72ac92685df6dfd9eb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=c127b3b078a596ce3227a0865fb5be04&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=aff149b8c433ba7bd6ca8dfcdfe406db&x-time=1780768800",
                     "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1545272,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "gibraltar-vs-cayman-islands-1545272",
-            "title": "Gibraltar vs Cayman Islands",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Gibraltar",
-                "away_name": "Cayman Islands",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gibraltar%20VS%20Cayman%20Islands%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780765200,
-                "start_time_local": "06 Jun 2026, 11:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "68905",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=887e5e5eae9de21ba309d3ad75c778a3&x-time=1780767900",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "68905",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1780854332-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-2d51f27fbd0331670b34f3d3178c9346",
-                    "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -138,13 +138,13 @@
             "streams": [
                 {
                     "server_name": "68907",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=767d6448049eb1fa51fb111588a6d8d4&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=b4b701867d6201b64728703bd36e6ca0&x-time=1780768800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68907",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=1780854337-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-e5a8bcdea3765b2a2f17c5ceaf1788be",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=1780855242-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-74672f3b0679829e55d94ecf44ad4ae9",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,25 +174,25 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780854341-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-13974fd6869268a6c2f8d9cd2d52bace",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780855246-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-febfc525a0e5eeef84a36dbb6ec921de",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143080",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=41ca6bbe05b16b262c4ad7a4bb7efdc1&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=0562c7c2ccd9fbea4485fe9636b5dce7&x-time=1780768800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143080",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=1780854342-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-99f1380e4d2362ccc0343904f50b0b40",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143080/720p/chunks.m3u8?is_vip=false&token=1780855247-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-a55a4c36391fd7fc2a49421bbfa74351",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=007bb085ff57aadb626e3dd46c636d7b&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=b77d55a240e657fba47cfbfd40e9a80e&x-time=1780768800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -222,13 +222,13 @@
             "streams": [
                 {
                     "server_name": "68908",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=5119f0c369bf8a76d91eba7cab63a10cba0739a1&x-sign=7431848f21f3522abb15bf82e9b3c876&x-time=1780767900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=67d2341723e9b1fbcce3f5579d5080a5411e6451&x-sign=95eef15964a5db1abaf6d947bd4c7d60&x-time=1780768800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68908",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=1780854348-Kv4cPTAAP5YTi-5119f0c369bf8a76d91eba7cab63a10cba0739a1-821a62d4547296bd502dbc9a842888ed",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68908/720p/chunks.m3u8?is_vip=false&token=1780855253-Kv4cPTAAP5YTi-67d2341723e9b1fbcce3f5579d5080a5411e6451-cf7173ea397b6dad19288c36bbc033cb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -237,29 +237,6 @@
     ],
     "total_upcoming_matches": 34,
     "upcoming_matches": [
-        {
-            "match_id": 1502474,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "USA vs Germany",
-            "slug": "usa-vs-germany-1502474",
-            "status": "NS",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "USA",
-                "away_name": "Germany",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20VS%20Germany%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780770600,
-                "start_time_local": "07 Jun 2026, 12:30 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629492351,
             "sport_name": "MMA",
@@ -276,6 +253,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780770600,
+                "start_time_local": "07 Jun 2026, 12:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1502474,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "USA vs Germany",
+            "slug": "usa-vs-germany-1502474",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "USA",
+                "away_name": "Germany",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/USA%20VS%20Germany%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780770600,
@@ -606,11 +606,11 @@
             }
         },
         {
-            "match_id": 1629492363,
+            "match_id": 1629492362,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
-            "slug": "yokohama-dena-baystars-vs-fukuoka-softbank-hawks-1629492363",
+            "title": "Yomiuri Giants vs Chiba Lotte Marines",
+            "slug": "yomiuri-giants-vs-chiba-lotte-marines-1629492362",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -618,32 +618,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780808400,
-                "start_time_local": "07 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1548190,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Fukushima United vs FC Ryukyu",
-            "slug": "fukushima-united-vs-fc-ryukyu-1548190",
-            "status": "NS",
-            "league": {
-                "league_name": "J2/J3 League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukushima United",
-                "away_name": "FC Ryukyu",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukushima%20United%20VS%20FC%20Ryukyu%20%20J2J3%20League.jpg"
+                "home_name": "Yomiuri Giants",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780808400,
@@ -675,11 +652,11 @@
             }
         },
         {
-            "match_id": 1629492362,
+            "match_id": 1629492363,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Yomiuri Giants vs Chiba Lotte Marines",
-            "slug": "yomiuri-giants-vs-chiba-lotte-marines-1629492362",
+            "title": "Yokohama DeNA BayStars vs Fukuoka SoftBank Hawks",
+            "slug": "yokohama-dena-baystars-vs-fukuoka-softbank-hawks-1629492363",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -687,9 +664,32 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780808400,
+                "start_time_local": "07 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1548068,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Tochigi SC vs Kitakyushu",
+            "slug": "tochigi-sc-vs-kitakyushu-1548068",
+            "status": "NS",
+            "league": {
+                "league_name": "J2/J3 League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tochigi SC",
+                "away_name": "Kitakyushu",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tochigi%20SC%20VS%20Kitakyushu%20%20J2J3%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780808400,
@@ -721,11 +721,11 @@
             }
         },
         {
-            "match_id": 1548068,
+            "match_id": 1548190,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Tochigi SC vs Kitakyushu",
-            "slug": "tochigi-sc-vs-kitakyushu-1548068",
+            "title": "Fukushima United vs FC Ryukyu",
+            "slug": "fukushima-united-vs-fc-ryukyu-1548190",
             "status": "NS",
             "league": {
                 "league_name": "J2/J3 League",
@@ -733,9 +733,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tochigi SC",
-                "away_name": "Kitakyushu",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tochigi%20SC%20VS%20Kitakyushu%20%20J2J3%20League.jpg"
+                "home_name": "Fukushima United",
+                "away_name": "FC Ryukyu",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukushima%20United%20VS%20FC%20Ryukyu%20%20J2J3%20League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780808400,
@@ -882,14 +882,14 @@
             }
         },
         {
-            "match_id": 1629492372,
-            "sport_name": "Golf",
-            "sport_id": 13,
-            "title": "LIV Golf Andalucia",
-            "slug": "liv-golf-andalucia-1629492372",
+            "match_id": 1629492373,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES2, Tour Auvergne-Rhône-Alpes, Stage 1",
+            "slug": "es2-tour-auvergne-rhone-alpes-stage-1-1629492373",
             "status": "NS",
             "league": {
-                "league_name": "LIV Golf",
+                "league_name": "UCI World Tour",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -905,14 +905,14 @@
             }
         },
         {
-            "match_id": 1629492373,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "title": "ES2, Tour Auvergne-Rhône-Alpes, Stage 1",
-            "slug": "es2-tour-auvergne-rhone-alpes-stage-1-1629492373",
+            "match_id": 1629492372,
+            "sport_name": "Golf",
+            "sport_id": 13,
+            "title": "LIV Golf Andalucia",
+            "slug": "liv-golf-andalucia-1629492372",
             "status": "NS",
             "league": {
-                "league_name": "UCI World Tour",
+                "league_name": "LIV Golf",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -997,21 +997,21 @@
             }
         },
         {
-            "match_id": 1544362,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Liechtenstein vs Cyprus",
-            "slug": "liechtenstein-vs-cyprus-1544362",
+            "match_id": 1629492378,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Men Final",
+            "slug": "men-final-1629492378",
             "status": "NS",
             "league": {
-                "league_name": "Friendlies",
+                "league_name": "Roland Garros",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Liechtenstein",
-                "away_name": "Cyprus",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liechtenstein%20VS%20Cyprus%20%20Friendlies.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780837200,
