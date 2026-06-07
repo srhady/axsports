@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:46:04 PM 07-06-2026"
+        "last_update_time": "07:21:25 PM 07-06-2026"
     },
     "live_matches": [
         {
@@ -43,42 +43,6 @@
             ]
         },
         {
-            "match_id": 1629492373,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "slug": "es2-tour-auvergne-rhone-alpes-stage-1-1629492373",
-            "title": "ES2, Tour Auvergne-Rhône-Alpes, Stage 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UCI World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780830000,
-                "start_time_local": "07 Jun 2026, 05:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780922728-Kv4cPTAAP5YTi-58fd938f9ce8790cc9953b637655decba3394f4d-5ecae96508ec4841fff229e7a94281f3",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=58fd938f9ce8790cc9953b637655decba3394f4d&x-sign=4d4b02204735cdf43700f88c9255837f&x-time=1780836300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
             "match_id": 1629492372,
             "sport_name": "Golf",
             "sport_id": 13,
@@ -109,6 +73,42 @@
                 {
                     "server_name": "451",
                     "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=58fd938f9ce8790cc9953b637655decba3394f4d&x-sign=50900df449eaf9c42285a4d170d9af09&x-time=1780836300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492373,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "slug": "es2-tour-auvergne-rhone-alpes-stage-1-1629492373",
+            "title": "ES2, Tour Auvergne-Rhône-Alpes, Stage 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "UCI World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780830000,
+                "start_time_local": "07 Jun 2026, 05:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780922728-Kv4cPTAAP5YTi-58fd938f9ce8790cc9953b637655decba3394f4d-5ecae96508ec4841fff229e7a94281f3",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=58fd938f9ce8790cc9953b637655decba3394f4d&x-sign=4d4b02204735cdf43700f88c9255837f&x-time=1780836300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -617,6 +617,29 @@
             "timing": {
                 "start_time_timestamp": 1780921800,
                 "start_time_local": "08 Jun 2026, 06:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1545467,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Côte d'Ivoire U20 vs Canada U20",
+            "slug": "cote-divoire-u20-vs-canada-u20-1545467",
+            "status": "NS",
+            "league": {
+                "league_name": "Tournoi Maurice Revello",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Côte d'Ivoire U20",
+                "away_name": "Canada U20",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/C%C3%B4te%20d%27Ivoire%20U20%20VS%20Canada%20U20%20%20Tournoi%20Maurice%20Revello.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780923600,
+                "start_time_local": "08 Jun 2026, 07:00 PM",
                 "countdown_seconds": null
             }
         }
