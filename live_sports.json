@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:30:52 AM 08-06-2026"
+        "last_update_time": "01:56:57 AM 08-06-2026"
     },
     "live_matches": [
         {
@@ -79,78 +79,6 @@
             ]
         },
         {
-            "match_id": 1540590,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "greece-vs-italy-1540590",
-            "title": "Greece vs Italy",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Greece",
-                "away_name": "Italy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Greece%20VS%20Italy%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780858800,
-                "start_time_local": "08 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "68904",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=bc092c2f88ed6c5aa5c20b2949163870a87963d9&x-sign=8bdf208b0195fa651fddd8c2a44816b3&x-time=1780860600",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "68904",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780947037-Kv4cPTAAP5YTi-bc092c2f88ed6c5aa5c20b2949163870a87963d9-86af192d8ed1218f09e5cb2a1a561b2c",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1548053,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "las-palmas-vs-malaga-1548053",
-            "title": "Las Palmas vs Malaga",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Segunda División",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Las Palmas",
-                "away_name": "Malaga",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Palmas%20VS%20Malaga%20%20Segunda%20Divisi%C3%B3n.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780858800,
-                "start_time_local": "08 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "112520",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1780947042-Kv4cPTAAP5YTi-bc092c2f88ed6c5aa5c20b2949163870a87963d9-66c436f4bd35b140aead928d360bdcef",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=bc092c2f88ed6c5aa5c20b2949163870a87963d9&x-sign=54014ca5f405193a07a4503b193c1d6f&x-time=1780860600",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
             "match_id": 1540950,
             "sport_name": "Football",
             "sport_id": 1,
@@ -209,33 +137,82 @@
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1528288,
+            "match_id": 1548053,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Colombia vs Jordan",
-            "slug": "colombia-vs-jordan-1528288",
-            "status": "NS",
+            "slug": "las-palmas-vs-malaga-1548053",
+            "title": "Las Palmas vs Malaga",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Las Palmas",
+                "away_name": "Malaga",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Las%20Palmas%20VS%20Malaga%20%20Segunda%20Divisi%C3%B3n.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780858800,
+                "start_time_local": "08 Jun 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "112520",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1780947042-Kv4cPTAAP5YTi-bc092c2f88ed6c5aa5c20b2949163870a87963d9-66c436f4bd35b140aead928d360bdcef",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "112520",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=bc092c2f88ed6c5aa5c20b2949163870a87963d9&x-sign=54014ca5f405193a07a4503b193c1d6f&x-time=1780860600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1540590,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "greece-vs-italy-1540590",
+            "title": "Greece vs Italy",
+            "status": "LIVE",
             "league": {
                 "league_name": "Friendlies",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Colombia",
-                "away_name": "Jordan",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20Jordan%20%20Friendlies.jpg"
+                "home_name": "Greece",
+                "away_name": "Italy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Greece%20VS%20Italy%20%20Friendlies.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1780873200,
-                "start_time_local": "08 Jun 2026, 05:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1780858800,
+                "start_time_local": "08 Jun 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "68904",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=bc092c2f88ed6c5aa5c20b2949163870a87963d9&x-sign=8bdf208b0195fa651fddd8c2a44816b3&x-time=1780860600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "68904",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1780947037-Kv4cPTAAP5YTi-bc092c2f88ed6c5aa5c20b2949163870a87963d9-86af192d8ed1218f09e5cb2a1a561b2c",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 41,
+    "upcoming_matches": [
         {
             "match_id": 1629492381,
             "sport_name": "MMA",
@@ -252,6 +229,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780873200,
+                "start_time_local": "08 Jun 2026, 05:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1528288,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Colombia vs Jordan",
+            "slug": "colombia-vs-jordan-1528288",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Colombia",
+                "away_name": "Jordan",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20Jordan%20%20Friendlies.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1780873200,
