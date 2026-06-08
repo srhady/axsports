@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:45:34 PM 08-06-2026"
+        "last_update_time": "01:00:50 PM 08-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492980,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "fride-9-new-blood-1629492980",
-            "title": "Fride 9: New Blood",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Naciones MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780893848,
-                "start_time_local": "08 Jun 2026, 10:44 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780987525-Kv4cPTAAP5YTi-2c22c4e932fea36448eccab09a2e73b6f41e3fd4-fd52c29742b08f51155f606672377b57",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=2c22c4e932fea36448eccab09a2e73b6f41e3fd4&x-sign=229fd6cac03c241dd43e6123bd6f3db5&x-time=1780901100",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492383,
             "sport_name": "Football",
@@ -66,14 +30,50 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=2c22c4e932fea36448eccab09a2e73b6f41e3fd4&x-sign=33765bedba94ab12004d99e24045becf&x-time=1780901100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=a7e786ced84e593b08d58f7d1859c60fe8332b78&x-sign=7544a68487816154e19f65b59f4cc355&x-time=1780902000",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492980,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "fride-10-1629492980",
+            "title": "Fride 10",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Naciones MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780901400,
+                "start_time_local": "08 Jun 2026, 12:50 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780988446-Kv4cPTAAP5YTi-a7e786ced84e593b08d58f7d1859c60fe8332b78-54c658dc12df474af074ebfe8a30fac5",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=a7e786ced84e593b08d58f7d1859c60fe8332b78&x-sign=191e4003cb584e98e7f397c43935877f&x-time=1780902000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 43,
+    "total_upcoming_matches": 47,
     "upcoming_matches": [
         {
             "match_id": 1629492384,
@@ -237,6 +237,29 @@
             }
         },
         {
+            "match_id": 1629492389,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629492389",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780970400,
+                "start_time_local": "09 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1540356,
             "sport_name": "Football",
             "sport_id": 1,
@@ -260,11 +283,11 @@
             }
         },
         {
-            "match_id": 1629492388,
+            "match_id": 1629492390,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492388",
+            "title": "Court 4",
+            "slug": "court-4-1629492390",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -306,34 +329,11 @@
             }
         },
         {
-            "match_id": 1629492390,
+            "match_id": 1629492388,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 4",
-            "slug": "court-4-1629492390",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780970400,
-                "start_time_local": "09 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492389,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629492389",
+            "title": "Court 2",
+            "slug": "court-2-1629492388",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -375,29 +375,6 @@
             }
         },
         {
-            "match_id": 1629492392,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Oisix Niigata vs Chiba Lotte Marines",
-            "slug": "oisix-niigata-vs-chiba-lotte-marines-1629492392",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780977600,
-                "start_time_local": "09 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492393,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -413,6 +390,29 @@
                 "home_name": "Yomiuri Giants",
                 "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Saitama%20Seibu%20Lions%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780977600,
+                "start_time_local": "09 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492392,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Oisix Niigata vs Chiba Lotte Marines",
+            "slug": "oisix-niigata-vs-chiba-lotte-marines-1629492392",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780977600,
