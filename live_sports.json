@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:45:28 AM 08-06-2026"
+        "last_update_time": "10:00:36 AM 08-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780976724-Kv4cPTAAP5YTi-ee560188e9f8f9c208c3fd73807e449e9d5bd88d-54a261578040651202c215ffc5d08da3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780977632-Kv4cPTAAP5YTi-bce8556334d67318c5daf73bfbca0bdede6ba678-42e3282e4d8b57a509c0cb57b38ca477",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ee560188e9f8f9c208c3fd73807e449e9d5bd88d&x-sign=93f3be09c2cb2570bb9d78117da43938&x-time=1780890300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=bce8556334d67318c5daf73bfbca0bdede6ba678&x-sign=1e584b4f57b19c62c7847480528f49d0&x-time=1780891200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -364,6 +364,52 @@
             "timing": {
                 "start_time_timestamp": 1780975800,
                 "start_time_local": "09 Jun 2026, 09:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492392,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Oisix Niigata vs Chiba Lotte Marines",
+            "slug": "oisix-niigata-vs-chiba-lotte-marines-1629492392",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780977600,
+                "start_time_local": "09 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492393,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Saitama Seibu Lions",
+            "slug": "yomiuri-giants-vs-saitama-seibu-lions-1629492393",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Saitama%20Seibu%20Lions%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780977600,
+                "start_time_local": "09 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         }
