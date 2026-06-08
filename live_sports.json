@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:35 AM 08-06-2026"
+        "last_update_time": "06:00:40 AM 08-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1528288,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "colombia-vs-jordan-1528288",
-            "title": "Colombia vs Jordan",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Colombia",
-                "away_name": "Jordan",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20Jordan%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1780873200,
-                "start_time_local": "08 Jun 2026, 05:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "161357",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1780962324-Kv4cPTAAP5YTi-ff313e101997bd308ea57e0969d77a14dd09396a-013e3c8e902ca679934d38772434e985",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "161357",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=ff313e101997bd308ea57e0969d77a14dd09396a&x-sign=f7ff0761fd5a446542245ea537b32835&x-time=1780875900",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629492381,
             "sport_name": "MMA",
@@ -66,25 +30,73 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780962330-Kv4cPTAAP5YTi-ff313e101997bd308ea57e0969d77a14dd09396a-1455f37b09cd5c85baf4b0d1488dbc63",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1780963229-Kv4cPTAAP5YTi-7c65b13873d188ff6297322aa80d6640155ad0e9-e2700abb8242b282ef4e576206e8f9ad",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=ff313e101997bd308ea57e0969d77a14dd09396a&x-sign=252c8ef0c28aac6037a577ccde23c01f&x-time=1780875900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=7c65b13873d188ff6297322aa80d6640155ad0e9&x-sign=631c613f6f97c2d3280276dec370ca95&x-time=1780876800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780962331-Kv4cPTAAP5YTi-ff313e101997bd308ea57e0969d77a14dd09396a-c61eff86a48bc8069368d8aadfdceab5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780963230-Kv4cPTAAP5YTi-7c65b13873d188ff6297322aa80d6640155ad0e9-c341bb10a552e2349e6350193bc0c26d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=ff313e101997bd308ea57e0969d77a14dd09396a&x-sign=91ed40b114463b7ad111509d1524e109&x-time=1780875900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=7c65b13873d188ff6297322aa80d6640155ad0e9&x-sign=754078ae1d8544babb98cce30289c779&x-time=1780876800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1528288,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "colombia-vs-jordan-1528288",
+            "title": "Colombia vs Jordan",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Colombia",
+                "away_name": "Jordan",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colombia%20VS%20Jordan%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780873200,
+                "start_time_local": "08 Jun 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "274839",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=7c65b13873d188ff6297322aa80d6640155ad0e9&x-sign=e0ee119daf4505e428d9cb790d3e33a8&x-time=1780876800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "274839",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274839/720p/chunks.m3u8?is_vip=false&token=1780963236-Kv4cPTAAP5YTi-7c65b13873d188ff6297322aa80d6640155ad0e9-701d47b92521466f4e1db647904dfe7c",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1780963237-Kv4cPTAAP5YTi-7c65b13873d188ff6297322aa80d6640155ad0e9-03b85794b3c2c3d2e0c34021cd7900cf",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=7c65b13873d188ff6297322aa80d6640155ad0e9&x-sign=93f3e6a608ad70fdaa6e120510eab24e&x-time=1780876800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
