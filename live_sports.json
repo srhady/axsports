@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:15:28 AM 08-06-2026"
+        "last_update_time": "09:30:29 AM 08-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780974924-Kv4cPTAAP5YTi-0f6d14501ca0ebc1c1c70eb56821b1235c7ff0d0-51f49cac36c9c9445906b70aa6a9ab2f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780975825-Kv4cPTAAP5YTi-288505807da447a6dd60ea16c58c1fbdd7641fc8-7fac88ef8ffc87f2c6a1637773b97498",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=0f6d14501ca0ebc1c1c70eb56821b1235c7ff0d0&x-sign=2e99d7359519fdadf879f8b6a22ec48d&x-time=1780888500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=288505807da447a6dd60ea16c58c1fbdd7641fc8&x-sign=4fd3393eceb40383dbb3386a08c04daf&x-time=1780889400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -341,6 +341,29 @@
             "timing": {
                 "start_time_timestamp": 1780970400,
                 "start_time_local": "09 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492391,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Tohoku Rakuten Golden Eagles",
+            "slug": "tokyo-yakult-swallows-vs-tohoku-rakuten-golden-eagles-1629492391",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780975800,
+                "start_time_local": "09 Jun 2026, 09:30 AM",
                 "countdown_seconds": null
             }
         }
