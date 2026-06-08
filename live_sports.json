@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:41 PM 08-06-2026"
+        "last_update_time": "04:15:34 PM 08-06-2026"
     },
     "live_matches": [
         {
@@ -30,25 +30,25 @@
             "streams": [
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1780999236-Kv4cPTAAP5YTi-387d7a1416dd95085efa4b007b51344d5b18b7c5-98192275e5816cca47674610c2258829",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=1781000127-Kv4cPTAAP5YTi-381000bf54670c73d72da32b40c975d629a4df73-9d2ecd642e74d3ca67c2cd12fb32ed2d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "112612",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=387d7a1416dd95085efa4b007b51344d5b18b7c5&x-sign=b69e98d3944035265d0f43cb54b5d517&x-time=1780912800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112612/720p/chunks.m3u8?is_vip=false&token=381000bf54670c73d72da32b40c975d629a4df73&x-sign=b2e38f72d9cb5f8c246af63b33513ce3&x-time=1780913700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780999238-Kv4cPTAAP5YTi-387d7a1416dd95085efa4b007b51344d5b18b7c5-0d4d30b18db7595be030fc601163873a",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781000129-Kv4cPTAAP5YTi-381000bf54670c73d72da32b40c975d629a4df73-11a49161082ff6299a09d578acafc101",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=387d7a1416dd95085efa4b007b51344d5b18b7c5&x-sign=874acddbafcb49dd90f717266a51e496&x-time=1780912800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=381000bf54670c73d72da32b40c975d629a4df73&x-sign=2c5257bc632cac719791c517948a96af&x-time=1780913700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -196,11 +196,34 @@
             }
         },
         {
-            "match_id": 1629492389,
+            "match_id": 1629492387,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629492389",
+            "title": "Court 1",
+            "slug": "court-1-1629492387",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780970400,
+                "start_time_local": "09 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492388,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492388",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -242,34 +265,11 @@
             }
         },
         {
-            "match_id": 1629492387,
+            "match_id": 1629492389,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629492387",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780970400,
-                "start_time_local": "09 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492388,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492388",
+            "title": "Court 3",
+            "slug": "court-3-1629492389",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -403,6 +403,29 @@
             }
         },
         {
+            "match_id": 1629492396,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
+            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492396",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780995600,
+                "start_time_local": "09 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492395,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -440,29 +463,6 @@
             "teams": {
                 "home_name": "Hokkaido Nippon-Ham Fighters",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780995600,
-                "start_time_local": "09 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492396,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
-            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492396",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
