@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:00:36 AM 08-06-2026"
+        "last_update_time": "10:15:25 AM 08-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780977632-Kv4cPTAAP5YTi-bce8556334d67318c5daf73bfbca0bdede6ba678-42e3282e4d8b57a509c0cb57b38ca477",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780978521-Kv4cPTAAP5YTi-1f7e4bfeb9f1fafc1ffd743d1235853a2a47f62e-7acf3020714ad33da5e5abf350ba2400",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=bce8556334d67318c5daf73bfbca0bdede6ba678&x-sign=1e584b4f57b19c62c7847480528f49d0&x-time=1780891200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=1f7e4bfeb9f1fafc1ffd743d1235853a2a47f62e&x-sign=ad60dd2a96f6f49af01127e66dac67b7&x-time=1780892100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -230,11 +230,34 @@
             }
         },
         {
-            "match_id": 1629492388,
+            "match_id": 1540356,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Peru vs Spain",
+            "slug": "peru-vs-spain-1540356",
+            "status": "NS",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Peru",
+                "away_name": "Spain",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peru%20VS%20Spain%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1780970400,
+                "start_time_local": "09 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492387,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492388",
+            "title": "Court 1",
+            "slug": "court-1-1629492387",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -253,21 +276,21 @@
             }
         },
         {
-            "match_id": 1540356,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Peru vs Spain",
-            "slug": "peru-vs-spain-1540356",
+            "match_id": 1629492388,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492388",
             "status": "NS",
             "league": {
-                "league_name": "Friendlies",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Peru",
-                "away_name": "Spain",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peru%20VS%20Spain%20%20Friendlies.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1780970400,
@@ -304,29 +327,6 @@
             "sport_id": 32,
             "title": "Court 4",
             "slug": "court-4-1629492390",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780970400,
-                "start_time_local": "09 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492387,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629492387",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
