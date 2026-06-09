@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:43 PM 09-06-2026"
+        "last_update_time": "06:45:41 PM 09-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781094633-Kv4cPTAAP5YTi-48e64620471ce1beea12c076a5b64b91d40471ed-6c31b37b2ca31d05e9295ed4d95ce30b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781095530-Kv4cPTAAP5YTi-24733edf24a4f5893cb2668b4942266bf1e68591-20dbe7f708c93255b3a83b39b23e85ed",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "25",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=48e64620471ce1beea12c076a5b64b91d40471ed&x-sign=8498c87e8af48519826940687d8dc920&x-time=1781008200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=24733edf24a4f5893cb2668b4942266bf1e68591&x-sign=a14644f3238b7fd2db9c3ed0f7ceb0dd&x-time=1781009100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781094639-Kv4cPTAAP5YTi-48e64620471ce1beea12c076a5b64b91d40471ed-78df77c2f272627f6a8a1c6eed4b4e35",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781095537-Kv4cPTAAP5YTi-24733edf24a4f5893cb2668b4942266bf1e68591-18d552b4efb86da884302a3ab53f70a0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "24",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=48e64620471ce1beea12c076a5b64b91d40471ed&x-sign=d64157311b32d740ffed67f59f855d20&x-time=1781008200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=24733edf24a4f5893cb2668b4942266bf1e68591&x-sign=d54a6a896cc4a3efa239590ef08d873b&x-time=1781009100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -81,6 +81,29 @@
     ],
     "total_upcoming_matches": 46,
     "upcoming_matches": [
+        {
+            "match_id": 1629493033,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "title": "ES1, Tour Auvergne-Rhône-Alpes, Stage 3",
+            "slug": "es1-tour-auvergne-rhone-alpes-stage-3-1629493033",
+            "status": "NS",
+            "league": {
+                "league_name": "UCI World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781010900,
+                "start_time_local": "09 Jun 2026, 07:15 PM",
+                "countdown_seconds": null
+            }
+        },
         {
             "match_id": 1537651,
             "sport_name": "Football",
@@ -197,29 +220,6 @@
             }
         },
         {
-            "match_id": 1523945,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Netherlands W vs Poland W",
-            "slug": "netherlands-w-vs-poland-w-1523945",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup - Women - Qualification Europe",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Netherlands W",
-                "away_name": "Poland W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20W%20VS%20Poland%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781031600,
-                "start_time_local": "10 Jun 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1548054,
             "sport_name": "Football",
             "sport_id": 1,
@@ -235,6 +235,29 @@
                 "home_name": "Almeria",
                 "away_name": "Castellón",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria%20VS%20Castell%C3%B3n%20%20Segunda%20Divisi%C3%B3n.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781031600,
+                "start_time_local": "10 Jun 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1523945,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Netherlands W vs Poland W",
+            "slug": "netherlands-w-vs-poland-w-1523945",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup - Women - Qualification Europe",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Netherlands W",
+                "away_name": "Poland W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20W%20VS%20Poland%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781031600,
@@ -427,29 +450,6 @@
             }
         },
         {
-            "match_id": 1629492412,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
-            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492412",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781082000,
-                "start_time_local": "10 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492413,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -465,6 +465,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "Chiba Lotte Marines",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781082000,
+                "start_time_local": "10 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492412,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
+            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492412",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781082000,
