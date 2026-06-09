@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:31:17 PM 09-06-2026"
+        "last_update_time": "12:46:01 PM 09-06-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629492387,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629492387",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1780959600,
+                "start_time_local": "09 Jun 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781073925-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-8bca7c91f2b004037a56574d2af1431d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=b92bd3120d3db2886209172a9c13253b&x-time=1780987500",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
         {
             "match_id": 1629492389,
             "sport_name": "Badminton",
@@ -30,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781073036-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-758beffb60d494a2cb045fe59f048b69",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781073931-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-d06db50c991aec08ccd14c74a879590f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=403cba3f50e274a0ea6c84d1f995d067&x-time=1780986600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=d27f5b124aadd8cf383a04c27650dacf&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781073042-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-6e71451d3d5fb203342b61de50b95f6f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781073936-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-223a7970ae5aca454b316f5fe6bda64d",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "4",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=21aff8ae39fda71b55fc7af0cd4b5c92&x-time=1780986600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=0d7376a82a2acc17acbf154938d25aeb&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,49 +138,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781073048-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-2fc461db65ad13737ee872c49cf8f10b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781073942-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-1db9b06b401616025b3bd34fbd068342",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=af3c72dea486be11ed50024b088245aa&x-time=1780986600",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629492387,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-1-1629492387",
-            "title": "Court 1",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1780959600,
-                "start_time_local": "09 Jun 2026, 05:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781073054-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-0b810847e676c59c1b464f3b36473bfd",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "1",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=97278e42ea982c352248b063a46f1f02&x-time=1780986600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=d6d55b2846ff1869aa901c6207011ac0&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,13 +174,13 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781073061-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-2f1f66e8a53fa7b7f4b59d7a0134e137",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781073947-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-47fb6389c13f9b1900b4194a2db1759c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=a9b8b790506374c88ec89da4dbbd3bbf&x-time=1780986660",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=7fce1850ee0de8fa734c7f9a614eaa38&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -210,13 +210,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781073067-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-9ea0b0e57c385624a15d690501d69dd9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781073952-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-c1fb2afc89f2a774cbb32e63bd89de1e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=9d990329f31f85680a96fc58124ec8e7&x-time=1780986660",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=0b5fa27380c333d09d7a0986c73e360e&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -246,20 +246,20 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781073073-Kv4cPTAAP5YTi-058b3a45b8d8730d002db9aa57313f633b6dec37-09fc996ffab0c2b385c1f56f4227b56b",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781073958-Kv4cPTAAP5YTi-b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc-25761c43aa190c178fdb2a9440f97995",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=058b3a45b8d8730d002db9aa57313f633b6dec37&x-sign=78dfb9878fb295b304c05135dcaf62ff&x-time=1780986660",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=b3208fc8b8bd7d2912fdfc85e3dbf7959ed6eebc&x-sign=e35746083618bd7abe43f303d41c5b76&x-time=1780987500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 40,
+    "total_upcoming_matches": 41,
     "upcoming_matches": [
         {
             "match_id": 1629492394,
@@ -538,29 +538,6 @@
             }
         },
         {
-            "match_id": 1523945,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Netherlands W vs Poland W",
-            "slug": "netherlands-w-vs-poland-w-1523945",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup - Women - Qualification Europe",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Netherlands W",
-                "away_name": "Poland W",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20W%20VS%20Poland%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781031600,
-                "start_time_local": "10 Jun 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1548054,
             "sport_name": "Football",
             "sport_id": 1,
@@ -576,6 +553,29 @@
                 "home_name": "Almeria",
                 "away_name": "Castellón",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almeria%20VS%20Castell%C3%B3n%20%20Segunda%20Divisi%C3%B3n.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781031600,
+                "start_time_local": "10 Jun 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1523945,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Netherlands W vs Poland W",
+            "slug": "netherlands-w-vs-poland-w-1523945",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup - Women - Qualification Europe",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Netherlands W",
+                "away_name": "Poland W",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands%20W%20VS%20Poland%20W%20%20World%20Cup%20-%20Women%20-%20Qualification%20Europe.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781031600,
