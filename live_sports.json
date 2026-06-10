@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:51 AM 11-06-2026"
+        "last_update_time": "03:00:50 AM 11-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629492419,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "london-day-3-1629492419",
-            "title": "London: Day 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "WTA 500",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781092800,
-                "start_time_local": "10 Jun 2026, 06:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781209836-Kv4cPTAAP5YTi-c509f776dbf420957f6686ad99f244469a9ecf52-4a87fe58d91875950a355414b61c77c5",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=c509f776dbf420957f6686ad99f244469a9ecf52&x-sign=b656d9f4309d36efcdf8b70397c1fda4&x-time=1781123400",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1548055,
             "sport_name": "Football",
@@ -66,13 +30,61 @@
             "streams": [
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=2aa6f31764753dc76a147a844263dc905ba90aff&x-sign=fb721df431b4619017a944c4d0baa3d4&x-time=1781124300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=9559df49ffe1c7896c99191349baba1db8bce7b3&x-sign=d3a1300f8271798036c4adced06db562&x-time=1781125200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "112520",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1781210733-Kv4cPTAAP5YTi-2aa6f31764753dc76a147a844263dc905ba90aff-277f86b573242a93880e62ca66fc6126",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/112520/720p/chunks.m3u8?is_vip=false&token=1781211634-Kv4cPTAAP5YTi-9559df49ffe1c7896c99191349baba1db8bce7b3-d98804e26f0c56d4845869aa24972d2d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1540358,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "portugal-vs-nigeria-1540358",
+            "title": "Portugal vs Nigeria",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Friendlies",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Portugal",
+                "away_name": "Nigeria",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20VS%20Nigeria%20%20Friendlies.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781120700,
+                "start_time_local": "11 Jun 2026, 01:45 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=9559df49ffe1c7896c99191349baba1db8bce7b3&x-sign=b021b14b84d8f09d8c76908b6102488b&x-time=1781125200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781211640-Kv4cPTAAP5YTi-9559df49ffe1c7896c99191349baba1db8bce7b3-f756c808730ed126eb1199b6d50c9fd5",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "143071",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=9559df49ffe1c7896c99191349baba1db8bce7b3&x-sign=c7737f52ae1be5c598ece60cc5fbc9d1&x-time=1781125200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "143071",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781211641-Kv4cPTAAP5YTi-9559df49ffe1c7896c99191349baba1db8bce7b3-5d7eda7683948708d394f57c5cbddbc2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,80 +114,32 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=2aa6f31764753dc76a147a844263dc905ba90aff&x-sign=549450692b781d8116888610b765f61c&x-time=1781124300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=9559df49ffe1c7896c99191349baba1db8bce7b3&x-sign=a7512a9f855d2b11e9153ed5a61d4aca&x-time=1781125200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781210739-Kv4cPTAAP5YTi-2aa6f31764753dc76a147a844263dc905ba90aff-8bdccc731e1d34057e85bc28cda9132c",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781211646-Kv4cPTAAP5YTi-9559df49ffe1c7896c99191349baba1db8bce7b3-3527531412dec936e2487aeeabbcc9e8",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781210739-Kv4cPTAAP5YTi-2aa6f31764753dc76a147a844263dc905ba90aff-28390f3ef3d0b5d6d697c8e33aff95bc",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781211647-Kv4cPTAAP5YTi-9559df49ffe1c7896c99191349baba1db8bce7b3-60cc85c9448c7b2122dcd5a1e9d7c9dc",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=2aa6f31764753dc76a147a844263dc905ba90aff&x-sign=842f9e57e4172022671c74bc324713af&x-time=1781124300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=9559df49ffe1c7896c99191349baba1db8bce7b3&x-sign=beb67909dc338908aa5b483925635715&x-time=1781125200",
                     "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1540358,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "portugal-vs-nigeria-1540358",
-            "title": "Portugal vs Nigeria",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Friendlies",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Portugal",
-                "away_name": "Nigeria",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Portugal%20VS%20Nigeria%20%20Friendlies.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781120700,
-                "start_time_local": "11 Jun 2026, 01:45 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "151592",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=2aa6f31764753dc76a147a844263dc905ba90aff&x-sign=1edf17f7a409e056fe2c9b5b8caefc37&x-time=1781124300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "151592",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1781210746-Kv4cPTAAP5YTi-2aa6f31764753dc76a147a844263dc905ba90aff-a41126cce130f3ea7d366a6a93ce4b61",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "143071",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=2aa6f31764753dc76a147a844263dc905ba90aff&x-sign=b078eacb82099253e6297a980d7f5d10&x-time=1781124300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "143071",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1781210748-Kv4cPTAAP5YTi-2aa6f31764753dc76a147a844263dc905ba90aff-86743fad585e06b3c56a0e44360f6369",
-                    "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 44,
+    "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
             "match_id": 1517298,
@@ -224,6 +188,29 @@
             }
         },
         {
+            "match_id": 1629492449,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629492449",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781143200,
+                "start_time_local": "11 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492450,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -252,29 +239,6 @@
             "sport_id": 32,
             "title": "Court 2",
             "slug": "court-2-1629492448",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781143200,
-                "start_time_local": "11 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492449,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629492449",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
@@ -362,6 +326,29 @@
             }
         },
         {
+            "match_id": 1629492454,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
+            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492454",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781168400,
+                "start_time_local": "11 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492460,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -422,29 +409,6 @@
             "teams": {
                 "home_name": "ORIX Buffaloes",
                 "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781168400,
-                "start_time_local": "11 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492454,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Hiroshima Toyo Carp",
-            "slug": "saitama-seibu-lions-vs-hiroshima-toyo-carp-1629492454",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
