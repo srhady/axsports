@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:15:30 AM 12-06-2026"
+        "last_update_time": "05:30:34 AM 12-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781306126-Kv4cPTAAP5YTi-db6b88e5ef64f700d5adfb8e28cb5c2a28c7e1e8-9d726c828c7bd5fedfcd7afc2073db47",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781307030-Kv4cPTAAP5YTi-9a74c50424b33721377d1fdfb7d4e9b1fd360a53-6087910cb97793a8081e7e856c3e4133",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=db6b88e5ef64f700d5adfb8e28cb5c2a28c7e1e8&x-sign=eddf51d25665292ba217661113d8280c&x-time=1781219700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=9a74c50424b33721377d1fdfb7d4e9b1fd360a53&x-sign=aefa3ce1a8c3daeec23c053b92b346fe&x-time=1781220600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -45,52 +45,6 @@
     ],
     "total_upcoming_matches": 38,
     "upcoming_matches": [
-        {
-            "match_id": 1629492471,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629492471",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781229600,
-                "start_time_local": "12 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492470,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629492470",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781229600,
-                "start_time_local": "12 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1538999,
             "sport_name": "Football",
@@ -115,11 +69,57 @@
             }
         },
         {
+            "match_id": 1629492471,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629492471",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781229600,
+                "start_time_local": "12 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492472,
             "sport_name": "Badminton",
             "sport_id": 32,
             "title": "Court 3",
             "slug": "court-3-1629492472",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781229600,
+                "start_time_local": "12 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492470,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629492470",
             "status": "NS",
             "league": {
                 "league_name": "Unknown League",
