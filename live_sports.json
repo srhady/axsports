@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:01:46 PM 13-06-2026"
+        "last_update_time": "08:36:19 PM 13-06-2026"
     },
     "live_matches": [
         {
@@ -109,42 +109,6 @@
             ]
         },
         {
-            "match_id": 1629492515,
-            "sport_name": "Handball",
-            "sport_id": 24,
-            "slug": "magdeburg-vs-fuchse-berlin-1629492515",
-            "title": "Magdeburg vs Füchse Berlin",
-            "status": "LIVE",
-            "league": {
-                "league_name": "EHF Champions League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781355600,
-                "start_time_local": "13 Jun 2026, 07:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781445666-Kv4cPTAAP5YTi-b875d9fd466465ea3ceec715265168b879dc3686-62740aa5541292fae77d0b16ff837961",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b875d9fd466465ea3ceec715265168b879dc3686&x-sign=a4080c435b9401fc9f9876f7e5752ea9&x-time=1781359260",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
             "match_id": 1496081,
             "sport_name": "Football",
             "sport_id": 1,
@@ -211,6 +175,42 @@
                 {
                     "server_name": "1419",
                     "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=b875d9fd466465ea3ceec715265168b879dc3686&x-sign=5de9bc6ef4abad6e79cb536cf3e797ad&x-time=1781359260",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629492515,
+            "sport_name": "Handball",
+            "sport_id": 24,
+            "slug": "magdeburg-vs-fuchse-berlin-1629492515",
+            "title": "Magdeburg vs Füchse Berlin",
+            "status": "LIVE",
+            "league": {
+                "league_name": "EHF Champions League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781355600,
+                "start_time_local": "13 Jun 2026, 07:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781445666-Kv4cPTAAP5YTi-b875d9fd466465ea3ceec715265168b879dc3686-62740aa5541292fae77d0b16ff837961",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=b875d9fd466465ea3ceec715265168b879dc3686&x-sign=a4080c435b9401fc9f9876f7e5752ea9&x-time=1781359260",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -483,29 +483,6 @@
             }
         },
         {
-            "match_id": 1489372,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Haiti vs Scotland",
-            "slug": "haiti-vs-scotland-1489372",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Haiti",
-                "away_name": "Scotland",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Haiti%20VS%20Scotland%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781398800,
-                "start_time_local": "14 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492952,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -521,6 +498,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781398800,
+                "start_time_local": "14 Jun 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489372,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Haiti vs Scotland",
+            "slug": "haiti-vs-scotland-1489372",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Haiti",
+                "away_name": "Scotland",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Haiti%20VS%20Scotland%20%20World%20Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781398800,
@@ -571,6 +571,29 @@
             "timing": {
                 "start_time_timestamp": 1781406000,
                 "start_time_local": "14 Jun 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492958,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Hiroshima Toyo Carp",
+            "slug": "tohoku-rakuten-golden-eagles-vs-hiroshima-toyo-carp-1629492958",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Hiroshima Toyo Carp",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781409600,
+                "start_time_local": "14 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -667,11 +690,11 @@
             }
         },
         {
-            "match_id": 1629492958,
+            "match_id": 1629492966,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Hiroshima Toyo Carp",
-            "slug": "tohoku-rakuten-golden-eagles-vs-hiroshima-toyo-carp-1629492958",
+            "title": "Chiba Lotte Marines vs Yokohama DeNA BayStars",
+            "slug": "chiba-lotte-marines-vs-yokohama-dena-baystars-1629492966",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -679,13 +702,13 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Hiroshima Toyo Carp",
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1781409600,
-                "start_time_local": "14 Jun 2026, 10:00 AM",
+                "start_time_timestamp": 1781413200,
+                "start_time_local": "14 Jun 2026, 11:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -704,29 +727,6 @@
             "teams": {
                 "home_name": "GWS GIANTS",
                 "away_name": "St. Kilda Saints",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781413200,
-                "start_time_local": "14 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492966,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Yokohama DeNA BayStars",
-            "slug": "chiba-lotte-marines-vs-yokohama-dena-baystars-1629492966",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -828,14 +828,14 @@
             }
         },
         {
-            "match_id": 1629492970,
+            "match_id": 1629492969,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 7",
-            "slug": "day-7-1629492970",
+            "title": "Final",
+            "slug": "final-1629492969",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Libema Open",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -851,14 +851,14 @@
             }
         },
         {
-            "match_id": 1629492969,
+            "match_id": 1629492970,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Final",
-            "slug": "final-1629492969",
+            "title": "Day 7",
+            "slug": "day-7-1629492970",
             "status": "NS",
             "league": {
-                "league_name": "Libema Open",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
