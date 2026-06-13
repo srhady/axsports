@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:45:37 AM 14-06-2026"
+        "last_update_time": "04:00:57 AM 14-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781473528-Kv4cPTAAP5YTi-265f4bb600c213fde3048810b6ecb8be70291dd8-156a896f69f55157d5633ae6bc70f47a",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781474447-Kv4cPTAAP5YTi-2845319507cb9086e11bb96aaab6167365b54384-aa2b5e7d66668574264c59f7eaca5a7a",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=265f4bb600c213fde3048810b6ecb8be70291dd8&x-sign=5b1ffeef9ec2257c323851b77869359c&x-time=1781387100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=2845319507cb9086e11bb96aaab6167365b54384&x-sign=0a72bdbb96cdfcb07c214037aa0ba584&x-time=1781388000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "544569",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=265f4bb600c213fde3048810b6ecb8be70291dd8&x-sign=6c8ebda50d9f1513012f5c204ef55073&x-time=1781387100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=2845319507cb9086e11bb96aaab6167365b54384&x-sign=ce4f56476e60a5e172588de8475c382a&x-time=1781388000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "544569",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781473534-Kv4cPTAAP5YTi-265f4bb600c213fde3048810b6ecb8be70291dd8-bf2b517f1cc4b4cf074baba35db428f2",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781474454-Kv4cPTAAP5YTi-2845319507cb9086e11bb96aaab6167365b54384-4b3bf1f6f99feab36c07943b57a3649e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -699,6 +699,52 @@
             "timing": {
                 "start_time_timestamp": 1781467200,
                 "start_time_local": "15 Jun 2026, 02:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1517300,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Vancouver FC vs Pacific FC",
+            "slug": "vancouver-fc-vs-pacific-fc-1517300",
+            "status": "NS",
+            "league": {
+                "league_name": "Canadian Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Vancouver FC",
+                "away_name": "Pacific FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20FC%20VS%20Pacific%20FC%20%20Canadian%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781474400,
+                "start_time_local": "15 Jun 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492976,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "UFC FREEDOM 250: PRELIMS",
+            "slug": "ufc-freedom-250-prelims-1629492976",
+            "status": "NS",
+            "league": {
+                "league_name": "UFC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781474400,
+                "start_time_local": "15 Jun 2026, 04:00 AM",
                 "countdown_seconds": null
             }
         }
