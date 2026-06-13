@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:15:36 AM 13-06-2026"
+        "last_update_time": "10:30:47 AM 13-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781410527-Kv4cPTAAP5YTi-07ee7b3e2fd64bdd47f4e27b561eda70f07338fc-a65294d064f11808810b9df3534aebff",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781411432-Kv4cPTAAP5YTi-4dd8e6bcb03e580382b867e63a4300008d18766c-7bbb1e0f50891f0a9dc2d519f34d2abd",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=07ee7b3e2fd64bdd47f4e27b561eda70f07338fc&x-sign=fa53f902fd184e3e23afe42cfc1a92d7&x-time=1781324100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=4dd8e6bcb03e580382b867e63a4300008d18766c&x-sign=280731cfd605b9f80103ad55bb0484be&x-time=1781325000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,27 +66,63 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781410532-Kv4cPTAAP5YTi-07ee7b3e2fd64bdd47f4e27b561eda70f07338fc-a35756ce5fb16d544995b6046daa204e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781411438-Kv4cPTAAP5YTi-4dd8e6bcb03e580382b867e63a4300008d18766c-7752f841ae369448a70e40a3c93b37c6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=07ee7b3e2fd64bdd47f4e27b561eda70f07338fc&x-sign=9f41205615674731084a067be33916dd&x-time=1781324100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=4dd8e6bcb03e580382b867e63a4300008d18766c&x-sign=20b8c007529582b8e71c1cdbc7895d9e&x-time=1781325000",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493685,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "slug": "matatu-vs-chiefs-manawa-1629493685",
+            "title": "Matatū vs Chiefs Manawa",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Super Rugby Aupiki",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781323200,
+                "start_time_local": "13 Jun 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "143072",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1781411443-Kv4cPTAAP5YTi-4dd8e6bcb03e580382b867e63a4300008d18766c-fad8dd3919c5529acc994c92ee4c7e85",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "143072",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=4dd8e6bcb03e580382b867e63a4300008d18766c&x-sign=0a3a870840d55fdb186b8d3dd5af0d93&x-time=1781325000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
-            "match_id": 1629492501,
+            "match_id": 1629492500,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Tokyo Yakult Swallows",
-            "slug": "fukuoka-softbank-hawks-vs-tokyo-yakult-swallows-1629492501",
+            "title": "Hokkaido Nippon-Ham Fighter vs Chunichi Dragons",
+            "slug": "hokkaido-nippon-ham-fighter-vs-chunichi-dragons-1629492500",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -94,9 +130,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
+                "home_name": "Unknown",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781326800,
@@ -151,11 +187,11 @@
             }
         },
         {
-            "match_id": 1629492500,
+            "match_id": 1629492501,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighter vs Chunichi Dragons",
-            "slug": "hokkaido-nippon-ham-fighter-vs-chunichi-dragons-1629492500",
+            "title": "Fukuoka SoftBank Hawks vs Tokyo Yakult Swallows",
+            "slug": "fukuoka-softbank-hawks-vs-tokyo-yakult-swallows-1629492501",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -163,9 +199,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781326800,
@@ -220,29 +256,6 @@
             }
         },
         {
-            "match_id": 1629492985,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Barcelona, Spain",
-            "slug": "barcelona-spain-1629492985",
-            "status": "NS",
-            "league": {
-                "league_name": "FIA Formula 3 Championship Sprint",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781337600,
-                "start_time_local": "13 Jun 2026, 02:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492506,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -266,14 +279,14 @@
             }
         },
         {
-            "match_id": 1629492508,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 7",
-            "slug": "day-7-1629492508",
+            "match_id": 1629492985,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Barcelona, Spain",
+            "slug": "barcelona-spain-1629492985",
             "status": "NS",
             "league": {
-                "league_name": "Libema Open",
+                "league_name": "FIA Formula 3 Championship Sprint",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -283,8 +296,8 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1781341200,
-                "start_time_local": "13 Jun 2026, 03:00 PM",
+                "start_time_timestamp": 1781337600,
+                "start_time_local": "13 Jun 2026, 02:00 PM",
                 "countdown_seconds": null
             }
         },
@@ -303,6 +316,29 @@
             "teams": {
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "Yomiuri Giants",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781341200,
+                "start_time_local": "13 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492508,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 7",
+            "slug": "day-7-1629492508",
+            "status": "NS",
+            "league": {
+                "league_name": "Libema Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
