@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:30:50 AM 14-06-2026"
+        "last_update_time": "03:45:37 AM 14-06-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781472646-Kv4cPTAAP5YTi-86f42301ffd173add9b1aeee4cec69997f72d04e-16862ed7397a2942545e17b565462dee",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781473528-Kv4cPTAAP5YTi-265f4bb600c213fde3048810b6ecb8be70291dd8-156a896f69f55157d5633ae6bc70f47a",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=86f42301ffd173add9b1aeee4cec69997f72d04e&x-sign=a8240b5c72142ac3e677fbc82335b024&x-time=1781386200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=265f4bb600c213fde3048810b6ecb8be70291dd8&x-sign=5b1ffeef9ec2257c323851b77869359c&x-time=1781387100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1489371,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Brazil vs Morocco",
             "slug": "brazil-vs-morocco-1489371",
-            "status": "NS",
+            "title": "Brazil vs Morocco",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Cup",
                 "league_logo": ""
@@ -64,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1781388000,
-                "start_time_local": "14 Jun 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "14 Jun 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "544569",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=265f4bb600c213fde3048810b6ecb8be70291dd8&x-sign=6c8ebda50d9f1513012f5c204ef55073&x-time=1781387100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "544569",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781473534-Kv4cPTAAP5YTi-265f4bb600c213fde3048810b6ecb8be70291dd8-bf2b517f1cc4b4cf074baba35db428f2",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 47,
+    "upcoming_matches": [
         {
             "match_id": 1629492951,
             "sport_name": "MMA",
