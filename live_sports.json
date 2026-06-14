@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:15:37 AM 14-06-2026"
+        "last_update_time": "06:30:44 AM 14-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781482528-Kv4cPTAAP5YTi-29285f4c6213d444cdc2d8da73b4e71b485e0a36-7e248b74ba65eededa92bb770d714a65",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781483434-Kv4cPTAAP5YTi-f3d095475ce9133dfbe48025f75350a0df8b129c-7bf02da2fd22222e1a8a58e2d8312fda",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=29285f4c6213d444cdc2d8da73b4e71b485e0a36&x-sign=c82d6daee29bcecbb6f79bfe2db26ccb&x-time=1781396100",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=f3d095475ce9133dfbe48025f75350a0df8b129c&x-sign=78928474c796cd79c1baf603f9df7493&x-time=1781397000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,20 +66,20 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781482534-Kv4cPTAAP5YTi-29285f4c6213d444cdc2d8da73b4e71b485e0a36-3eb773b1a9eb1fab57c04020489487ca",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781483440-Kv4cPTAAP5YTi-f3d095475ce9133dfbe48025f75350a0df8b129c-158b23f4b6b83d65e08825cfca35d3ad",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=29285f4c6213d444cdc2d8da73b4e71b485e0a36&x-sign=e204d9f07543e327842c7fc78b14681f&x-time=1781396100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=f3d095475ce9133dfbe48025f75350a0df8b129c&x-sign=a49ff3517ade86710e676c3482d13d12&x-time=1781397000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 46,
     "upcoming_matches": [
         {
             "match_id": 1629492952,
@@ -90,6 +90,29 @@
             "status": "NS",
             "league": {
                 "league_name": "FIA World Endurance Championship",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781398800,
+                "start_time_local": "14 Jun 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492951,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "COMBAT FC 13",
+            "slug": "combat-fc-13-1629492951",
+            "status": "NS",
+            "league": {
+                "league_name": "MMA",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -128,29 +151,6 @@
             }
         },
         {
-            "match_id": 1629492951,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "COMBAT FC 13",
-            "slug": "combat-fc-13-1629492951",
-            "status": "NS",
-            "league": {
-                "league_name": "MMA",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781398800,
-                "start_time_local": "14 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492954,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -170,29 +170,6 @@
             "timing": {
                 "start_time_timestamp": 1781406000,
                 "start_time_local": "14 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629492955,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Brumbies vs Waratahs",
-            "slug": "brumbies-vs-waratahs-1629492955",
-            "status": "NS",
-            "league": {
-                "league_name": "Super Rugby Women's",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Waratahs",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781409600,
-                "start_time_local": "14 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -266,6 +243,29 @@
             }
         },
         {
+            "match_id": 1629492955,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Brumbies vs Waratahs",
+            "slug": "brumbies-vs-waratahs-1629492955",
+            "status": "NS",
+            "league": {
+                "league_name": "Super Rugby Women's",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Waratahs",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781409600,
+                "start_time_local": "14 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629492957,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -289,29 +289,6 @@
             }
         },
         {
-            "match_id": 1629492966,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Yokohama DeNA BayStars",
-            "slug": "chiba-lotte-marines-vs-yokohama-dena-baystars-1629492966",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781413200,
-                "start_time_local": "14 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492967,
             "sport_name": "Football",
             "sport_id": 1,
@@ -327,6 +304,29 @@
                 "home_name": "GWS GIANTS",
                 "away_name": "St. Kilda Saints",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/GWS%20GIANTS%20VS%20St.%20Kilda%20Saints%20%20AFL%20Premiership.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781413200,
+                "start_time_local": "14 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629492966,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Yokohama DeNA BayStars",
+            "slug": "chiba-lotte-marines-vs-yokohama-dena-baystars-1629492966",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781413200,
@@ -611,29 +611,6 @@
             }
         },
         {
-            "match_id": 1489374,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Germany vs Curaçao",
-            "slug": "germany-vs-curacao-1489374",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Germany",
-                "away_name": "Curaçao",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781456400,
-                "start_time_local": "14 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492975,
             "sport_name": "Darts",
             "sport_id": 31,
@@ -649,6 +626,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781456400,
+                "start_time_local": "14 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489374,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Germany vs Curaçao",
+            "slug": "germany-vs-curacao-1489374",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Germany",
+                "away_name": "Curaçao",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781456400,
