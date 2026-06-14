@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:01:06 AM 15-06-2026"
+        "last_update_time": "05:16:02 AM 15-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1517300,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "vancouver-fc-vs-pacific-fc-1517300",
-            "title": "Vancouver FC vs Pacific FC",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Canadian Premier League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Vancouver FC",
-                "away_name": "Pacific FC",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20FC%20VS%20Pacific%20FC%20%20Canadian%20Premier%20League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781474400,
-                "start_time_local": "15 Jun 2026, 04:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=05782e25683f07360859a2dab41d1f0b56272ab4&x-sign=708a2adaf40bc2cc8ff473571edde1a1&x-time=1781478000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "450",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781564445-Kv4cPTAAP5YTi-05782e25683f07360859a2dab41d1f0b56272ab4-b9a9412c0f23a2d7da54be29ef6493bf",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629494020,
             "sport_name": "Volleyball",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=05782e25683f07360859a2dab41d1f0b56272ab4&x-sign=3a86e8eedf9aae478f00814781d8275c&x-time=1781478000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=6cab1b39d7b7a3207d6c7569c2f3b661526022a6&x-sign=057247709804c293d45d2e1c96c3dfa2&x-time=1781478900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1781564451-Kv4cPTAAP5YTi-05782e25683f07360859a2dab41d1f0b56272ab4-4996f4c32993d707857114b4fa285966",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1781565331-Kv4cPTAAP5YTi-6cab1b39d7b7a3207d6c7569c2f3b661526022a6-67e32176c7813a0b41747539010fae41",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1517300,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "vancouver-fc-vs-pacific-fc-1517300",
+            "title": "Vancouver FC vs Pacific FC",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Canadian Premier League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Vancouver FC",
+                "away_name": "Pacific FC",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vancouver%20FC%20VS%20Pacific%20FC%20%20Canadian%20Premier%20League.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781474400,
+                "start_time_local": "15 Jun 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=6cab1b39d7b7a3207d6c7569c2f3b661526022a6&x-sign=b9bd55621276cfa0a63fc67329861e29&x-time=1781478900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "450",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1781565337-Kv4cPTAAP5YTi-6cab1b39d7b7a3207d6c7569c2f3b661526022a6-932aebdadd6c82e68a36289c7eb82639",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "68904",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=05782e25683f07360859a2dab41d1f0b56272ab4&x-sign=dea98399a9a3e3fff40788c18fa5b037&x-time=1781478000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=6cab1b39d7b7a3207d6c7569c2f3b661526022a6&x-sign=0a66a8209480ed7fb01ec37c968cc03f&x-time=1781478900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68904",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1781564456-Kv4cPTAAP5YTi-05782e25683f07360859a2dab41d1f0b56272ab4-126292afc9225fbcbd66fad6bd2a7516",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1781565352-Kv4cPTAAP5YTi-6cab1b39d7b7a3207d6c7569c2f3b661526022a6-fd00f75e5558cb26dee1420f1c18ffb2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,25 +138,25 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=05782e25683f07360859a2dab41d1f0b56272ab4&x-sign=2ddf26a5d76559ae39be459c678a61ac&x-time=1781478060",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=6cab1b39d7b7a3207d6c7569c2f3b661526022a6&x-sign=03af4e35b94d96141c6619d71d0e99f3&x-time=1781478900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1781564462-Kv4cPTAAP5YTi-05782e25683f07360859a2dab41d1f0b56272ab4-f2759ddd158cd58cc1fdbb1abd30c71a",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1781565358-Kv4cPTAAP5YTi-6cab1b39d7b7a3207d6c7569c2f3b661526022a6-8e724da25b8152c19c7821a5ab6ddb5e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781564462-Kv4cPTAAP5YTi-05782e25683f07360859a2dab41d1f0b56272ab4-9126de28d5cdec119b8dd3a33cb78615",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781565358-Kv4cPTAAP5YTi-6cab1b39d7b7a3207d6c7569c2f3b661526022a6-5761baf7ae6d049ce43047777c123692",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=05782e25683f07360859a2dab41d1f0b56272ab4&x-sign=8165cc7e0643f2c6bc11306bf956fd2d&x-time=1781478060",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6cab1b39d7b7a3207d6c7569c2f3b661526022a6&x-sign=ffe8b4a8a9439527342976e32fcfa996&x-time=1781478900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -166,11 +166,11 @@
     "total_upcoming_matches": 37,
     "upcoming_matches": [
         {
-            "match_id": 1629492976,
+            "match_id": 1629492977,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "UFC FREEDOM 250: PRELIMS",
-            "slug": "ufc-freedom-250-prelims-1629492976",
+            "title": "TOPURIA vs GAETHJE",
+            "slug": "topuria-vs-gaethje-1629492977",
             "status": "NS",
             "league": {
                 "league_name": "UFC",
@@ -189,11 +189,11 @@
             }
         },
         {
-            "match_id": 1629492977,
+            "match_id": 1629492976,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "TOPURIA vs GAETHJE",
-            "slug": "topuria-vs-gaethje-1629492977",
+            "title": "UFC FREEDOM 250: PRELIMS",
+            "slug": "ufc-freedom-250-prelims-1629492976",
             "status": "NS",
             "league": {
                 "league_name": "UFC",
