@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:30:44 AM 14-06-2026"
+        "last_update_time": "06:46:00 AM 14-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781483434-Kv4cPTAAP5YTi-f3d095475ce9133dfbe48025f75350a0df8b129c-7bf02da2fd22222e1a8a58e2d8312fda",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781484334-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-bfdaebf65d24ceec22161e7b4ec9d262",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=f3d095475ce9133dfbe48025f75350a0df8b129c&x-sign=78928474c796cd79c1baf603f9df7493&x-time=1781397000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=bfa243ffdd518d5e30fb560381f9f440&x-time=1781397900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781483440-Kv4cPTAAP5YTi-f3d095475ce9133dfbe48025f75350a0df8b129c-158b23f4b6b83d65e08825cfca35d3ad",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781484339-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-264ff7f92bce121934cb69121a7c368f",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=f3d095475ce9133dfbe48025f75350a0df8b129c&x-sign=a49ff3517ade86710e676c3482d13d12&x-time=1781397000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=3ec68e9b26735a55ba31ed89d4ea0e59&x-time=1781397900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629492952,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "FIA WEC, Le Mans 24hours, Race, part 2",
             "slug": "fia-wec-le-mans-24hours-race-part-2-1629492952",
-            "status": "NS",
+            "title": "FIA WEC, Le Mans 24hours, Race, part 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "FIA World Endurance Championship",
                 "league_logo": ""
@@ -100,17 +97,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1781398800,
-                "start_time_local": "14 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "14 Jun 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "1419",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781484345-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-3c482af4ed59c7c1421e25642cd99605",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "1419",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=bfa243ffdd518d5e30fb560381f9f440&x-time=1781397900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629492951,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "COMBAT FC 13",
             "slug": "combat-fc-13-1629492951",
-            "status": "NS",
+            "title": "COMBAT FC 13",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -123,17 +133,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1781398800,
-                "start_time_local": "14 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "14 Jun 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781484351-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-ac42e9c67ecc2fde340083824fed8e9c",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=0af709822eecd1d3bff3d14a7de1c7c3&x-time=1781397900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1489372,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Haiti vs Scotland",
             "slug": "haiti-vs-scotland-1489372",
-            "status": "NS",
+            "title": "Haiti vs Scotland",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Cup",
                 "league_logo": ""
@@ -146,10 +169,38 @@
             },
             "timing": {
                 "start_time_timestamp": 1781398800,
-                "start_time_local": "14 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "14 Jun 2026, 07:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781484356-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-224e92fbfce02803f420be5951dd979c",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=3ec68e9b26735a55ba31ed89d4ea0e59&x-time=1781397900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "544568",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=1781484357-Kv4cPTAAP5YTi-5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c-b05b1c4d2171c0d34a41016e7dfe75c1",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "544568",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544568/720p/chunks.m3u8?is_vip=false&token=5a95ddfd9eaaa5db6a32c8bcd594cd91e364726c&x-sign=04243f833229db4567ff4622704c43da&x-time=1781397900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1629492954,
             "sport_name": "Auto Racing",
