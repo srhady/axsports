@@ -3,46 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:44 AM 16-06-2026"
+        "last_update_time": "03:15:45 AM 16-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1489377,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "belgium-vs-egypt-1489377",
-            "title": "Belgium vs Egypt",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Belgium",
-                "away_name": "Egypt",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium%20VS%20Egypt%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781550000,
-                "start_time_local": "16 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781643641-Kv4cPTAAP5YTi-d8c7a2c303043715015b1678244b2dc21447a4c1-c38d8e58b375eaf572c1d1a41b9b7750",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d8c7a2c303043715015b1678244b2dc21447a4c1&x-sign=a29d2857bc1a14eae7f45e7faecd493e&x-time=1781557200",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        }
-    ],
+    "live_matches": [],
     "total_upcoming_matches": 48,
     "upcoming_matches": [
         {
@@ -230,29 +193,6 @@
             }
         },
         {
-            "match_id": 1629493000,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
-            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629493000",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781600400,
-                "start_time_local": "16 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629492999,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -268,6 +208,29 @@
                 "home_name": "YOKOHAMA DeNA BAYSTARS",
                 "away_name": "Tokyo Yakult Swallows",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/YOKOHAMA%20DeNA%20BAYSTARS%20VS%20Tokyo%20Yakult%20Swallows%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781600400,
+                "start_time_local": "16 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493000,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
+            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629493000",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781600400,
