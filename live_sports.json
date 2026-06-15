@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:42 AM 15-06-2026"
+        "last_update_time": "07:45:39 AM 15-06-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=244d97a71e9d7172135b6d4866ae7b1b630851bd&x-sign=5b198602849196dcd9cb4ba3689f1ba7&x-time=1781487000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=97ee4fb536c7b05207dd6636fcf946c50b2abe2f&x-sign=56823c9cd51ae884d6f851a9d88cebf0&x-time=1781487900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 36,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1539002,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Sweden vs Tunisia",
             "slug": "sweden-vs-tunisia-1539002",
-            "status": "NS",
+            "title": "Sweden vs Tunisia",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Cup",
                 "league_logo": ""
@@ -58,10 +55,32 @@
             },
             "timing": {
                 "start_time_timestamp": 1781488800,
-                "start_time_local": "15 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "15 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781574335-Kv4cPTAAP5YTi-97ee4fb536c7b05207dd6636fcf946c50b2abe2f-424e6b8fec92788510ee185ce542dc6a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=97ee4fb536c7b05207dd6636fcf946c50b2abe2f&x-sign=319edcf764c9a3c2aeb99fce8a44886b&x-time=1781487900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=97ee4fb536c7b05207dd6636fcf946c50b2abe2f&x-sign=2c9e13364277629e1bf44e35bd44def2&x-time=1781487900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 35,
+    "upcoming_matches": [
         {
             "match_id": 1629492978,
             "sport_name": "Tennis",
