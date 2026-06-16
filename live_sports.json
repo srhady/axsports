@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:45:34 AM 17-06-2026"
+        "last_update_time": "05:00:50 AM 17-06-2026"
     },
     "live_matches": [
         {
@@ -30,25 +30,25 @@
             "streams": [
                 {
                     "server_name": "330",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=376b4c6aa2efd1e6f78b8b469c4e90692edadd9a&x-sign=b17f0815976adf62b0e489ea498e56fd&x-time=1781649900",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=569159954edbf7756d0f2c94d6f0bcd551276418&x-sign=135fb4bd31f66a280e018951c38500bf&x-time=1781650800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "330",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781736330-Kv4cPTAAP5YTi-376b4c6aa2efd1e6f78b8b469c4e90692edadd9a-fe8d4cd9d24c73a6d8d62a4c92ad8793",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781737246-Kv4cPTAAP5YTi-569159954edbf7756d0f2c94d6f0bcd551276418-d400051b7a77e7967cc1fb69482b94d0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781736330-Kv4cPTAAP5YTi-376b4c6aa2efd1e6f78b8b469c4e90692edadd9a-174b29a773d5344754c271abb86cd57f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781737247-Kv4cPTAAP5YTi-569159954edbf7756d0f2c94d6f0bcd551276418-f2877efc38806585b792ccd308a2bc72",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=376b4c6aa2efd1e6f78b8b469c4e90692edadd9a&x-sign=3c4cdf34697d36249b09fa93a32f2333&x-time=1781649900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=569159954edbf7756d0f2c94d6f0bcd551276418&x-sign=0721a2a91ee2ba6915faa3e1a902032b&x-time=1781650800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -445,6 +445,29 @@
             "timing": {
                 "start_time_timestamp": 1781726400,
                 "start_time_local": "18 Jun 2026, 02:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489385,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ghana vs Panama",
+            "slug": "ghana-vs-panama-1489385",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ghana",
+                "away_name": "Panama",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ghana%20VS%20Panama%20%20World%20Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781737200,
+                "start_time_local": "18 Jun 2026, 05:00 AM",
                 "countdown_seconds": null
             }
         }
