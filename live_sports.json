@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:30:45 AM 17-06-2026"
+        "last_update_time": "07:45:53 AM 17-06-2026"
     },
     "live_matches": [
         {
@@ -30,79 +30,105 @@
             "streams": [
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=37346fea9fcbe019b55a4c8207962a6e4efd6020&x-sign=109847218afbb08ead898f065b6d2367&x-time=1781659800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=6bace63a2195f4fa86d1348bb843c8caa534daaf&x-sign=8595f9abf727f80dbdeaff40be714b20&x-time=1781660700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781746240-Kv4cPTAAP5YTi-37346fea9fcbe019b55a4c8207962a6e4efd6020-62c3be943dd6c24e14e1e0674063c73b",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781747138-Kv4cPTAAP5YTi-6bace63a2195f4fa86d1348bb843c8caa534daaf-4de61d31515e3aa72af77fae7ebcff22",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781746241-Kv4cPTAAP5YTi-37346fea9fcbe019b55a4c8207962a6e4efd6020-7e2ff4fc33580a10d4dab21a0a810c93",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781747139-Kv4cPTAAP5YTi-6bace63a2195f4fa86d1348bb843c8caa534daaf-622e778cf5798512091389b521a1d6d1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=37346fea9fcbe019b55a4c8207962a6e4efd6020&x-sign=ae382d2bed54b544be59a032b785565a&x-time=1781659800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=6bace63a2195f4fa86d1348bb843c8caa534daaf&x-sign=11111e2ae96035c9999a6dab1425113a&x-time=1781660700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493015,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-1-1629493015",
+            "title": "Court 1",
+            "status": "LIVE",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781661600,
+                "start_time_local": "17 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781747144-Kv4cPTAAP5YTi-6bace63a2195f4fa86d1348bb843c8caa534daaf-6819d66cb761d80cd7679eaf196aa8ec",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=6bace63a2195f4fa86d1348bb843c8caa534daaf&x-sign=e3073271ae2ff5cfc4eea1279c380f60&x-time=1781660700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493016,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629493016",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781661600,
+                "start_time_local": "17 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781747150-Kv4cPTAAP5YTi-6bace63a2195f4fa86d1348bb843c8caa534daaf-10ec92987f0fba0bc080cb43d0708ea6",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=6bace63a2195f4fa86d1348bb843c8caa534daaf&x-sign=9bfd19570383d66a0994c751452cc4aa&x-time=1781660700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 46,
+    "total_upcoming_matches": 44,
     "upcoming_matches": [
-        {
-            "match_id": 1629493015,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493015",
-            "status": "NS",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781661600,
-                "start_time_local": "17 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629493016,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629493016",
-            "status": "NS",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781661600,
-                "start_time_local": "17 Jun 2026, 08:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629493017,
             "sport_name": "Badminton",
