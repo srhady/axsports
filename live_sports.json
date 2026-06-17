@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:38 AM 17-06-2026"
+        "last_update_time": "06:00:53 AM 17-06-2026"
     },
     "live_matches": [
         {
@@ -30,25 +30,25 @@
             "streams": [
                 {
                     "server_name": "330",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=9526ff1c2eb1923d42f8b547a83ebcde582cb2bf&x-sign=980e16aca197449fb15eef552b5721a2&x-time=1781653500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=6b374c465f627f56bd540ac516a0cb1868f0253a&x-sign=f6309f8d85695930eaa2e4cfc5805319&x-time=1781654400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "330",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781739933-Kv4cPTAAP5YTi-9526ff1c2eb1923d42f8b547a83ebcde582cb2bf-ad30ed184702af8535f62032bcf3d31c",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/330/720p/chunks.m3u8?is_vip=false&token=1781740849-Kv4cPTAAP5YTi-6b374c465f627f56bd540ac516a0cb1868f0253a-b8703b5d484cd73a32c46980865010cb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781739934-Kv4cPTAAP5YTi-9526ff1c2eb1923d42f8b547a83ebcde582cb2bf-950cf9fc0ec0f9161b4988c8bc5a6f0e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781740850-Kv4cPTAAP5YTi-6b374c465f627f56bd540ac516a0cb1868f0253a-4461ce19e894ccdcfb6939915794da3b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9526ff1c2eb1923d42f8b547a83ebcde582cb2bf&x-sign=b9438ba0d79e77aec02037f18d7c9a1c&x-time=1781653500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=6b374c465f627f56bd540ac516a0cb1868f0253a&x-sign=7669ff32f1d31c2beaa0d16953e74b3f&x-time=1781654400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -81,6 +81,29 @@
             }
         },
         {
+            "match_id": 1629493016,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 2",
+            "slug": "court-2-1629493016",
+            "status": "NS",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781661600,
+                "start_time_local": "17 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629493015,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -98,8 +121,54 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1781665200,
-                "start_time_local": "17 Jun 2026, 09:00 AM",
+                "start_time_timestamp": 1781661600,
+                "start_time_local": "17 Jun 2026, 08:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493018,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 4",
+            "slug": "court-4-1629493018",
+            "status": "NS",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781662200,
+                "start_time_local": "17 Jun 2026, 08:10 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493017,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629493017",
+            "status": "NS",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781662200,
+                "start_time_local": "17 Jun 2026, 08:10 AM",
                 "countdown_seconds": null
             }
         },
@@ -127,48 +196,25 @@
             }
         },
         {
-            "match_id": 1629493017,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629493017",
+            "match_id": 1489382,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Austria vs Jordan",
+            "slug": "austria-vs-jordan-1489382",
             "status": "NS",
             "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_name": "World Cup",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Austria",
+                "away_name": "Jordan",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20VS%20Jordan%20%20World%20Cup.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1781665200,
-                "start_time_local": "17 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629493016,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629493016",
-            "status": "NS",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781665200,
-                "start_time_local": "17 Jun 2026, 09:00 AM",
+                "start_time_timestamp": 1781668800,
+                "start_time_local": "17 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -188,29 +234,6 @@
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Yomiuri Giants",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Yomiuri%20Giants%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781668800,
-                "start_time_local": "17 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1489382,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Austria vs Jordan",
-            "slug": "austria-vs-jordan-1489382",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Austria",
-                "away_name": "Jordan",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Austria%20VS%20Jordan%20%20World%20Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781668800,
