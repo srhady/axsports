@@ -3,58 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:00:45 AM 19-06-2026"
+        "last_update_time": "03:15:30 AM 19-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1539005,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "switzerland-vs-bosnia-and-herzegovina-1539005",
-            "title": "Switzerland vs Bosnia & Herzegovina",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Switzerland",
-                "away_name": "Bosnia & Herzegovina",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Switzerland%20VS%20Bosnia%20%26%20Herzegovina%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781809200,
-                "start_time_local": "19 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781902841-Kv4cPTAAP5YTi-4144dcd135aaff50d42cc13e2a82157d13c447fe-1cc4d5b87e1aefb5811e20d45d4f57c9",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4144dcd135aaff50d42cc13e2a82157d13c447fe&x-sign=403ef4818467aa95a8bb379f2b34c970&x-time=1781816400",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "177",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=4144dcd135aaff50d42cc13e2a82157d13c447fe&x-sign=623a0e1060d219021cb040e68feb66c3&x-time=1781816400",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "177",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781902842-Kv4cPTAAP5YTi-4144dcd135aaff50d42cc13e2a82157d13c447fe-1fc5c89c301271ce9e40dd30d4882bfc",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        }
-    ],
+    "live_matches": [],
     "total_upcoming_matches": 48,
     "upcoming_matches": [
         {
@@ -104,11 +55,11 @@
             }
         },
         {
-            "match_id": 1629493360,
+            "match_id": 1629493359,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629493360",
+            "title": "Court 1",
+            "slug": "court-1-1629493359",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
@@ -150,11 +101,11 @@
             }
         },
         {
-            "match_id": 1629493359,
+            "match_id": 1629493360,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493359",
+            "title": "Court 2",
+            "slug": "court-2-1629493360",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
