@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:56 AM 18-06-2026"
+        "last_update_time": "09:46:06 AM 18-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629493346,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-2-1629493346",
-            "title": "Court 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781748000,
-                "start_time_local": "18 Jun 2026, 08:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781839834-Kv4cPTAAP5YTi-d703153186b5744f4c4596b8efcf96692a492b07-d355febd1055d4f7218f66bb2a5cc363",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "3",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=d703153186b5744f4c4596b8efcf96692a492b07&x-sign=ba4f01c2384cd7b09348920d7b23aea0&x-time=1781753400",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1489386,
             "sport_name": "Football",
@@ -66,25 +30,61 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1781839840-Kv4cPTAAP5YTi-d703153186b5744f4c4596b8efcf96692a492b07-0e80272a994b189cd0c6980aadebee6f",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1781840732-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-18b76b4ed6c8a931991ba8a6998984d6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=d703153186b5744f4c4596b8efcf96692a492b07&x-sign=8063a98d4bec0366563a407f9001c09a&x-time=1781753400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=f8c16f5005fa6ed8cee15d30dfd701ba&x-time=1781754300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781839841-Kv4cPTAAP5YTi-d703153186b5744f4c4596b8efcf96692a492b07-7374279d6adccc72e5c069727757f280",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781840733-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-9dcffe7cd625d98ae5fa87ab8ecb49a2",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=d703153186b5744f4c4596b8efcf96692a492b07&x-sign=464147d5aeec378aaacf1938d2e77209&x-time=1781753400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=4a686eb501d3f714017e6f95d9672e27&x-time=1781754300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493346,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-2-1629493346",
+            "title": "Court 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781748000,
+                "start_time_local": "18 Jun 2026, 08:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781840739-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-15714fc4971eb624c1547e474c207153",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "3",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=49ef25716a6158f1e331a627babe5d1b&x-time=1781754300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -114,13 +114,13 @@
             "streams": [
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781839847-Kv4cPTAAP5YTi-d703153186b5744f4c4596b8efcf96692a492b07-494234fa697aca2ca000d33c83d6a159",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781840745-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-ac67311bed367e2b32135edcc7af9aa1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=d703153186b5744f4c4596b8efcf96692a492b07&x-sign=d737797fccf221ed597379778ad60eca&x-time=1781753400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=12eba61f9860873e519f9b2dd4d52298&x-time=1781754300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -150,28 +150,25 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781839853-Kv4cPTAAP5YTi-d703153186b5744f4c4596b8efcf96692a492b07-bd1235da2f2ab960b43fd859e982ba59",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781840750-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-43c9d01923990b939f32b9983dd0677c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=d703153186b5744f4c4596b8efcf96692a492b07&x-sign=13f823c36fb1c822096e071c5c1547c9&x-time=1781753400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=9dec36731ee9bf5617b6ab1f1dcf384e&x-time=1781754300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629493349,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Yomiuri Giants",
             "slug": "tohoku-rakuten-golden-eagles-vs-yomiuri-giants-1629493349",
-            "status": "NS",
+            "title": "Tohoku Rakuten Golden Eagles vs Yomiuri Giants",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -183,18 +180,31 @@
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku%20Rakuten%20Golden%20Eagles%20VS%20Yomiuri%20Giants%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1781757000,
-                "start_time_local": "18 Jun 2026, 10:30 AM",
-                "countdown_seconds": null
-            }
+                "start_time_timestamp": 1781753400,
+                "start_time_local": "18 Jun 2026, 09:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781840756-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-99cf0a7cf43c695272e3bf135ac6d555",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=3a545b2559b6999b0cbaae509ef60392&x-time=1781754300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629493350,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
             "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629493350",
-            "status": "NS",
+            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -206,11 +216,27 @@
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fukuoka%20SoftBank%20Hawks%20VS%20ORIX%20Buffaloes%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1781758800,
-                "start_time_local": "18 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1781755200,
+                "start_time_local": "18 Jun 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781840763-Kv4cPTAAP5YTi-9733a143361ca03d239875261679722d770262c3-bb4585157cdab6f62db7d12fd5494d37",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=9733a143361ca03d239875261679722d770262c3&x-sign=6d561d447e92f5bf47c7e2553e596f08&x-time=1781754360",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1629493351,
             "sport_name": "Baseball",
@@ -511,11 +537,11 @@
             }
         },
         {
-            "match_id": 1629493359,
+            "match_id": 1629493361,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493359",
+            "title": "Court 3",
+            "slug": "court-3-1629493361",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
@@ -534,11 +560,11 @@
             }
         },
         {
-            "match_id": 1629493361,
+            "match_id": 1629493359,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629493361",
+            "title": "Court 1",
+            "slug": "court-1-1629493359",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
