@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:41 PM 19-06-2026"
+        "last_update_time": "03:01:02 PM 19-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781945132-Kv4cPTAAP5YTi-d1309763aa69ab54d1db0995eecf82cd28f3d456-9b16e845a8703c5ff045b07f906bf6aa",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781946046-Kv4cPTAAP5YTi-651cd3777718114970518afbde3b3946946acb36-5bc62d5873229f74da5082b5094a020a",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=d1309763aa69ab54d1db0995eecf82cd28f3d456&x-sign=3b44cbc46e67f336e03b6acbf8c5e1c4&x-time=1781858700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=651cd3777718114970518afbde3b3946946acb36&x-sign=c5664d3e50cfcb20e148b86a1a5ac732&x-time=1781859600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,28 +66,25 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781945137-Kv4cPTAAP5YTi-d1309763aa69ab54d1db0995eecf82cd28f3d456-aa47bab7ecfea854d70f77ad3b1387e7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781946052-Kv4cPTAAP5YTi-651cd3777718114970518afbde3b3946946acb36-f619c711ae68c2d257fc14509c4efe74",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=d1309763aa69ab54d1db0995eecf82cd28f3d456&x-sign=7030b2e1f1d91c86a0e14617604d3e68&x-time=1781858700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=651cd3777718114970518afbde3b3946946acb36&x-sign=da7be10c01ca5b2bfdae240398118bf4&x-time=1781859600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629493365,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Free Practice 1: Sanya",
             "slug": "free-practice-1-sanya-1629493365",
-            "status": "NS",
+            "title": "Free Practice 1: Sanya",
+            "status": "LIVE",
             "league": {
                 "league_name": "Formula E",
                 "league_logo": ""
@@ -99,43 +96,36 @@
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1781861400,
-                "start_time_local": "19 Jun 2026, 03:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1781857200,
+                "start_time_local": "19 Jun 2026, 02:20 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "17",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1781946058-Kv4cPTAAP5YTi-651cd3777718114970518afbde3b3946946acb36-ce1f6b02730c87ecaf6217acbac86b4a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "17",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=651cd3777718114970518afbde3b3946946acb36&x-sign=a37ba66928709978bc93ae4dce01d900&x-time=1781859600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
-            "match_id": 1629493369,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yomiuri Giants vs Chunichi Dragons",
-            "slug": "yomiuri-giants-vs-chunichi-dragons-1629493369",
+            "match_id": 1629493373,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 5",
+            "slug": "day-5-1629493373",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Yomiuri Giants",
-                "away_name": "Chunichi Dragons",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Chunichi%20Dragons%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781863200,
-                "start_time_local": "19 Jun 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629493361,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629493361",
-            "status": "NS",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -174,14 +164,14 @@
             }
         },
         {
-            "match_id": 1629493373,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 5",
-            "slug": "day-5-1629493373",
+            "match_id": 1629493361,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629493361",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "SANDS CHINA LTD Macau Open",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -189,29 +179,6 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781863200,
-                "start_time_local": "19 Jun 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629493368,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
-            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629493368",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "Tohoku Rakuten Golden Eagles",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781863200,
@@ -235,6 +202,52 @@
                 "home_name": "Hokkaido Nippon-Ham Fighters",
                 "away_name": "Fukuoka SoftBank Hawks",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781863200,
+                "start_time_local": "19 Jun 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493369,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yomiuri Giants vs Chunichi Dragons",
+            "slug": "yomiuri-giants-vs-chunichi-dragons-1629493369",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Yomiuri Giants",
+                "away_name": "Chunichi Dragons",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Chunichi%20Dragons%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781863200,
+                "start_time_local": "19 Jun 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493368,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
+            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629493368",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781863200,
@@ -588,29 +601,6 @@
             }
         },
         {
-            "match_id": 1629493389,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493389",
-            "status": "NS",
-            "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781924400,
-                "start_time_local": "20 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493390,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -649,6 +639,29 @@
                 "home_name": "Türkiye",
                 "away_name": "Paraguay",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye%20VS%20Paraguay%20%20World%20Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781924400,
+                "start_time_local": "20 Jun 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493389,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629493389",
+            "status": "NS",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781924400,
@@ -749,29 +762,6 @@
             }
         },
         {
-            "match_id": 1629493397,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
-            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493397",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781931600,
-                "start_time_local": "20 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493399,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -787,6 +777,29 @@
                 "home_name": "Tokyo Yakult Swallows",
                 "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Yakult%20Swallows%20VS%20Hiroshima%20Toyo%20Carp%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781931600,
+                "start_time_local": "20 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493397,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
+            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493397",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781931600,
@@ -841,29 +854,6 @@
             }
         },
         {
-            "match_id": 1629493402,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "Western Force vs Queensland Reds",
-            "slug": "western-force-vs-queensland-reds-1629493402",
-            "status": "NS",
-            "league": {
-                "league_name": "Super Rugby Women's",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Western Force",
-                "away_name": "Queensland Reds",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781938800,
-                "start_time_local": "20 Jun 2026, 01:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493404,
             "sport_name": "Football",
             "sport_id": 1,
@@ -901,6 +891,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781938800,
+                "start_time_local": "20 Jun 2026, 01:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493402,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Western Force vs Queensland Reds",
+            "slug": "western-force-vs-queensland-reds-1629493402",
+            "status": "NS",
+            "league": {
+                "league_name": "Super Rugby Women's",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Western Force",
+                "away_name": "Queensland Reds",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -952,6 +965,75 @@
             "timing": {
                 "start_time_timestamp": 1781944200,
                 "start_time_local": "20 Jun 2026, 02:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493410,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Women's Series 13 & 14 - Wigan",
+            "slug": "womens-series-13-and-14-wigan-1629493410",
+            "status": "NS",
+            "league": {
+                "league_name": "Women's Series",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781946000,
+                "start_time_local": "20 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493408,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Saitama Seibu Lions",
+            "slug": "yokohama-dena-baystars-vs-saitama-seibu-lions-1629493408",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781946000,
+                "start_time_local": "20 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493407,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
+            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629493407",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chiba%20Lotte%20Marines%20VS%20Tohoku%20Rakuten%20Golden%20Eagles%20%20NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781946000,
+                "start_time_local": "20 Jun 2026, 03:00 PM",
                 "countdown_seconds": null
             }
         }
