@@ -3,66 +3,17 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:00:41 AM 19-06-2026"
+        "last_update_time": "09:15:28 AM 19-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1489388,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "mexico-vs-south-korea-1489388",
-            "title": "Mexico vs South Korea",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Mexico",
-                "away_name": "South Korea",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mexico%20VS%20South%20Korea%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781830800,
-                "start_time_local": "19 Jun 2026, 07:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781924436-Kv4cPTAAP5YTi-9fcf89f563a8628b519d79b8836438d4e885bb07-341a5570c276906b502fcfcf4382aed2",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9fcf89f563a8628b519d79b8836438d4e885bb07&x-sign=2252a959e89c9e5a2c30acf6e6c33857&x-time=1781838000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "11088",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1781924437-Kv4cPTAAP5YTi-9fcf89f563a8628b519d79b8836438d4e885bb07-f36adf634343c42c801660494c56c6fe",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "11088",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=9fcf89f563a8628b519d79b8836438d4e885bb07&x-sign=f79ea0dfeca238fe01f8fa879bbd7ebe&x-time=1781838000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        }
-    ],
+    "live_matches": [],
     "total_upcoming_matches": 45,
     "upcoming_matches": [
         {
-            "match_id": 1629493360,
+            "match_id": 1629493359,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 2",
-            "slug": "court-2-1629493360",
+            "title": "Court 1",
+            "slug": "court-1-1629493359",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
@@ -81,11 +32,11 @@
             }
         },
         {
-            "match_id": 1629493359,
+            "match_id": 1629493360,
             "sport_name": "Badminton",
             "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493359",
+            "title": "Court 2",
+            "slug": "court-2-1629493360",
             "status": "NS",
             "league": {
                 "league_name": "SANDS CHINA LTD Macau Open",
@@ -127,29 +78,6 @@
             }
         },
         {
-            "match_id": 1629493363,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Orix Buffaloes vs Hanshin Tigers",
-            "slug": "orix-buffaloes-vs-hanshin-tigers-1629493363",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "ORIX Buffaloes",
-                "away_name": "Hanshin Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781845200,
-                "start_time_local": "19 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493364,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -165,6 +93,52 @@
                 "home_name": "Yomiuri Giants",
                 "away_name": "Chunichi Dragons",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Yomiuri%20Giants%20VS%20Chunichi%20Dragons%20%20NPB%20Farm%20Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781845200,
+                "start_time_local": "19 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493361,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629493361",
+            "status": "NS",
+            "league": {
+                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781845200,
+                "start_time_local": "19 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493363,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Orix Buffaloes vs Hanshin Tigers",
+            "slug": "orix-buffaloes-vs-hanshin-tigers-1629493363",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "ORIX Buffaloes",
+                "away_name": "Hanshin Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ORIX%20Buffaloes%20VS%20Hanshin%20Tigers%20%20NPB%20Farm%20Leagues.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781845200,
@@ -196,29 +170,6 @@
             }
         },
         {
-            "match_id": 1629493367,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tokyo Yakult Swallows vs Hiroshima Toyo Carp",
-            "slug": "tokyo-yakult-swallows-vs-hiroshima-toyo-carp-1629493367",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781863200,
-                "start_time_local": "19 Jun 2026, 04:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493373,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -242,11 +193,11 @@
             }
         },
         {
-            "match_id": 1629493368,
+            "match_id": 1629493370,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
-            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629493368",
+            "title": "Saitama Seibu Lions vs Orix Buffaloes",
+            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629493370",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -254,8 +205,8 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Chiba Lotte Marines",
-                "away_name": "Tohoku Rakuten Golden Eagles",
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -311,11 +262,11 @@
             }
         },
         {
-            "match_id": 1629493370,
+            "match_id": 1629493368,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Orix Buffaloes",
-            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629493370",
+            "title": "Chiba Lotte Marines vs Tohoku Rakuten Golden Eagles",
+            "slug": "chiba-lotte-marines-vs-tohoku-rakuten-golden-eagles-1629493368",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -323,8 +274,31 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "ORIX Buffaloes",
+                "home_name": "Chiba Lotte Marines",
+                "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781863200,
+                "start_time_local": "19 Jun 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493367,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tokyo Yakult Swallows vs Hiroshima Toyo Carp",
+            "slug": "tokyo-yakult-swallows-vs-hiroshima-toyo-carp-1629493367",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "Hiroshima Toyo Carp",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -679,21 +653,21 @@
             }
         },
         {
-            "match_id": 1539006,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Türkiye vs Paraguay",
-            "slug": "turkiye-vs-paraguay-1539006",
+            "match_id": 1629493389,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 1",
+            "slug": "court-1-1629493389",
             "status": "NS",
             "league": {
-                "league_name": "World Cup",
+                "league_name": "SANDS CHINA LTD Macau Open",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Türkiye",
-                "away_name": "Paraguay",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye%20VS%20Paraguay%20%20World%20Cup.jpg"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781924400,
@@ -725,21 +699,21 @@
             }
         },
         {
-            "match_id": 1629493389,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 1",
-            "slug": "court-1-1629493389",
+            "match_id": 1539006,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Türkiye vs Paraguay",
+            "slug": "turkiye-vs-paraguay-1539006",
             "status": "NS",
             "league": {
-                "league_name": "SANDS CHINA LTD Macau Open",
+                "league_name": "World Cup",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Türkiye",
+                "away_name": "Paraguay",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/T%C3%BCrkiye%20VS%20Paraguay%20%20World%20Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781924400,
