@@ -25,7 +25,7 @@ DEFAULT_LOGOS = {
     "sailing": "https://upload.wikimedia.org/wikipedia/en/3/3c/World_Sailing_logo_local.svg",
     "darts": "https://media.istockphoto.com/id/1183783901/vector/darts-game-emblem.jpg?s=612x612&w=0&k=20&c=JX59kkZMYRO_DW0YsiDAnaZeLVAIWajzA4l6jwhxeDo=",
     "badminton": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvB8ofwYTkpTbgh2XfHTDiZFFOo5zaSNHjbKBptd71Rg&s=10",
-    "volleyball":"https://png.pngtree.com/thumb_back/fh260/background/20240119/pngtree-female-volleyball-player-hitting-the-ball-vintage-t-shirt-logo-post-image_15612064.jpg"
+    "volleyball": "https://png.pngtree.com/thumb_back/fh260/background/20240119/pngtree-female-volleyball-player-hitting-the-ball-vintage-t-shirt-logo-post-image_15612064.jpg"
     "other": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx6oe6c7zzkeW4LWj8PFa9CZML4vlrJSY8fwqamguug&s=10"
 }
 # ==========================================
