@@ -28,11 +28,30 @@ DEFAULT_LOGOS = {
     "volleyball": "https://png.pngtree.com/thumb_back/fh260/background/20240119/pngtree-female-volleyball-player-hitting-the-ball-vintage-t-shirt-logo-post-image_15612064.jpg",
     "other": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKx6oe6c7zzkeW4LWj8PFa9CZML4vlrJSY8fwqamguug&s=10"
 }
+
+# নতুন স্পোর্টস ক্যাটাগরির স্লেস (দাগ) কালার (RGB ফরমেট)
+CATEGORY_COLORS = {
+    "mma": (220, 20, 40),          # Red
+    "football": (39, 174, 96),     # Pitch Green
+    "tennis": (212, 255, 0),       # Neon Yellow/Green
+    "auto racing": (241, 196, 15), # Gold/Yellow
+    "cycling": (155, 89, 182),     # Purple
+    "rugby": (230, 126, 34),       # Orange
+    "sailing": (52, 152, 219),     # Ocean Blue
+    "darts": (253, 121, 168),      # Pink
+    "badminton": (26, 188, 156),   # Teal/Cyan
+    "volleyball": (255, 112, 67),  # Deep Orange
+    "baseball": (220, 20, 60),     # Crimson Red
+    "other": (220, 20, 40)         # Default Red
+}
 # ==========================================
 
 def sanitize_filename(name):
+    # অবৈধ ক্যারেক্টার সরাবে
     clean_name = re.sub(r'[\\/*?:"<>|]', "", name)
-    return clean_name.strip()
+    # সব স্পেসকে আন্ডারস্কোর (_) দিয়ে রিপ্লেস করবে
+    clean_name = re.sub(r'\s+', "_", clean_name.strip())
+    return clean_name
 
 def download_and_save_default(save_path):
     try:
@@ -45,7 +64,7 @@ def download_and_save_default(save_path):
         pass
     return False
 
-def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fallback_logo):
+def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fallback_logo, category_name):
     if not PILLOW_INSTALLED:
         return
 
@@ -53,7 +72,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
         print(f"    [=] Poster already exists for: {match_name}")
         return
 
-    # যদি লিংক .svg হয়, তবে প্রথমেই ফলব্যাক লোগো বসিয়ে দেবে
     if ".svg" in home_logo_url.lower(): home_logo_url = fallback_logo
     if ".svg" in away_logo_url.lower(): away_logo_url = fallback_logo
 
@@ -64,7 +82,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             "Referer": "https://google.com/"
         }
         
-        # প্রথম টিমের লোগো ডাউনলোড করার চেষ্টা
         try:
             home_res = requests.get(home_logo_url, headers=img_headers, timeout=10)
             if home_res.status_code != 200:
@@ -72,7 +89,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
         except:
             home_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
 
-        # দ্বিতীয় টিমের লোগো ডাউনলোড করার চেষ্টা
         try:
             away_res = requests.get(away_logo_url, headers=img_headers, timeout=10)
             if away_res.status_code != 200:
@@ -80,7 +96,6 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
         except:
             away_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
         
-        # যদি ফলব্যাক লোগোও কাজ না করে (খুবই রেয়ার), তখন পুরোনো ডিফল্ট পোস্টার দেবে
         if home_res.status_code != 200 or away_res.status_code != 200:
             print(f"    [!] All logos failed. Using custom default poster.")
             download_and_save_default(local_path)
@@ -129,12 +144,16 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fa
             font_vs = ImageFont.load_default()
             font_title = ImageFont.load_default()
 
+        # ডাইনামিক স্লেস কালার সেট করা হচ্ছে
+        slash_color = CATEGORY_COLORS.get(category_name.lower(), CATEGORY_COLORS["other"])
+
         canvas = Image.new('RGB', (1000, 562), color=(15, 15, 20))
         draw = ImageDraw.Draw(canvas)
         
         draw.polygon([(0,0), (450,0), (520,562), (0,562)], fill=(35, 35, 40))
         draw.polygon([(450,0), (1000,0), (1000,562), (520,562)], fill=(15, 25, 45))
-        draw.polygon([(430,0), (470,0), (540,562), (500,562)], fill=(220, 20, 40))
+        # এখানে ডাইনামিক কালার বসবে
+        draw.polygon([(430,0), (470,0), (540,562), (500,562)], fill=slash_color)
         
         overlay = Image.new('RGBA', (1000, 562), (0, 0, 0, 0))
         overlay_draw = ImageDraw.Draw(overlay)
@@ -255,8 +274,8 @@ def main():
             local_path = os.path.join(OUTPUT_DIR, final_filename)
             active_poster_filenames.append(final_filename)
             
-            # এখানে fallback_logo পাস করে দেওয়া হলো
-            create_match_poster(match_title, logo1, logo2, local_path, fallback_logo)
+            # category_key প্যারামিটার হিসেবে পাঠানো হচ্ছে কালার নির্ধারণের জন্য
+            create_match_poster(match_title, logo1, logo2, local_path, fallback_logo, category_key)
             
         clean_old_posters(active_poster_filenames)
             
