@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:45:35 AM 20-06-2026"
+        "last_update_time": "06:00:47 AM 20-06-2026"
     },
     "live_matches": [
         {
@@ -30,25 +30,25 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781999130-Kv4cPTAAP5YTi-2c069e6c7d739b89e24dd86c80282172925773ae-d955ad1560c08cf97c0c2d91bcdbae1e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782000043-Kv4cPTAAP5YTi-9fc6ff862bed259911d27a8f4ec8526ff20d4b68-1e79a708532b0a6b88ec77868d2bbbd0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=2c069e6c7d739b89e24dd86c80282172925773ae&x-sign=37bb6b6418c85ae265f9c2f887c33744&x-time=1781912700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9fc6ff862bed259911d27a8f4ec8526ff20d4b68&x-sign=0585d86e6bc3e6948a3906b876f4140e&x-time=1781913600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=2c069e6c7d739b89e24dd86c80282172925773ae&x-sign=541bd1b7be7318eb18e197586337bca9&x-time=1781912700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=9fc6ff862bed259911d27a8f4ec8526ff20d4b68&x-sign=65b41c3905e7df0438751fe5c5af695a&x-time=1781913600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781999132-Kv4cPTAAP5YTi-2c069e6c7d739b89e24dd86c80282172925773ae-eaf9a804c988d1b7db340c7354ace322",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782000044-Kv4cPTAAP5YTi-9fc6ff862bed259911d27a8f4ec8526ff20d4b68-9c4a240b1b8b54f63081ec35d8d09539",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -1020,6 +1020,75 @@
             "timing": {
                 "start_time_timestamp": 1781989200,
                 "start_time_local": "21 Jun 2026, 03:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493909,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "KAPE vs HORIGUCHI",
+            "slug": "kape-vs-horiguchi-1629493909",
+            "status": "NS",
+            "league": {
+                "league_name": "UFC FIGHT NIGHT",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489392,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ecuador vs Curaçao",
+            "slug": "ecuador-vs-curacao-1489392",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ecuador",
+                "away_name": "Curaçao",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493908,
+            "sport_name": "Other",
+            "sport_id": 4,
+            "title": "The Last Ones Left 2026",
+            "slug": "the-last-ones-left-2026-1629493908",
+            "status": "NS",
+            "league": {
+                "league_name": "GCW",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM",
                 "countdown_seconds": null
             }
         }
