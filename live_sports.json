@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:00:47 AM 20-06-2026"
+        "last_update_time": "06:15:58 AM 20-06-2026"
     },
     "live_matches": [
         {
@@ -30,40 +30,37 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782000043-Kv4cPTAAP5YTi-9fc6ff862bed259911d27a8f4ec8526ff20d4b68-1e79a708532b0a6b88ec77868d2bbbd0",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782000936-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-7ac602555d131e4598096a39e88d3e14",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9fc6ff862bed259911d27a8f4ec8526ff20d4b68&x-sign=0585d86e6bc3e6948a3906b876f4140e&x-time=1781913600",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=7de84f09f38d0db1a778367f12faa0e3&x-time=1781914500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=9fc6ff862bed259911d27a8f4ec8526ff20d4b68&x-sign=65b41c3905e7df0438751fe5c5af695a&x-time=1781913600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=fc14b9fa60f4c8e0496c5b9688aff267&x-time=1781914500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "177",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782000044-Kv4cPTAAP5YTi-9fc6ff862bed259911d27a8f4ec8526ff20d4b68-9c4a240b1b8b54f63081ec35d8d09539",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782000937-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-492e314f059a1f9064f6df4e3a9b6fc7",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 48,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629493385,
             "sport_name": "MMA",
             "sport_id": 17,
-            "title": "CAGE FURY FC 155",
             "slug": "cage-fury-fc-155-1629493385",
-            "status": "NS",
+            "title": "CAGE FURY FC 155",
+            "status": "LIVE",
             "league": {
                 "league_name": "MMA",
                 "league_logo": ""
@@ -76,17 +73,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1781915400,
-                "start_time_local": "20 Jun 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "20 Jun 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782000942-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-48dfe6c667f00dc8fc5f828c7287cc8d",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "498587",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=b55c227b0ab9701707d53ed006fb2d79&x-time=1781914500",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1489389,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Brazil vs Haiti",
             "slug": "brazil-vs-haiti-1489389",
-            "status": "NS",
+            "title": "Brazil vs Haiti",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Cup",
                 "league_logo": ""
@@ -99,17 +109,42 @@
             },
             "timing": {
                 "start_time_timestamp": 1781915400,
-                "start_time_local": "20 Jun 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "20 Jun 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782000947-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-8e4e5cae6a5f4b8e2872939e57b7762f",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=7de84f09f38d0db1a778367f12faa0e3&x-time=1781914500",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "177",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782000949-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-58167e679e5fb9e5c9a9bc0abd729fbf",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "177",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=fc14b9fa60f4c8e0496c5b9688aff267&x-time=1781914500",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629493386,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Free Practice 2: Sanya",
             "slug": "free-practice-2-sanya-1629493386",
-            "status": "NS",
+            "title": "Free Practice 2: Sanya",
+            "status": "LIVE",
             "league": {
                 "league_name": "Formula E",
                 "league_logo": ""
@@ -122,10 +157,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1781915400,
-                "start_time_local": "20 Jun 2026, 06:30 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "20 Jun 2026, 06:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782000954-Kv4cPTAAP5YTi-83477b5f4e21dec0948be7a87c9e585da8fc436b-7f2e9117042f83926efb378bc49c34c7",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "4",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=83477b5f4e21dec0948be7a87c9e585da8fc436b&x-sign=8bfb7c907a5f6ce1879fb29df84578e2&x-time=1781914500",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 45,
+    "upcoming_matches": [
         {
             "match_id": 1629493387,
             "sport_name": "Rugby",
@@ -288,11 +339,11 @@
             }
         },
         {
-            "match_id": 1629493397,
+            "match_id": 1629493398,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
-            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493397",
+            "title": "Saitama Seibu Lions vs Orix Buffaloes",
+            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629493398",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -300,9 +351,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781931600,
@@ -334,11 +385,11 @@
             }
         },
         {
-            "match_id": 1629493398,
+            "match_id": 1629493397,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Orix Buffaloes",
-            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629493398",
+            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
+            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493397",
             "status": "NS",
             "league": {
                 "league_name": "NPB",
@@ -346,9 +397,9 @@
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama%20Seibu%20Lions%20VS%20ORIX%20Buffaloes%20%20NPB.jpg"
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido%20Nippon-Ham%20Fighters%20VS%20Fukuoka%20SoftBank%20Hawks%20%20NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1781931600,
@@ -518,29 +569,6 @@
             }
         },
         {
-            "match_id": 1629493408,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Yokohama DeNA BayStars vs Saitama Seibu Lions",
-            "slug": "yokohama-dena-baystars-vs-saitama-seibu-lions-1629493408",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "YOKOHAMA DeNA BAYSTARS",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781946000,
-                "start_time_local": "20 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493407,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -555,6 +583,29 @@
             "teams": {
                 "home_name": "Chiba Lotte Marines",
                 "away_name": "Tohoku Rakuten Golden Eagles",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781946000,
+                "start_time_local": "20 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493408,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Yokohama DeNA BayStars vs Saitama Seibu Lions",
+            "slug": "yokohama-dena-baystars-vs-saitama-seibu-lions-1629493408",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB Farm Leagues",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "YOKOHAMA DeNA BAYSTARS",
+                "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -587,14 +638,14 @@
             }
         },
         {
-            "match_id": 1629493412,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Monza - Race 1",
-            "slug": "monza-race-1-1629493412",
+            "match_id": 1629493411,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 6",
+            "slug": "day-6-1629493411",
             "status": "NS",
             "league": {
-                "league_name": "Italian Formula 4 Championship",
+                "league_name": "Unknown League",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -610,14 +661,14 @@
             }
         },
         {
-            "match_id": 1629493411,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 6",
-            "slug": "day-6-1629493411",
+            "match_id": 1629493412,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Monza - Race 1",
+            "slug": "monza-race-1-1629493412",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Italian Formula 4 Championship",
                 "league_logo": ""
             },
             "venue": "TBA",
@@ -771,29 +822,6 @@
             }
         },
         {
-            "match_id": 1629493419,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "Monza - Race 1",
-            "slug": "monza-race-1-1629493419",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781964000,
-                "start_time_local": "20 Jun 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493420,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -808,6 +836,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "South Africa",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781964000,
+                "start_time_local": "20 Jun 2026, 08:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493419,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Monza - Race 1",
+            "slug": "monza-race-1-1629493419",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -1047,29 +1098,6 @@
             }
         },
         {
-            "match_id": 1489392,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Ecuador vs Curaçao",
-            "slug": "ecuador-vs-curacao-1489392",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ecuador",
-                "away_name": "Curaçao",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782000000,
-                "start_time_local": "21 Jun 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493908,
             "sport_name": "Other",
             "sport_id": 4,
@@ -1085,6 +1113,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489392,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ecuador vs Curaçao",
+            "slug": "ecuador-vs-curacao-1489392",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ecuador",
+                "away_name": "Curaçao",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador%20VS%20Cura%C3%A7ao%20%20World%20Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782000000,
