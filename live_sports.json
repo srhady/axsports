@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:16:13 PM 20-06-2026"
+        "last_update_time": "09:31:29 PM 20-06-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629493410,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "slug": "womens-series-13-and-14-wigan-1629493410",
+            "title": "Women's Series 13 & 14 - Wigan",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Women's Series",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1781946000,
+                "start_time_local": "20 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "114414",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782055841-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-e3f44623437f38eb9e9c13b1c1201ef3",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "114414",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=02bed0b6808e84a5992ec64e60d2f1ec&x-time=1781969400",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
         {
             "match_id": 1629493411,
             "sport_name": "Tennis",
@@ -30,49 +66,13 @@
             "streams": [
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782054931-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-e31a2f6ea0ac68a7cdcc1d77ba2b83af",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1782055847-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-23e8029bdfeb67798e82f7208a915453",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143070",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=0d9e73fe151ebc03da1ef28639fbe1d9&x-time=1781968500",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629495246,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "slug": "day-2-afternoon-session-1629495246",
-            "title": "Day 2 - Afternoon Session",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Slovak Darts Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781953200,
-                "start_time_local": "20 Jun 2026, 05:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "114415",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1782054937-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-fbb1e331e8f539c329aeae6e2c62ad42",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "114415",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=0ecd0a59d804acfb53b87a3ad5f22d93&x-time=1781968500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=971ac24dc90eb9175067101e342d858a&x-time=1781969400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782054943-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-c5e50d62e9f59e1925c2b210e04863c0",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782055854-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-7956f6b2bb7ba22241b8a5de84c2f0d0",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=cd248da24e5ca29c94b10583f3739fbe&x-time=1781968500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=2a18e54472550095e2b1d0086fb9d512&x-time=1781969400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,43 +138,13 @@
             "streams": [
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782054948-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-86932a05039668aa0576ed55f9d2ce56",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782055860-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-de6113bfdbd6867eab0ed6f24afb6c78",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=6ba1a99d00f4f166446fa03ca6ddfddb&x-time=1781968500",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629493418,
-            "sport_name": "Cycling",
-            "sport_id": 20,
-            "slug": "es1-tour-of-switzerland-stage-4-1629493418",
-            "title": "ES1, Tour of Switzerland, Stage 4",
-            "status": "LIVE",
-            "league": {
-                "league_name": "UCI World Tour",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_4_UCI_World_Tour.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1781962200,
-                "start_time_local": "20 Jun 2026, 07:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=e83eca47d016eb498e6639939cb29936&x-time=1781968500",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=3071f888e8a720924367270863dede80&x-time=1781969460",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -204,13 +174,43 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782054959-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-c8f430a3568e99aa6aeb815bfb4c47a2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782055867-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-04f51f7c4fe4d881a39811a55c6c0ba4",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=40000f6965a01e6f72da2e90f7b825b3&x-time=1781968500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=5a663c3886639c59ea77b9973bc4f55a&x-time=1781969460",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493418,
+            "sport_name": "Cycling",
+            "sport_id": 20,
+            "slug": "es1-tour-of-switzerland-stage-4-1629493418",
+            "title": "ES1, Tour of Switzerland, Stage 4",
+            "status": "LIVE",
+            "league": {
+                "league_name": "UCI World Tour",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES1%2C_Tour_of_Switzerland%2C_Stage_4_UCI_World_Tour.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781962200,
+                "start_time_local": "20 Jun 2026, 07:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1419",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=d988aa28db6d02d30479c30256776d4c&x-time=1781969460",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -240,13 +240,13 @@
             "streams": [
                 {
                     "server_name": "143072",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1782054964-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-781953830abca8772697833a0695600f",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1782055878-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-dd9fe0895d36863a0f6b15f127b02918",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "143072",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=84f2fba4c2bea92ca7d957057c21f73b&x-time=1781968560",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=be2c72cab2bfa4d68a112ec09670df04&x-time=1781969460",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -276,13 +276,13 @@
             "streams": [
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1782054970-Kv4cPTAAP5YTi-ce3a531cbaa60376544a090e02ac5b0ff29ac3d6-cbb21c8d33ad2fd6a3c01230ffbacfaf",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1782055885-Kv4cPTAAP5YTi-028da445677be4e017dfb164e85a596f3938bb33-905fcd70873043917fa950e69c4dbee1",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "27",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=ce3a531cbaa60376544a090e02ac5b0ff29ac3d6&x-sign=97f29474de81cc4437a4c59128b7092a&x-time=1781968560",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=028da445677be4e017dfb164e85a596f3938bb33&x-sign=2414e22900a9af7536133b35100b2072&x-time=1781969460",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -315,29 +315,6 @@
             }
         },
         {
-            "match_id": 1629495248,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "title": "Day 2 - Evening Session",
-            "slug": "day-2-evening-session-1629495248",
-            "status": "NS",
-            "league": {
-                "league_name": "Slovak Darts Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1781974800,
-                "start_time_local": "20 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1539007,
             "sport_name": "Football",
             "sport_id": 1,
@@ -353,6 +330,29 @@
                 "home_name": "Netherlands",
                 "away_name": "Sweden",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Netherlands_VS_Sweden_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781974800,
+                "start_time_local": "20 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495248,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Day 2 - Evening Session",
+            "slug": "day-2-evening-session-1629495248",
+            "status": "NS",
+            "league": {
+                "league_name": "Slovak Darts Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781974800,
@@ -399,6 +399,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Halifax_Canada_Sail_Grand_Prix.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1781982000,
+                "start_time_local": "21 Jun 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1551272,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Almeria vs Malaga",
+            "slug": "almeria-vs-malaga-1551272",
+            "status": "NS",
+            "league": {
+                "league_name": "Segunda División",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Almeria",
+                "away_name": "Malaga",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1781982000,
@@ -545,29 +568,6 @@
             }
         },
         {
-            "match_id": 1629493911,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "North Melbourne vs Richmond Tigers",
-            "slug": "north-melbourne-vs-richmond-tigers-1629493911",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Richmond Tigers",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North_Melbourne_VS_Richmond_Tigers_AFL_Premiership.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782010800,
-                "start_time_local": "21 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493912,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -583,6 +583,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_1_SANDS_CHINA_LTD_Macau_Open.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782010800,
+                "start_time_local": "21 Jun 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493911,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "North Melbourne vs Richmond Tigers",
+            "slug": "north-melbourne-vs-richmond-tigers-1629493911",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Richmond Tigers",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North_Melbourne_VS_Richmond_Tigers_AFL_Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782010800,
