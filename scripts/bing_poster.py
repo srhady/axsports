@@ -45,7 +45,7 @@ def download_and_save_default(save_path):
         pass
     return False
 
-def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
+def create_match_poster(match_name, home_logo_url, away_logo_url, local_path, fallback_logo):
     if not PILLOW_INSTALLED:
         return
 
@@ -53,10 +53,9 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
         print(f"    [=] Poster already exists for: {match_name}")
         return
 
-    if not home_logo_url or not away_logo_url or ".svg" in home_logo_url.lower() or ".svg" in away_logo_url.lower():
-        print(f"    [-] Missing/SVG logo for '{match_name}'. Using custom default poster.")
-        download_and_save_default(local_path)
-        return
+    # যদি লিংক .svg হয়, তবে প্রথমেই ফলব্যাক লোগো বসিয়ে দেবে
+    if ".svg" in home_logo_url.lower(): home_logo_url = fallback_logo
+    if ".svg" in away_logo_url.lower(): away_logo_url = fallback_logo
 
     try:
         print(f"    [*] Creating poster for: {match_name}...")
@@ -65,11 +64,25 @@ def create_match_poster(match_name, home_logo_url, away_logo_url, local_path):
             "Referer": "https://google.com/"
         }
         
-        home_res = requests.get(home_logo_url, headers=img_headers, timeout=10)
-        away_res = requests.get(away_logo_url, headers=img_headers, timeout=10)
+        # প্রথম টিমের লোগো ডাউনলোড করার চেষ্টা
+        try:
+            home_res = requests.get(home_logo_url, headers=img_headers, timeout=10)
+            if home_res.status_code != 200:
+                home_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
+        except:
+            home_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
+
+        # দ্বিতীয় টিমের লোগো ডাউনলোড করার চেষ্টা
+        try:
+            away_res = requests.get(away_logo_url, headers=img_headers, timeout=10)
+            if away_res.status_code != 200:
+                away_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
+        except:
+            away_res = requests.get(fallback_logo, headers=img_headers, timeout=10)
         
+        # যদি ফলব্যাক লোগোও কাজ না করে (খুবই রেয়ার), তখন পুরোনো ডিফল্ট পোস্টার দেবে
         if home_res.status_code != 200 or away_res.status_code != 200:
-            print(f"    [!] Download failed. Using custom default poster.")
+            print(f"    [!] All logos failed. Using custom default poster.")
             download_and_save_default(local_path)
             return
         
@@ -184,7 +197,6 @@ def clean_old_posters(active_filenames):
     deleted_count = 0
     
     for file in files_in_dir:
-        
         if file.endswith('.jpg') and file not in active_filenames:
             try:
                 os.remove(os.path.join(OUTPUT_DIR, file))
@@ -229,7 +241,6 @@ def main():
             if not match_title or match_title.strip() == "":
                 match_title = f"{team1} VS {team2}"
 
-            # --- আপনার দেওয়া লোগো রিপ্লেস করার লজিক এখানে যুক্ত করা হলো ---
             category_key = match.get("Category", "other").lower().strip()
             fallback_logo = DEFAULT_LOGOS.get(category_key, DEFAULT_LOGOS["other"])
                 
@@ -238,14 +249,14 @@ def main():
             
             if not logo1: logo1 = fallback_logo
             if not logo2: logo2 = fallback_logo
-            # ----------------------------------------------------------------
             
             safe_name = sanitize_filename(match_title)
             final_filename = f"{safe_name}.jpg"
             local_path = os.path.join(OUTPUT_DIR, final_filename)
             active_poster_filenames.append(final_filename)
             
-            create_match_poster(match_title, logo1, logo2, local_path)
+            # এখানে fallback_logo পাস করে দেওয়া হলো
+            create_match_poster(match_title, logo1, logo2, local_path, fallback_logo)
             
         clean_old_posters(active_poster_filenames)
             
