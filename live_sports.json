@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "03:15:47 AM 22-06-2026"
+        "last_update_time": "03:30:49 AM 22-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629495252,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "slug": "day-3-evening-session-1629495252",
-            "title": "Day 3 - Evening Session",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Slovak Darts Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782061200,
-                "start_time_local": "21 Jun 2026, 11:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=c0a5416799b78534b0acb4e41b9a79643e7d8dce&x-sign=cffce1e668ed3b9662967994785ea8a0&x-time=1782076500",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "114414",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782162933-Kv4cPTAAP5YTi-c0a5416799b78534b0acb4e41b9a79643e7d8dce-75461fb132ad6f07f0a1130cf11012f8",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629493941,
             "sport_name": "Auto Racing",
@@ -66,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782162944-Kv4cPTAAP5YTi-c0a5416799b78534b0acb4e41b9a79643e7d8dce-493a368b2358a2224930f86d415e281a",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782163845-Kv4cPTAAP5YTi-bcce64bb98e6ef60e3b5a5a04ec785dd8a208c8e-91e057b778ca2f3f63f6adf8c9ea881b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=c0a5416799b78534b0acb4e41b9a79643e7d8dce&x-sign=7b37cec5730d98c8e73efbb3ec99ec1c&x-time=1782076500",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=bcce64bb98e6ef60e3b5a5a04ec785dd8a208c8e&x-sign=f5dca716ae6e8a8743e3ea04fb9f1c73&x-time=1782077400",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -151,29 +115,6 @@
             }
         },
         {
-            "match_id": 1629493944,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 2",
-            "slug": "day-2-1629493944",
-            "status": "NS",
-            "league": {
-                "league_name": "Bad Homburg Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782118800,
-                "start_time_local": "22 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493943,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -189,6 +130,29 @@
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku_Rakuten_Golden_Eagles_VS_Saitama_Seibu_Lions_NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782118800,
+                "start_time_local": "22 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493944,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 2",
+            "slug": "day-2-1629493944",
+            "status": "NS",
+            "league": {
+                "league_name": "Bad Homburg Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782118800,
