@@ -3,40 +3,88 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:01:04 AM 21-06-2026"
+        "last_update_time": "06:15:47 AM 21-06-2026"
     },
     "live_matches": [
         {
-            "match_id": 1629493906,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "slug": "prelims-1629493906",
-            "title": "PRELIMS",
+            "match_id": 1489392,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "ecuador-vs-curacao-1489392",
+            "title": "Ecuador vs Curaçao",
             "status": "LIVE",
             "league": {
-                "league_name": "UFC FIGHT NIGHT",
+                "league_name": "World Cup",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS_UFC_FIGHT_NIGHT.jpg"
+                "home_name": "Ecuador",
+                "away_name": "Curaçao",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1781989200,
-                "start_time_local": "21 Jun 2026, 03:00 AM"
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM"
             },
             "streams": [
                 {
-                    "server_name": "53768",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782086442-Kv4cPTAAP5YTi-996351fd5b6b1bab03cf32029627601b40ff2003-dc03b5644e36ccaed4f1b1b0bd73835e",
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782087331-Kv4cPTAAP5YTi-cd600bf9841200ac6a705e072eb0bbbf46514636-b2cb56d00c43a1f126d852899692dacb",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=996351fd5b6b1bab03cf32029627601b40ff2003&x-sign=9ef35814186a13e111c81bcde6b4af09&x-time=1782000000",
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=cd600bf9841200ac6a705e072eb0bbbf46514636&x-sign=fcd9517c7e0ac572551a8c96097c3eb9&x-time=1782000900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=cd600bf9841200ac6a705e072eb0bbbf46514636&x-sign=100196a2041a5fca3f98367f61334c39&x-time=1782000900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782087333-Kv4cPTAAP5YTi-cd600bf9841200ac6a705e072eb0bbbf46514636-02bb8e8cec6a29ec0e30d90ff55497d4",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629495249,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "carlton-blues-vs-gws-giants-1629495249",
+            "title": "Carlton vs GWS GIANTS",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Carlton Blues",
+                "away_name": "GWS GIANTS",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782000000,
+                "start_time_local": "21 Jun 2026, 06:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782087338-Kv4cPTAAP5YTi-cd600bf9841200ac6a705e072eb0bbbf46514636-ffd1a6b4c537ee82e8c371e02b926d90",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=cd600bf9841200ac6a705e072eb0bbbf46514636&x-sign=8673af0b4823bc1bc46c43eda160e69e&x-time=1782000900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,74 +114,20 @@
             "streams": [
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782086452-Kv4cPTAAP5YTi-996351fd5b6b1bab03cf32029627601b40ff2003-ded9bcf7e80ff5d6085285de18ec760e",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782087344-Kv4cPTAAP5YTi-cd600bf9841200ac6a705e072eb0bbbf46514636-7d7fc39f41e1c725b7bd31b56b3fdb4b",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=996351fd5b6b1bab03cf32029627601b40ff2003&x-sign=9ef35814186a13e111c81bcde6b4af09&x-time=1782000000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=cd600bf9841200ac6a705e072eb0bbbf46514636&x-sign=8f3d994a1751203ff4fc2f7b65c2be04&x-time=1782000900",
                     "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1489392,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "ecuador-vs-curacao-1489392",
-            "title": "Ecuador vs Curaçao",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ecuador",
-                "away_name": "Curaçao",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ecuador_VS_Cura%C3%A7ao_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782000000,
-                "start_time_local": "21 Jun 2026, 06:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782086458-Kv4cPTAAP5YTi-996351fd5b6b1bab03cf32029627601b40ff2003-bd01229a5cc30c0525edaa6b9929f8ab",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=996351fd5b6b1bab03cf32029627601b40ff2003&x-sign=4eec3cf4d3cce9bfadf2951beb2b1198&x-time=1782000000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=996351fd5b6b1bab03cf32029627601b40ff2003&x-sign=be132fdad93fcf4bd7c21d595dc4f34b&x-time=1782000000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "240885",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=996351fd5b6b1bab03cf32029627601b40ff2003&x-sign=4f04acecd724b9eb7832d81ccb4fd036&x-time=1782000060",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "240885",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782086461-Kv4cPTAAP5YTi-996351fd5b6b1bab03cf32029627601b40ff2003-7f00365856b42eb4c37b728992756692",
-                    "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 43,
+    "total_upcoming_matches": 44,
     "upcoming_matches": [
         {
             "match_id": 1629493910,
@@ -182,29 +176,6 @@
             }
         },
         {
-            "match_id": 1489394,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Tunisia vs Japan",
-            "slug": "tunisia-vs-japan-1489394",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tunisia",
-                "away_name": "Japan",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia_VS_Japan_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782014400,
-                "start_time_local": "21 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493915,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -220,29 +191,6 @@
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782014400,
-                "start_time_local": "21 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629493914,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
-            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493914",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Fukuoka SoftBank Hawks",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782014400,
@@ -274,6 +222,52 @@
             }
         },
         {
+            "match_id": 1489394,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Tunisia vs Japan",
+            "slug": "tunisia-vs-japan-1489394",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tunisia",
+                "away_name": "Japan",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tunisia_VS_Japan_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782014400,
+                "start_time_local": "21 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493914,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Fukuoka SoftBank Hawks",
+            "slug": "hokkaido-nippon-ham-fighters-vs-fukuoka-softbank-hawks-1629493914",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Fukuoka SoftBank Hawks",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Fukuoka_SoftBank_Hawks_NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782014400,
+                "start_time_local": "21 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629493919,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -297,29 +291,6 @@
             }
         },
         {
-            "match_id": 1629493922,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Western Bulldogs vs St. Kilda Saints",
-            "slug": "western-bulldogs-vs-st-kilda-saints-1629493922",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Western Bulldogs",
-                "away_name": "St. Kilda Saints",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Western_Bulldogs_VS_St._Kilda_Saints_AFL_Premiership.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782018000,
-                "start_time_local": "21 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493920,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -335,6 +306,29 @@
                 "home_name": "Yomiuri Giants",
                 "away_name": "Chunichi Dragons",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782018000,
+                "start_time_local": "21 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493922,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Western Bulldogs vs St. Kilda Saints",
+            "slug": "western-bulldogs-vs-st-kilda-saints-1629493922",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Western Bulldogs",
+                "away_name": "St. Kilda Saints",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Western_Bulldogs_VS_St._Kilda_Saints_AFL_Premiership.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782018000,
@@ -412,29 +406,6 @@
             }
         },
         {
-            "match_id": 1629493927,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "title": "Women's Series 15 & 16 - Wigan",
-            "slug": "womens-series-15-and-16-wigan-1629493927",
-            "status": "NS",
-            "league": {
-                "league_name": "Women's Series",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s_Series_15_%26_16_-_Wigan_Women%27s_Series.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782032400,
-                "start_time_local": "21 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493928,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -450,6 +421,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_1_Bad_Homburg_Open.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782032400,
+                "start_time_local": "21 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493927,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Women's Series 15 & 16 - Wigan",
+            "slug": "womens-series-15-and-16-wigan-1629493927",
+            "status": "NS",
+            "league": {
+                "league_name": "Women's Series",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Women%27s_Series_15_%26_16_-_Wigan_Women%27s_Series.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782032400,
@@ -619,29 +613,6 @@
             }
         },
         {
-            "match_id": 1629493936,
-            "sport_name": "Volleyball",
-            "sport_id": 23,
-            "title": "Japan vs Italy",
-            "slug": "japan-vs-italy-1629493936",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Japan",
-                "away_name": "Italy",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782043200,
-                "start_time_local": "21 Jun 2026, 06:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493935,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -657,6 +628,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782043200,
+                "start_time_local": "21 Jun 2026, 06:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493936,
+            "sport_name": "Volleyball",
+            "sport_id": 23,
+            "title": "Japan vs Italy",
+            "slug": "japan-vs-italy-1629493936",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Japan",
+                "away_name": "Italy",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Italy_Nations_League.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782043200,
