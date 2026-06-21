@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "12:15:43 AM 22-06-2026"
+        "last_update_time": "12:30:52 AM 22-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629493929,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-7-berlin-open-1629493929",
-            "title": "Day 7: Berlin Open",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_7_Berlin_Open_Berlin_Open.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782034200,
-                "start_time_local": "21 Jun 2026, 03:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782152128-Kv4cPTAAP5YTi-803ee4bc1fd29278bfd9269bb9e42b93c54641d9-5b3b4c09b3c7233c6b31e990e25dd601",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=803ee4bc1fd29278bfd9269bb9e42b93c54641d9&x-sign=b1db985f4bdccba56cb1caddda06e88a&x-time=1782065700",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629493939,
             "sport_name": "Volleyball",
@@ -66,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=803ee4bc1fd29278bfd9269bb9e42b93c54641d9&x-sign=d3d8120be2c54f4111321e64ad38d8ae&x-time=1782065700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1d739258dcbef6fb4c514e29632e5a30fc943c3f&x-sign=5706fdf451894d28ba1ba7195a0b0454&x-time=1782066600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "68892",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782152134-Kv4cPTAAP5YTi-803ee4bc1fd29278bfd9269bb9e42b93c54641d9-77b7e97f4d78d35579ce3d74c8da2eb5",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1782153043-Kv4cPTAAP5YTi-1d739258dcbef6fb4c514e29632e5a30fc943c3f-69b82759b1c0246257942fdcf45864ee",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=803ee4bc1fd29278bfd9269bb9e42b93c54641d9&x-sign=fbe075169d1f7dec52054733dfcae73f&x-time=1782065700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1d739258dcbef6fb4c514e29632e5a30fc943c3f&x-sign=af5ff160bacd82fe21ee858d54a6f4d6&x-time=1782066600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782152140-Kv4cPTAAP5YTi-803ee4bc1fd29278bfd9269bb9e42b93c54641d9-dd1b0e537b3eafefd326b0ed65aa866b",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1782153049-Kv4cPTAAP5YTi-1d739258dcbef6fb4c514e29632e5a30fc943c3f-743283cd821a7d74be389a627d4ee3c7",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -117,29 +81,6 @@
     ],
     "total_upcoming_matches": 42,
     "upcoming_matches": [
-        {
-            "match_id": 1489395,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Belgium vs Iran",
-            "slug": "belgium-vs-iran-1489395",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Belgium",
-                "away_name": "Iran",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium_VS_Iran_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782068400,
-                "start_time_local": "22 Jun 2026, 01:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629493940,
             "sport_name": "Sailing",
@@ -156,6 +97,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782068400,
+                "start_time_local": "22 Jun 2026, 01:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489395,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Belgium vs Iran",
+            "slug": "belgium-vs-iran-1489395",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Belgium",
+                "away_name": "Iran",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Belgium_VS_Iran_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782068400,
@@ -256,29 +220,6 @@
             }
         },
         {
-            "match_id": 1629493943,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
-            "slug": "tohoku-rakuten-golden-eagles-vs-saitama-seibu-lions-1629493943",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tohoku Rakuten Golden Eagles",
-                "away_name": "Saitama Seibu Lions",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku_Rakuten_Golden_Eagles_VS_Saitama_Seibu_Lions_NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782118800,
-                "start_time_local": "22 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629493944,
             "sport_name": "Tennis",
             "sport_id": 2,
@@ -294,6 +235,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782118800,
+                "start_time_local": "22 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629493943,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
+            "slug": "tohoku-rakuten-golden-eagles-vs-saitama-seibu-lions-1629493943",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Tohoku Rakuten Golden Eagles",
+                "away_name": "Saitama Seibu Lions",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku_Rakuten_Golden_Eagles_VS_Saitama_Seibu_Lions_NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782118800,
