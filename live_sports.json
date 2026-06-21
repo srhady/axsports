@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:55 AM 21-06-2026"
+        "last_update_time": "08:45:49 AM 21-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "151592",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782095440-Kv4cPTAAP5YTi-6a4cb78672a64337fb9611d24196d5314a5978ad-11730a0b2df6e2fdad4f4379f902e39c",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=1782096329-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-76aca7a4fcf0e1058f98ecc4b21a4ef6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "151592",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=6a4cb78672a64337fb9611d24196d5314a5978ad&x-sign=7e9bca527280432a1e23c876544c06ad&x-time=1782009000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=8991b910abfc547e45c887b08722a41a&x-time=1782009900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782095446-Kv4cPTAAP5YTi-6a4cb78672a64337fb9611d24196d5314a5978ad-a3340ec3ec1e3c654345ec88dd85b2aa",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=1782096335-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-6ef03f3fce95c709e421aa03f065b0c9",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "53768",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=6a4cb78672a64337fb9611d24196d5314a5978ad&x-sign=874aac1edf610e8314762ea98115836a&x-time=1782009000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/53768/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=12a3bbaf6b3933851fc1c742b73075f2&x-time=1782009900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,28 +102,25 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782095451-Kv4cPTAAP5YTi-6a4cb78672a64337fb9611d24196d5314a5978ad-00fb84c8f7859747c6b1d050bf623922",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782096340-Kv4cPTAAP5YTi-fc6d28860f2b7d07e4955a5ee01571d6fde82431-43170a9fbd5047733a188ee7eb6a474e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=6a4cb78672a64337fb9611d24196d5314a5978ad&x-sign=0105f6781b21515158f9099c64ef7670&x-time=1782009000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=fcebc69855a91ecfa50cc840428f2685&x-time=1782009900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 43,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629493911,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "North Melbourne vs Richmond Tigers",
             "slug": "north-melbourne-vs-richmond-tigers-1629493911",
-            "status": "NS",
+            "title": "North Melbourne vs Richmond Tigers",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -136,10 +133,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782010800,
-                "start_time_local": "21 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "21 Jun 2026, 09:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "151592",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/151592/720p/chunks.m3u8?is_vip=false&token=fc6d28860f2b7d07e4955a5ee01571d6fde82431&x-sign=8991b910abfc547e45c887b08722a41a&x-time=1782009900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1629493915,
             "sport_name": "Baseball",
