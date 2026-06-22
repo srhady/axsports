@@ -3,57 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:45:46 PM 22-06-2026"
+        "last_update_time": "07:01:00 PM 22-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629493944,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "slug": "day-2-1629493944",
-            "title": "Day 2",
-            "status": "LIVE",
-            "league": {
-                "league_name": "Bad Homburg Open",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782118800,
-                "start_time_local": "22 Jun 2026, 03:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "147445",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782218734-Kv4cPTAAP5YTi-9206f49acbc3363a1540b8aa0f7ec8abb8d78475-fbd1378f97187b9f6c81d760e1732f04",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "147445",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=9206f49acbc3363a1540b8aa0f7ec8abb8d78475&x-sign=c97641c383551c58b22ebbfe361aac57&x-time=1782132300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782218736-Kv4cPTAAP5YTi-9206f49acbc3363a1540b8aa0f7ec8abb8d78475-6aac04cd179fe937bde759145ce3298e",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=9206f49acbc3363a1540b8aa0f7ec8abb8d78475&x-sign=68155b271d36822d9daed7ed1b632aaa&x-time=1782132300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629493943,
             "sport_name": "Baseball",
@@ -78,20 +30,68 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782218742-Kv4cPTAAP5YTi-9206f49acbc3363a1540b8aa0f7ec8abb8d78475-ef9f0b2e056a0690238c47cf0e9d4ac8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782219649-Kv4cPTAAP5YTi-793afca932adc14dfbc6616a57be4c6abd900118-e728f1e569fecff8796b00687d8c20bf",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=9206f49acbc3363a1540b8aa0f7ec8abb8d78475&x-sign=6661619ffbcb8be9ca39b16a72b97f21&x-time=1782132300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=793afca932adc14dfbc6616a57be4c6abd900118&x-sign=7b9e52cd9a84cb2b5c8ae15ace57bbb8&x-time=1782133200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629493944,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "slug": "day-2-1629493944",
+            "title": "Day 2",
+            "status": "LIVE",
+            "league": {
+                "league_name": "Bad Homburg Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_2_Bad_Homburg_Open.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782118800,
+                "start_time_local": "22 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1782219655-Kv4cPTAAP5YTi-793afca932adc14dfbc6616a57be4c6abd900118-2fd27ab271d06d69656e1276328ce976",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "147445",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=793afca932adc14dfbc6616a57be4c6abd900118&x-sign=f3207f33cc025eb71fc1958c4952e1dc&x-time=1782133200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782219657-Kv4cPTAAP5YTi-793afca932adc14dfbc6616a57be4c6abd900118-4b357248d00dcb5e8f8a8caccb815795",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=793afca932adc14dfbc6616a57be4c6abd900118&x-sign=2b9bf0d9d7ba84a0d32ce6a2316750dd&x-time=1782133200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 47,
+    "total_upcoming_matches": 48,
     "upcoming_matches": [
         {
             "match_id": 1489399,
@@ -255,29 +255,6 @@
             }
         },
         {
-            "match_id": 1629494680,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "title": "Court 3",
-            "slug": "court-3-1629494680",
-            "status": "NS",
-            "league": {
-                "league_name": "YONEX US OPEN",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782187200,
-                "start_time_local": "23 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629494679,
             "sport_name": "Badminton",
             "sport_id": 32,
@@ -293,6 +270,29 @@
                 "home_name": "Unknown",
                 "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782187200,
+                "start_time_local": "23 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494680,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "title": "Court 3",
+            "slug": "court-3-1629494680",
+            "status": "NS",
+            "league": {
+                "league_name": "YONEX US OPEN",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782187200,
@@ -347,21 +347,21 @@
             }
         },
         {
-            "match_id": 1629494691,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 3",
-            "slug": "day-3-1629494691",
+            "match_id": 1629494684,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
+            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629494684",
             "status": "NS",
             "league": {
-                "league_name": "Bad Homburg Open",
+                "league_name": "NPB",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg"
+                "home_name": "Fukuoka SoftBank Hawks",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
@@ -385,6 +385,29 @@
                 "home_name": "Tohoku Rakuten Golden Eagles",
                 "away_name": "Saitama Seibu Lions",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tohoku_Rakuten_Golden_Eagles_VS_Saitama_Seibu_Lions_NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782205200,
+                "start_time_local": "23 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494691,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 3",
+            "slug": "day-3-1629494691",
+            "status": "NS",
+            "league": {
+                "league_name": "Bad Homburg Open",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_3_Bad_Homburg_Open.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
@@ -430,29 +453,6 @@
             "teams": {
                 "home_name": "Chunichi Dragons",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629494684,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
-            "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629494684",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Fukuoka SoftBank Hawks",
-                "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
