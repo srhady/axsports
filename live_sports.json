@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:40 PM 22-06-2026"
+        "last_update_time": "02:45:52 PM 22-06-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "423",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=99a7307f39bbcc0f76b208169142389eb2e9a4da&x-sign=a3fe74464c95ab8bd9b05f739df09352&x-time=1782117000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=feac47a5fe48c629bc58ad093a4b75019f20044b&x-sign=3a20c9cee45dcf06c128e4a4b2cb052a&x-time=1782117900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 46,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629493943,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
             "slug": "tohoku-rakuten-golden-eagles-vs-saitama-seibu-lions-1629493943",
-            "status": "NS",
+            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -58,17 +55,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1782118800,
-                "start_time_local": "22 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "22 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782204341-Kv4cPTAAP5YTi-feac47a5fe48c629bc58ad093a4b75019f20044b-1de87a4cfd0788928fbe046508736e5a",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=feac47a5fe48c629bc58ad093a4b75019f20044b&x-sign=768351a8470368ec42d3d6afb8c9ebc6&x-time=1782117900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629493944,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 2",
             "slug": "day-2-1629493944",
-            "status": "NS",
+            "title": "Day 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Bad Homburg Open",
                 "league_logo": ""
@@ -81,10 +91,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1782118800,
-                "start_time_local": "22 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "22 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782204348-Kv4cPTAAP5YTi-feac47a5fe48c629bc58ad093a4b75019f20044b-614d157d820cf813c5e7f7f8067b1103",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=feac47a5fe48c629bc58ad093a4b75019f20044b&x-sign=fc3c3565c18e7604709dd7db211ee334&x-time=1782117900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 44,
+    "upcoming_matches": [
         {
             "match_id": 1489399,
             "sport_name": "Football",
