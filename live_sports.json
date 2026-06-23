@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "10:30:46 PM 23-06-2026"
+        "last_update_time": "10:45:53 PM 23-06-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782318642-Kv4cPTAAP5YTi-bffcbffe56d68b7026ce9e03e74b31795402f445-77594bc4e18c9313345abdc315aeda0f",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782319543-Kv4cPTAAP5YTi-25ca56ce8254728fbdbaa88eca1f50d40df0b807-f2f4c77e92b9052525754ea785bfb744",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=bffcbffe56d68b7026ce9e03e74b31795402f445&x-sign=c34787ba577c86081820aeea56f49d9a&x-time=1782232200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=25ca56ce8254728fbdbaa88eca1f50d40df0b807&x-sign=413b6de10773518dc96e9cbf22a3db8d&x-time=1782233100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1489404,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "Portugal vs Uzbekistan",
             "slug": "portugal-vs-uzbekistan-1489404",
-            "status": "NS",
+            "title": "Portugal vs Uzbekistan",
+            "status": "LIVE",
             "league": {
                 "league_name": "World Cup",
                 "league_logo": ""
@@ -64,10 +61,38 @@
             },
             "timing": {
                 "start_time_timestamp": 1782234000,
-                "start_time_local": "23 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "23 Jun 2026, 11:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782319549-Kv4cPTAAP5YTi-25ca56ce8254728fbdbaa88eca1f50d40df0b807-935dcc1856c52ddffe72309591dcfef2",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=25ca56ce8254728fbdbaa88eca1f50d40df0b807&x-sign=3433f5cf3be1c4dfdd6154119342de2a&x-time=1782233100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "177",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=25ca56ce8254728fbdbaa88eca1f50d40df0b807&x-sign=e637806c0de86c557e161c5d3d4ae210&x-time=1782233100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "177",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1782319550-Kv4cPTAAP5YTi-25ca56ce8254728fbdbaa88eca1f50d40df0b807-9baf2176d6c14c2192fb821140216adb",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1629494692,
             "sport_name": "Basketball",
