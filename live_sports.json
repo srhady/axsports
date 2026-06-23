@@ -3,18 +3,16 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:30:37 PM 23-06-2026"
+        "last_update_time": "02:46:11 PM 23-06-2026"
     },
-    "live_matches": [],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+    "live_matches": [
         {
             "match_id": 1629494691,
             "sport_name": "Tennis",
             "sport_id": 2,
-            "title": "Day 3",
             "slug": "day-3-1629494691",
-            "status": "NS",
+            "title": "Day 3",
+            "status": "LIVE",
             "league": {
                 "league_name": "Bad Homburg Open",
                 "league_logo": ""
@@ -27,17 +25,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "23 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782290739-Kv4cPTAAP5YTi-5386f9347c90cb653f4ea3e4734394d268bb5138-e4161f5c9b72bace2e4f4043f383ddb3",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=5386f9347c90cb653f4ea3e4734394d268bb5138&x-sign=fa675d8629c028a3964b29692b45d75d&x-time=1782204300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629494687,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
             "slug": "tohoku-rakuten-golden-eagles-vs-saitama-seibu-lions-1629494687",
-            "status": "NS",
+            "title": "Tohoku Rakuten Golden Eagles vs Saitama Seibu Lions",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -50,17 +61,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "23 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782290746-Kv4cPTAAP5YTi-5386f9347c90cb653f4ea3e4734394d268bb5138-552738197becf1b4d24dbe22f49beeec",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=5386f9347c90cb653f4ea3e4734394d268bb5138&x-sign=0d71dd72e74e47563f61be556ba324e8&x-time=1782204300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629494686,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Chunichi Dragons vs Yokohama DeNA BayStars",
             "slug": "chunichi-dragons-vs-yokohama-dena-baystars-1629494686",
-            "status": "NS",
+            "title": "Chunichi Dragons vs Yokohama DeNA BayStars",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -73,17 +97,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "23 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782290752-Kv4cPTAAP5YTi-5386f9347c90cb653f4ea3e4734394d268bb5138-4a5fd15faaaec315b400610240a01220",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "6",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=5386f9347c90cb653f4ea3e4734394d268bb5138&x-sign=3c01af63f2eb118e46460d645e5f8545&x-time=1782204300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629494684,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
             "slug": "fukuoka-softbank-hawks-vs-orix-buffaloes-1629494684",
-            "status": "NS",
+            "title": "Fukuoka SoftBank Hawks vs Orix Buffaloes",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -96,17 +133,30 @@
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "23 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782290759-Kv4cPTAAP5YTi-5386f9347c90cb653f4ea3e4734394d268bb5138-782c92fa15c573fa8564a2eb3b64f572",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=5386f9347c90cb653f4ea3e4734394d268bb5138&x-sign=07359ffa5c4a99f190580de8ee2964c6&x-time=1782204360",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629494685,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
             "slug": "hanshin-tigers-vs-tokyo-yakult-swallows-1629494685",
-            "status": "NS",
+            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB",
                 "league_logo": ""
@@ -119,10 +169,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1782205200,
-                "start_time_local": "23 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "23 Jun 2026, 03:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782290767-Kv4cPTAAP5YTi-5386f9347c90cb653f4ea3e4734394d268bb5138-ca5c0a09d24f862e3862898db8f7c7cd",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "5",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=5386f9347c90cb653f4ea3e4734394d268bb5138&x-sign=15f198b7fb285a56d364c107817c046e&x-time=1782204360",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1489404,
             "sport_name": "Football",
