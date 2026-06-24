@@ -3,9 +3,45 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:01:04 AM 24-06-2026"
+        "last_update_time": "09:16:06 AM 24-06-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1629494697,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-4-1629494697",
+            "title": "Court 4",
+            "status": "LIVE",
+            "league": {
+                "league_name": "YONEX US OPEN",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782255600,
+                "start_time_local": "24 Jun 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782357332-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-cd3f9f02540d0bf2198524cb14d2aff1",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "8",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=35e066c88002c384038e9e07ecd8769f&x-time=1782270900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
         {
             "match_id": 1629494695,
             "sport_name": "Badminton",
@@ -30,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782356439-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-8d0bb084ec71e2757f519d0252c4077c",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782357338-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-6677600205c553631b9117d23caca235",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=36b550a5e80c5c0565744ad5f6d38002&x-time=1782270000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=fd76fe0162fc714ddd102b0c80a78542&x-time=1782270900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782356444-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-e944f2b5fb5579207c60cfe9aa7461fa",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782357344-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-f5ed6cdf321ca20e57e3d35e2dcace56",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=1866d7d2996ff4a21fadf44205fb5937&x-time=1782270000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=08202ceec6e37088713e058d5450479e&x-time=1782270900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,49 +138,13 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782356450-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-b708e3d969e9bac5ea46971141f1e80e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782357350-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-217712e2ccef4a58e5a5d3f694867540",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=4261651d93812867a02301fdbf6ebaf6&x-time=1782270000",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629494697,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-4-1629494697",
-            "title": "Court 4",
-            "status": "LIVE",
-            "league": {
-                "league_name": "YONEX US OPEN",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_4_YONEX_US_OPEN.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782255600,
-                "start_time_local": "24 Jun 2026, 05:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782356455-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-661bf92464180a140e63c29aa1288e12",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=784880ef424bf246452866dcfb0776dd&x-time=1782270000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=e18be6820e0e3cc552720b36fd35fbd9&x-time=1782270900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -174,44 +174,57 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782356461-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-a6b96a7b52118dab8516809ff94b3467",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782357357-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-c478ee2f763315f00f70d60d807c8ed6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=ccc81eebddba29796f4afda072360b4b&x-time=1782270060",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=d3f37c67eee067caa161968d8d967814&x-time=1782270900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 37,
-    "upcoming_matches": [
+        },
         {
-            "match_id": 1629494699,
+            "match_id": 1629494693,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Saitama Seibu Lions vs Orix Buffaloes",
-            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629494699",
-            "status": "NS",
+            "slug": "tokyo-yakult-swallows-vs-yokohama-dena-baystars-1629494693",
+            "title": "Tokyo Yakult Swallows vs Yokohama DeNA BayStars",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Saitama Seibu Lions",
-                "away_name": "ORIX Buffaloes",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg"
+                "home_name": "Tokyo Yakult Swallows",
+                "away_name": "YOKOHAMA DeNA BAYSTARS",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1782273600,
-                "start_time_local": "24 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_timestamp": 1782271800,
+                "start_time_local": "24 Jun 2026, 09:30 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782357363-Kv4cPTAAP5YTi-c8b21a6da2920ac7f5a3874abb28054ede741b29-b1738a6894e27f70f2fcae793aae15e3",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c8b21a6da2920ac7f5a3874abb28054ede741b29&x-sign=3232b5e86392ce56d072f44ef3a8ac46&x-time=1782270960",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 36,
+    "upcoming_matches": [
         {
             "match_id": 1629494698,
             "sport_name": "Baseball",
@@ -236,25 +249,25 @@
             }
         },
         {
-            "match_id": 1629494706,
-            "sport_name": "Tennis",
-            "sport_id": 2,
-            "title": "Day 4",
-            "slug": "day-4-1629494706",
+            "match_id": 1629494699,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Saitama Seibu Lions vs Orix Buffaloes",
+            "slug": "saitama-seibu-lions-vs-orix-buffaloes-1629494699",
             "status": "NS",
             "league": {
-                "league_name": "Bad Homburg Open",
+                "league_name": "NPB Farm Leagues",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Bad_Homburg_Open.jpg"
+                "home_name": "Saitama Seibu Lions",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg"
             },
             "timing": {
-                "start_time_timestamp": 1782291600,
-                "start_time_local": "24 Jun 2026, 03:00 PM",
+                "start_time_timestamp": 1782273600,
+                "start_time_local": "24 Jun 2026, 10:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -282,21 +295,21 @@
             }
         },
         {
-            "match_id": 1629494701,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
-            "slug": "hanshin-tigers-vs-tokyo-yakult-swallows-1629494701",
+            "match_id": 1629494706,
+            "sport_name": "Tennis",
+            "sport_id": 2,
+            "title": "Day 4",
+            "slug": "day-4-1629494706",
             "status": "NS",
             "league": {
-                "league_name": "NPB",
+                "league_name": "Bad Homburg Open",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "Hanshin Tigers",
-                "away_name": "Tokyo Yakult Swallows",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day_4_Bad_Homburg_Open.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782291600,
@@ -320,6 +333,29 @@
                 "home_name": "Chunichi Dragons",
                 "away_name": "YOKOHAMA DeNA BAYSTARS",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chunichi_Dragons_VS_YOKOHAMA_DeNA_BAYSTARS_NPB.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782291600,
+                "start_time_local": "24 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494701,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hanshin Tigers vs Tokyo Yakult Swallows",
+            "slug": "hanshin-tigers-vs-tokyo-yakult-swallows-1629494701",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hanshin Tigers",
+                "away_name": "Tokyo Yakult Swallows",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
                 "start_time_timestamp": 1782291600,
@@ -489,29 +525,6 @@
             }
         },
         {
-            "match_id": 1539010,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Czechia vs Mexico",
-            "slug": "czechia-vs-mexico-1539010",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Czechia",
-                "away_name": "Mexico",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782349200,
-                "start_time_local": "25 Jun 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489407,
             "sport_name": "Football",
             "sport_id": 1,
@@ -527,6 +540,29 @@
                 "home_name": "South Africa",
                 "away_name": "South Korea",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South_Africa_VS_South_Korea_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782349200,
+                "start_time_local": "25 Jun 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1539010,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Czechia vs Mexico",
+            "slug": "czechia-vs-mexico-1539010",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Czechia",
+                "away_name": "Mexico",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Czechia_VS_Mexico_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782349200,
