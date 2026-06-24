@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:46:22 AM 24-06-2026"
+        "last_update_time": "09:01:04 AM 24-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629494696,
-            "sport_name": "Badminton",
-            "sport_id": 32,
-            "slug": "court-3-1629494696",
-            "title": "Court 3",
-            "status": "LIVE",
-            "league": {
-                "league_name": "YONEX US OPEN",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782255600,
-                "start_time_local": "24 Jun 2026, 05:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782355536-Kv4cPTAAP5YTi-194669a89b829c3735ff7f64ac1fb37a034eb3e7-790cbcff0c44d39f1171c7dc7e446a51",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "7",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=68e21d3f5126e80807e5358b0bf38c61&x-time=1782269100",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629494695,
             "sport_name": "Badminton",
@@ -66,13 +30,49 @@
             "streams": [
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782355543-Kv4cPTAAP5YTi-194669a89b829c3735ff7f64ac1fb37a034eb3e7-a3294aab548886dd5a607f0426ad5f1d",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1782356439-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-8d0bb084ec71e2757f519d0252c4077c",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "6",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=29a452e29f864684f25440bc8fe946a4&x-time=1782269100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=36b550a5e80c5c0565744ad5f6d38002&x-time=1782270000",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629494696,
+            "sport_name": "Badminton",
+            "sport_id": 32,
+            "slug": "court-3-1629494696",
+            "title": "Court 3",
+            "status": "LIVE",
+            "league": {
+                "league_name": "YONEX US OPEN",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court_3_YONEX_US_OPEN.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782255600,
+                "start_time_local": "24 Jun 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1782356444-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-e944f2b5fb5579207c60cfe9aa7461fa",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "7",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=1866d7d2996ff4a21fadf44205fb5937&x-time=1782270000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -102,13 +102,13 @@
             "streams": [
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782355549-Kv4cPTAAP5YTi-194669a89b829c3735ff7f64ac1fb37a034eb3e7-e3d1888854813f1d2039b1c7a2032387",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782356450-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-b708e3d969e9bac5ea46971141f1e80e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "5",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=19a8f2dbc94955240b4c419f7ca17db2&x-time=1782269100",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=4261651d93812867a02301fdbf6ebaf6&x-time=1782270000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -138,103 +138,13 @@
             "streams": [
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782355555-Kv4cPTAAP5YTi-194669a89b829c3735ff7f64ac1fb37a034eb3e7-b1b079bbb4b530e1ab91872976bbc5d3",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782356455-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-661bf92464180a140e63c29aa1288e12",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "8",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=9575706037a30f1af7604feb87ba8b71&x-time=1782269100",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629495414,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "chicago-cubs-vs-new-york-mets-1629495414",
-            "title": "Chicago Cubs vs New York Mets",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chicago Cubs",
-                "away_name": "New York Mets",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago_Cubs_VS_New_York_Mets_MLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782256200,
-                "start_time_local": "24 Jun 2026, 05:10 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "55841",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=2000c214db2b631d63d4be3fe9e1652f&x-time=1782269160",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629495413,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "milwaukee-brewers-vs-cincinnati-reds-1629495413",
-            "title": "Milwaukee Brewers vs Cincinnati Reds",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Milwaukee Brewers",
-                "away_name": "Cincinnati Reds",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee_Brewers_VS_Cincinnati_Reds_MLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782256200,
-                "start_time_local": "24 Jun 2026, 05:10 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "55842",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=1a3f12f2e3549ad7b3066fdc77c663c1&x-time=1782269160",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629495417,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "arizona-diamondbacks-vs-st-louis-cardinals-1629495417",
-            "title": "Arizona Diamondbacks vs St. Louis Cardinals",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Arizona Diamondbacks",
-                "away_name": "St. Louis Cardinals",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arizona_Diamondbacks_VS_St._Louis_Cardinals_MLB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782258300,
-                "start_time_local": "24 Jun 2026, 05:45 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "55845",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=7cc463073054f536296c29b71e6ee53a&x-time=1782269160",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=784880ef424bf246452866dcfb0776dd&x-time=1782270000",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -264,44 +174,21 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782355579-Kv4cPTAAP5YTi-194669a89b829c3735ff7f64ac1fb37a034eb3e7-fb85517f9625307db07eb493cdf677bc",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782356461-Kv4cPTAAP5YTi-e05f06ed01a36a4099392497978868bd69421c4b-a6b96a7b52118dab8516809ff94b3467",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=194669a89b829c3735ff7f64ac1fb37a034eb3e7&x-sign=a3155b66d4ee9e25eea7fbefb3f82fa0&x-time=1782269160",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=e05f06ed01a36a4099392497978868bd69421c4b&x-sign=ccc81eebddba29796f4afda072360b4b&x-time=1782270060",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 34,
+    "total_upcoming_matches": 37,
     "upcoming_matches": [
-        {
-            "match_id": 1629494698,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines",
-            "slug": "hokkaido-nippon-ham-fighters-vs-chiba-lotte-marines-1629494698",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "Chiba Lotte Marines",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782273600,
-                "start_time_local": "24 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629494699,
             "sport_name": "Baseball",
@@ -318,6 +205,29 @@
                 "home_name": "Saitama Seibu Lions",
                 "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saitama_Seibu_Lions_VS_ORIX_Buffaloes_NPB_Farm_Leagues.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782273600,
+                "start_time_local": "24 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494698,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Chiba Lotte Marines",
+            "slug": "hokkaido-nippon-ham-fighters-vs-chiba-lotte-marines-1629494698",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "Chiba Lotte Marines",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hokkaido_Nippon-Ham_Fighters_VS_Chiba_Lotte_Marines_NPB.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782273600,
@@ -533,29 +443,6 @@
             }
         },
         {
-            "match_id": 1489405,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Morocco vs Haiti",
-            "slug": "morocco-vs-haiti-1489405",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Morocco",
-                "away_name": "Haiti",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Morocco_VS_Haiti_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782338400,
-                "start_time_local": "25 Jun 2026, 04:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489406,
             "sport_name": "Football",
             "sport_id": 1,
@@ -571,6 +458,29 @@
                 "home_name": "Scotland",
                 "away_name": "Brazil",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Scotland_VS_Brazil_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782338400,
+                "start_time_local": "25 Jun 2026, 04:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489405,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Morocco vs Haiti",
+            "slug": "morocco-vs-haiti-1489405",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Morocco",
+                "away_name": "Haiti",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Morocco_VS_Haiti_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782338400,
@@ -621,6 +531,29 @@
             "timing": {
                 "start_time_timestamp": 1782349200,
                 "start_time_local": "25 Jun 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494757,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "INKA MMA 58",
+            "slug": "inka-mma-58-1629494757",
+            "status": "NS",
+            "league": {
+                "league_name": "MMA",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/INKA_MMA_58_MMA.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782356400,
+                "start_time_local": "25 Jun 2026, 09:00 AM",
                 "countdown_seconds": null
             }
         }
