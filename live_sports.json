@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:15:53 AM 25-06-2026"
+        "last_update_time": "04:31:13 AM 25-06-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,43 @@
             "streams": [
                 {
                     "server_name": "55840",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=3f65cb383989ae9c879653d34cd1b77c8d8e0d37&x-sign=e956d23f3d3f995b036277c697305f3e&x-time=1782339300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=56d8c019fbfe86a5f850f590022a3569&x-time=1782340200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1489405,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "morocco-vs-haiti-1489405",
+            "title": "Morocco vs Haiti",
+            "status": "LIVE",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Morocco",
+                "away_name": "Haiti",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Morocco_VS_Haiti_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782338400,
+                "start_time_local": "25 Jun 2026, 04:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782426646-Kv4cPTAAP5YTi-c842cb39109ac5f398dd1212694870283835aa10-cd86773f81aa9ed8f904e57786e97434",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "451",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=dd3886c8a4055758846e5158c5360d17&x-time=1782340200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -60,76 +96,37 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782425741-Kv4cPTAAP5YTi-3f65cb383989ae9c879653d34cd1b77c8d8e0d37-21243042011da73b4dda1a92fa18f6de",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782426652-Kv4cPTAAP5YTi-c842cb39109ac5f398dd1212694870283835aa10-4b82c90b700182c55394ec2ae7949ec6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=3f65cb383989ae9c879653d34cd1b77c8d8e0d37&x-sign=dc623f045c2ef20b75ed3c66a9aba419&x-time=1782339300",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=e3dce2efddd7182984a8f3a9b8b7cf38&x-time=1782340200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "240885",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=3f65cb383989ae9c879653d34cd1b77c8d8e0d37&x-sign=5d4ff445727c4d419bf7ffc01b97e355&x-time=1782339300",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=c9e7519b3dd54728e38a93ed2b89537a&x-time=1782340200",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "240885",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782425744-Kv4cPTAAP5YTi-3f65cb383989ae9c879653d34cd1b77c8d8e0d37-b5a20d3b2918d09cfaa1387abfe32951",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782426654-Kv4cPTAAP5YTi-c842cb39109ac5f398dd1212694870283835aa10-7f032ff9497035e77eb1d60998c93f65",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
-            "match_id": 1489405,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "morocco-vs-haiti-1489405",
-            "title": "Morocco vs Haiti",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Morocco",
-                "away_name": "Haiti",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Morocco_VS_Haiti_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782338400,
-                "start_time_local": "25 Jun 2026, 04:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782425749-Kv4cPTAAP5YTi-3f65cb383989ae9c879653d34cd1b77c8d8e0d37-71b0ae335139f4de4dfc46f384084856",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=3f65cb383989ae9c879653d34cd1b77c8d8e0d37&x-sign=37252d0bb3db86eefefc630df74ad2e7&x-time=1782339300",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        }
-    ],
-    "total_upcoming_matches": 45,
-    "upcoming_matches": [
-        {
             "match_id": 1629495759,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "New York Yankees vs Detroit Tigers",
             "slug": "new-york-yankees-vs-detroit-tigers-1629495759",
-            "status": "NS",
+            "title": "New York Yankees vs Detroit Tigers",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -142,17 +139,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782340800,
-                "start_time_local": "25 Jun 2026, 04:40 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "25 Jun 2026, 04:40 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "55843",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55843/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=b17481518e001c9dfe56fb1f4e0d7a6b&x-time=1782340200",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629495761,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Kansas City Royals vs Tampa Bay Rays",
             "slug": "kansas-city-royals-vs-tampa-bay-rays-1629495761",
-            "status": "NS",
+            "title": "Kansas City Royals vs Tampa Bay Rays",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -165,17 +169,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782340800,
-                "start_time_local": "25 Jun 2026, 04:40 AM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "25 Jun 2026, 04:40 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "55842",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=7ea03b6500c85dd3c8f3aa7e8ab1e755&x-time=1782340260",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629495760,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Seattle Mariners vs Pittsburgh Pirates",
             "slug": "seattle-mariners-vs-pittsburgh-pirates-1629495760",
-            "status": "NS",
+            "title": "Seattle Mariners vs Pittsburgh Pirates",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -188,10 +199,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782340800,
-                "start_time_local": "25 Jun 2026, 04:40 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "25 Jun 2026, 04:40 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "55841",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=c842cb39109ac5f398dd1212694870283835aa10&x-sign=a50b07edf6125f589cac6342b24ea358&x-time=1782340260",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 42,
+    "upcoming_matches": [
         {
             "match_id": 1629495762,
             "sport_name": "Baseball",
