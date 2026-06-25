@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:45 AM 25-06-2026"
+        "last_update_time": "11:45:38 AM 25-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782451836-Kv4cPTAAP5YTi-48617bd6bc16a1651b55154197df0352d8431203-5af3cfcd9c8e055e2a8b44f35f94b375",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1782452729-Kv4cPTAAP5YTi-77948fef0984f4394518369ea7bcc592458a6168-3dc8aed7a56dcaab59a64fb5df7b6f60",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "498587",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=48617bd6bc16a1651b55154197df0352d8431203&x-sign=9273c4027b0093cadc926b5d19925af5&x-time=1782365400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=77948fef0984f4394518369ea7bcc592458a6168&x-sign=70d992e6ebc73cd6f41ac63232976ebf&x-time=1782366300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,13 +66,13 @@
             "streams": [
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782451841-Kv4cPTAAP5YTi-48617bd6bc16a1651b55154197df0352d8431203-2d76510c81c0e6102f52360ef52481df",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782452735-Kv4cPTAAP5YTi-77948fef0984f4394518369ea7bcc592458a6168-b05dbef731ba277b2386f6bc54e12f64",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=48617bd6bc16a1651b55154197df0352d8431203&x-sign=89c4245edd2dacc1b3d6742c30b66662&x-time=1782365400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=77948fef0984f4394518369ea7bcc592458a6168&x-sign=b3325162eee43cffe4b7a14ff467226c&x-time=1782366300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -584,6 +584,29 @@
             "timing": {
                 "start_time_timestamp": 1782446400,
                 "start_time_local": "26 Jun 2026, 10:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629494783,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "EKO Acropolis Rally Greece: Stage 2",
+            "slug": "eko-acropolis-rally-greece-stage-2-1629494783",
+            "status": "NS",
+            "league": {
+                "league_name": "WRC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/EKO_Acropolis_Rally_Greece_Stage_2_WRC.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782452700,
+                "start_time_local": "26 Jun 2026, 11:45 AM",
                 "countdown_seconds": null
             }
         }
