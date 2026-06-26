@@ -3,69 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "04:00:58 AM 27-06-2026"
+        "last_update_time": "04:15:38 AM 27-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629495253,
-            "sport_name": "Darts",
-            "sport_id": 31,
-            "slug": "day-2-afternoon-session-1629495253",
-            "title": "Day 2 - Afternoon Session",
-            "status": "LIVE",
-            "league": {
-                "league_name": "US Darts Masters",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782493200,
-                "start_time_local": "26 Jun 2026, 11:00 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1915c1e67deed4efdabf1152b02804a66d807eab&x-sign=d15fe0f8583b9fbb88c408c90a1bad98&x-time=1782511200",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629498449,
-            "sport_name": "Cricket",
-            "sport_id": 19,
-            "slug": "west-indies-vs-sri-lanka-1629498449",
-            "title": "West Indies vs Sri Lanka",
-            "status": "LIVE",
-            "league": {
-                "league_name": "1st Test",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "West Indies",
-                "away_name": "Sri Lanka",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West_Indies_VS_Sri_Lanka_1st_Test.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782495000,
-                "start_time_local": "26 Jun 2026, 11:30 PM"
-            },
-            "streams": [
-                {
-                    "server_name": "423",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1915c1e67deed4efdabf1152b02804a66d807eab&x-sign=700bb43dbac57ba8f54b2a7adcf58021&x-time=1782511200",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1517301,
             "sport_name": "Football",
@@ -90,14 +30,14 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1915c1e67deed4efdabf1152b02804a66d807eab&x-sign=0ed9e45bbe7024db7c03836ac13c904b&x-time=1782511200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=52b52a263ccd62c7691e33e4bc073ceecc4b414a&x-sign=57d5f6070243faecdd771ec978b1e029&x-time=1782512100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 44,
+    "total_upcoming_matches": 46,
     "upcoming_matches": [
         {
             "match_id": 1629495254,
@@ -123,29 +63,6 @@
             }
         },
         {
-            "match_id": 1489413,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cape Verde Islands vs Saudi Arabia",
-            "slug": "cape-verde-islands-vs-saudi-arabia-1489413",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cape Verde Islands",
-                "away_name": "Saudi Arabia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cape_Verde_Islands_VS_Saudi_Arabia_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782518400,
-                "start_time_local": "27 Jun 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489417,
             "sport_name": "Football",
             "sport_id": 1,
@@ -161,6 +78,29 @@
                 "home_name": "Uruguay",
                 "away_name": "Spain",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Uruguay_VS_Spain_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782518400,
+                "start_time_local": "27 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489413,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cape Verde Islands vs Saudi Arabia",
+            "slug": "cape-verde-islands-vs-saudi-arabia-1489413",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cape Verde Islands",
+                "away_name": "Saudi Arabia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cape_Verde_Islands_VS_Saudi_Arabia_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782518400,
@@ -215,29 +155,6 @@
             }
         },
         {
-            "match_id": 1489415,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "New Zealand vs Belgium",
-            "slug": "new-zealand-vs-belgium-1489415",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "New Zealand",
-                "away_name": "Belgium",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_Zealand_VS_Belgium_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782529200,
-                "start_time_local": "27 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489414,
             "sport_name": "Football",
             "sport_id": 1,
@@ -253,6 +170,29 @@
                 "home_name": "Egypt",
                 "away_name": "Iran",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Egypt_VS_Iran_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782529200,
+                "start_time_local": "27 Jun 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489415,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "New Zealand vs Belgium",
+            "slug": "new-zealand-vs-belgium-1489415",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "New Zealand",
+                "away_name": "Belgium",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_Zealand_VS_Belgium_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782529200,
@@ -307,29 +247,6 @@
             }
         },
         {
-            "match_id": 1629495265,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "EKO Acropolis Rally Greece: Stage 8",
-            "slug": "eko-acropolis-rally-greece-stage-8-1629495265",
-            "status": "NS",
-            "league": {
-                "league_name": "WRC",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782536400,
-                "start_time_local": "27 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495266,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -344,6 +261,29 @@
             "teams": {
                 "home_name": "New Zealand Warriors",
                 "away_name": "Dolphins",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782536400,
+                "start_time_local": "27 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495265,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "EKO Acropolis Rally Greece: Stage 8",
+            "slug": "eko-acropolis-rally-greece-stage-8-1629495265",
+            "status": "NS",
+            "league": {
+                "league_name": "WRC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -583,29 +523,6 @@
             }
         },
         {
-            "match_id": 1629495288,
-            "sport_name": "Auto Racing",
-            "sport_id": 15,
-            "title": "EKO Acropolis Rally Greece: Stage 13",
-            "slug": "eko-acropolis-rally-greece-stage-13-1629495288",
-            "status": "NS",
-            "league": {
-                "league_name": "WRC",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782576000,
-                "start_time_local": "27 Jun 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495287,
             "sport_name": "MMA",
             "sport_id": 17,
@@ -620,6 +537,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Torres",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782576000,
+                "start_time_local": "27 Jun 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495288,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "EKO Acropolis Rally Greece: Stage 13",
+            "slug": "eko-acropolis-rally-greece-stage-13-1629495288",
+            "status": "NS",
+            "league": {
+                "league_name": "WRC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
