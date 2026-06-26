@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:31:11 PM 26-06-2026"
+        "last_update_time": "08:45:54 PM 26-06-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "423",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=f184c550ee645a38037570e2f2ab2ecc91b542cc&x-sign=431d0d2e33ae2d2e16836bd3d82c846c&x-time=1782484200",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=9a8705ea48853c49024036adefd3e8971818ad21&x-sign=8e2ef88f14f0efa519f07721bbddbb7c&x-time=1782485100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -60,13 +60,13 @@
             "streams": [
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1782570661-Kv4cPTAAP5YTi-f184c550ee645a38037570e2f2ab2ecc91b542cc-877c6a63e061cdc6bf87a1bd73da1188",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1782571539-Kv4cPTAAP5YTi-9a8705ea48853c49024036adefd3e8971818ad21-3282dcd1232f6a650d2628a0994991b3",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "239",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=f184c550ee645a38037570e2f2ab2ecc91b542cc&x-sign=d19d71f19419930ba9cf3493f696f2b2&x-time=1782484260",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=9a8705ea48853c49024036adefd3e8971818ad21&x-sign=a54c0325f5eaf222e2c4074f22ed83b7&x-time=1782485100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -96,22 +96,19 @@
             "streams": [
                 {
                     "server_name": "238",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1782570668-Kv4cPTAAP5YTi-f184c550ee645a38037570e2f2ab2ecc91b542cc-cbd2d90862ee6c69aa7bc8319b3d2d5e",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1782571545-Kv4cPTAAP5YTi-9a8705ea48853c49024036adefd3e8971818ad21-7c08a1a38b502f7bec5ef70f7b1cacd5",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 47,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629497377,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Austrian Grand Prix 2026 - Practice 2",
             "slug": "austrian-grand-prix-2026-practice-2-1629497377",
-            "status": "NS",
+            "title": "Austrian Grand Prix 2026 - Practice 2",
+            "status": "LIVE",
             "league": {
                 "league_name": "Formula 1 Practice",
                 "league_logo": ""
@@ -124,10 +121,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1782486000,
-                "start_time_local": "26 Jun 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "26 Jun 2026, 09:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1782571551-Kv4cPTAAP5YTi-9a8705ea48853c49024036adefd3e8971818ad21-409879ff5345522df8f0f1dd77a8f181",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "239",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=9a8705ea48853c49024036adefd3e8971818ad21&x-sign=a54c0325f5eaf222e2c4074f22ed83b7&x-time=1782485100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 46,
+    "upcoming_matches": [
         {
             "match_id": 1629494800,
             "sport_name": "MMA",
