@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "02:45:52 AM 27-06-2026"
+        "last_update_time": "03:01:05 AM 27-06-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=2dab2087f2c7c685b177d0071233de5a&x-time=1782506700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=eb1d4c261c10ee8ebb8146104151ab58941010bf&x-sign=ccc64db954e9c9c586179261e8b11d47&x-time=1782507600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -60,7 +60,43 @@
             "streams": [
                 {
                     "server_name": "423",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=1d3853d6885802f3846432e6e3625f9e&x-time=1782506700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=eb1d4c261c10ee8ebb8146104151ab58941010bf&x-sign=583c57c750f7811d25873d1597f24176&x-time=1782507600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1489416,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "norway-vs-france-1489416",
+            "title": "Norway vs France",
+            "status": "LIVE",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Norway",
+                "away_name": "France",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway_VS_France_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782500400,
+                "start_time_local": "27 Jun 2026, 01:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782594055-Kv4cPTAAP5YTi-eb1d4c261c10ee8ebb8146104151ab58941010bf-0ebadec969aa6a38b2231501c026b524",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=eb1d4c261c10ee8ebb8146104151ab58941010bf&x-sign=4f463f917b27d31982cb8732d5b728d6&x-time=1782507600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -90,50 +126,14 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=9a4a3954fa934c7948f17e4936b916c0&x-time=1782506700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=eb1d4c261c10ee8ebb8146104151ab58941010bf&x-sign=7c4822fd34f1e0411bfb0ac2c88be487&x-time=1782507660",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782593143-Kv4cPTAAP5YTi-77695aea24cb956d00c9a7d9140d3b42b7b2fc66-9da0f764d4dd56162d2ffd886e7db1d6",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782594062-Kv4cPTAAP5YTi-eb1d4c261c10ee8ebb8146104151ab58941010bf-4c80531e08a5aa9236608382340182df",
                     "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1489416,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "norway-vs-france-1489416",
-            "title": "Norway vs France",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Norway",
-                "away_name": "France",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Norway_VS_France_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782500400,
-                "start_time_local": "27 Jun 2026, 01:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782593148-Kv4cPTAAP5YTi-77695aea24cb956d00c9a7d9140d3b42b7b2fc66-d198445915709f39ee7cb772cc8d344f",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=77695aea24cb956d00c9a7d9140d3b42b7b2fc66&x-sign=fcf18b7967e7485ac074261d8cc216a3&x-time=1782506700",
-                    "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -303,29 +303,6 @@
             }
         },
         {
-            "match_id": 1489415,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "New Zealand vs Belgium",
-            "slug": "new-zealand-vs-belgium-1489415",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "New Zealand",
-                "away_name": "Belgium",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_Zealand_VS_Belgium_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782529200,
-                "start_time_local": "27 Jun 2026, 09:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489414,
             "sport_name": "Football",
             "sport_id": 1,
@@ -341,6 +318,29 @@
                 "home_name": "Egypt",
                 "away_name": "Iran",
                 "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Egypt_VS_Iran_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782529200,
+                "start_time_local": "27 Jun 2026, 09:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489415,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "New Zealand vs Belgium",
+            "slug": "new-zealand-vs-belgium-1489415",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "New Zealand",
+                "away_name": "Belgium",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New_Zealand_VS_Belgium_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782529200,
@@ -395,29 +395,6 @@
             }
         },
         {
-            "match_id": 1629495266,
-            "sport_name": "Rugby",
-            "sport_id": 18,
-            "title": "New Zealand Warriors vs Dolphins",
-            "slug": "new-zealand-warriors-vs-dolphins-1629495266",
-            "status": "NS",
-            "league": {
-                "league_name": "NRL Rugby",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "New Zealand Warriors",
-                "away_name": "Dolphins",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782536400,
-                "start_time_local": "27 Jun 2026, 11:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495265,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -432,6 +409,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782536400,
+                "start_time_local": "27 Jun 2026, 11:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495266,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "New Zealand Warriors vs Dolphins",
+            "slug": "new-zealand-warriors-vs-dolphins-1629495266",
+            "status": "NS",
+            "league": {
+                "league_name": "NRL Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "New Zealand Warriors",
+                "away_name": "Dolphins",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -602,29 +602,6 @@
             }
         },
         {
-            "match_id": 1629495284,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "PRELIMS",
-            "slug": "prelims-1629495284",
-            "status": "NS",
-            "league": {
-                "league_name": "UFC FIGHT NIGHT",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Unknown",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782565200,
-                "start_time_local": "27 Jun 2026, 07:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495285,
             "sport_name": "Rugby",
             "sport_id": 18,
@@ -639,6 +616,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Wales",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782565200,
+                "start_time_local": "27 Jun 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495284,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "PRELIMS",
+            "slug": "prelims-1629495284",
+            "status": "NS",
+            "league": {
+                "league_name": "UFC FIGHT NIGHT",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -671,29 +671,6 @@
             }
         },
         {
-            "match_id": 1629495287,
-            "sport_name": "MMA",
-            "sport_id": 17,
-            "title": "FIZIEV vs TORRES",
-            "slug": "fiziev-vs-torres-1629495287",
-            "status": "NS",
-            "league": {
-                "league_name": "UFC FIGHT NIGHT",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Unknown",
-                "away_name": "Torres",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782576000,
-                "start_time_local": "27 Jun 2026, 10:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495288,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -708,6 +685,29 @@
             "teams": {
                 "home_name": "Unknown",
                 "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782576000,
+                "start_time_local": "27 Jun 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495287,
+            "sport_name": "MMA",
+            "sport_id": 17,
+            "title": "FIZIEV vs TORRES",
+            "slug": "fiziev-vs-torres-1629495287",
+            "status": "NS",
+            "league": {
+                "league_name": "UFC FIGHT NIGHT",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Torres",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -736,6 +736,52 @@
             "timing": {
                 "start_time_timestamp": 1782583200,
                 "start_time_local": "28 Jun 2026, 12:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489420,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Croatia vs Ghana",
+            "slug": "croatia-vs-ghana-1489420",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Croatia",
+                "away_name": "Ghana",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Croatia_VS_Ghana_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782594000,
+                "start_time_local": "28 Jun 2026, 03:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489422,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Panama vs England",
+            "slug": "panama-vs-england-1489422",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Panama",
+                "away_name": "England",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782594000,
+                "start_time_local": "28 Jun 2026, 03:00 AM",
                 "countdown_seconds": null
             }
         }
