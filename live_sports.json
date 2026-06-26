@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "06:31:17 AM 26-06-2026"
+        "last_update_time": "06:46:19 AM 26-06-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "55838",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=27b5a3665f9c88b2332dc653620e97e4&x-time=1782433800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=d4d2f20902bb44cce41aa643725d2bbc&x-time=1782434700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -60,43 +60,7 @@
             "streams": [
                 {
                     "server_name": "55839",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=24737ec3390ba4a5a8321c9c3e75a119&x-time=1782433800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1539011,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "slug": "japan-vs-sweden-1539011",
-            "title": "Japan vs Sweden",
-            "status": "LIVE",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Japan",
-                "away_name": "Sweden",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Sweden_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782428400,
-                "start_time_local": "26 Jun 2026, 05:00 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782520244-Kv4cPTAAP5YTi-e93b99641d71004084734ac57144964757029524-4338ac5d31f21668a6339b6ebc78e2f1",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "2",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=14a470e6b18b6f04383b6646c1ac6ddc&x-time=1782433800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=6eb028c277e53d833c776931ef67e008&x-time=1782434700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -126,7 +90,43 @@
             "streams": [
                 {
                     "server_name": "114414",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=0af3bbe3c3afa2f7fd096fb61b879a01&x-time=1782433800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=f963cdd59b37fe064f07019f0448d130&x-time=1782434700",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1539011,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "slug": "japan-vs-sweden-1539011",
+            "title": "Japan vs Sweden",
+            "status": "LIVE",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Japan",
+                "away_name": "Sweden",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan_VS_Sweden_World_Cup.jpg"
+            },
+            "timing": {
+                "start_time_timestamp": 1782428400,
+                "start_time_local": "26 Jun 2026, 05:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782521147-Kv4cPTAAP5YTi-f79e1a873d2b45d77d4756a6c423f924bfd791ff-c12dabfce1ac435853422843fe6e2453",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "2",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=18dfcdb6f6b7bafb389a723530a0c5bc&x-time=1782434700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -156,13 +156,13 @@
             "streams": [
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=49369004da5abf3212ec52aede1704f3&x-time=1782433800",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=49fcddf5c687804d6457cf349f8daca1&x-time=1782434700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "451",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782520255-Kv4cPTAAP5YTi-e93b99641d71004084734ac57144964757029524-607672e679ef49994f5eebeb8f932857",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782521154-Kv4cPTAAP5YTi-f79e1a873d2b45d77d4756a6c423f924bfd791ff-e9aa64d5946c03fbdcbca53be7598f56",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -192,37 +192,7 @@
             "streams": [
                 {
                     "server_name": "55840",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=9a10acc612dff50b178c862e6a0f33f7&x-time=1782433860",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "match_id": 1629497208,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "chicago-cubs-vs-new-york-mets-1629497208",
-            "title": "Chicago Cubs vs New York Mets",
-            "status": "LIVE",
-            "league": {
-                "league_name": "MLB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Chicago Cubs",
-                "away_name": "New York Mets",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782429000,
-                "start_time_local": "26 Jun 2026, 05:10 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "55841",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=9096ebca184f77bbf09a53792a66fefe&x-time=1782433860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=e09293bad840d95ab0109e3376fa17ed&x-time=1782434700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -252,7 +222,37 @@
             "streams": [
                 {
                     "server_name": "55842",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=e93b99641d71004084734ac57144964757029524&x-sign=4d020100e606493746457136d2d321ba&x-time=1782433860",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55842/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=16a3007cd080dcc7a5609cbdbc57187a&x-time=1782434760",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629497208,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "slug": "chicago-cubs-vs-new-york-mets-1629497208",
+            "title": "Chicago Cubs vs New York Mets",
+            "status": "LIVE",
+            "league": {
+                "league_name": "MLB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Chicago Cubs",
+                "away_name": "New York Mets",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782429000,
+                "start_time_local": "26 Jun 2026, 05:10 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "55841",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=f79e1a873d2b45d77d4756a6c423f924bfd791ff&x-sign=869edf525c6daf953ed946ab40f20076&x-time=1782434760",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -400,6 +400,52 @@
             }
         },
         {
+            "match_id": 1629497371,
+            "sport_name": "Darts",
+            "sport_id": 31,
+            "title": "Weekend 4, Day 1",
+            "slug": "weekend-4-day-1-1629497371",
+            "status": "NS",
+            "league": {
+                "league_name": "Australian Darts Association",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782459000,
+                "start_time_local": "26 Jun 2026, 01:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629497372,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Spielberg, Austria",
+            "slug": "spielberg-austria-1629497372",
+            "status": "NS",
+            "league": {
+                "league_name": "FIA Formula 3 Championship Practice",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782460500,
+                "start_time_local": "26 Jun 2026, 01:55 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629494786,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -515,6 +561,52 @@
             }
         },
         {
+            "match_id": 1629497373,
+            "sport_name": "Rugby",
+            "sport_id": 18,
+            "title": "Broncos vs Roosters",
+            "slug": "brisbane-broncos-vs-sydney-roosters-1629497373",
+            "status": "NS",
+            "league": {
+                "league_name": "NRL Rugby",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Brisbane Broncos",
+                "away_name": "Sydney Roosters",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782468000,
+                "start_time_local": "26 Jun 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629497370,
+            "sport_name": "Cricket",
+            "sport_id": 19,
+            "title": "England vs New Zealand",
+            "slug": "england-vs-new-zealand-1629497370",
+            "status": "NS",
+            "league": {
+                "league_name": "3rd Test",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "England",
+                "away_name": "New Zealand",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782468000,
+                "start_time_local": "26 Jun 2026, 04:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629494795,
             "sport_name": "Auto Racing",
             "sport_id": 15,
@@ -534,6 +626,29 @@
             "timing": {
                 "start_time_timestamp": 1782469800,
                 "start_time_local": "26 Jun 2026, 04:30 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629497374,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Austrian Grand Prix 2026 - Practice 1",
+            "slug": "austrian-grand-prix-2026-practice-1-1629497374",
+            "status": "NS",
+            "league": {
+                "league_name": "Formula 1 Practice",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782473100,
+                "start_time_local": "26 Jun 2026, 05:25 PM",
                 "countdown_seconds": null
             }
         },
@@ -561,6 +676,29 @@
             }
         },
         {
+            "match_id": 1629497375,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Spielberg, Austria",
+            "slug": "spielberg-austria-1629497375",
+            "status": "NS",
+            "league": {
+                "league_name": "FIA Formula 3 Championship Qualifying",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782478800,
+                "start_time_local": "26 Jun 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629494798,
             "sport_name": "MMA",
             "sport_id": 17,
@@ -580,6 +718,29 @@
             "timing": {
                 "start_time_timestamp": 1782478800,
                 "start_time_local": "26 Jun 2026, 07:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629497376,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Spielberg, Austria",
+            "slug": "spielberg-austria-1629497376",
+            "status": "NS",
+            "league": {
+                "league_name": "FIA Formula 2 Championship Qualifying",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782482100,
+                "start_time_local": "26 Jun 2026, 07:55 PM",
                 "countdown_seconds": null
             }
         },
@@ -607,6 +768,29 @@
             }
         },
         {
+            "match_id": 1629497377,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Austrian Grand Prix 2026 - Practice 2",
+            "slug": "austrian-grand-prix-2026-practice-2-1629497377",
+            "status": "NS",
+            "league": {
+                "league_name": "Formula 1 Practice",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782486000,
+                "start_time_local": "26 Jun 2026, 09:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629494800,
             "sport_name": "MMA",
             "sport_id": 17,
@@ -626,6 +810,29 @@
             "timing": {
                 "start_time_timestamp": 1782489600,
                 "start_time_local": "26 Jun 2026, 10:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629497378,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "title": "Spielberg, Austria",
+            "slug": "spielberg-austria-1629497378",
+            "status": "NS",
+            "league": {
+                "league_name": "Porsche Mobil 1 Supercup Practice",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782491400,
+                "start_time_local": "26 Jun 2026, 10:30 PM",
                 "countdown_seconds": null
             }
         },
@@ -745,29 +952,6 @@
             }
         },
         {
-            "match_id": 1489413,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Cape Verde Islands vs Saudi Arabia",
-            "slug": "cape-verde-islands-vs-saudi-arabia-1489413",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Cape Verde Islands",
-                "away_name": "Saudi Arabia",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cape_Verde_Islands_VS_Saudi_Arabia_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782518400,
-                "start_time_local": "27 Jun 2026, 06:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1489417,
             "sport_name": "Football",
             "sport_id": 1,
@@ -783,6 +967,29 @@
                 "home_name": "Uruguay",
                 "away_name": "Spain",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782518400,
+                "start_time_local": "27 Jun 2026, 06:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1489413,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Cape Verde Islands vs Saudi Arabia",
+            "slug": "cape-verde-islands-vs-saudi-arabia-1489413",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Cape Verde Islands",
+                "away_name": "Saudi Arabia",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cape_Verde_Islands_VS_Saudi_Arabia_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782518400,
