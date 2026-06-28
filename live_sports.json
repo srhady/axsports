@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "05:00:51 PM 28-06-2026"
+        "last_update_time": "05:15:47 PM 28-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,43 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782730842-Kv4cPTAAP5YTi-cf15be6a7806d9910ad8010d717a0a6f515ffed1-8ab3acfa2cefbc674404a927011c9314",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782731728-Kv4cPTAAP5YTi-ea4f57db6cd935aab9a0add2ae70ed064822e224-4e75ea5e51b851a084b207f7d25b384e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=cf15be6a7806d9910ad8010d717a0a6f515ffed1&x-sign=11acaebcf832c021a951b1c54ecf8309&x-time=1782644400",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=ea4f57db6cd935aab9a0add2ae70ed064822e224&x-sign=f45a338708ce24a351e5fe2d18eef01c&x-time=1782645300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "match_id": 1629495309,
+            "sport_name": "Auto Racing",
+            "sport_id": 15,
+            "slug": "eko-acropolis-rally-greece-stage-17-1629495309",
+            "title": "EKO Acropolis Rally Greece: Stage 17",
+            "status": "LIVE",
+            "league": {
+                "league_name": "WRC",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Unknown",
+                "away_name": "Unknown",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782644400,
+                "start_time_local": "28 Jun 2026, 05:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "161358",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161358/720p/chunks.m3u8?is_vip=false&token=ea4f57db6cd935aab9a0add2ae70ed064822e224&x-sign=c60c8d30aa77e08f5e61096c955ae7a9&x-time=1782645300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,22 +96,19 @@
             "streams": [
                 {
                     "server_name": "263",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=cf15be6a7806d9910ad8010d717a0a6f515ffed1&x-sign=4a20077bfc7d818e214097bea3499b87&x-time=1782644400",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=ea4f57db6cd935aab9a0add2ae70ed064822e224&x-sign=207cca5b990840a769c69de155b59798&x-time=1782645300",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 32,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629495310,
             "sport_name": "Cycling",
             "sport_id": 20,
-            "title": "Sabinanigo Men",
             "slug": "sabinanigo-men-1629495310",
-            "status": "NS",
+            "title": "Sabinanigo Men",
+            "status": "LIVE",
             "league": {
                 "league_name": "Unknown League",
                 "league_logo": ""
@@ -94,10 +121,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782646200,
-                "start_time_local": "28 Jun 2026, 05:30 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 Jun 2026, 05:30 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "1419",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=ea4f57db6cd935aab9a0add2ae70ed064822e224&x-sign=bc91f2bf7f9d1170ba2ae48667c25b60&x-time=1782645300",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 31,
+    "upcoming_matches": [
         {
             "match_id": 1629495311,
             "sport_name": "Auto Racing",
