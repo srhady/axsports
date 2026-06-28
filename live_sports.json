@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:45:46 PM 28-06-2026"
+        "last_update_time": "02:01:00 PM 28-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782719131-Kv4cPTAAP5YTi-c4c258a4f28d02420e1156b0a3b0e5fbe39748c0-d5806bf1993cde504016a5a6037f8608",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782720041-Kv4cPTAAP5YTi-06dd40f2fcb8eacde5312905a35fe2b54727a176-593d102eced52e37b143e3abcc54067e",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=c4c258a4f28d02420e1156b0a3b0e5fbe39748c0&x-sign=b6fcf4d95202c9b7a39d0ff77105124b&x-time=1782632700",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=06dd40f2fcb8eacde5312905a35fe2b54727a176&x-sign=83420482d4158b57f0f17e3a2f83959e&x-time=1782633600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -66,7 +66,7 @@
             "streams": [
                 {
                     "server_name": "208",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=c4c258a4f28d02420e1156b0a3b0e5fbe39748c0&x-sign=99c05f164fe6482c1c2f9c20937b6966&x-time=1782632700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=06dd40f2fcb8eacde5312905a35fe2b54727a176&x-sign=236fbaf55f37ed17885e466933e26cd5&x-time=1782633600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -96,22 +96,19 @@
             "streams": [
                 {
                     "server_name": "450",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=c4c258a4f28d02420e1156b0a3b0e5fbe39748c0&x-sign=92afd05e8be740738eca0c9c200718f7&x-time=1782632700",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=06dd40f2fcb8eacde5312905a35fe2b54727a176&x-sign=1e9fc28fb1964aaa879781b8d448fa4a&x-time=1782633600",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 37,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629499484,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Spielberg, Austria",
             "slug": "spielberg-austria-1629499484",
-            "status": "NS",
+            "title": "Spielberg, Austria",
+            "status": "LIVE",
             "league": {
                 "league_name": "FIA Formula 2 Championship Feature Race",
                 "league_logo": ""
@@ -124,10 +121,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782633900,
-                "start_time_local": "28 Jun 2026, 02:05 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 Jun 2026, 02:05 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "263",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=06dd40f2fcb8eacde5312905a35fe2b54727a176&x-sign=c57ae7f917e89102902256f7ebcfd617&x-time=1782633600",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 36,
+    "upcoming_matches": [
         {
             "match_id": 1629495304,
             "sport_name": "Auto Racing",
