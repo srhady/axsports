@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:15:31 PM 28-06-2026"
+        "last_update_time": "11:31:22 PM 28-06-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782753327-Kv4cPTAAP5YTi-90503c561a2761405ecdab2224952f09bdebb65f-973a3bdb80bfa46f4dd9ffea488bc728",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782754242-Kv4cPTAAP5YTi-4182750c83af819a0a3f97ddf9ed13065cf8b609-fdc385ce538d37639e8eeac3eb4098d6",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=90503c561a2761405ecdab2224952f09bdebb65f&x-sign=294f1a4b00285e185b4336829688a0f7&x-time=1782666900",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=942a5f25a472a3d468d284a7a973ffea&x-time=1782667800",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 41,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629499834,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Washington Nationals vs Baltimore Orioles",
             "slug": "washington-nationals-vs-baltimore-orioles-1629499834",
-            "status": "NS",
+            "title": "Washington Nationals vs Baltimore Orioles",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -64,17 +61,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668100,
-                "start_time_local": "28 Jun 2026, 11:35 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:35 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55835",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=c654747e42f6741bba62d6bad9bb036d&x-time=1782667800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499836,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Texas Rangers vs Toronto Blue Jays",
             "slug": "texas-rangers-vs-toronto-blue-jays-1629499836",
-            "status": "NS",
+            "title": "Texas Rangers vs Toronto Blue Jays",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -87,17 +91,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668100,
-                "start_time_local": "28 Jun 2026, 11:35 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:35 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55837",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=02c31ff177f80cb5056cad78682f74f3&x-time=1782667800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499835,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Cincinnati Reds vs Pittsburgh Pirates",
             "slug": "cincinnati-reds-vs-pittsburgh-pirates-1629499835",
-            "status": "NS",
+            "title": "Cincinnati Reds vs Pittsburgh Pirates",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -110,17 +121,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668100,
-                "start_time_local": "28 Jun 2026, 11:35 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:35 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55836",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=c3911a21aed14c40bb671f5fbd6d393a&x-time=1782667800",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499838,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Seattle Mariners vs Cleveland Guardians",
             "slug": "seattle-mariners-vs-cleveland-guardians-1629499838",
-            "status": "NS",
+            "title": "Seattle Mariners vs Cleveland Guardians",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -133,17 +151,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668400,
-                "start_time_local": "28 Jun 2026, 11:40 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:40 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55839",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=66e0555af93db8588f958ffa7a0fd70e&x-time=1782667860",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499837,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Houston Astros vs Detroit Tigers",
             "slug": "houston-astros-vs-detroit-tigers-1629499837",
-            "status": "NS",
+            "title": "Houston Astros vs Detroit Tigers",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -156,17 +181,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668400,
-                "start_time_local": "28 Jun 2026, 11:40 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:40 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55838",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=f1f07a9bc70de56c8fc1ba7f2f480c1d&x-time=1782667860",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499840,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Arizona Diamondbacks vs Tampa Bay Rays",
             "slug": "arizona-diamondbacks-vs-tampa-bay-rays-1629499840",
-            "status": "NS",
+            "title": "Arizona Diamondbacks vs Tampa Bay Rays",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -179,17 +211,24 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668400,
-                "start_time_local": "28 Jun 2026, 11:40 PM",
-                "countdown_seconds": null
-            }
+                "start_time_local": "28 Jun 2026, 11:40 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55840",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=1a00a0120df34c7425995913df5c32fc&x-time=1782667860",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "match_id": 1629499839,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Philadelphia Phillies vs New York Mets",
             "slug": "philadelphia-phillies-vs-new-york-mets-1629499839",
-            "status": "NS",
+            "title": "Philadelphia Phillies vs New York Mets",
+            "status": "LIVE",
             "league": {
                 "league_name": "MLB",
                 "league_logo": ""
@@ -202,10 +241,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782668400,
-                "start_time_local": "28 Jun 2026, 11:40 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 Jun 2026, 11:40 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "55841",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55841/720p/chunks.m3u8?is_vip=false&token=4182750c83af819a0a3f97ddf9ed13065cf8b609&x-sign=491a180d8ab468ba72ce790a6ba5c108&x-time=1782667860",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 34,
+    "upcoming_matches": [
         {
             "match_id": 1629499843,
             "sport_name": "Baseball",
