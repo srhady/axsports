@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "08:30:55 PM 28-06-2026"
+        "last_update_time": "08:45:48 PM 28-06-2026"
     },
     "live_matches": [
         {
@@ -30,7 +30,7 @@
             "streams": [
                 {
                     "server_name": "263",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=66141c5e778751882e0a524c66b0239366a2e272&x-sign=fd0ec128e20f8d61799a0ca2f2a035c5&x-time=1782657000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/263/720p/chunks.m3u8?is_vip=false&token=dfb05aad8d2a44f9465388f9fc2eab23e4593868&x-sign=55765f4cf646c47e11f1eb9f4155eb1f&x-time=1782657900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -60,7 +60,7 @@
             "streams": [
                 {
                     "server_name": "1419",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=66141c5e778751882e0a524c66b0239366a2e272&x-sign=f68af2d82a4974b431b41fffae2fc9c4&x-time=1782657000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=dfb05aad8d2a44f9465388f9fc2eab23e4593868&x-sign=02e5927cc7f9419d51fa0785b7c206bb&x-time=1782657900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -90,28 +90,25 @@
             "streams": [
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782743450-Kv4cPTAAP5YTi-66141c5e778751882e0a524c66b0239366a2e272-ae7ef1b66a6683cf2825d9de770c6f76",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1782744340-Kv4cPTAAP5YTi-dfb05aad8d2a44f9465388f9fc2eab23e4593868-d29b6d14be39e3004fa88f2ba7209672",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "17",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=66141c5e778751882e0a524c66b0239366a2e272&x-sign=f23f1fa89e2450b8480bb6413bc447cf&x-time=1782657000",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=dfb05aad8d2a44f9465388f9fc2eab23e4593868&x-sign=d0bd1feaca90e64cfba1e6e4583c4d77&x-time=1782657900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 30,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629495313,
             "sport_name": "Auto Racing",
             "sport_id": 15,
-            "title": "Race Day Part 2: Portugal",
             "slug": "race-day-part-2-portugal-1629495313",
-            "status": "NS",
+            "title": "Race Day Part 2: Portugal",
+            "status": "LIVE",
             "league": {
                 "league_name": "MXGP",
                 "league_logo": ""
@@ -124,10 +121,20 @@
             },
             "timing": {
                 "start_time_timestamp": 1782658800,
-                "start_time_local": "28 Jun 2026, 09:00 PM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "28 Jun 2026, 09:00 PM"
+            },
+            "streams": [
+                {
+                    "server_name": "161357",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=dfb05aad8d2a44f9465388f9fc2eab23e4593868&x-sign=80667951271049e56b6932d8f64910af&x-time=1782657900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 29,
+    "upcoming_matches": [
         {
             "match_id": 1629495314,
             "sport_name": "Volleyball",
