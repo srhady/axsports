@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "07:00:51 PM 29-06-2026"
+        "last_update_time": "07:15:39 PM 29-06-2026"
     },
     "live_matches": [
         {
@@ -30,22 +30,19 @@
             "streams": [
                 {
                     "server_name": "490",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=f9dfcd5abc82a547c5ee366b2ac63abc46fd2b12&x-sign=c74b435bc30b28b10f76df9f25a2b6b9&x-time=1782738000",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=a738bf8d1e28a1a2c5c402e498144ec73dc8f28e&x-sign=6cff54c7a5c0554d8c7ad5af2b94520c&x-time=1782738900",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 49,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629495334,
             "sport_name": "Basketball",
             "sport_id": 3,
-            "title": "Iran vs Syria",
             "slug": "iran-vs-syria-1629495334",
-            "status": "NS",
+            "title": "Iran vs Syria",
+            "status": "LIVE",
             "league": {
                 "league_name": "WC Qualification Asia",
                 "league_logo": ""
@@ -58,33 +55,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1782739800,
-                "start_time_local": "29 Jun 2026, 07:30 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629500137,
-            "sport_name": "Cricket",
-            "sport_id": 19,
-            "title": "West Indies vs Sri Lanka",
-            "slug": "west-indies-vs-sri-lanka-1629500137",
-            "status": "NS",
-            "league": {
-                "league_name": "1st Test",
-                "league_logo": ""
+                "start_time_local": "29 Jun 2026, 07:30 PM"
             },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "West Indies",
-                "away_name": "Sri Lanka",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782741600,
-                "start_time_local": "29 Jun 2026, 08:00 PM",
-                "countdown_seconds": null
-            }
-        },
+            "streams": [
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1782825335-Kv4cPTAAP5YTi-a738bf8d1e28a1a2c5c402e498144ec73dc8f28e-9b45591d0ee3f5f89715640ff7e2c0c8",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "24",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=a738bf8d1e28a1a2c5c402e498144ec73dc8f28e&x-sign=982233e7c91ede60d96d748d6bcf7e88&x-time=1782738900",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 48,
+    "upcoming_matches": [
         {
             "match_id": 1629495335,
             "sport_name": "Basketball",
@@ -201,29 +191,6 @@
             }
         },
         {
-            "match_id": 1565176,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Germany vs Paraguay",
-            "slug": "germany-vs-paraguay-1565176",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Germany",
-                "away_name": "Paraguay",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Paraguay_World_Cup.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782765000,
-                "start_time_local": "30 Jun 2026, 02:30 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495340,
             "sport_name": "Football",
             "sport_id": 1,
@@ -239,6 +206,29 @@
                 "home_name": "TBA",
                 "away_name": "TBA",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782765000,
+                "start_time_local": "30 Jun 2026, 02:30 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1565176,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Germany vs Paraguay",
+            "slug": "germany-vs-paraguay-1565176",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Germany",
+                "away_name": "Paraguay",
+                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Germany_VS_Paraguay_World_Cup.jpg"
             },
             "timing": {
                 "start_time_timestamp": 1782765000,
@@ -339,6 +329,29 @@
             }
         },
         {
+            "match_id": 1629495346,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
+            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629495346",
+            "status": "NS",
+            "league": {
+                "league_name": "NPB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Hokkaido Nippon-Ham Fighters",
+                "away_name": "ORIX Buffaloes",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782810000,
+                "start_time_local": "30 Jun 2026, 03:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
             "match_id": 1629495344,
             "sport_name": "Baseball",
             "sport_id": 12,
@@ -399,29 +412,6 @@
             "teams": {
                 "home_name": "YOKOHAMA DeNA BAYSTARS",
                 "away_name": "Hiroshima Toyo Carp",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782810000,
-                "start_time_local": "30 Jun 2026, 03:00 PM",
-                "countdown_seconds": null
-            }
-        },
-        {
-            "match_id": 1629495346,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "title": "Hokkaido Nippon-Ham Fighters vs Orix Buffaloes",
-            "slug": "hokkaido-nippon-ham-fighters-vs-orix-buffaloes-1629495346",
-            "status": "NS",
-            "league": {
-                "league_name": "NPB",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Hokkaido Nippon-Ham Fighters",
-                "away_name": "ORIX Buffaloes",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
