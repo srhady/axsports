@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "11:30:47 PM 30-06-2026"
+        "last_update_time": "11:45:35 PM 30-06-2026"
     },
     "live_matches": [
         {
@@ -30,13 +30,13 @@
             "streams": [
                 {
                     "server_name": "240885",
-                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782927043-Kv4cPTAAP5YTi-f5a921f6cff171cfc5a30b565b930894dfbbab42-a5b9b7bd555bc071490ded3b7f2be40d",
+                    "play_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1782927931-Kv4cPTAAP5YTi-b2583fbeec85f8e757e2b8d2ba6c455bf83250ec-f0cb6de953f72de34a58e98d5413a466",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "240885",
-                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=f5a921f6cff171cfc5a30b565b930894dfbbab42&x-sign=ed994282a04cf89dbfe9d00717d44ad6&x-time=1782840600",
+                    "play_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=b2583fbeec85f8e757e2b8d2ba6c455bf83250ec&x-sign=c072c987d1baf913b70cafca16a518c2&x-time=1782841500",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
@@ -180,6 +180,52 @@
             "timing": {
                 "start_time_timestamp": 1782925800,
                 "start_time_local": "01 Jul 2026, 11:10 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629498721,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Detroit Tigers vs New York Yankees",
+            "slug": "detroit-tigers-vs-new-york-yankees-1629498721",
+            "status": "NS",
+            "league": {
+                "league_name": "MLB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Detroit Tigers",
+                "away_name": "New York Yankees",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782927300,
+                "start_time_local": "01 Jul 2026, 11:35 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629498720,
+            "sport_name": "Baseball",
+            "sport_id": 12,
+            "title": "Washington Nationals vs Boston Red Sox",
+            "slug": "washington-nationals-vs-boston-red-sox-1629498720",
+            "status": "NS",
+            "league": {
+                "league_name": "MLB",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Washington Nationals",
+                "away_name": "Boston Red Sox",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782927300,
+                "start_time_local": "01 Jul 2026, 11:35 PM",
                 "countdown_seconds": null
             }
         }
