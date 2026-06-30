@@ -3,7 +3,7 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "09:30:50 AM 30-06-2026"
+        "last_update_time": "09:45:40 AM 30-06-2026"
     },
     "live_matches": [
         {
@@ -30,28 +30,25 @@
             "streams": [
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782876646-Kv4cPTAAP5YTi-5aedae8c08e412e2db84fb685b6236f029fcf7b9-db663caa8c7a0a2b403c40c6d09ca177",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782877530-Kv4cPTAAP5YTi-100060db44096ff5153a672e9d6993531d2d5e8c-ef7c4e43405f688c83e48c64331e6e56",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=5aedae8c08e412e2db84fb685b6236f029fcf7b9&x-sign=37fee4428b438ce6db88dfcbe0d2b80b&x-time=1782790200",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=100060db44096ff5153a672e9d6993531d2d5e8c&x-sign=a60fbe6cbc70bfc325fb41504153c77e&x-time=1782791100",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        }
-    ],
-    "total_upcoming_matches": 44,
-    "upcoming_matches": [
+        },
         {
             "match_id": 1629495343,
             "sport_name": "Baseball",
             "sport_id": 12,
-            "title": "Oisix Niigata vs Chiba Lotte Marines",
             "slug": "oisix-niigata-vs-chiba-lotte-marines-1629495343",
-            "status": "NS",
+            "title": "Oisix Niigata vs Chiba Lotte Marines",
+            "status": "LIVE",
             "league": {
                 "league_name": "NPB Farm Leagues",
                 "league_logo": ""
@@ -64,10 +61,26 @@
             },
             "timing": {
                 "start_time_timestamp": 1782792000,
-                "start_time_local": "30 Jun 2026, 10:00 AM",
-                "countdown_seconds": null
-            }
-        },
+                "start_time_local": "30 Jun 2026, 10:00 AM"
+            },
+            "streams": [
+                {
+                    "server_name": "9",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782877536-Kv4cPTAAP5YTi-100060db44096ff5153a672e9d6993531d2d5e8c-8418792fec78344426ac23c2b5b6b3d6",
+                    "is_new_format": true,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "server_name": "9",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=100060db44096ff5153a672e9d6993531d2d5e8c&x-sign=c91820e3488a255770b3ddcc654789ed&x-time=1782791100",
+                    "is_new_format": false,
+                    "required_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        }
+    ],
+    "total_upcoming_matches": 43,
+    "upcoming_matches": [
         {
             "match_id": 1564789,
             "sport_name": "Football",
@@ -207,29 +220,6 @@
             }
         },
         {
-            "match_id": 1629495375,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "TBA vs TBA",
-            "slug": "tba-vs-tba-1629495375",
-            "status": "NS",
-            "league": {
-                "league_name": "Unknown League",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "TBA",
-                "away_name": "TBA",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782867600,
-                "start_time_local": "01 Jul 2026, 07:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1567306,
             "sport_name": "Football",
             "sport_id": 1,
@@ -244,6 +234,29 @@
             "teams": {
                 "home_name": "Mexico",
                 "away_name": "Ecuador",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782867600,
+                "start_time_local": "01 Jul 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495375,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "TBA vs TBA",
+            "slug": "tba-vs-tba-1629495375",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "TBA",
+                "away_name": "TBA",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
