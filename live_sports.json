@@ -3,45 +3,9 @@
         "name": "Asports Auto Update Playlist",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update_time": "01:00:57 PM 30-06-2026"
+        "last_update_time": "01:15:34 PM 30-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1629495342,
-            "sport_name": "Baseball",
-            "sport_id": 12,
-            "slug": "tokyo-yakult-swallows-vs-yomiuri-giants-1629495342",
-            "title": "Tokyo Yakult Swallows vs Yomiuri Giants",
-            "status": "LIVE",
-            "league": {
-                "league_name": "NPB Farm Leagues",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Tokyo Yakult Swallows",
-                "away_name": "Yomiuri Giants",
-                "combined_logo": "https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo_Yakult_Swallows_VS_Yomiuri_Giants_NPB_Farm_Leagues.jpg"
-            },
-            "timing": {
-                "start_time_timestamp": 1782790200,
-                "start_time_local": "30 Jun 2026, 09:30 AM"
-            },
-            "streams": [
-                {
-                    "server_name": "20",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1782889248-Kv4cPTAAP5YTi-437de3688e5afc80b730711857bdf11859b69cc6-1c58658417e04850493c84a1bd234544",
-                    "is_new_format": true,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "server_name": "20",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=437de3688e5afc80b730711857bdf11859b69cc6&x-sign=86c702d1c44695e7cd08b3f490453f28&x-time=1782802800",
-                    "is_new_format": false,
-                    "required_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
         {
             "match_id": 1629495343,
             "sport_name": "Baseball",
@@ -66,44 +30,21 @@
             "streams": [
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782889254-Kv4cPTAAP5YTi-437de3688e5afc80b730711857bdf11859b69cc6-967042a97af856233bbee268ccba2a1e",
+                    "play_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1782890130-Kv4cPTAAP5YTi-c2b5a0df1cd8a72c35f58e347a34c89dd8a48860-ac0ffe620e04ab0b2ca335231a0a4890",
                     "is_new_format": true,
                     "required_referer": "https://iframe.rumsport10.live/"
                 },
                 {
                     "server_name": "9",
-                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=437de3688e5afc80b730711857bdf11859b69cc6&x-sign=e2cbf00ad17842c4e37eb958a433dda5&x-time=1782802800",
+                    "play_url": "https://livecdn-bp-livestream.rumsport7.live/stream/9/chunks.m3u8?is_vip=false&token=c2b5a0df1cd8a72c35f58e347a34c89dd8a48860&x-sign=b3d7c7851e1ff3bfd1944740028f2e49&x-time=1782803700",
                     "is_new_format": false,
                     "required_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         }
     ],
-    "total_upcoming_matches": 45,
+    "total_upcoming_matches": 46,
     "upcoming_matches": [
-        {
-            "match_id": 1564789,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Ivory Coast vs Norway",
-            "slug": "ivory-coast-vs-norway-1564789",
-            "status": "NS",
-            "league": {
-                "league_name": "World Cup",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Ivory Coast",
-                "away_name": "Norway",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782838800,
-                "start_time_local": "30 Jun 2026, 11:00 PM",
-                "countdown_seconds": null
-            }
-        },
         {
             "match_id": 1629495371,
             "sport_name": "Football",
@@ -119,6 +60,29 @@
             "teams": {
                 "home_name": "TBA",
                 "away_name": "TBA",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782838800,
+                "start_time_local": "30 Jun 2026, 11:00 PM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1564789,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "Ivory Coast vs Norway",
+            "slug": "ivory-coast-vs-norway-1564789",
+            "status": "NS",
+            "league": {
+                "league_name": "World Cup",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "Ivory Coast",
+                "away_name": "Norway",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
@@ -174,29 +138,6 @@
             }
         },
         {
-            "match_id": 1520742,
-            "sport_name": "Football",
-            "sport_id": 1,
-            "title": "Botafogo SP vs CRB",
-            "slug": "botafogo-sp-vs-crb-1520742",
-            "status": "NS",
-            "league": {
-                "league_name": "Serie B",
-                "league_logo": ""
-            },
-            "venue": "TBA",
-            "teams": {
-                "home_name": "Botafogo SP",
-                "away_name": "CRB",
-                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
-            },
-            "timing": {
-                "start_time_timestamp": 1782860400,
-                "start_time_local": "01 Jul 2026, 05:00 AM",
-                "countdown_seconds": null
-            }
-        },
-        {
             "match_id": 1629495374,
             "sport_name": "Basketball",
             "sport_id": 3,
@@ -220,25 +161,25 @@
             }
         },
         {
-            "match_id": 1629495375,
+            "match_id": 1520742,
             "sport_name": "Football",
             "sport_id": 1,
-            "title": "TBA vs TBA",
-            "slug": "tba-vs-tba-1629495375",
+            "title": "Botafogo SP vs CRB",
+            "slug": "botafogo-sp-vs-crb-1520742",
             "status": "NS",
             "league": {
-                "league_name": "Unknown League",
+                "league_name": "Serie B",
                 "league_logo": ""
             },
             "venue": "TBA",
             "teams": {
-                "home_name": "TBA",
-                "away_name": "TBA",
+                "home_name": "Botafogo SP",
+                "away_name": "CRB",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
-                "start_time_timestamp": 1782867600,
-                "start_time_local": "01 Jul 2026, 07:00 AM",
+                "start_time_timestamp": 1782860400,
+                "start_time_local": "01 Jul 2026, 05:00 AM",
                 "countdown_seconds": null
             }
         },
@@ -257,6 +198,29 @@
             "teams": {
                 "home_name": "Mexico",
                 "away_name": "Ecuador",
+                "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
+            },
+            "timing": {
+                "start_time_timestamp": 1782867600,
+                "start_time_local": "01 Jul 2026, 07:00 AM",
+                "countdown_seconds": null
+            }
+        },
+        {
+            "match_id": 1629495375,
+            "sport_name": "Football",
+            "sport_id": 1,
+            "title": "TBA vs TBA",
+            "slug": "tba-vs-tba-1629495375",
+            "status": "NS",
+            "league": {
+                "league_name": "Unknown League",
+                "league_logo": ""
+            },
+            "venue": "TBA",
+            "teams": {
+                "home_name": "TBA",
+                "away_name": "TBA",
                 "combined_logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png"
             },
             "timing": {
